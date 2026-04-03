@@ -1,3 +1,214 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+body {
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+
+  & a {
+    font-weight: inherit;
+  }
+}
+
+.page-title {
+  font-weight: 400;
+}
+
+a {
+  font-weight: 300;
+}
+
+// Remove anchor links on headings
+h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.internal, h6 > a.internal {
+  pointer-events: none;
+  color: inherit;
+  background: none !important;
+}
+
+.anchor-icon {
+  display: none;
+}
+
+// Hide explorer completely
+.explorer {
+  display: none !important;
+}
+
+// Hide dark mode and reader mode buttons
+.darkmode, .reader-mode {
+  display: none;
+}
+
+// Separator under top menu bar
+.left > .flex-container {
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.8rem;
+  margin-bottom: 0.5rem;
+}
+
+// Column separation lines (desktop/tablet only)
+.center {
+  border-left: 1px solid var(--lightgray);
+  border-right: none;
+  padding-left: 2rem;
+  padding-right: 2rem;
+
+  @media all and (max-width: 800px) {
+    border-left: none;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+// Graph view collapsed by default
+.graph {
+  & > h3 {
+    font-size: 0.85rem;
+    font-weight: 400;
+    cursor: pointer;
+    &::before {
+      content: "◉ ";
+      font-size: 0.7rem;
+    }
+  }
+  & > .graph-outer {
+    display: none;
+  }
+  &.collapsed > .graph-outer {
+    display: block;
+    height: 250px;
+  }
+}
+
+// Mobile styles
+@media all and (max-width: 800px) {
+  // 1. Sticky top bar with cream separator
+  .sidebar.left {
+    flex-wrap: nowrap;
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 99 !important;
+    background: var(--light);
+    border-bottom: 2px solid #FFF7EB;
+    padding-bottom: 0.6rem !important;
+    margin-bottom: 0.5rem;
+    justify-content: space-between;
+  }
+
+  // Flex container: no extra growth, slight inset from edge
+  .left > .flex-container {
+    flex-grow: 0 !important;
+    padding-right: 0.75rem;
+  }
+
+  // Burger menu button
+  .burger-menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 4px;
+
+    span {
+      display: block;
+      width: 20px;
+      height: 2px;
+      background: var(--darkgray);
+      border-radius: 1px;
+      transition: all 0.2s ease;
+    }
+  }
+
+  // Search button: icon only on mobile
+  .search > .search-button {
+    border: none !important;
+    padding: 0 !important;
+    width: auto !important;
+    min-width: unset !important;
+
+    & > p {
+      display: none !important;
+    }
+
+    & svg {
+      width: 20px;
+      min-width: 20px;
+      margin: 0 !important;
+    }
+  }
+
+  .search {
+    min-width: unset !important;
+    max-width: unset !important;
+    flex-grow: 0 !important;
+    margin-right: 0.5rem;
+  }
+
+  // 2. Menu overlay
+  .sidebar-nav {
+    display: none !important;
+  }
+
+  .sidebar-nav.mobile-open {
+    display: flex !important;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 998;
+    background: var(--light);
+    flex-direction: column;
+    padding: 2rem 1.5rem;
+    overflow-y: auto;
+    box-sizing: border-box;
+  }
+
+  // Close button for overlay
+  .mobile-overlay-close {
+    align-self: flex-end;
+    background: none;
+    border: none;
+    font-size: 1.8rem;
+    cursor: pointer;
+    color: var(--darkgray);
+    margin-bottom: 1rem;
+    padding: 0;
+    line-height: 1;
+  }
+
+  // Flex container on mobile: no border (sidebar.left has it)
+  .left > .flex-container {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+}
+
+// Hide burger on desktop
+@media all and (min-width: 801px) {
+  .burger-menu {
+    display: none;
+  }
+}
+
+// Links: warm cream background, dark text
+.center a.internal:not(.tag-link):not(.folder-title) {
+  background-color: #FFF7EB;
+  color: #062123;
+  padding: 1px 4px;
+  border-radius: 3px;
+  text-decoration: none;
+  &:hover {
+    background-color: #f0e8da;
+  }
+}

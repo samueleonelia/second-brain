@@ -2,22 +2,33 @@
 
 .backlinks {
   flex-direction: column;
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
 
-  & > h3 {
-    font-size: 1rem;
-    margin: 0;
+  & > h2 {
+    font-size: 1.2rem;
+    margin: 1.5rem 0 0.5rem 0;
+    font-weight: 400;
   }
 
-  & > ul.overflow {
-    list-style: none;
-    padding: 0;
+  & > ul.backlinks-list {
+    list-style: disc;
     margin: 0.5rem 0;
-    max-height: calc(100% - 2rem);
-    overscroll-behavior: contain;
 
     & > li {
+      margin-bottom: 0.3rem;
+
       & > a {
-        background-color: transparent;
+        background-color: #FFF7EB;
+        color: #062123;
+        padding: 1px 4px;
+        border-radius: 3px;
+        text-decoration: none;
+
+        &:hover {
+          background-color: #f0e8da;
+        }
       }
     }
   }

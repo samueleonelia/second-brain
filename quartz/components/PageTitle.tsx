@@ -8,7 +8,20 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const baseDir = pathToRoot(fileData.slug!)
   return (
     <h2 class={classNames(displayClass, "page-title")}>
-      <a href={baseDir}>{title}</a>
+      <a href={baseDir}>
+        <span class="page-title-text">{title}</span>
+        <svg class="page-title-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="6" cy="6" r="2.5" />
+          <circle cx="18" cy="6" r="2.5" />
+          <circle cx="18" cy="18" r="2.5" />
+          <circle cx="6" cy="18" r="2.5" />
+          <circle cx="12" cy="12" r="2" />
+          <line x1="8" y1="7.5" x2="10.5" y2="10.5" />
+          <line x1="13.5" y1="10.5" x2="16" y2="7.5" />
+          <line x1="13.5" y1="13.5" x2="16" y2="16.5" />
+          <line x1="8" y1="16.5" x2="10.5" y2="13.5" />
+        </svg>
+      </a>
     </h2>
   )
 }
@@ -18,6 +31,20 @@ PageTitle.css = `
   font-size: 1.75rem;
   margin: 0;
   font-family: var(--titleFont);
+}
+.page-title-icon {
+  display: none;
+}
+@media all and (max-width: 800px) {
+  .page-title-text {
+    display: none;
+  }
+  .page-title-icon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+  }
 }
 `
 

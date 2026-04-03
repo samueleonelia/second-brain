@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npx quartz build",
+  "outputDirectory": "public",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/robots.txt", "destination": "/static/robots.txt" }
+  ]
+}
