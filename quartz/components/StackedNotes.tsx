@@ -377,10 +377,28 @@ document.addEventListener("nav", function stackInit() {
     }
   }
 
-  // On initial load of the homepage
+  // On initial page load, restore stacked state
   const initialSlug = document.body.getAttribute("data-slug") || ""
   const isHomepage = window.location.pathname === "/" || window.location.pathname === "/index"
-  if ((initialSlug === "index" || isHomepage) && !new URLSearchParams(window.location.search).has("stack")) {
+  const stackParam = new URLSearchParams(window.location.search).get("stack")
+
+  if (stackParam && !stackIsMobile()) {
+    // Restore dual pane from ?stack= parameter
+    const els = stackGetElements()
+    if (els.paneLeft && els.paneRight) {
+      stackFetchPage("/" + stackParam).then(data => {
+        if (!data || !els.paneLeft || !els.paneRight) return
+        els.paneRight.querySelector(".pane-content").innerHTML = data.content
+        els.paneRight.setAttribute("data-slug", data.slug)
+        els.paneLeft.classList.remove("single")
+        els.paneLeft.classList.add("dual")
+        els.paneRight.classList.remove("hidden")
+        els.paneRight.classList.add("dual")
+        stackState = "DUAL"
+        stackNotifyContent()
+      })
+    }
+  } else if ((initialSlug === "index" || isHomepage) && !stackParam) {
     if (stackIsMobile()) {
       // Mobile: show Index as page, Now as slip
       const els = stackGetElements()
@@ -388,7 +406,7 @@ document.addEventListener("nav", function stackInit() {
         stackSlipTitle = "now"
         stackSlipSlug = "now"
         els.slipTitleEl.textContent = "now"
-        els.slip.setAttribute("data-slug", "Now")
+        els.slip.setAttribute("data-slug", "now")
         els.slip.classList.remove("hidden")
       }
     } else {
