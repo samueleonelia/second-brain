@@ -152,7 +152,7 @@ async function stackLoadHomeDual() {
   if (!els.paneLeft || !els.paneRight || !els.slip) return
 
   const [nowData, indexData] = await Promise.all([
-    stackFetchPage("/Now"),
+    stackFetchPage("/now"),
     stackFetchPage("/"),
   ])
   if (!nowData || !indexData) return
@@ -171,9 +171,9 @@ async function stackLoadHomeDual() {
   stackSlipTitle = ""
   stackState = "DUAL"
   history.pushState(
-    { stackState: "DUAL", leftSlug: "Now", rightSlug: indexData.slug, slipSlug: "", slipTitle: "" },
+    { stackState: "DUAL", leftSlug: "now", rightSlug: indexData.slug, slipSlug: "", slipTitle: "" },
     "",
-    "/Now?stack=" + encodeURIComponent(indexData.slug)
+    "/now?stack=" + encodeURIComponent(indexData.slug)
   )
   stackNotifyContent()
 }
@@ -318,7 +318,7 @@ function stackClickHandler(e) {
 
   if (stackIsMobile()) {
     if (isHomeLink) {
-      stackMobileNav(new URL("/Now", window.location.origin))
+      stackMobileNav(new URL("/now", window.location.origin))
     } else {
       stackMobileNav(resolvedUrl)
     }
@@ -379,14 +379,14 @@ document.addEventListener("nav", function stackInit() {
 
   // On initial load of the homepage
   const initialSlug = document.body.getAttribute("data-slug") || ""
-  if ((initialSlug === "index" || initialSlug === "Now") && !new URLSearchParams(window.location.search).has("stack")) {
+  if ((initialSlug === "index" || initialSlug === "now") && !new URLSearchParams(window.location.search).has("stack")) {
     if (stackIsMobile()) {
       // Mobile: show Index as page, Now as slip
       const els = stackGetElements()
       if (els.slip && els.slipTitleEl) {
-        stackSlipTitle = "Now"
-        stackSlipSlug = "Now"
-        els.slipTitleEl.textContent = "Now"
+        stackSlipTitle = "now"
+        stackSlipSlug = "now"
+        els.slipTitleEl.textContent = "now"
         els.slip.setAttribute("data-slug", "Now")
         els.slip.classList.remove("hidden")
       }

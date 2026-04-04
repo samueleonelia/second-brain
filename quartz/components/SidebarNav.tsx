@@ -3,7 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 const SidebarNav: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
   return (
     <nav class="sidebar-nav">
-      <a href="/Now" class="sidebar-nav-item">
+      <a href="/now" class="sidebar-nav-item">
         now
       </a>
       <a href="/" class="sidebar-nav-item">
