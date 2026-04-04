@@ -5,9 +5,6 @@ creator: harry-dry
 sources:
   - https://growthinreverse.com/marketing-examples/
   - https://jakobgreenfeld.com/harry
-themes:
-  - remove-all-friction-from-growth
-  - distribution-over-product
 tags:
   - conversion-optimization
   - email-signups

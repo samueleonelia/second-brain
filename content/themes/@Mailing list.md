@@ -16,6 +16,7 @@ created: 2026-04-01
       1. [[The right topic for a lead magnet]]
       2. [[Small lead magnet]]
       3. [[Looong lead magnet]]
+      4. [[Structure of an effective lead magnet]]
 4. [[First email, first offer]]
 5. [[Best paid autoresponder]]
 6. [[@How can I become a writer]]

@@ -44,4 +44,3 @@ Don't lead with the pitch. Lead with the relationship. Your biggest critics have
 - [[Cold-Call Desensitization - 100 Random Phone Calls a Day]] -- overcoming fear of rejection
 - [[Never Tell Anyone What to Do]] -- influence through understanding, not orders
 - [[The HubSpot Deal - Radical Transparency as a Negotiation Weapon]] -- leading with honesty to build trust
-- [[Facebook Group Stealth Strategy - Zero Branding, Maximum Reach]] -- Harry earned trust in hostile Facebook groups by contributing value before ever mentioning his site

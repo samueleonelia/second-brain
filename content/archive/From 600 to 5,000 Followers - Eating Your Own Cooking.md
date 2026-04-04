@@ -41,4 +41,3 @@ If you're selling a product for creators, be a creator yourself. Use your own pr
 - [[The Advantage of Being Under-Leveled]] -- A low starting point gives you freedom to experiment without expectations
 - [[15 Years of Reading Before Overnight Success]] -- Invisible preparation meeting a platform at the right moment
 - [[Claude Code - The Side Project That Got 2 Likes]] -- Using your own product publicly as proof that it works
-- [[People Buy From People - Rebranding to Harry's Marketing Examples]] -- Harry's rebrand from faceless to personal made sharing about the person, not just the product

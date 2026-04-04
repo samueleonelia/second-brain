@@ -7,9 +7,6 @@ sources:
   - https://podcast.everyonehatesmarketers.com/episodes/3-steps-to-repurposing-your-content-for-every-channel/transcript
   - https://www.indiehackers.com/post/i-m-harry-dry-i-left-uni-failed-with-a-few-startups-finally-got-traction-and-left-my-job-to-work-on-marketing-examples-ama-aef7149b11
   - https://www.indiehackers.com/podcast/115-quick-chat-with-harry-dry
-themes:
-  - quality-over-quantity
-  - one-multiplier-skill
 tags:
   - copywriting
   - writing-process

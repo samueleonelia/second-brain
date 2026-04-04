@@ -38,4 +38,3 @@ The fastest way to monetize an audience is aggressive sponsorships. The fastest 
 - [[The HubSpot Deal - Radical Transparency as a Negotiation Weapon]] -- trust-first approach to business deals
 - [[Building in Public - The Competitor Betrayal That Backfired]] -- transparency as brand strategy
 - [[Don't Watch the Competition]] -- staying true to your own approach
-- [[Yeezy Dating - Viral With No Plan]] -- the Kanye dating project led directly to Harry's first Email Octopus sponsorship, the origin of his sponsor relationships

@@ -7,9 +7,6 @@ sources:
   - https://indiebites.com/2/transcript
   - https://www.verygoodcopy.com/microinterviews-2/harry-dry
   - https://podcast.everyonehatesmarketers.com/episodes/3-steps-to-repurposing-your-content-for-every-channel/transcript
-themes:
-  - content-ideas-from-unexpected-sources
-  - one-multiplier-skill
 tags:
   - curation
   - copywriting

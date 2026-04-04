@@ -43,4 +43,3 @@ Success without purpose feels hollow. Yannick had the income, the car, the clien
 - [[Moved to Rural Japan for Love]] -- Success on paper but searching for deeper meaning, leading to a leap into the unknown
 - [[Founder Loneliness - Hampton's Origin Story]] -- Achieving traditional success markers but feeling unfulfilled underneath
 - [[Only Build What Passes Three Filters]] -- Using "is it fun?" as the first filter for what to work on, not just what pays well
-- [[Risk Killer, Not Risk Taker - Harry Dry's Crowdform Exit]] -- contrast: Harry left a comfortable job strategically rather than out of unhappiness

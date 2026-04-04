@@ -36,5 +36,3 @@ Sometimes the highest-leverage change is the simplest one. Most creators obsess 
 - [[The One-Click Affiliate Button]] -- tiny change, outsized impact
 - [[The Undux Bicycle Campaign]] -- simple tactic outperforming complex ones
 - [[Sam's List - From a Tweet to $99.5K in Year One]] -- small action leading to unexpected results
-- [[Exit Intent Popups - 50 Percent of All Signups]] -- Harry's popups generated 50% of all signups, another small UI element with outsized conversion impact
-- [[People Buy From People - Rebranding to Harry's Marketing Examples]] -- adding his face and name to the brand built trust, same principle as the profile picture change

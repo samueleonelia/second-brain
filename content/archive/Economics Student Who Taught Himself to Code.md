@@ -5,9 +5,6 @@ creator: harry-dry
 sources:
   - https://www.nocsdegree.com/interviews-kanye-datingapp-creator-explains-learning-to-code-no-csdegree/
   - https://www.indiehackers.com/podcast/115-quick-chat-with-harry-dry
-themes:
-  - no-formal-credentials-needed
-  - one-multiplier-skill
 tags:
   - self-taught
   - coding

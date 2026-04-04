@@ -52,4 +52,3 @@ The best products get adopted in ways you never planned. If your audience starts
 - [[Latent Demand - How Facebook Marketplace Was Born]] -- unexpected adoption as market signal
 - [[American Pickers Store - Where the Hot Dog Idea Was Born]] -- spotting demand in plain sight
 - [[The Manager Who Codes Again]] -- non-traditional users adopting tools
-- [[Economics Student Who Taught Himself to Code]] -- Harry also self-taught his way into a technical skill set from a non-technical background, same pattern of unconventional learner becoming builder

@@ -34,4 +34,3 @@ Curation of your public work is as important as creation. Not everything you mak
 
 - [[The 80% Kill Rate on Prototypes]] -- Ruthlessly culling output so only the best work survives, applied to product prototypes instead of tweets
 - [[Unshipping Features at Instagram]] -- Removing launched features that do not meet the quality bar, the same curation principle applied to software products
-- [[One Great Article Is Worth 50x Average]] -- same ruthless quality bar: two bad articles and subscriber rate drops from 45% to 25%

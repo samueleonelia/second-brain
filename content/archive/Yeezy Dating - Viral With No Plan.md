@@ -7,9 +7,6 @@ sources:
   - https://podcast.everyonehatesmarketers.com/episodes/3-steps-to-repurposing-your-content-for-every-channel/transcript
   - https://www.vice.com/en/article/i-signed-up-for-the-kanye-dating-site-and-swiped-right-into-weird-mystery/
   - https://indiebites.com/2/transcript
-themes:
-  - initial-reception-means-nothing
-  - side-projects-as-career-accelerators
 tags:
   - viral
   - dating-app

@@ -15,9 +15,15 @@ async function mouseEnterHandler(
   }
 
   async function setPosition(popoverElement: HTMLElement) {
+    const pane = link.closest(".stacked-pane")
+    const boundary = pane && pane.classList.contains("dual") ? pane : undefined
     const { x, y } = await computePosition(link, popoverElement, {
       strategy: "fixed",
-      middleware: [inline({ x: clientX, y: clientY }), shift(), flip()],
+      middleware: [
+        inline({ x: clientX, y: clientY }),
+        shift({ boundary, padding: 8 }),
+        flip({ boundary }),
+      ],
     })
     Object.assign(popoverElement.style, {
       transform: `translate(${x.toFixed()}px, ${y.toFixed()}px)`,

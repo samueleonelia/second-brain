@@ -38,5 +38,3 @@ AI makes it easy to produce content. It makes it harder to produce distinctive c
 - [[Don't Watch the Competition]] -- focus on your own voice
 - [[Smart Threads and Dumb Memes - The Barbell Strategy]] -- distinctive content strategy
 - [[Only Build What Passes Three Filters]] -- filtering for uniqueness
-- [[People Buy From People - Rebranding to Harry's Marketing Examples]] -- Harry found that 50% of shares happened because people knew him, not just the content, proving personal voice drives distribution
-- [[Your Emails Should Sound Like You're Messaging Your Mom]] -- write like a human, not a brand; the stranger test in email form

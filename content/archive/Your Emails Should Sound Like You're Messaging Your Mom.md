@@ -5,9 +5,6 @@ creator: harry-dry
 sources:
   - https://podcast.everyonehatesmarketers.com/episodes/3-steps-to-repurposing-your-content-for-every-channel/transcript
   - https://indiebites.com/2/transcript
-themes:
-  - authenticity-over-algorithm
-  - distribution-over-product
 tags:
   - copywriting
   - email-marketing

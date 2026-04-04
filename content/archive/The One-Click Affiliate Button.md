@@ -45,4 +45,3 @@ Remove every friction point from your growth channels. One click instead of five
 - [[The Ambassador Program - 300K Subscribers from 4,000 Superfans]] -- Tiered referral systems at scale turning superfans into a distribution army
 - [[The Undux Bicycle Campaign]] -- Making distribution personal and easy so others want to spread the word
 - [[The Content Stack - Memes > Threads > Newsletter > Product]] -- Layered growth channels that feed into each other
-- [[Exit Intent Popups - 50 Percent of All Signups]] -- Harry removed friction from signups with one UI element that captured 50% of all subscribers

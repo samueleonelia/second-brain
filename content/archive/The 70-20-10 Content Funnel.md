@@ -41,5 +41,3 @@ Content without a funnel is a hobby. Content with a funnel is a business. The 70
 - [[Smart Threads and Dumb Memes - The Barbell Strategy]] -- deliberate mix of content types
 - [[Trends.co - $30K on Day One, $1.2M at Launch]] -- converting free audience to paid
 - [[Tripled Revenue Without Writing a Line of Code]] -- monetizing existing audience
-- [[The Growth Loop - Newsletter Feeds Twitter Feeds Newsletter]] -- Harry's loop is a specific implementation of cross-platform content funneling
-- [[Exit Intent Popups - 50 Percent of All Signups]] -- conversion optimization as the multiplier on top of the content funnel

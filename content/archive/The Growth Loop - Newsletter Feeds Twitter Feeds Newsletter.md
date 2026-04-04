@@ -6,9 +6,6 @@ sources:
   - https://growthinreverse.com/marketing-examples/
   - https://growthinreverse.com/harrys-growth-loops/
   - https://podcast.everyonehatesmarketers.com/episodes/3-steps-to-repurposing-your-content-for-every-channel/transcript
-themes:
-  - distribution-over-product
-  - remove-all-friction-from-growth
 tags:
   - growth-loop
   - newsletter

@@ -41,4 +41,3 @@ Your competitive advantage isn't your strongest single skill. It's the intersect
 - [[Hand-Copying Sales Letters - The Unfair Advantage]] -- One deep skill serving as the foundation for everything that follows, showing how a single obsessive practice becomes an unfair advantage
 - [[Someone Should Write About This]] -- Unusual domain expertise creating an opportunity that no one else could see or fill
 - [[The Mystery CEO Call]] -- Transferable skills from a previous career becoming the hidden advantage in a new one
-- [[Economics Student Who Taught Himself to Code]] -- Harry's rare intersection of coding, design, and marketing writing created a one-person moat, same pattern of unusual skill combination

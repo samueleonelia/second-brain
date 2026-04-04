@@ -40,4 +40,3 @@ You don't need millions of fans. You need 4,000 people who care enough to share.
 - [[The Undux Bicycle Campaign]] -- Boris used personalized distribution to reach users through channels they already trusted
 - [[The Reddit-First Growth Strategy]] -- The organic Reddit growth stage that preceded and enabled the ambassador program
 - [[The Content Stack - Memes > Threads > Newsletter > Product]] -- Trung built layered audience funnels where each layer feeds the next, similar to Sam's tiered approach
-- [[The Growth Loop - Newsletter Feeds Twitter Feeds Newsletter]] -- Harry used newsletter subscribers as amplifiers for Twitter threads, a lighter version of the ambassador model

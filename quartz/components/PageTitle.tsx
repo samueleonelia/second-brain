@@ -5,10 +5,9 @@ import { i18n } from "../i18n"
 
 const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
-  const baseDir = pathToRoot(fileData.slug!)
   return (
     <h2 class={classNames(displayClass, "page-title")}>
-      <a href={baseDir}>
+      <a href="/">
         <span class="page-title-text">{title}</span>
         <svg class="page-title-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
           <circle cx="6" cy="6" r="2.5" />
@@ -34,17 +33,6 @@ PageTitle.css = `
 }
 .page-title-icon {
   display: none;
-}
-@media all and (max-width: 800px) {
-  .page-title-text {
-    display: none;
-  }
-  .page-title-icon {
-    display: inline-block;
-    width: 24px;
-    height: 24px;
-    vertical-align: middle;
-  }
 }
 `
 

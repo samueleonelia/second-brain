@@ -40,4 +40,3 @@ A separate income stream while building a startup isn't a lack of focus. It's a 
 - [[The Indie Hackers Post - I'll Work for Free for 2 Months]] -- The offer he could only make because his passive income covered living expenses
 - [[Hustle Con - $6K Invested, $56K Revenue, 400 Tickets in 7 Weeks]] -- Paying yourself last and reinvesting everything back into the business
 - [[The Headlights Philosophy - No Five-Year Plans]] -- A survivable worst case enables risk-taking and long-term thinking
-- [[Risk Killer, Not Risk Taker - Harry Dry's Crowdform Exit]] -- same pattern of keeping costs minimal to make the leap survivable

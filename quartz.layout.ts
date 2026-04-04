@@ -6,19 +6,9 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
     Component.PageTitle(),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.BurgerMenu(),
-          grow: false,
-        },
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-      ],
-    }),
     Component.SidebarNav(),
+    Component.Search(),
+    Component.BurgerMenu(),
   ],
   afterBody: [Component.Backlinks(), Component.TagList(), Component.StackedNotes()],
   footer: Component.Footer({ links: {} }),

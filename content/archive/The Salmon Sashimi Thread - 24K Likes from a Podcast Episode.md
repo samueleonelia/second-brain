@@ -43,8 +43,6 @@ The most shareable content challenges assumptions your audience didn't know they
 
 ## Related
 
-- [[None of My Ideas Are Original - The Curation Method]] -- same pattern: repackaging existing information into a more compelling format
-
 - [[Reddit Comments Are Gold Mines]] -- Where Trung finds the raw material and surprising facts that fuel threads like the salmon sashimi story
 - [[Guerrilla User Research in the Cafeteria]] -- Finding valuable insights in unexpected, informal places rather than through official channels
 - [[Smart Threads and Dumb Memes - The Barbell Strategy]] -- The growth side of the barbell strategy, where deep research threads like this one drive follower acquisition

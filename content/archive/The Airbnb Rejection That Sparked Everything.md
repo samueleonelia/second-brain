@@ -41,4 +41,3 @@ Your worst rejection can be the catalyst for your best work. Sam's path from DUI
 - [[Quit Banking, Got Sued, Paid €15,000]] -- Yannick's forced exit from banking opened doors he never would have walked through voluntarily
 - [[The Rejected Pull Request]] -- Boris treated a rejected PR as useful signal rather than failure, reframing rejection as information
 - [[Sobriety as a Business Advantage]] -- The same DUI that cost Sam the Airbnb job became the trigger for the sobriety that sharpened his edge
-- [[Yeezy Dating - Viral With No Plan]] -- Harry's viral Kanye dating site failed as a product but redirected him toward Marketing Examples, same pattern of setback as springboard

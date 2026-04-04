@@ -43,4 +43,3 @@ None of these businesses lasted. That wasn't the point. Each one taught Sam a sk
 - [[Weed Review Site - First Startup at 18]] -- Boris also started with scrappy first businesses that taught more than they earned
 - [[Gaming Server Side Hustle - Paid Back the Debt in 6 Months]] -- Yannick's early gaming server hustle built skills and confidence for bigger ventures later
 - [[Hustle Con - $6K Invested, $56K Revenue, 400 Tickets in 7 Weeks]] -- Each of Sam's early projects taught something essential that fed into the next one
-- [[Yeezy Dating - Viral With No Plan]] -- Harry's Kanye dating site was a scrappy early project that failed as a product but built distribution skills and connections

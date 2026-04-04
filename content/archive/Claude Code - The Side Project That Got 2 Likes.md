@@ -53,4 +53,3 @@ Initial reception means nothing. If you built something you genuinely need, othe
 - [[15 Years of Reading Before Overnight Success]] -- patience before explosive growth
 - [[The Mystery CEO Call]] -- starting small, compounding over time
 - [[The Undux Bicycle Campaign]] -- side project becoming the main product
-- [[Yeezy Dating - Viral With No Plan]] -- contrast: Harry's side project went viral but had no plan, showing that even good initial metrics can mislead

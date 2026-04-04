@@ -39,4 +39,3 @@ The first six months of any platform are a trust-building exercise with the algo
 - [[Claude Code - The Side Project That Got 2 Likes]] -- initial reception means nothing
 - [[My First Million Nearly Died, Then Found Its Format]] -- patience before product-market fit
 - [[The Mystery CEO Call]] -- slow start, eventual payoff
-- [[First 100 Subscribers - No Silver Bullet]] -- Harry's first 100 came from dozens of tiny channels with no single breakthrough

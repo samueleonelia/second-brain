@@ -46,4 +46,3 @@ Formal credentials matter less than shipping real work. Nobody asked Boris about
 - [[Early Hustles - Moonshine, Fake YouTube, and a $50 PDF]] -- scrappy first businesses
 - [[Quit Banking, Got Sued, Paid €15,000]] -- no credentials, just doing the work
 - [[Permissionless Creation vs. Hollywood Gatekeepers]] -- building without asking permission
-- [[Economics Student Who Taught Himself to Code]] -- Harry also self-taught coding and shipped products without formal credentials or a CS degree

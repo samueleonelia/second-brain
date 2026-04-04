@@ -39,4 +39,3 @@ You don't need to see the whole road. You need to see the next 200 feet. Most cr
 - [[Just Use Common Sense - Advice to His Younger Self]] -- Boris valued simple thinking over complex planning, the same "just move forward" mindset
 - [[Compound Engineering - Only Document Mistakes]] -- Boris iterated and documented rather than planning exhaustively, letting each step inform the next
 - [[259 PRs in 30 Days, 2 Bugs - The Vanilla Setup]] -- Boris used a simple system with consistent output rather than elaborate strategy
-- [[Risk Killer, Not Risk Taker - Harry Dry's Crowdform Exit]] -- Harry drove as far as his headlights showed: negotiate down hours, get a sponsor, then quit

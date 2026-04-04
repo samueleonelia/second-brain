@@ -43,6 +43,3 @@ Sam's multiplier was writing. Not strategy. Not networking. Not funding. One ski
 - [[Someone Should Write About This]] -- Boris went deep on TypeScript expertise, and that single skill became the foundation for his career trajectory
 - [[Screenwriter + Equity Analyst + CFA = Hidden Advantage]] -- Trung combined multiple deep skills into a unique moat that no one else could replicate
 - [[The Mystery CEO Call]] -- Yannick's deep SEO skill at the agency changed his entire career direction
-- [[Economics Student Who Taught Himself to Code]] -- Harry self-taught coding, design, and marketing writing through deliberate practice, same pattern of building an unfair advantage through repetition
-- [[One Great Article Is Worth 50x Average]] -- investing extreme time per piece as a quality multiplier
-- [[70 Percent of the Work Is Visual]] -- disproportionate time investment in one craft element

@@ -38,4 +38,3 @@ The best time to quit your job isn't when you're inspired. It's when the side pr
 - [[Freelancing, Maserati, Not Happy]] -- quitting what looks good on paper
 - [[The Airbnb Rejection That Sparked Everything]] -- forced departure as catalyst
 - [[Moved to Rural Japan for Love]] -- leaving stability for the unknown
-- [[Risk Killer, Not Risk Taker - Harry Dry's Crowdform Exit]] -- Harry also quit only after traction existed, negotiating down hours before leaving entirely

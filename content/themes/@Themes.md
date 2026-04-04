@@ -7,7 +7,7 @@ created: 2026-04-01
 
 # Themes
 
-This structure note maps the 40 recurring themes across all 126 creator stories. Each theme represents a pattern or lesson that appears in multiple stories across different creators.
+This structure note maps the 40 recurring themes across all 114 creator stories. Each theme represents a pattern or lesson that appears in multiple stories across different creators.
 
 ### 1. Forced Constraints Open Doors
 When an external disruption forces you off your current path, the detour often leads somewhere better.
@@ -43,11 +43,6 @@ A great product without distribution is invisible.
 - [[Post and Ghost to Community Builder]] -- Shifted from passive posting to active community engagement
 - [[The 60-Minute Daily Engagement Circuit]] -- Systematic daily engagement routine for growth
 - [[The 70-20-10 Content Funnel]] -- Structured content mix optimized for reach and conversion
-- [[First 100 Subscribers - No Silver Bullet]] -- Dozens of tiny channels, none dominant, all compounding into the first 100
-- [[The Growth Loop - Newsletter Feeds Twitter Feeds Newsletter]] -- Cross-platform amplification loop where newsletter boosts Twitter which feeds newsletter
-- [[Facebook Group Stealth Strategy - Zero Branding, Maximum Reach]] -- Stealth distribution in 20 Facebook groups with zero branding
-- [[Exit Intent Popups - 50 Percent of All Signups]] -- Popups generated 50% of all subscribers through conversion optimization
-- [[People Buy From People - Rebranding to Harry's Marketing Examples]] -- Personal brand as distribution strategy; 50% of shares driven by the person, not the content
 
 ### 4. Quit Strategically
 Quitting is only failure if you leave with nothing.
@@ -58,7 +53,6 @@ Quitting is only failure if you leave with nothing.
 - [[Hustle Con - $6K Invested, $56K Revenue, 400 Tickets in 7 Weeks]] -- Quit the conference format and pivoted to newsletter
 - [[Moved to Rural Japan for Love]] -- Left a stable setup for an uncertain move abroad
 - [[Quit Corporate After Eight Months of Posting]] -- Quit corporate life quickly after recognizing misalignment
-- [[Risk Killer, Not Risk Taker - Harry Dry's Crowdform Exit]] -- Negotiated down from full-time to 2 days before quitting, only left when revenue existed
 
 ### 5. Earn Trust Before Pitching
 Relationships come before proposals.
@@ -68,7 +62,6 @@ Relationships come before proposals.
 - [[Never Tell Anyone What to Do]] -- Earned influence by suggesting rather than directing
 - [[The HubSpot Deal - Radical Transparency as a Negotiation Weapon]] -- Radical transparency during the acquisition built trust
 - [[Cold-Call Desensitization - 100 Random Phone Calls a Day]] -- 100 cold calls to build comfort with rejection and rapport
-- [[Facebook Group Stealth Strategy - Zero Branding, Maximum Reach]] -- Became a genuine community member before sharing content in hostile groups
 
 ### 6. Side Projects as Career Accelerators
 Work outside your main job compounds into unexpected opportunities.
@@ -80,7 +73,6 @@ Work outside your main job compounds into unexpected opportunities.
 - [[The Mystery CEO Call]] -- Finance website side project led to a CEO cold-calling him
 - [[Early Hustles - Moonshine, Fake YouTube, and a $50 PDF]] -- Early scrappy projects built entrepreneurial muscle
 - [[Kitchen X - The Food Tech Startup Before LinkedIn]] -- Food tech side project taught startup fundamentals
-- [[Yeezy Dating - Viral With No Plan]] -- Viral Kanye dating project failed as business but led to first sponsor and built distribution skills
 
 ### 7. No Formal Credentials Needed
 Shipping real work matters more than degrees.
@@ -90,7 +82,6 @@ Shipping real work matters more than degrees.
 - [[Early Hustles - Moonshine, Fake YouTube, and a $50 PDF]] -- Hustled without any formal training
 - [[Quit Banking, Got Sued, Paid €15,000]] -- Banking credentials abandoned for self-taught marketing
 - [[Three Generations of Programmers - From Punch Cards to AI]] -- Programming legacy passed down through practice, not school
-- [[Economics Student Who Taught Himself to Code]] -- Self-taught coding, design, and marketing writing with no CS degree
 
 ### 8. Underestimation as Advantage
 Low expectations give you room to experiment and over-deliver.
@@ -107,7 +98,6 @@ Don't judge a project by its launch metrics.
 - [[15 Years of Reading Before Overnight Success]] -- 15 years of invisible preparation before breakout
 - [[The Mystery CEO Call]] -- Made $4 the first month, then a CEO called
 - [[Six Months Invisible Before Traction]] -- Six months of posting with zero traction before growth kicked in
-- [[Yeezy Dating - Viral With No Plan]] -- Massive viral reception but no business model; initial metrics can mislead in both directions
 
 ### 10. One Multiplier Skill
 Go deep on one skill that powers everything.
@@ -116,9 +106,6 @@ Go deep on one skill that powers everything.
 - [[Someone Should Write About This]] -- Deep TypeScript knowledge multiplied across book, career, and credibility
 - [[Screenwriter + Equity Analyst + CFA = Hidden Advantage]] -- Rare combo of screenwriting and finance created a unique edge
 - [[The Mystery CEO Call]] -- SEO mastery became the foundation for every venture
-- [[Economics Student Who Taught Himself to Code]] -- Rare intersection of coding, design, and marketing writing enabled a one-person operation
-- [[70 Percent of the Work Is Visual]] -- 70%+ of time on visuals as the multiplier skill behind Marketing Examples
-- [[One Great Article Is Worth 50x Average]] -- Extreme time investment per piece as a quality multiplier
 
 ### 11. Watch What Users Do (Latent Demand)
 Workarounds and unexpected adoption are market signals.
@@ -180,7 +167,6 @@ Pruning and curation matter more than volume.
 - [[The 80% Kill Rate on Prototypes]] -- Killing 80% of prototypes to focus on the best 20%
 - [[Three Modes of Working With AI]] -- Choosing the right AI mode instead of using all of them
 - [[He Deletes Underperforming Tweets]] -- Deleting tweets that underperformed to curate a stronger profile
-- [[One Great Article Is Worth 50x Average]] -- Week-plus per article; two bad ones and subscriber rate drops from 45% to 25%
 
 ### 17. Permissionless Creation
 You don't need anyone's approval to build.
@@ -223,7 +209,6 @@ Discipline with basics outperforms elaborate setups.
 - [[Reddit Comments Are Gold Mines]] -- 30 minutes of Reddit daily as a simple idea generation system
 - [[The 60-Minute Daily Engagement Circuit]] -- 60-minute daily circuit instead of complex growth hacks
 - [[Sunday Was the Best Day (Data, Not Assumption)]] -- Simple data check overturned assumptions about posting times
-- [[First 100 Subscribers - No Silver Bullet]] -- No silver bullet, just dozens of small channels worked consistently
 
 ### 22. Skin in the Game
 Commitment without a safety net signals confidence.
@@ -231,7 +216,6 @@ Commitment without a safety net signals confidence.
 - [[The Indie Hackers Post - I'll Work for Free for 2 Months]] -- Offered to work free for two months to prove commitment
 - [[Hustle Con - $6K Invested, $56K Revenue, 400 Tickets in 7 Weeks]] -- Invested $6K of personal money into the first Hustle Con
 - [[Quit Banking, Got Sued, Paid €15,000]] -- Paid 15K in legal fees as the cost of commitment
-- [[Risk Killer, Not Risk Taker - Harry Dry's Crowdform Exit]] -- Minimal costs and no co-founder as deliberate skin-in-the-game management
 
 ### 23. Presenting Ideas and Persuasion
 How to pitch, frame, and get buy-in.
@@ -256,7 +240,6 @@ Where the best ideas actually come from.
 - [[The Salmon Sashimi Thread - 24K Likes from a Podcast Episode]] -- A random salmon sashimi thread went viral with 24K likes
 - [[Guerrilla User Research in the Cafeteria]] -- Cafeteria conversations surfaced unexpected product insights
 - [[Automate Your Code Reviews - The Lint Rule Spreadsheet]] -- A code review spreadsheet revealed patterns worth automating
-- [[None of My Ideas Are Original - The Curation Method]] -- All ideas sourced from existing books, campaigns, and case studies then repackaged visually
 
 ### 26. Authenticity Over Algorithm
 Create from genuine curiosity, not optimization.
@@ -265,8 +248,6 @@ Create from genuine curiosity, not optimization.
 - [[Don't Watch the Competition]] -- Ignored competitors to stay authentic to the product vision
 - [[Only Build What Passes Three Filters]] -- Three filters: fun, seven figures, unique advantage
 - [[Just Use Common Sense - Advice to His Younger Self]] -- Common sense over trend-chasing as career advice
-- [[People Buy From People - Rebranding to Harry's Marketing Examples]] -- Rebranding from faceless to personal because genuine identity drives sharing
-- [[Your Emails Should Sound Like You're Messaging Your Mom]] -- Empathy and naturalness as the default, not copywriting tricks
 
 ### 27. Traffic Without Buying Intent Is Worthless
 Vanity metrics vs. actual revenue.
@@ -275,7 +256,6 @@ Vanity metrics vs. actual revenue.
 - [[The Finance Website - €30K from Buying Intent]] -- Finance website with buying intent generated 30K euros
 - [[Latent Demand - How Facebook Marketplace Was Born]] -- Latent demand revealed the difference between traffic and intent
 - [[Sam's List - From a Tweet to $99.5K in Year One]] -- Tweet engagement with real buying intent became a product
-- [[Yeezy Dating - Viral With No Plan]] -- Massive viral traffic and press coverage but zero revenue because there was no buying intent or monetization plan
 
 ### 28. Build Assets, Not Services
 An hour on your own project earns you for years; an hour of client work earns you once.
@@ -316,8 +296,6 @@ Make it as easy as possible for people to share, sign up, and promote you.
 - [[The Ambassador Program - 300K Subscribers from 4,000 Superfans]] -- Ambassador program made promoting effortless
 - [[The Undux Bicycle Campaign]] -- Guerrilla campaign removed the friction of discovering an open-source tool
 - [[The Profile Picture That Changed Everything]] -- A simple profile picture change removed a trust barrier
-- [[Exit Intent Popups - 50 Percent of All Signups]] -- Exit intent popups captured 50% of all subscribers by removing the last friction point
-- [[The Growth Loop - Newsletter Feeds Twitter Feeds Newsletter]] -- Newsletter subscribers boost Twitter threads effortlessly, creating a frictionless cross-platform loop
 
 ### 33. Revenue Without New Features
 Sometimes the product is already good enough; what's missing is packaging.
@@ -380,4 +358,3 @@ Integrating brand partnerships into genuine content.
 - [[Sponsorships as Education, Not Ads]] -- Framed sponsorships as educational content, not ads
 - [[The HubSpot Deal - Radical Transparency as a Negotiation Weapon]] -- Radical transparency made the HubSpot partnership feel authentic
 - [[Rick Rubin's Lesson - Create Without the Audience in Mind]] -- Creating without audience in mind preserved sponsor-content integrity
-- [[Yeezy Dating - Viral With No Plan]] -- The Kanye dating project led directly to Harry's first Email Octopus sponsorship deal

@@ -41,4 +41,3 @@ When AI lets you produce 10x more drafts, your editing taste becomes your compet
 - [[Unshipping Features at Instagram]] -- pruning as quality strategy
 - [[He Deletes Underperforming Tweets]] -- curating public output
 - [[Three Modes of Working With AI]] -- same quality bar regardless of source
-- [[One Great Article Is Worth 50x Average]] -- week-plus per article, killing anything that doesn't meet the bar

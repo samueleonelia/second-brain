@@ -37,4 +37,3 @@ Your "failed" first path often gives you the unusual combination of skills that 
 - [[Broke Both Arms, Discovered TypeScript]] -- A broken body forced a career detour that became the destination, just like Trung's academic failure redirected him toward storytelling
 - [[The Airbnb Rejection That Sparked Everything]] -- A clear rejection redirected energy toward something better, mirroring how Trung's pre-med failure opened the path to history and writing
 - [[Weed Review Site - First Startup at 18]] -- Built something real without formal credentials, proving that unconventional backgrounds can be strengths rather than weaknesses
-- [[Economics Student Who Taught Himself to Code]] -- Harry's economics degree was irrelevant; self-taught coding, design, and writing became his real education

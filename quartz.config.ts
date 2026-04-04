@@ -8,10 +8,10 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Second Brain",
+    pageTitle: "second brain",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: null,
     locale: "en-US",
     baseUrl: "secondbrain.sosautomazioni.com",
@@ -21,8 +21,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: { name: "Rubik", weights: [300, 400, 500, 600] },
-        body: { name: "Rubik", weights: [300, 400, 500, 600] },
+        header: { name: "Sora", weights: [300, 400, 500, 600] },
+        body: { name: "Sora", weights: [300, 400, 500, 600] },
         code: "IBM Plex Mono",
       },
       colors: {
@@ -69,7 +69,6 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

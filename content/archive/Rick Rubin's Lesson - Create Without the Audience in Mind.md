@@ -39,4 +39,3 @@ Stop trying to reverse-engineer what the algorithm wants. Create from genuine cu
 - [[Don't Watch the Competition]] -- Focusing on your own work and ignoring external noise, the same principle applied to competitive awareness
 - [[Only Build What Passes Three Filters]] -- Using an internal compass rather than external signals to decide what to build and create
 - [[Just Use Common Sense - Advice to His Younger Self]] -- Authenticity and trusting your own judgment as a long-term strategy rather than chasing trends
-- [[Your Emails Should Sound Like You're Messaging Your Mom]] -- empathy and naturalness as the foundation, not tricks or optimization

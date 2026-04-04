@@ -47,5 +47,3 @@ Don't choose between "serious" and "fun." Do both, deliberately. Light content k
 - [[The Content Stack - Memes > Threads > Newsletter > Product]] -- The full funnel view showing how memes and threads fit into the broader content stack leading to newsletter and products
 - [[The Undux Bicycle Campaign]] -- A deliberate distribution strategy designed to maximize reach, similar to the barbell's dual approach
 - [[The Ambassador Program - 300K Subscribers from 4,000 Superfans]] -- Layered growth engines that combine different mechanisms for both reach and retention
-- [[The Growth Loop - Newsletter Feeds Twitter Feeds Newsletter]] -- Harry's threads were self-contained platform-native content, not links to articles, same insight about adapting format to platform
-- [[70 Percent of the Work Is Visual]] -- visual-first content strategy where 70% of time goes to images

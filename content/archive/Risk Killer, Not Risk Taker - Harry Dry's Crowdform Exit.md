@@ -5,9 +5,6 @@ creator: harry-dry
 sources:
   - https://www.indiehackers.com/podcast/115-quick-chat-with-harry-dry
   - https://www.indiehackers.com/post/i-m-harry-dry-i-left-uni-failed-with-a-few-startups-finally-got-traction-and-left-my-job-to-work-on-marketing-examples-ama-aef7149b11
-themes:
-  - quit-strategically
-  - skin-in-the-game
 tags:
   - risk-management
   - transition

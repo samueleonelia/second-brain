@@ -5,9 +5,6 @@ creator: harry-dry
 sources:
   - https://indiebites.com/2/transcript
   - https://podcast.everyonehatesmarketers.com/episodes/3-steps-to-repurposing-your-content-for-every-channel/transcript
-themes:
-  - authenticity-over-algorithm
-  - distribution-over-product
 tags:
   - personal-brand
   - rebranding

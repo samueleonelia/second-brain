@@ -2,7 +2,7 @@
 
 // Typography
 body {
-  font-weight: 300;
+  font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  font-weight: 300;
+  font-weight: 400;
 }
 
 // Remove anchor links on headings
@@ -41,38 +41,29 @@ h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.inter
   top: 0;
   z-index: 100;
   background: var(--light);
-  border-bottom: 1px solid var(--lightgray);
+  border-bottom: 1px solid #FFF7EB;
   padding: 0.6rem 2rem;
 
   header {
     display: flex;
     align-items: center;
-    gap: 1.5rem;
     max-width: 100%;
     margin: 0;
   }
 
   .page-title {
     margin: 0;
+    margin-right: auto;
     white-space: nowrap;
   }
 
+  // Menu items: now, index, search - grouped to the right of the logo
   .sidebar-nav {
     display: flex;
     flex-direction: row;
-    gap: 0;
+    align-items: center;
+    gap: 1.5rem;
     overflow-x: auto;
-
-    // Hide the archive/themes folder structure in top bar
-    // Show only the root link and top-level items
-    .sidebar-nav-list {
-      display: flex;
-      flex-direction: row;
-      gap: 0.5rem;
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
 
     .sidebar-nav-folder {
       display: none;
@@ -82,11 +73,45 @@ h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.inter
       display: none;
     }
   }
+
+  // Search: icon only in top bar
+  .search {
+    min-width: unset !important;
+    max-width: unset !important;
+    flex-grow: 0 !important;
+    order: 3;
+  }
+
+  .search > .search-button {
+    border: none !important;
+    padding: 0 !important;
+    width: auto !important;
+    min-width: unset !important;
+    background: none !important;
+
+    & > p { display: none !important; }
+    & svg {
+      width: 18px;
+      min-width: 18px;
+      margin: 0 !important;
+    }
+  }
+
+  // Flex container: no gap, let sidebar-nav and search sit together
+  .flex-container {
+    gap: 0 !important;
+  }
 }
 
 // ============================================
 // STACKED NOTES CONTAINER
 // ============================================
+// Hide page-level scrollbar - panes handle their own scrolling
+html, body, .page, #quartz-body {
+  overflow: hidden;
+  height: 100vh;
+}
+
 #stacked-notes-container {
   display: flex;
   flex: 1;
@@ -101,6 +126,11 @@ h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.inter
   padding: 2rem 3rem;
   box-sizing: border-box;
   transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+  // Hide scrollbars but keep scrolling
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
 
   &.hidden {
     display: none;
@@ -124,7 +154,7 @@ h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.inter
 }
 
 #pane-right {
-  border-left: 1px solid var(--lightgray);
+  border-left: 1px solid #FFF7EB;
 }
 
 // ============================================
@@ -134,8 +164,9 @@ h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.inter
   width: 40px;
   min-width: 40px;
   flex-shrink: 0;
-  background: var(--light);
+  background: #FFF7EB;
   border-right: 1px solid var(--lightgray);
+  border-radius: 0 8px 8px 0;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -155,7 +186,7 @@ h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.inter
     text-orientation: mixed;
     transform: rotate(180deg);
     font-size: 0.85rem;
-    color: var(--darkgray);
+    color: #062123;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -164,9 +195,39 @@ h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.inter
   }
 
   &:hover {
-    background: var(--lightgray);
+    background: #f0e8da;
   }
 }
+
+// ============================================
+// POPOVERS: constrain to pane, smaller text
+// ============================================
+// Popovers only on screens >= 1440px (MacBook Air 13" and up)
+.popover {
+  @media all and (max-width: 1439px) {
+    display: none !important;
+  }
+}
+
+.stacked-pane .popover > .popover-inner {
+  width: 20rem;
+  max-height: 16rem;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  scrollbar-width: none;
+  &::-webkit-scrollbar { display: none; }
+
+  h1 { font-size: 1.1rem; }
+  h2 { font-size: 1rem; }
+  h3 { font-size: 0.9rem; }
+}
+
+// Also hide scrollbar on all popovers globally
+.popover-inner {
+  scrollbar-width: none;
+  &::-webkit-scrollbar { display: none; }
+}
+
 
 // ============================================
 // ANIMATIONS
@@ -181,9 +242,9 @@ h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.inter
 }
 
 // ============================================
-// LINKS: warm cream background
+// LINKS: warm cream background, dark text - everywhere
 // ============================================
-.center a.internal:not(.tag-link):not(.folder-title) {
+a.internal:not(.tag-link):not(.folder-title):not(.transclude-src) {
   background-color: #FFF7EB;
   color: #062123;
   padding: 1px 4px;
@@ -191,6 +252,7 @@ h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.inter
   text-decoration: none;
   &:hover {
     background-color: #f0e8da;
+    color: #062123;
   }
 }
 
@@ -277,19 +339,29 @@ h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.inter
     flex-grow: 0 !important;
   }
 
-  // Single pane only on mobile
+  // Mobile: single pane + slip
   #stacked-notes-container {
-    flex-direction: column;
+    flex-direction: row;
   }
 
-  .stacked-slip { display: none !important; }
   #pane-right { display: none !important; }
 
   .stacked-pane {
     width: 100% !important;
-    min-width: 100% !important;
-    height: auto;
+    min-width: 0 !important;
+    flex: 1;
+    height: calc(100vh - 52px);
     padding: 1rem;
+  }
+
+  .stacked-slip {
+    height: calc(100vh - 52px);
+    width: 32px;
+    min-width: 32px;
+
+    .slip-title {
+      font-size: 0.75rem;
+    }
   }
 }
 

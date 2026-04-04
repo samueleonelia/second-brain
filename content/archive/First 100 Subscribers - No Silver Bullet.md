@@ -6,9 +6,6 @@ sources:
   - https://www.indiehackers.com/podcast/115-quick-chat-with-harry-dry
   - https://indiebites.com/2/transcript
   - https://growthinreverse.com/marketing-examples/
-themes:
-  - distribution-over-product
-  - simple-systems-beat-complex-ones
 tags:
   - newsletter-growth
   - early-traction

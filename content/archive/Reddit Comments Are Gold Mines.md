@@ -41,4 +41,3 @@ The best content ideas are hiding in comment sections, not in headlines. While e
 - [[The Reddit-First Growth Strategy]] -- Reddit used as a primary growth engine, showing the platform's power for audience building beyond just idea sourcing
 - [[The Salmon Sashimi Thread - 24K Likes from a Podcast Episode]] -- A real example of a Reddit-sourced insight becoming a viral thread with 24K likes
 - [[Automate Your Code Reviews - The Lint Rule Spreadsheet]] -- Building curated, systematic processes for maximum efficiency, similar to Trung's streamlined 30-minute research routine
-- [[None of My Ideas Are Original - The Curation Method]] -- Harry's entire model is finding existing ideas and repackaging them visually

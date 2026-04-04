@@ -5,9 +5,6 @@ creator: harry-dry
 sources:
   - https://podcast.everyonehatesmarketers.com/episodes/3-steps-to-repurposing-your-content-for-every-channel/transcript
   - https://growthinreverse.com/marketing-examples/
-themes:
-  - distribution-over-product
-  - earn-trust-before-pitching
 tags:
   - facebook-groups
   - community-marketing

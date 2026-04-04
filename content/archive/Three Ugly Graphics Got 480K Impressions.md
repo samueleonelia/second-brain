@@ -40,4 +40,3 @@ Polish is not a competitive advantage when everyone is polished. Pattern interru
 - [[The Salmon Sashimi Thread - 24K Likes from a Podcast Episode]] -- unexpected format outperforming
 - [[4-Hour Websites That Made €10K+ Each]] -- speed and simplicity over perfection
 - [[Smart Threads and Dumb Memes - The Barbell Strategy]] -- mixing formats strategically
-- [[70 Percent of the Work Is Visual]] -- Harry's deliberate 70/30 time split favoring visuals over text

@@ -6,9 +6,6 @@ sources:
   - https://jakobgreenfeld.com/harry
   - https://indiebites.com/2/transcript
   - https://podcast.everyonehatesmarketers.com/episodes/3-steps-to-repurposing-your-content-for-every-channel/transcript
-themes:
-  - distribution-over-product
-  - one-multiplier-skill
 tags:
   - visual-content
   - copywriting

@@ -15,4 +15,5 @@ created: 2026-04-01
   * It can also be an open question on your roadblocks, 
   * It can be unrelated to any other conversation. You just ask, and make people feel good about themselves.
 * Promote others and create interesting connections.
+* Learn [[How to retweet]]
 * Add value to larger accounts. Summarize their work with unique point of views. This way their followers may have a better chance to see you.

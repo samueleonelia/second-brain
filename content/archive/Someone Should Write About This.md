@@ -49,5 +49,3 @@ The best content opportunities hide in spaces where the quality of existing work
 - [[Screenwriter + Equity Analyst + CFA = Hidden Advantage]] -- unusual skill combinations
 - [[Broke Both Arms, Discovered TypeScript]] -- how the TypeScript journey started
 - [[The Undux Bicycle Campaign]] -- building community around an underserved need
-- [[Economics Student Who Taught Himself to Code]] -- Harry self-taught three skills (coding, design, writing) that together enabled a one-person operation, same multiplier effect of deep skill investment
-- [[None of My Ideas Are Original - The Curation Method]] -- Harry saw the same gap: existing knowledge without good explanations, and filled it with visual case studies

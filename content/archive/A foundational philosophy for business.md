@@ -11,5 +11,6 @@ It’s relevant for the strategy, since it includes its general element. But the
 **Business is like a knowledge contest.** Those with the best understanding of reality, thrive. The others struggle.
 To define our business principles we first learn from the experience of other creators or entrepreneurs. Then we verify and adjust them through our own tests.
 What I share here are my business principles. Verify and adjust them based on your experience.
-1. [[Small bets pave the way to better knowledge]] and they reduce your risk.
+1. [[Perfect knowledge is impossible]]. Do your best with what you get.
+2. [[Small bets pave the way to better knowledge]] and they reduce your risk.
 3. [[Visitors → Subscribers → Customers]] is the basic strategy for every successful (online) business.
