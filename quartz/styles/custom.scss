@@ -1,17 +1,13 @@
 @use "./base.scss";
 
-// put your custom CSS here!
-
+// Typography
 body {
   font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
-
-  & a {
-    font-weight: inherit;
-  }
+  & a { font-weight: inherit; }
 }
 
 .page-title {
@@ -33,76 +29,212 @@ h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.inter
   display: none;
 }
 
-// Hide explorer completely
-.explorer {
-  display: none !important;
-}
+// Hide explorer, dark mode, reader mode
+.explorer { display: none !important; }
+.darkmode, .reader-mode { display: none; }
 
-// Hide dark mode and reader mode buttons
-.darkmode, .reader-mode {
-  display: none;
-}
-
-// Separator under top menu bar
-.left > .flex-container {
+// ============================================
+// TOP BAR
+// ============================================
+.top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--light);
   border-bottom: 1px solid var(--lightgray);
-  padding-bottom: 0.8rem;
-  margin-bottom: 0.5rem;
-}
+  padding: 0.6rem 2rem;
 
-// Column separation lines (desktop/tablet only)
-.center {
-  border-left: 1px solid var(--lightgray);
-  border-right: none;
-  padding-left: 2rem;
-  padding-right: 2rem;
-
-  @media all and (max-width: 800px) {
-    border-left: none;
-    padding-left: 0;
-    padding-right: 0;
+  header {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    max-width: 100%;
+    margin: 0;
   }
-}
 
-// Graph view collapsed by default
-.graph {
-  & > h3 {
-    font-size: 0.85rem;
-    font-weight: 400;
-    cursor: pointer;
-    &::before {
-      content: "◉ ";
-      font-size: 0.7rem;
+  .page-title {
+    margin: 0;
+    white-space: nowrap;
+  }
+
+  .sidebar-nav {
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    overflow-x: auto;
+
+    // Hide the archive/themes folder structure in top bar
+    // Show only the root link and top-level items
+    .sidebar-nav-list {
+      display: flex;
+      flex-direction: row;
+      gap: 0.5rem;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .sidebar-nav-folder {
+      display: none;
+    }
+
+    .sidebar-nav-root {
+      display: none;
     }
   }
-  & > .graph-outer {
+}
+
+// ============================================
+// STACKED NOTES CONTAINER
+// ============================================
+#stacked-notes-container {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.stacked-pane {
+  flex-shrink: 0;
+  overflow-y: auto;
+  height: calc(100vh - 52px);
+  padding: 2rem 3rem;
+  box-sizing: border-box;
+  transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+
+  &.hidden {
     display: none;
   }
-  &.collapsed > .graph-outer {
-    display: block;
-    height: 250px;
+
+  .center {
+    max-width: 800px;
+    margin: 0 auto;
   }
 }
 
-// Mobile styles
-@media all and (max-width: 800px) {
-  // 1. Sticky top bar with cream separator
-  .sidebar.left {
-    flex-wrap: nowrap;
-    position: sticky !important;
-    top: 0 !important;
-    z-index: 99 !important;
-    background: var(--light);
-    border-bottom: 2px solid #FFF7EB;
-    padding-bottom: 0.6rem !important;
-    margin-bottom: 0.5rem;
-    justify-content: space-between;
+// Single pane: centered, full width
+.stacked-pane.single {
+  width: 100%;
+  flex-grow: 1;
+}
+
+// Dual pane: 50/50
+.stacked-pane.dual {
+  width: 50%;
+}
+
+#pane-right {
+  border-left: 1px solid var(--lightgray);
+}
+
+// ============================================
+// SLIP (vertical title strip)
+// ============================================
+.stacked-slip {
+  width: 40px;
+  min-width: 40px;
+  flex-shrink: 0;
+  background: var(--light);
+  border-right: 1px solid var(--lightgray);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1),
+              min-width 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+  overflow: hidden;
+
+  &.hidden {
+    width: 0;
+    min-width: 0;
+    border: none;
   }
 
-  // Flex container: no extra growth, slight inset from edge
-  .left > .flex-container {
-    flex-grow: 0 !important;
-    padding-right: 0.75rem;
+  .slip-title {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    transform: rotate(180deg);
+    font-size: 0.85rem;
+    color: var(--darkgray);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-height: calc(100vh - 100px);
+    padding: 1rem 0;
+  }
+
+  &:hover {
+    background: var(--lightgray);
+  }
+}
+
+// ============================================
+// ANIMATIONS
+// ============================================
+.stacked-pane.slide-in-right {
+  animation: slideInRight 0.4s cubic-bezier(0.19, 1, 0.22, 1) forwards;
+}
+
+@keyframes slideInRight {
+  from { transform: translateX(100%); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+// ============================================
+// LINKS: warm cream background
+// ============================================
+.center a.internal:not(.tag-link):not(.folder-title) {
+  background-color: #FFF7EB;
+  color: #062123;
+  padding: 1px 4px;
+  border-radius: 3px;
+  text-decoration: none;
+  &:hover {
+    background-color: #f0e8da;
+  }
+}
+
+// ============================================
+// MOBILE
+// ============================================
+@media all and (max-width: 800px) {
+  .top-bar {
+    padding: 0.6rem 1rem;
+
+    header {
+      gap: 0.75rem;
+    }
+
+    .sidebar-nav {
+      display: none !important;
+    }
+
+    .sidebar-nav.mobile-open {
+      display: flex !important;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      z-index: 998;
+      background: var(--light);
+      flex-direction: column;
+      padding: 2rem 1.5rem;
+      overflow-y: auto;
+      box-sizing: border-box;
+    }
+
+    .mobile-overlay-close {
+      align-self: flex-end;
+      background: none;
+      border: none;
+      font-size: 1.8rem;
+      cursor: pointer;
+      color: var(--darkgray);
+      margin-bottom: 1rem;
+      padding: 0;
+      line-height: 1;
+    }
   }
 
   // Burger menu button
@@ -128,69 +260,36 @@ h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.inter
     }
   }
 
-  // Search button: icon only on mobile
+  // Search: icon only
   .search > .search-button {
     border: none !important;
     padding: 0 !important;
     width: auto !important;
     min-width: unset !important;
 
-    & > p {
-      display: none !important;
-    }
-
-    & svg {
-      width: 20px;
-      min-width: 20px;
-      margin: 0 !important;
-    }
+    & > p { display: none !important; }
+    & svg { width: 20px; min-width: 20px; margin: 0 !important; }
   }
 
   .search {
     min-width: unset !important;
     max-width: unset !important;
     flex-grow: 0 !important;
-    margin-right: 0.5rem;
   }
 
-  // 2. Menu overlay
-  .sidebar-nav {
-    display: none !important;
-  }
-
-  .sidebar-nav.mobile-open {
-    display: flex !important;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    z-index: 998;
-    background: var(--light);
+  // Single pane only on mobile
+  #stacked-notes-container {
     flex-direction: column;
-    padding: 2rem 1.5rem;
-    overflow-y: auto;
-    box-sizing: border-box;
   }
 
-  // Close button for overlay
-  .mobile-overlay-close {
-    align-self: flex-end;
-    background: none;
-    border: none;
-    font-size: 1.8rem;
-    cursor: pointer;
-    color: var(--darkgray);
-    margin-bottom: 1rem;
-    padding: 0;
-    line-height: 1;
-  }
+  .stacked-slip { display: none !important; }
+  #pane-right { display: none !important; }
 
-  // Flex container on mobile: no border (sidebar.left has it)
-  .left > .flex-container {
-    border-bottom: none;
-    padding-bottom: 0;
-    margin-bottom: 0;
+  .stacked-pane {
+    width: 100% !important;
+    min-width: 100% !important;
+    height: auto;
+    padding: 1rem;
   }
 }
 
@@ -198,17 +297,5 @@ h1 > a.internal, h2 > a.internal, h3 > a.internal, h4 > a.internal, h5 > a.inter
 @media all and (min-width: 801px) {
   .burger-menu {
     display: none;
-  }
-}
-
-// Links: warm cream background, dark text
-.center a.internal:not(.tag-link):not(.folder-title) {
-  background-color: #FFF7EB;
-  color: #062123;
-  padding: 1px 4px;
-  border-radius: 3px;
-  text-decoration: none;
-  &:hover {
-    background-color: #f0e8da;
   }
 }

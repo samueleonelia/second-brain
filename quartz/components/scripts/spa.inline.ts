@@ -144,6 +144,7 @@ async function navigate(url: URL, isBack: boolean = false) {
 }
 
 window.spaNavigate = navigate
+window.fetchCanonical = fetchCanonical
 
 function createRouter() {
   if (typeof window !== "undefined") {

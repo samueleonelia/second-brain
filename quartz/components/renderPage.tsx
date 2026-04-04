@@ -241,22 +241,6 @@ export function renderPage(
   const Header = HeaderConstructor()
   const Body = BodyConstructor()
 
-  const LeftComponent = (
-    <div class="left sidebar">
-      {left.map((BodyComponent) => (
-        <BodyComponent {...componentData} />
-      ))}
-    </div>
-  )
-
-  const RightComponent = (
-    <div class="right sidebar">
-      {right.map((BodyComponent) => (
-        <BodyComponent {...componentData} />
-      ))}
-    </div>
-  )
-
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const direction = i18n(cfg.locale).direction ?? "ltr"
   const doc = (
@@ -265,29 +249,41 @@ export function renderPage(
       <body data-slug={slug}>
         <div id="quartz-root" class="page">
           <Body {...componentData}>
-            {LeftComponent}
-            <div class="center">
-              <div class="page-header">
-                <Header {...componentData}>
-                  {header.map((HeaderComponent) => (
-                    <HeaderComponent {...componentData} />
-                  ))}
-                </Header>
-                <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
-                    <BodyComponent {...componentData} />
-                  ))}
+            <div class="top-bar">
+              <Header {...componentData}>
+                {header.map((HeaderComponent) => (
+                  <HeaderComponent {...componentData} />
+                ))}
+              </Header>
+            </div>
+            <div id="stacked-notes-container">
+              <div id="stacked-slip" class="stacked-slip hidden" data-slug="">
+                <span class="slip-title"></span>
+              </div>
+              <div id="pane-left" class="stacked-pane single" data-slug={slug}>
+                <div class="pane-content">
+                  <div class="center">
+                    <div class="page-header">
+                      <div class="popover-hint">
+                        {beforeBody.map((BodyComponent) => (
+                          <BodyComponent {...componentData} />
+                        ))}
+                      </div>
+                    </div>
+                    <Content {...componentData} />
+                    <hr />
+                    <div class="page-footer">
+                      {afterBody.map((BodyComponent) => (
+                        <BodyComponent {...componentData} />
+                      ))}
+                    </div>
+                  </div>
                 </div>
               </div>
-              <Content {...componentData} />
-              <hr />
-              <div class="page-footer">
-                {afterBody.map((BodyComponent) => (
-                  <BodyComponent {...componentData} />
-                ))}
+              <div id="pane-right" class="stacked-pane hidden" data-slug="">
+                <div class="pane-content"></div>
               </div>
             </div>
-            {RightComponent}
             <Footer {...componentData} />
           </Body>
         </div>

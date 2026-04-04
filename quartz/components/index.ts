@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import SidebarNav from "./SidebarNav"
 import BurgerMenu from "./BurgerMenu"
+import StackedNotes from "./StackedNotes"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   SidebarNav,
   BurgerMenu,
+  StackedNotes,
 }
