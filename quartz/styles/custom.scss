@@ -123,7 +123,7 @@ html, body, .page, #quartz-body {
   flex-shrink: 0;
   overflow-y: auto;
   height: calc(100vh - 52px);
-  padding: 2rem 3rem;
+  padding: 2rem 5rem 2rem 3rem;
   box-sizing: border-box;
   transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1);
   // Hide scrollbars but keep scrolling

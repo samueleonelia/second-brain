@@ -8,18 +8,8 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href="/">
-        <span class="page-title-text">{title}</span>
-        <svg class="page-title-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="6" cy="6" r="2.5" />
-          <circle cx="18" cy="6" r="2.5" />
-          <circle cx="18" cy="18" r="2.5" />
-          <circle cx="6" cy="18" r="2.5" />
-          <circle cx="12" cy="12" r="2" />
-          <line x1="8" y1="7.5" x2="10.5" y2="10.5" />
-          <line x1="13.5" y1="10.5" x2="16" y2="7.5" />
-          <line x1="13.5" y1="13.5" x2="16" y2="16.5" />
-          <line x1="8" y1="16.5" x2="10.5" y2="13.5" />
-        </svg>
+        <span class="page-title-main">notes</span>
+        <span class="page-title-sub">samuele onelia</span>
       </a>
     </h2>
   )
@@ -31,8 +21,19 @@ PageTitle.css = `
   margin: 0;
   font-family: var(--titleFont);
 }
-.page-title-icon {
-  display: none;
+.page-title a {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+}
+.page-title-main {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+.page-title-sub {
+  font-weight: 300;
+  font-size: 0.75rem;
+  opacity: 0.7;
 }
 `
 
