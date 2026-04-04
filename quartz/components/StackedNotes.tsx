@@ -170,10 +170,10 @@ async function stackLoadHomeDual() {
   stackSlipSlug = ""
   stackSlipTitle = ""
   stackState = "DUAL"
-  history.pushState(
+  history.replaceState(
     { stackState: "DUAL", leftSlug: "now", rightSlug: indexData.slug, slipSlug: "", slipTitle: "" },
     "",
-    "/now?stack=" + encodeURIComponent(indexData.slug)
+    "/"
   )
   stackNotifyContent()
 }
