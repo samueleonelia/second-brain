@@ -61,6 +61,9 @@ function stackUpdateUrl() {
   let url
   if (stackState === "DUAL" && rightSlug) {
     url = "/" + leftSlug + "?stack=" + encodeURIComponent(rightSlug)
+    if (stackSlipSlug) {
+      url += "&slip=" + encodeURIComponent(stackSlipSlug)
+    }
   } else {
     url = "/" + leftSlug
   }
@@ -384,6 +387,7 @@ document.addEventListener("nav", function stackInit() {
 
   if (stackParam && !stackIsMobile()) {
     // Restore dual pane from ?stack= parameter
+    const slipParam = new URLSearchParams(window.location.search).get("slip")
     const els = stackGetElements()
     if (els.paneLeft && els.paneRight) {
       stackFetchPage("/" + stackParam).then(data => {
@@ -395,6 +399,19 @@ document.addEventListener("nav", function stackInit() {
         els.paneRight.classList.remove("hidden")
         els.paneRight.classList.add("dual")
         stackState = "DUAL"
+
+        // Restore slip if present
+        if (slipParam && els.slip && els.slipTitleEl) {
+          stackFetchPage("/" + slipParam).then(slipData => {
+            if (!slipData || !els.slip || !els.slipTitleEl) return
+            stackSlipSlug = slipParam
+            stackSlipTitle = slipData.title || slipParam
+            els.slipTitleEl.textContent = stackSlipTitle
+            els.slip.setAttribute("data-slug", stackSlipSlug)
+            els.slip.classList.remove("hidden")
+          })
+        }
+
         stackNotifyContent()
       })
     }
