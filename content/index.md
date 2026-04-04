@@ -1,8 +1,9 @@
 ---
 title: Index
 ---
-
 # Index
+
+[[now]]
 
 ## Creators
 
