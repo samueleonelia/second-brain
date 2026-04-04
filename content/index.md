@@ -5,55 +5,54 @@ title: Index
 
 [[now]]
 
+## Business
+
+- [[@Infoproducts]]
+- [[@Marketing]]
+- [[@Negotiation]]
+- [[@Pricing]]
+
+## Content and Writing
+
+- [[@How can I become a writer]]
+- [[@How can I create engaging content]]
+- [[@LinkedIn]]
+- [[@Mailing list]]
+- [[@Twitter]]
+- [[@What makes a story interesting]]
+
 ## Creators
 
 - [[@Boris Cherny]]
 - [[@Charlie Hills]]
 - [[@Sam Parr]]
+- [[@Themes]]
 - [[@Trung Phan]]
 - [[@Yannick Veys]]
-- [[@Themes]]
-
-## Business
-
-- [[@Marketing]]
-- [[@Pricing]]
-- [[@Infoproducts]]
-- [[@Negotiation]]
-- [[@How do I create my own category]]
-
-## Content and Writing
-
-- [[@How can I create engaging content]]
-- [[@How can I become a writer]]
-- [[@What makes a story interesting]]
-- [[@LinkedIn]]
-- [[@Twitter]]
-- [[@Mailing list]]
 
 ## Growth
 
 - [[@How does SEO work]]
-- [[@Web design]]
 - [[@Is there a process to generate new ideas]]
-
-## Work and Career
-
-- [[@Why does a career matters]]
-- [[@Coding]]
-- [[@Productivity]]
-- [[@Decision making]]
+- [[@Web design]]
 
 ## Personal
 
-- [[@Personal growth]]
+- [[@Fitness]]
 - [[@How do you develop confidence]]
 - [[@Personal finance]]
-- [[@Fitness]]
+- [[@Personal growth]]
 
 ## Philosophy
 
+- [[@History]]
+- [[@The state]]
 - [[@What is a moral life]]
 - [[@What is a romantic relationship]]
-- [[@The state]]
-- [[@History]]
+
+## Work and Career
+
+- [[@Coding]]
+- [[@Decision making]]
+- [[@Productivity]]
+- [[@Why does a career matters]]
