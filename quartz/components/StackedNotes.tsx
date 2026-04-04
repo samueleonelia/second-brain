@@ -379,7 +379,8 @@ document.addEventListener("nav", function stackInit() {
 
   // On initial load of the homepage
   const initialSlug = document.body.getAttribute("data-slug") || ""
-  if ((initialSlug === "index" || initialSlug === "now") && !new URLSearchParams(window.location.search).has("stack")) {
+  const isHomepage = window.location.pathname === "/" || window.location.pathname === "/index"
+  if ((initialSlug === "index" || isHomepage) && !new URLSearchParams(window.location.search).has("stack")) {
     if (stackIsMobile()) {
       // Mobile: show Index as page, Now as slip
       const els = stackGetElements()
