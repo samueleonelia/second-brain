@@ -23,8 +23,8 @@ PageTitle.css = `
 }
 .page-title a {
   display: flex;
-  align-items: baseline;
-  gap: 0.4rem;
+  flex-direction: column;
+  line-height: 1.1;
 }
 .page-title-main {
   font-weight: 600;
