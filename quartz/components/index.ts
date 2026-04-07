@@ -26,6 +26,7 @@ import ConditionalRender from "./ConditionalRender"
 import SidebarNav from "./SidebarNav"
 import BurgerMenu from "./BurgerMenu"
 import StackedNotes from "./StackedNotes"
+import Sources from "./Sources"
 
 export {
   ArticleTitle,
@@ -56,4 +57,5 @@ export {
   SidebarNav,
   BurgerMenu,
   StackedNotes,
+  Sources,
 }
