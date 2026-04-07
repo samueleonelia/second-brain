@@ -3,7 +3,8 @@ title: "Quit Banking, Got Sued, Paid €15,000"
 type: permanent
 creator: yannick-veys
 sources:
-  - https://www.linkedin.com/in/yannickveys/
+  - https://yannickveys.com/about/
+  - personally-verified
 themes:
   - forced-constraints
   - quit-strategically

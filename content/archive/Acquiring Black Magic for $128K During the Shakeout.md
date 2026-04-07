@@ -4,6 +4,9 @@ type: permanent
 creator: yannick-veys
 sources:
   - https://blackmagicso.substack.com/p/black-magic-has-joined-hypefury
+  - https://news.tonydinh.com/p/may-2023-i-sold-my-2-years-old-business
+unverified_claims:
+  - The acquisition was reportedly acknowledged by Elon Musk -- no source confirms this
 themes:
   - platform-dependency-and-survival
 tags:

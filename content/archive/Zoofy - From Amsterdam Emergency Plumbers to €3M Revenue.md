@@ -5,6 +5,8 @@ creator: yannick-veys
 sources:
   - https://yannickveys.com/about/
   - https://podcasts.apple.com/us/podcast/from-creating-the-uber-for-service-professionals-to/id1567328445?i=1000570656490
+  - https://app.dealroom.co/companies/zoofy
+  - https://www.innovatorscanlaugh.com/from-creating-the-uber-for-service-professionals-to-growing-hypefury/
 themes:
   - build-for-yourself-first
   - quit-strategically

@@ -3,7 +3,9 @@ title: "The Mystery CEO Call"
 type: permanent
 creator: yannick-veys
 sources:
-  - https://www.linkedin.com/in/yannickveys/
+  - https://yannickveys.com/about/
+  - https://www.paddle.com/studios/shows/protect-the-hustle/hypefury-yannick-veys
+  - personally-verified
 themes:
   - build-for-yourself-first
   - initial-reception-means-nothing

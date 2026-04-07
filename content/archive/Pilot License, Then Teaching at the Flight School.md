@@ -3,7 +3,7 @@ title: "Pilot License, Then Teaching at the Flight School"
 type: permanent
 creator: yannick-veys
 sources:
-  - https://www.linkedin.com/in/yannickveys/
+  - personally-verified
 themes:
   - side-projects-as-career-accelerators
   - origin-stories-and-background-as-advantage

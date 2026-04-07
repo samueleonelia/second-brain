@@ -3,7 +3,9 @@ title: "Building in Public: The Competitor Betrayal That Backfired"
 type: permanent
 creator: yannick-veys
 sources:
-  - https://www.linkedin.com/in/yannickveys/
+  - https://baremetrics.com/blog/hypefury-growth
+unverified_claims:
+  - Someone on their own team helped a competitor build a copycat product -- no online source found
 themes:
   - permissionless-creation
   - ignore-the-competition

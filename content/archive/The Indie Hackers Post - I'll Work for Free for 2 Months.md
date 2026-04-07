@@ -3,7 +3,9 @@ title: "The Indie Hackers Post: \"I'll Work for Free for 2 Months\""
 type: permanent
 creator: yannick-veys
 sources:
-  - https://www.linkedin.com/in/yannickveys/
+  - https://www.indiehackers.com/post/i-co-founded-hypefury-and-scaled-it-to-22k-mrr-ama-318a451a36
+  - https://traction.substack.com/p/yannick-co-founder-of-hypefury
+  - https://www.listenupih.com/hypefury/
 themes:
   - underestimation-as-advantage
   - skin-in-the-game

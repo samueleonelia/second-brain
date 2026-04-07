@@ -4,6 +4,8 @@ type: permanent
 creator: yannick-veys
 sources:
   - https://yannickveys.com/about/
+unverified_claims:
+  - 50000+ organic monthly visitors collectively -- no source confirms this specific number
 themes:
   - build-assets-not-services
 tags:

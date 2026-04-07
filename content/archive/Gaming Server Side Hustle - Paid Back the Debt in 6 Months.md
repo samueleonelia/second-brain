@@ -3,7 +3,7 @@ title: "Gaming Server Side Hustle: Paid Back the Debt in 6 Months"
 type: permanent
 creator: yannick-veys
 sources:
-  - https://www.linkedin.com/in/yannickveys/
+  - personally-verified
 themes:
   - the-byproduct-is-the-business
 tags:

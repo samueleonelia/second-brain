@@ -4,6 +4,7 @@ type: permanent
 creator: yannick-veys
 sources:
   - https://yannickveys.com/how-to-grow-your-blog-to-make-a-living-with-it-from-scratch/
+  - https://yannickveys.com/about/
 themes:
   - growth-hacks-gone-wrong
 tags:

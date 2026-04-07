@@ -5,6 +5,7 @@ creator: yannick-veys
 sources:
   - https://x.com/Yannick_Veys/status/1643880419585150979
   - https://hypefury.com/blog/en/twitters-ban-3rd-party-apps/
+  - https://medium.com/online-writing-101/will-the-twitter-scheduling-app-hypefury-be-suspended-5806c7eb967e
 themes:
   - platform-dependency-and-survival
 tags:

@@ -4,6 +4,8 @@ type: permanent
 creator: yannick-veys
 sources:
   - https://traction.substack.com/p/yannick-co-founder-of-hypefury
+  - https://www.indiehackers.com/post/how-to-increase-signups-for-your-affiliate-program-by-300-aa2666cd09
+  - https://hypefury.com/affiliate/
 themes:
   - remove-all-friction-from-growth
 tags:

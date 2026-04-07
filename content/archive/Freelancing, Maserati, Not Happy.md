@@ -3,7 +3,8 @@ title: "Freelancing, Maserati, Not Happy"
 type: permanent
 creator: yannick-veys
 sources:
-  - https://www.linkedin.com/in/yannickveys/
+  - https://growthmarketer.co/yannick-veys-interview/
+  - personally-verified
 themes:
   - quit-strategically
   - build-assets-not-services

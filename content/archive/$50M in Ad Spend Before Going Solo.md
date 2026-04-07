@@ -4,6 +4,10 @@ type: permanent
 creator: yannick-veys
 sources:
   - https://app.growthmentor.com/mentors/yannick-veys
+  - https://growthmarketer.co/yannick-veys-interview/
+unverified_claims:
+  - 50M in ad spend -- no source confirms this specific figure
+  - Fortune 500 companies -- no source confirms this specifically
 themes:
   - origin-stories-and-background-as-advantage
   - distribution-over-product
