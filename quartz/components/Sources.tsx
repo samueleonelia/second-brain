@@ -17,7 +17,7 @@ const Sources: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
 
   return (
     <div class={classNames(displayClass, "sources")}>
-      <h2>Sources</h2>
+      <h2>External sources</h2>
       <ul class="sources-list">
         {linkSources.map((source) => {
           let label: string

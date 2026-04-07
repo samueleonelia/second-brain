@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Search(),
     Component.BurgerMenu(),
   ],
-  afterBody: [Component.Sources(), Component.Backlinks(), Component.TagList(), Component.StackedNotes()],
+  afterBody: [Component.Backlinks(), Component.Sources(), Component.TagList(), Component.StackedNotes()],
   footer: Component.Footer({ links: {} }),
 }
 
