@@ -319,6 +319,10 @@ function stackClickHandler(e) {
   e.preventDefault()
   e.stopImmediatePropagation()
 
+  // Close burger menu overlay on mobile
+  const mobileNav = document.querySelector(".sidebar-nav.mobile-open")
+  if (mobileNav) mobileNav.classList.remove("mobile-open")
+
   if (stackIsMobile()) {
     if (isHomeLink) {
       stackMobileNav(new URL("/", window.location.origin))
