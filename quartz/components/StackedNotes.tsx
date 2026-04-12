@@ -321,7 +321,7 @@ function stackClickHandler(e) {
 
   if (stackIsMobile()) {
     if (isHomeLink) {
-      stackMobileNav(new URL("/now", window.location.origin))
+      stackMobileNav(new URL("/", window.location.origin))
     } else {
       stackMobileNav(resolvedUrl)
     }
