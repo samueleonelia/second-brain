@@ -58,14 +58,15 @@ function stackUpdateUrl() {
   const leftSlug = paneLeft?.getAttribute("data-slug") || ""
   const rightSlug = paneRight?.getAttribute("data-slug") || ""
 
+  const normalizeSlug = (s) => s === "index" ? "" : s
   let url
   if (stackState === "DUAL" && rightSlug) {
-    url = "/" + leftSlug + "?stack=" + encodeURIComponent(rightSlug)
+    url = "/" + normalizeSlug(leftSlug) + "?stack=" + encodeURIComponent(rightSlug)
     if (stackSlipSlug) {
       url += "&slip=" + encodeURIComponent(stackSlipSlug)
     }
   } else {
-    url = "/" + leftSlug
+    url = "/" + normalizeSlug(leftSlug)
   }
 
   history.pushState(
@@ -247,10 +248,11 @@ async function stackMobileNav(url) {
   els.paneLeft.querySelector(".pane-content").innerHTML = data.content
   els.paneLeft.setAttribute("data-slug", data.slug)
 
+  const pushUrl = data.slug === "index" ? "/" : "/" + data.slug
   history.pushState(
     { stackState: "SINGLE", leftSlug: data.slug, rightSlug: "", slipSlug: stackSlipSlug, slipTitle: stackSlipTitle },
     "",
-    "/" + data.slug
+    pushUrl
   )
   stackNotifyContent()
 }
