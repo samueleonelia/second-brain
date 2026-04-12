@@ -33,6 +33,13 @@ function setupBurger() {
           nav.classList.remove("mobile-open")
         })
       }
+
+      // Close menu when a nav link is clicked
+      nav.querySelectorAll("a").forEach(link => {
+        link.addEventListener("click", () => {
+          nav.classList.remove("mobile-open")
+        })
+      })
     })
   })
 }
