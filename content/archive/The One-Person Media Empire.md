@@ -43,3 +43,5 @@ A $4M+ annual business run by one person with contractors. No co-founder, no emp
 - [[Sixty-Five Thousand Dollars in Year One]] -- where the revenue started
 - [[Word of Mouth Beat Everything]] -- the growth engine behind the empire
 - [[Tripled Revenue Without Writing a Line of Code]] -- layering revenue on existing audience
+- [[Taking on Harvard Business Review]] -- Alex Garcia: different vision for media scale (9-figure, team-based)
+- [[12,500 Pounds a Year - The Founder Salary That Built a Six-Figure Business]] -- Milly Tamati: solo-operator at opposite scale

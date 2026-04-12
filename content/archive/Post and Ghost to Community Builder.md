@@ -42,3 +42,5 @@ Publishing is not participating. You can have the best content on the platform, 
 - [[Reddit Comments Are Gold Mines]] -- finding value in conversations, not just content
 - [[The 101 Viral Thread Hooks Giveaway]] -- giving value to get attention
 - [[LinkedIn Changed His Life in Two Years]] -- LinkedIn growth through daily consistency rather than engagement pivot
+- [[Three Weeks From Idea to Full-Time Founder]] -- Milly Tamati: community as business, different origin
+- [[The Community That Banned Self-Promotion]] -- Milly Tamati: anti-self-promotion community design

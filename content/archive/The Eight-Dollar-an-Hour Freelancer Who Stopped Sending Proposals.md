@@ -36,3 +36,4 @@ The path from $8/hour to $500/hour wasn't a single leap. It was a series of repo
 
 - [[From Rapper Bigga to Copywriter]] -- the skill discovery that started the freelancing career
 - [[The Digicel Fortune 500 Turning Point]] -- where the inbound strategy led
+- [[From New Zealand Classroom to 65 Countries to a Scottish Island]] -- Milly Tamati: scattered early career leading to breakout

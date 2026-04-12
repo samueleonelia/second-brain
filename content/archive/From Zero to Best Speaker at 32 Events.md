@@ -39,3 +39,4 @@ Jasmin's speaking career was built entirely on the back of his LinkedIn presence
 
 - [[LinkedIn Changed His Life in Two Years]] -- the platform growth that created speaking demand
 - [[The Teacher Who Won 200 Medals Then Quit]] -- his background in education and public speaking
+- [[International Generalist Day - 87 Events in 35 Countries]] -- Milly Tamati: community-driven events vs personal speaking

@@ -18,3 +18,6 @@ created: 2026-04-01
 5. [[SEO is not enough for content marketing]]
 6. [[How to create contrarian opinion]]
    1. [[Pseudo-truism in marketing]]
+7. [[The Snacks and Entrees Content System]] -- Alex Garcia: 3Ps Framework, content funnel architecture
+8. [[From Newsletter to Social Shows for Brands]] -- social-first shows as content strategy for brands
+9. [[1,000 Days of Posting Without Scheduling a Single One]] -- Milly Tamati: unscheduled daily content as brand-building

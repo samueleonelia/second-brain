@@ -49,3 +49,4 @@ The fear that free content cannibalizes paid offerings is common. Jasmin's model
 - [[LinkedIn Changed His Life in Two Years]] -- where the free content strategy played out
 - [[The 101 Viral Thread Hooks Giveaway]] -- free knowledge as growth engine on a different platform
 - [[Word of Mouth Beat Everything]] -- same philosophy driving Substack growth
+- [[The Community That Banned Self-Promotion]] -- Milly Tamati: anti-sales community design, similar trust-first approach

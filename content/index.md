@@ -23,10 +23,12 @@ title: Index
 
 ## Creators
 
+- [[@Alex Garcia]]
 - [[@Boris Cherny]]
 - [[@Charlie Hills]]
 - [[@Jasmin Alic]]
 - [[@Lenny Rachitsky]]
+- [[@Milly Tamati]]
 - [[@Sam Parr]]
 - [[@Trung Phan]]
 - [[@Yannick Veys]]

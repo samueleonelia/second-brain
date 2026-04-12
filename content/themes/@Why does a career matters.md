@@ -11,3 +11,5 @@ created: 2026-04-01
 3. [[List of digital independents in the Italian web]]
 4. [[Work-life balance BS]]
 5. [[Money as a motivation]]
+6. [[From New Zealand Classroom to 65 Countries to a Scottish Island]] -- Milly Tamati: squiggly career across 65 countries
+7. [[The Director of Miscellaneous]] -- Milly Tamati: the role that named the generalist identity

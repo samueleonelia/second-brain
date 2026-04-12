@@ -18,3 +18,4 @@ created: 2026-04-01
 6. [[How to measure infoproducts effectiveness]]
 7. [[Platforms to sell online courses]]
 8. [[First email, first offer]]
+9. [[The Gumroad Bridge Between Jobs]] -- Alex Garcia: paid newsletter as scaffolding, then removed

@@ -31,3 +31,4 @@ The timeline matters. Jasmin's origin story is often compressed into a clean arc
 
 - [[The Eight-Dollar-an-Hour Freelancer Who Stopped Sending Proposals]] -- the pricing journey that had this valley in the middle
 - [[LinkedIn Changed His Life in Two Years]] -- the growth that followed this low point
+- [[From New Zealand Classroom to 65 Countries to a Scottish Island]] -- Milly Tamati: similarly unconventional path before platform discovery
