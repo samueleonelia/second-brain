@@ -25,6 +25,8 @@ title: Index
 
 - [[@Boris Cherny]]
 - [[@Charlie Hills]]
+- [[@Jasmin Alic]]
+- [[@Lenny Rachitsky]]
 - [[@Sam Parr]]
 - [[@Themes]]
 - [[@Trung Phan]]
