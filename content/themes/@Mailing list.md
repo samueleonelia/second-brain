@@ -20,3 +20,7 @@ created: 2026-04-01
 4. [[First email, first offer]]
 5. [[Best paid autoresponder]]
 6. [[@How can I become a writer]]
+7. [[Sixty-Five Thousand Dollars in Year One]] -- Lenny Rachitsky: $65K year one from Substack paid tier
+8. [[Word of Mouth Beat Everything]] -- quality content as sole reliable newsletter growth lever
+9. [[The Advice Column Format]] -- reader questions as content backbone for paid newsletter
+10. [[The One-Person Media Empire]] -- $4M+/year from newsletter, podcast, job board, community

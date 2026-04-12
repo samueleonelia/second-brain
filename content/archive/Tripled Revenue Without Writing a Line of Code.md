@@ -43,3 +43,4 @@ You don't always need to build new features to grow revenue. Sometimes the produ
 - [[Trends.co - $30K on Day One, $1.2M at Launch]] -- A premium paid layer on top of a free product, monetizing knowledge and access
 - [[Founder Loneliness - Hampton's Origin Story]] -- Community itself as the product people are willing to pay for
 - [[Brandon the Data Scientist Who Taught Himself]] -- Users finding value in ways you didn't originally design for
+- [[The One-Person Media Empire]] -- stacking newsletter, podcast, job board, community without new hires

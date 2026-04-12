@@ -38,3 +38,4 @@ Your free content is your cheapest R&D department. Every post, every newsletter 
 - [[Sam's List - From a Tweet to $99.5K in Year One]] -- testing demand before building
 - [[Tripled Revenue Without Writing a Line of Code]] -- monetizing existing content and audience
 - [[Latent Demand - How Facebook Marketplace Was Born]] -- observing demand before building
+- [[Why He Didn't Write a Book]] -- newsletter ROI beats book economics

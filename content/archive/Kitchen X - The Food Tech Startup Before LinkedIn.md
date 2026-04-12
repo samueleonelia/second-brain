@@ -37,3 +37,4 @@ Failed or quiet ventures teach you more than they cost you. Charlie's food tech 
 - [[Early Hustles - Moonshine, Fake YouTube, and a $50 PDF]] -- messy early ventures building skills
 - [[Gaming Server Side Hustle - Paid Back the Debt in 6 Months]] -- side venture as stepping stone
 - [[Bunk - His First (Tiny) Acquisition]] -- small startup leading to bigger things
+- [[The Localmind Founding and Acqui-Hire]] -- startup as career launchpad, not the destination

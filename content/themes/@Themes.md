@@ -31,6 +31,10 @@ The best products and content come from solving your own problems.
 - [[Sam's List - From a Tweet to $99.5K in Year One]] -- A tweet about his own need turned into a real product
 - [[The Content Stack - Memes > Threads > Newsletter > Product]] -- Built Bearly AI from his own writing workflow
 - [[The Mystery CEO Call]] -- Side project finance website solved his own learning gap
+- [[The Localmind Founding and Acqui-Hire]] -- 3-person startup became the door into Airbnb
+- [[140 Angel Investments and 12 Unicorns]] -- newsletter audience became deal-flow engine for 12 unicorns
+- [[Linkbound - Building a SaaS From His Own Problem]] -- Built a warm outreach tool to solve his own LinkedIn conversion gap
+- [[Snow White and Instant Book]] -- storyboarding the ideal experience to find product gaps
 
 ### 3. Distribution Over Product
 A great product without distribution is invisible.
@@ -41,6 +45,7 @@ A great product without distribution is invisible.
 - [[Smart Threads and Dumb Memes - The Barbell Strategy]] -- Barbell strategy mixing serious threads with viral memes
 - [[The Content Stack - Memes > Threads > Newsletter > Product]] -- Multi-layer content funnel from memes to paid product
 - [[Post and Ghost to Community Builder]] -- Shifted from passive posting to active community engagement
+- [[Word of Mouth Beat Everything]] -- quality content as sole reliable growth lever
 - [[The 60-Minute Daily Engagement Circuit]] -- Systematic daily engagement routine for growth
 - [[The 70-20-10 Content Funnel]] -- Structured content mix optimized for reach and conversion
 
@@ -53,6 +58,8 @@ Quitting is only failure if you leave with nothing.
 - [[Hustle Con - $6K Invested, $56K Revenue, 400 Tickets in 7 Weeks]] -- Quit the conference format and pivoted to newsletter
 - [[Moved to Rural Japan for Love]] -- Left a stable setup for an uncertain move abroad
 - [[Quit Corporate After Eight Months of Posting]] -- Quit corporate life quickly after recognizing misalignment
+- [[The Teacher Who Won 200 Medals Then Quit]] -- Won 200+ medals then quit because education wasn't going anywhere
+- [[The Sabbatical That Killed His Airbnb Career]] -- 3-month sabbatical revealed his heart was no longer in it
 
 ### 5. Earn Trust Before Pitching
 Relationships come before proposals.
@@ -62,6 +69,7 @@ Relationships come before proposals.
 - [[Never Tell Anyone What to Do]] -- Earned influence by suggesting rather than directing
 - [[The HubSpot Deal - Radical Transparency as a Negotiation Weapon]] -- Radical transparency during the acquisition built trust
 - [[Cold-Call Desensitization - 100 Random Phone Calls a Day]] -- 100 cold calls to build comfort with rejection and rapport
+- [[Share Everything for Free]] -- Built trust by sharing 100% of knowledge before selling anything
 
 ### 6. Side Projects as Career Accelerators
 Work outside your main job compounds into unexpected opportunities.
@@ -82,6 +90,7 @@ Shipping real work matters more than degrees.
 - [[Early Hustles - Moonshine, Fake YouTube, and a $50 PDF]] -- Hustled without any formal training
 - [[Quit Banking, Got Sued, Paid €15,000]] -- Banking credentials abandoned for self-taught marketing
 - [[Three Generations of Programmers - From Punch Cards to AI]] -- Programming legacy passed down through practice, not school
+- [[Learning English From Tupac and Satellite TV]] -- Learned English from rap and satellite TV during the Bosnian War
 
 ### 8. Underestimation as Advantage
 Low expectations give you room to experiment and over-deliver.
@@ -96,6 +105,8 @@ Don't judge a project by its launch metrics.
 - [[Claude Code - The Side Project That Got 2 Likes]] -- Got 2 likes at launch, became a major product
 - [[My First Million Nearly Died, Then Found Its Format]] -- Podcast nearly died before finding its format
 - [[15 Years of Reading Before Overnight Success]] -- 15 years of invisible preparation before breakout
+- [[The 2019 Crisis Year - One Thousand Dollars Total]] -- Earned $1,000 total in 2019 before becoming #1 LinkedIn creator
+- [[The Medium Post That Launched Everything]] -- viral Medium post became a $4M+/year media business
 - [[The Mystery CEO Call]] -- Made $4 the first month, then a CEO called
 - [[Six Months Invisible Before Traction]] -- Six months of posting with zero traction before growth kicked in
 
@@ -106,6 +117,8 @@ Go deep on one skill that powers everything.
 - [[Someone Should Write About This]] -- Deep TypeScript knowledge multiplied across book, career, and credibility
 - [[Screenwriter + Equity Analyst + CFA = Hidden Advantage]] -- Rare combo of screenwriting and finance created a unique edge
 - [[The Mystery CEO Call]] -- SEO mastery became the foundation for every venture
+- [[The Write Better Sell Better Framework]] -- 15 years of writing distilled into a LinkedIn content system
+- [[The Marketplace Growth Playbook]] -- Airbnb experience systematized into industry-standard frameworks
 
 ### 11. Watch What Users Do (Latent Demand)
 Workarounds and unexpected adoption are market signals.
@@ -150,6 +163,7 @@ Showing the human cost of ambition attracts loyalty.
 - [[Sobriety as a Business Advantage]] -- Sharing sobriety story turned vulnerability into credibility
 - [[Shit I''m Fucked Live Events]] -- Raw, unfiltered founder stories at live events
 - [[Founder Loneliness - Hampton's Origin Story]] -- Founder loneliness admission became the seed for Hampton
+- [[The Single Dad Driving Everything]] -- Single dad story on LinkedIn received 1,128 comments
 
 ### 15. Community Building
 How to create groups people pay to belong to.
@@ -190,6 +204,9 @@ Where you come from shapes what you build.
 - [[His Great-Grandfather Was Vietnam's Leading Independence Activist]] -- Family history of activism influenced his storytelling lens
 - [[The Airbnb Rejection That Sparked Everything]] -- Rejection origin story became a personal brand cornerstone
 - [[University AI Project to Secret AI User]] -- University AI project planted the seed for an AI-first career
+- [[From Rapper Bigga to Copywriter]] -- Rap career unknowingly trained every copywriting skill
+- [[Learning English From Tupac and Satellite TV]] -- Wartime childhood and hip-hop shaped a global career
+- [[From Ukraine at Age 6 to Silicon Valley Product Lead]] -- Ukrainian immigrant childhood to product lead
 
 ### 20. Finding Your People
 Cultural fit and belonging as force multipliers.
@@ -252,7 +269,6 @@ Create from genuine curiosity, not optimization.
 ### 27. Traffic Without Buying Intent Is Worthless
 Vanity metrics vs. actual revenue.
 
-- [[Ranked #1 in Google, Made No Money]] -- Ranked #1 on Google but made zero revenue
 - [[The Finance Website - €30K from Buying Intent]] -- Finance website with buying intent generated 30K euros
 - [[Latent Demand - How Facebook Marketplace Was Born]] -- Latent demand revealed the difference between traffic and intent
 - [[Sam's List - From a Tweet to $99.5K in Year One]] -- Tweet engagement with real buying intent became a product
@@ -264,6 +280,8 @@ An hour on your own project earns you for years; an hour of client work earns yo
 - [[The Finance Website - €30K from Buying Intent]] -- Finance website as a long-lived revenue-generating asset
 - [[$1K Salary at $22K MRR - The Portfolio as Runway]] -- Took a 1K salary because the portfolio was the real runway
 - [[Freelancing, Maserati, Not Happy]] -- Freelancing paid well but built nothing lasting
+- [[The One-Person Media Empire]] -- $4M+/year solo operation: newsletter, podcast, job board, community
+- [[Why He Didn't Write a Book]] -- chose newsletter ROI over book prestige
 
 ### 29. Platform Dependency and Survival
 When you build on someone else's platform, they can change the rules overnight.
@@ -287,6 +305,8 @@ Most creators underprice; raising prices is scary but necessary.
 - [[The Price Increase That Spiked Churn to 15% But Boosted MRR 50%]] -- 15% churn but 50% MRR increase after raising prices
 - [[Trends.co - $30K on Day One, $1.2M at Launch]] -- Trends product made 30K on day one at a premium price
 - [[Only Build What Passes Three Filters]] -- Seven-figure filter forces pricing courage
+- [[The Eight-Dollar-an-Hour Freelancer Who Stopped Sending Proposals]] -- From $8/hour to $500/hour by repositioning as strategist
+- [[Sixty-Five Thousand Dollars in Year One]] -- pricing at $15/month to "feel uncomfortable" rather than defaulting to $5
 
 ### 32. Remove All Friction from Growth
 Make it as easy as possible for people to share, sign up, and promote you.
@@ -336,6 +356,8 @@ Year one builds the foundation. Year two delivers the exponential payoff.
 - [[15 Years of Reading Before Overnight Success]] -- 15 years of reading before the "overnight" success
 - [[The HubSpot Deal - Radical Transparency as a Negotiation Weapon]] -- Trust built over time compounded into a major deal
 - [[The Price Increase That Spiked Churn to 15% But Boosted MRR 50%]] -- Year-two pricing courage delivered compounding MRR growth
+- [[LinkedIn Changed His Life in Two Years]] -- Zero to #1 LinkedIn creator in 2 years, then 340K+ followers
+- [[Sixty-Five Thousand Dollars in Year One]] -- $65K year one to $600K+ year two on Substack
 
 ### 38. Imperfection as Strategy
 When the default quality level rises, standing out means going rough.
@@ -351,6 +373,7 @@ Your audience's behavior tells you who's ready to buy.
 - [[The 70-20-10 Content Funnel]] -- Content funnel designed to surface purchase intent
 - [[The Finance Website - €30K from Buying Intent]] -- Buying intent in traffic converted to 30K euros
 - [[The Ambassador Program - 300K Subscribers from 4,000 Superfans]] -- Superfan behavior as the strongest sales signal
+- [[Linkbound - Building a SaaS From His Own Problem]] -- 93% response rate from warm leads vs 1-3% from cold outreach
 
 ### 40. Sponsorship Without Selling Out
 Integrating brand partnerships into genuine content.
