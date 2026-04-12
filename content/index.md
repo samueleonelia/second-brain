@@ -28,7 +28,6 @@ title: Index
 - [[@Jasmin Alic]]
 - [[@Lenny Rachitsky]]
 - [[@Sam Parr]]
-- [[@Themes]]
 - [[@Trung Phan]]
 - [[@Yannick Veys]]
 
