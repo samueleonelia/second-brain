@@ -289,6 +289,32 @@ function stackMobileSlipClick() {
   })
 }
 
+// Mobile: reset to homepage view (Index page + "now" slip)
+async function stackMobileLoadHome() {
+  const els = stackGetElements()
+  if (!els.paneLeft || !els.slip || !els.slipTitleEl) return
+
+  const data = await stackFetchPage("/")
+  if (!data) return
+
+  els.paneLeft.querySelector(".pane-content").innerHTML = data.content
+  els.paneLeft.setAttribute("data-slug", data.slug)
+
+  stackSlipTitle = "now"
+  stackSlipSlug = "now"
+  els.slipTitleEl.textContent = "now"
+  els.slip.setAttribute("data-slug", "now")
+  els.slip.classList.remove("hidden")
+
+  stackState = "SINGLE"
+  history.pushState(
+    { stackState: "SINGLE", leftSlug: data.slug, rightSlug: "", slipSlug: "now", slipTitle: "now" },
+    "",
+    "/"
+  )
+  stackNotifyContent()
+}
+
 // Click interceptor - capturing phase, fires before SPA router
 function stackClickHandler(e) {
   if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return
@@ -327,7 +353,7 @@ function stackClickHandler(e) {
 
   if (stackIsMobile()) {
     if (isHomeLink) {
-      stackMobileNav(new URL("/", window.location.origin))
+      stackMobileLoadHome()
     } else {
       stackMobileNav(resolvedUrl)
     }
