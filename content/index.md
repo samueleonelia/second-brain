@@ -29,6 +29,7 @@ title: Index
 - [[@Jasmin Alic]]
 - [[@Lenny Rachitsky]]
 - [[@Milly Tamati]]
+- [[@Packy McCormick]]
 - [[@Sam Parr]]
 - [[@Trung Phan]]
 - [[@Yannick Veys]]
