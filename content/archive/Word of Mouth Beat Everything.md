@@ -44,3 +44,4 @@ Lenny tested nearly every growth tactic in the newsletter playbook, and most fai
 - [[Share Everything for Free]] -- same philosophy, different platform (LinkedIn vs Substack)
 - [[Post and Ghost to Community Builder]] -- engagement-based growth vs pure content quality
 - [[The Pat Walls Content Swap That Got 5-10K Subscribers]] -- Alex Garcia: content-as-swap vs traditional cross-promotion
+- [[A Year Below One Thousand Subscribers]] -- Packy McCormick: same patience-and-quality lesson from the newsletter trenches

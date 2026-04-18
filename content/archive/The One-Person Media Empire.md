@@ -45,3 +45,5 @@ A $4M+ annual business run by one person with contractors. No co-founder, no emp
 - [[Tripled Revenue Without Writing a Line of Code]] -- layering revenue on existing audience
 - [[Taking on Harvard Business Review]] -- Alex Garcia: different vision for media scale (9-figure, team-based)
 - [[12,500 Pounds a Year - The Founder Salary That Built a Six-Figure Business]] -- Milly Tamati: solo-operator at opposite scale
+- [[The Accidental Flywheel]] -- Packy McCormick: similar solo-operator flywheel with venture fund layer
+- [[I Never Thought I Could Be an Investor]] -- Packy McCormick: newsletter-to-investing pipeline

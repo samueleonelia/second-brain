@@ -45,3 +45,4 @@ Building in public attracts both fans and competitors. That's the trade-off, and
 - [[Don't Watch the Competition]] -- Choosing to ignore competitors entirely and focus on your own product and users
 - [[Permissionless Creation vs. Hollywood Gatekeepers]] -- Building openly without asking for permission, even when it attracts copycats
 - [[The Alter Ego Controversy - Fake Writers with LinkedIn Profiles]] -- The trade-offs of transparency and creative growth tactics that can backfire
+- [[The Sponsor Deck Tweet That Sold Out Months of Ads]] -- Packy McCormick: build-in-public as monetization catalyst

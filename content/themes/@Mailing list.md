@@ -32,3 +32,6 @@ created: 2026-04-01
 16. [[The Onboarding Machine Behind Marketing Examined]] -- Sniper Links, 5-email gift, reply-to-confirm
 17. [[The Quiz That Brought 22,000 Subscribers]] -- Milly Tamati: quiz funnel driving 22K+ subscribers
 18. [[Two Years to Land Notion - The Sponsorship Patience Play]] -- Milly Tamati: newsletter sponsorship strategy
+19. [[A Year Below One Thousand Subscribers]] -- Packy McCormick: a year below 1K before hockey-stick growth
+20. [[The Sponsor Deck Tweet That Sold Out Months of Ads]] -- Packy McCormick: radical transparency to sell sponsorships
+21. [[The Product Hunt Launch That Tripled His List]] -- Packy McCormick: Product Hunt as newsletter growth lever

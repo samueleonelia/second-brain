@@ -101,5 +101,9 @@ created: 2026-04-01
     2. [[Big stories vs Interesting stories]]
        1. [[Big stories aren’t optimal]]
 
+26. [[The Ben Thompson Plus Bill Simmons Baby]] -- Packy McCormick: finding "voice-market fit" through Write of Passage
+27. [[Writing to Not Forget - The Grandmother with Alzheimers]] -- Packy McCormick: deeply personal motivation to write
+28. [[The Fund Raised with a Memo Not a Deck]] -- Packy McCormick: writing skill applied to VC fundraising
+
 **Biblio**
 * [[ß The Art and Business You of Online Writing]]

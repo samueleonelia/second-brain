@@ -46,4 +46,5 @@ The numbers tell two stories. Story one: $65K in year one sounds modest, especia
 - [[Word of Mouth Beat Everything]] -- how the subscriber base actually grew
 - [[3.7x Growth and 7x Salary - The Compounding Year]] -- same exponential year-two pattern
 - [[From Side Hustle to One Million ARR]] -- Alex Garcia: opposite monetization model (free + sponsorships vs paid subs)
+- [[The Sponsor Deck Tweet That Sold Out Months of Ads]] -- Packy McCormick: free + sponsors model with radical transparency
 - [[From 150 Per Year to 950 Lifetime - The Pricing Experiments]] -- Milly Tamati: lifetime model vs recurring subscriptions

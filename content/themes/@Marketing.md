@@ -34,3 +34,5 @@ created: 2026-04-01
 25. [[International Generalist Day - 87 Events in 35 Countries]] -- Milly Tamati: community-driven event scaling
 26. [[Two Years to Land Notion - The Sponsorship Patience Play]] -- Milly Tamati: 2-year sponsorship outreach
 27. [[The Community That Banned Self-Promotion]] -- Milly Tamati: culture-first community design
+28. [[The Sponsor Deck Tweet That Sold Out Months of Ads]] -- Packy McCormick: transparency as monetization tactic
+29. [[One Hundred Podcasts in Two Years]] -- Packy McCormick: podcast guest appearances as distribution strategy
