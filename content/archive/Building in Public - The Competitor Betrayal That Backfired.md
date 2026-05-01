@@ -6,9 +6,6 @@ sources:
   - https://baremetrics.com/blog/hypefury-growth
 unverified_claims:
   - Someone on their own team helped a competitor build a copycat product -- no online source found
-themes:
-  - permissionless-creation
-  - ignore-the-competition
 tags:
   - building-in-public
   - transparency

@@ -7,8 +7,6 @@ sources:
   - https://www.indiehackers.com/post/i-co-founded-hypefury-and-scaled-it-to-22k-mrr-ama-318a451a36
   - https://yannickv.gumroad.com/l/atoukk
   - https://yannickv.gumroad.com/l/ahvEV
-themes:
-  - remove-all-friction-from-growth
 tags:
   - lead-magnet
   - ebook

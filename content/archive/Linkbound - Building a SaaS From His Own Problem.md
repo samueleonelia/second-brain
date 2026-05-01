@@ -6,9 +6,6 @@ sources:
   - https://www.zendev.se/project/linkbound
   - https://www.hey-jay.com/about
   - https://mbf.hr/en/jasmin-alic/
-themes:
-  - linkedin
-  - marketing
 tags:
   - saas
   - warm-outreach

@@ -6,9 +6,6 @@ sources:
   - https://www.lennysnewsletter.com/p/sabbatical-time-off
   - https://hunterwalk.com/2020/04/17/did-i-intend-to-stay-there-for-seven-years-hells-no-but-man-its-a-tough-place-to-leave-five-questions-on-startups-newsletters-life-post-airbnb-w-lenny-rachitsky/
   - https://lifeofluba.substack.com/p/from-an-acquisition-by-airbnb-to
-themes:
-  - quit-strategically
-  - personal-growth
 tags:
   - sabbatical
   - airbnb

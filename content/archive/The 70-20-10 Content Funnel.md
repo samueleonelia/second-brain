@@ -4,9 +4,6 @@ type: permanent
 creator: charlie-hills
 sources:
   - https://charliehills.substack.com/p/how-i-reached-180k-on-linkedin-with
-themes:
-  - distribution-over-product
-  - engagement-signals-as-sales-pipeline
 tags:
   - linkedin
   - content-funnel

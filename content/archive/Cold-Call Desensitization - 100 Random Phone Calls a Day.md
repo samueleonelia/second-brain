@@ -5,9 +5,6 @@ creator: sam-parr
 sources:
   - https://www.forwardobsessed.com/episodes/sam-parr-hustle-hampton-my-first-million-podcast
   - https://jakobgreenfeld.com/sam
-themes:
-  - earn-trust-before-pitching
-  - presenting-ideas-and-persuasion
 tags:
   - cold-email
   - cold-calling

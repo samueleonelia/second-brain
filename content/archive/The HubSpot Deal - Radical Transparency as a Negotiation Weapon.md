@@ -4,10 +4,6 @@ type: permanent
 creator: sam-parr
 sources:
   - https://theygotacquired.com/podcast/sam-parr-the-hustle/
-themes:
-  - earn-trust-before-pitching
-  - compounding-returns-in-year-two
-  - sponsorship-without-selling-out
 tags:
   - acquisition
   - hubspot

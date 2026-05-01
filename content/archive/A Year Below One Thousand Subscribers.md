@@ -4,9 +4,6 @@ type: permanent
 creator: packy-mccormick
 sources:
   - https://growthinreverse.com/packy/
-themes:
-  - mailing-list
-  - how-can-i-become-a-writer
 tags:
   - newsletter
   - growth

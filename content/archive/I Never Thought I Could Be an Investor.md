@@ -6,8 +6,6 @@ sources:
   - https://mercury.com/blog/packy-mccormick-one-man-show
   - https://www.notboring.co/p/introducing-not-boring-capital
   - https://www.alexanderjarvis.com/vc-pitch-deck-not-boring-capital-fund-1/
-themes:
-  - build-assets-not-services
 tags:
   - venture-capital
   - investing

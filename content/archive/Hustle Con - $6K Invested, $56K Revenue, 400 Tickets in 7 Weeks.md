@@ -5,10 +5,6 @@ creator: sam-parr
 sources:
   - https://www.nevblog.com/hustlecon-2014/
   - https://growthinreverse.com/sam-parr/
-themes:
-  - skin-in-the-game
-  - quit-strategically
-  - the-byproduct-is-the-business
 tags:
   - live-events
   - hustle-con

@@ -6,9 +6,6 @@ sources:
   - https://www.linkedin.com/in/alex-garcia-294119159
   - https://x.com/alexgarcia_atx/status/1960681135404384711
   - https://x.com/alexgarcia_atx/status/1872762590947840006
-themes:
-  - marketing
-  - how-can-i-create-engaging-content
 tags:
   - social-shows
   - brand-content

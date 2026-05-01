@@ -5,8 +5,6 @@ creator: charlie-hills
 sources:
   - https://charliehills.substack.com/p/linkedin-google-gemini
   - https://charliehills.substack.com/p/ai-has-officially-surpassed-humans
-themes:
-  - ai-changes-the-game
 tags:
   - ai-tools
   - framework

@@ -4,9 +4,6 @@ type: permanent
 creator: sam-parr
 sources:
   - https://joinhampton.com/about-us
-themes:
-  - vulnerability-builds-connection
-  - community-building
 tags:
   - live-events
   - vulnerability

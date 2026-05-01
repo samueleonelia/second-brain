@@ -5,10 +5,6 @@ creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
   - https://eu.36kr.com/en/p/3727086198963080
-themes:
-  - finding-your-people
-  - community-building
-  - co-founder-dynamics
 tags:
   - greg-egan
   - sci-fi

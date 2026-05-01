@@ -4,8 +4,6 @@ type: permanent
 creator: trung-phan
 sources:
   - https://www.readtrung.com/p/im-making-a-tv-show
-themes:
-  - forced-constraints
 tags:
   - early-risers
   - tv-show

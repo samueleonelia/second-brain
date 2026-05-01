@@ -4,9 +4,6 @@ type: permanent
 creator: charlie-hills
 sources:
   - https://charliehills.substack.com/p/how-to-master-linkedin-in-2025
-themes:
-  - distribution-over-product
-  - simple-systems-beat-complex-ones
 tags:
   - linkedin
   - engagement

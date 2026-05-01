@@ -4,9 +4,6 @@ type: permanent
 creator: boris-cherny
 sources:
   - https://www.news.aakashg.com/p/taste-at-speed
-themes:
-  - ai-changes-the-game
-  - quality-over-quantity
 tags:
   - prototyping
   - taste

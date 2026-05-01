@@ -5,8 +5,6 @@ creator: trung-phan
 sources:
   - https://creatoreconomy.so/p/trung-phan-smart-threads-dumb-memes
   - https://www.libertyrpf.com/p/trung-phan-solving-the-twitter-puzzle
-themes:
-  - one-multiplier-skill
 tags:
   - screenwriting
   - cfa

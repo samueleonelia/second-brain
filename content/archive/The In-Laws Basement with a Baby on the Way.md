@@ -5,9 +5,6 @@ creator: packy-mccormick
 sources:
   - https://mercury.com/blog/packy-mccormick-one-man-show
   - https://growthinreverse.com/packy/
-themes:
-  - origin-stories-and-background-as-advantage
-  - why-does-a-career-matters
 tags:
   - risk
   - newsletter

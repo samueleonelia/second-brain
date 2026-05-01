@@ -7,8 +7,6 @@ sources:
   - https://salley.beehiiv.com/p/lenny-rachitsky-made-newsletter-lucrative-job-airbnb
   - https://airfocus.com/product-heroes/lenny-rachitsky/
   - https://lifeofluba.substack.com/p/from-an-acquisition-by-airbnb-to
-themes:
-  - origin-stories-and-background-as-advantage
 tags:
   - immigrant
   - ukraine

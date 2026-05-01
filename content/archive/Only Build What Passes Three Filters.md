@@ -4,9 +4,6 @@ type: permanent
 creator: sam-parr
 sources:
   - https://www.forwardobsessed.com/episodes/sam-parr-hustle-hampton-my-first-million-podcast
-themes:
-  - authenticity-over-algorithm
-  - pricing-courage
 tags:
   - decision-making
   - filters

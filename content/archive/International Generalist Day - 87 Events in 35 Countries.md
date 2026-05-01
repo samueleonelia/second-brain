@@ -6,8 +6,6 @@ sources:
   - https://www.renewvc.com/episodes/building-a-beautiful-business-life-with-milly-tamati-of-generalist-world
   - https://growthinreverse.com/milly-tamati/
   - https://www.generalistcareer.com/p/invited-international-generalist-day
-themes:
-  - marketing
 tags:
   - community-building
   - events

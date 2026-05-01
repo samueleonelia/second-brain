@@ -5,9 +5,6 @@ creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
   - https://lorenzhw.substack.com/p/not-stealing-these-8-lessons-from
-themes:
-  - ai-changes-the-game
-  - quality-over-quantity
 tags:
   - claude-code
   - vibe-coding

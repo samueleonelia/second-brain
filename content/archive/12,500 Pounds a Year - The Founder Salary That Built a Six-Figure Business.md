@@ -7,8 +7,6 @@ sources:
   - https://getlatka.com/companies/generalist.world#customers
   - https://thebootstrappedfounder.com/milly-tamati-the-power-and-potential-of-generalists/
   - https://www.renewvc.com/episodes/building-a-beautiful-business-life-with-milly-tamati-of-generalist-world
-themes:
-  - pricing-courage
 tags:
   - bootstrapping
   - founder-salary

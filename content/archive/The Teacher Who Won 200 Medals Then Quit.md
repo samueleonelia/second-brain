@@ -6,8 +6,6 @@ sources:
   - https://www.firstcustomerpodcast.com/2044430/episodes/14690481-the-first-customer-building-a-brand-by-betting-on-yourself-with-the-hey-jay-founder-jasmin-alic
   - https://www.hey-jay.com/blog/jasmin-alic-interview-forbes
   - https://www.linkupbyjasmin.com/about-jasmin-alic
-themes:
-  - personal-growth
 tags:
   - teaching
   - career-pivot

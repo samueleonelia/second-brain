@@ -4,8 +4,6 @@ type: permanent
 creator: charlie-hills
 sources:
   - https://charliehills.substack.com/p/stop-using-chatgpt
-themes:
-  - ai-changes-the-game
 tags:
   - ai-tools
   - chatgpt

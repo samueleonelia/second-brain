@@ -5,8 +5,6 @@ creator: lenny-rachitsky
 sources:
   - https://manual.compoundplanning.com/chapters/interview-with-lenny-rachitsky-writer-of-lennys-newsletter
   - https://nathanbarry.com/022-lenny-rachitsky-dark-side-paid-newsletters-talks/
-themes:
-  - how-can-i-create-engaging-content
 tags:
   - newsletter
   - content-format

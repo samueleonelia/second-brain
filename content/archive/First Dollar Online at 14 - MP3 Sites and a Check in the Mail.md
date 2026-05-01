@@ -5,8 +5,6 @@ creator: yannick-veys
 sources:
   - https://yannickveys.com/about/
   - https://traction.substack.com/p/yannick-co-founder-of-hypefury
-themes:
-  - starting-very-young
 tags:
   - mp3
   - websites

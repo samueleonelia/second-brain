@@ -5,8 +5,6 @@ creator: trung-phan
 sources:
   - https://creatoreconomy.so/p/trung-phan-smart-threads-dumb-memes
   - https://growthinreverse.com/trung-phan/
-themes:
-  - content-ideas-from-unexpected-sources
 tags:
   - twitter-threads
   - viral-content

@@ -4,12 +4,6 @@ type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
-themes:
-  - distribution-over-product
-  - build-for-yourself-first
-  - side-projects-as-career-accelerators
-  - imperfection-as-strategy
-  - remove-all-friction-from-growth
 tags:
   - undux
   - redux

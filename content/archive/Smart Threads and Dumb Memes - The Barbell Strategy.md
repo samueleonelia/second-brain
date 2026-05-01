@@ -5,9 +5,6 @@ creator: trung-phan
 sources:
   - https://creatoreconomy.so/p/trung-phan-smart-threads-dumb-memes
   - https://www.lxahub.com/stories/who-is-trung-phan
-themes:
-  - distribution-over-product
-  - imperfection-as-strategy
 tags:
   - twitter
   - memes

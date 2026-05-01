@@ -4,8 +4,6 @@ type: permanent
 creator: sam-parr
 sources:
   - https://growthinreverse.com/sam-parr/
-themes:
-  - distribution-over-product
 tags:
   - reddit
   - growth

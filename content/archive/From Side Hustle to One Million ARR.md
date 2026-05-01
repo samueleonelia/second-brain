@@ -6,9 +6,6 @@ sources:
   - https://www.starterstory.com/marketing-examined-breakdown
   - https://x.com/alexgarcia_atx/status/1739101080980480185
   - https://growthinreverse.com/alex-garcia/
-themes:
-  - mailing-list
-  - pricing-courage
 tags:
   - newsletter
   - revenue

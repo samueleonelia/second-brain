@@ -4,8 +4,6 @@ type: permanent
 creator: yannick-veys
 sources:
   - https://yannickveys.com/about/
-themes:
-  - traffic-without-buying-intent-is-worthless
 tags:
   - seo
   - proxy

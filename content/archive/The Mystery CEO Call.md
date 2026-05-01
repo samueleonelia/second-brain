@@ -6,11 +6,6 @@ sources:
   - https://yannickveys.com/about/
   - https://www.paddle.com/studios/shows/protect-the-hustle/hypefury-yannick-veys
   - personally-verified
-themes:
-  - build-for-yourself-first
-  - initial-reception-means-nothing
-  - one-multiplier-skill
-  - side-projects-as-career-accelerators
 tags:
   - digital-marketing
   - seo

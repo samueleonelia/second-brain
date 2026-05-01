@@ -6,9 +6,6 @@ sources:
   - https://www.indiehackers.com/post/i-co-founded-hypefury-and-scaled-it-to-22k-mrr-ama-318a451a36
   - https://www.indiehackers.com/post/flying-past-23k-mrr-in-2-years-hypefury-45f73f0c0a
   - https://baremetrics.com/blog/hypefury-growth
-themes:
-  - pricing-courage
-  - compounding-returns-in-year-two
 tags:
   - pricing
   - churn

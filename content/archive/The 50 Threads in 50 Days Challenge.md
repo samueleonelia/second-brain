@@ -6,9 +6,6 @@ sources:
   - https://threadreaderapp.com/thread/1400084794986221568.html
   - https://growthinreverse.com/challenges/
   - https://growthinreverse.com/alex-garcia/
-themes:
-  - twitter
-  - mailing-list
 tags:
   - twitter-threads
   - audience-growth

@@ -4,8 +4,6 @@ type: permanent
 creator: jasmin-alic
 sources:
   - https://www.hey-jay.com/blog/jasmin-alic-interview-forbes
-themes:
-  - personal-growth
 tags:
   - failure
   - pivot

@@ -7,8 +7,6 @@ sources:
   - https://growthinreverse.substack.com/p/the-5-biggest-takeaways-from-lennys
   - https://userpilot.com/blog/who-is-lenny-rachitsky/
   - https://nathanbarry.com/022-lenny-rachitsky-dark-side-paid-newsletters-talks/
-themes:
-  - build-assets-not-services
 tags:
   - solopreneur
   - newsletter

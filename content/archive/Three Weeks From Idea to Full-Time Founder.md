@@ -7,8 +7,6 @@ sources:
   - https://indiebites.com/68
   - https://www.portfoliocareerpodcast.com/milly-tamati
   - https://growthinreverse.com/milly-tamati/
-themes:
-  - marketing
 tags:
   - community-building
   - linkedin

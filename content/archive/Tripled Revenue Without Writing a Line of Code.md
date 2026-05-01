@@ -4,8 +4,6 @@ type: permanent
 creator: yannick-veys
 sources:
   - https://growthlessons.co/how-twitter-automation-platform-hypefury-went-from-0-to-4-4k-mrr-in-4-months/
-themes:
-  - revenue-without-new-features
 tags:
   - community
   - pricing

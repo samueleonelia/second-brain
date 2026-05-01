@@ -5,10 +5,6 @@ creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
   - https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens
-themes:
-  - watch-what-users-do
-  - the-byproduct-is-the-business
-  - ai-changes-the-game
 tags:
   - claude-code
   - data-science

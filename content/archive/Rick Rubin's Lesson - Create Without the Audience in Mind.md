@@ -4,9 +4,6 @@ type: permanent
 creator: trung-phan
 sources:
   - https://www.libertyrpf.com/p/trung-phan-solving-the-twitter-puzzle
-themes:
-  - authenticity-over-algorithm
-  - sponsorship-without-selling-out
 tags:
   - rick-rubin
   - creative-philosophy

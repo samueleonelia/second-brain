@@ -4,9 +4,6 @@ type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
-themes:
-  - simple-systems-beat-complex-ones
-  - authenticity-over-algorithm
 tags:
   - common-sense
   - career-advice

@@ -4,8 +4,6 @@ type: permanent
 creator: charlie-hills
 sources:
   - https://playground.lagrowthmachine.com/t/from-creator-to-closer-turning-authentic-ai-content-into-a-sales-engine-with-charlie-hills/4943
-themes:
-  - engagement-signals-as-sales-pipeline
 tags:
   - linkedin
   - sales

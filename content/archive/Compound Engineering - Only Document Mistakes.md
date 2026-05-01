@@ -6,9 +6,6 @@ sources:
   - https://getpushtoprod.substack.com/p/how-the-creator-of-claude-code-actually
   - https://lorenzhw.substack.com/p/not-stealing-these-8-lessons-from
   - https://howborisusesclaudecode.com
-themes:
-  - simple-systems-beat-complex-ones
-  - compound-engineering
 tags:
   - claude-md
   - documentation

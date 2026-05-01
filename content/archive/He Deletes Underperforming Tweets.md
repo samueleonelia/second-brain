@@ -4,8 +4,6 @@ type: permanent
 creator: trung-phan
 sources:
   - https://creatoreconomy.so/p/trung-phan-smart-threads-dumb-memes
-themes:
-  - quality-over-quantity
 tags:
   - twitter
   - curation

@@ -5,8 +5,6 @@ creator: lenny-rachitsky
 sources:
   - https://hunterwalk.com/2020/04/17/did-i-intend-to-stay-there-for-seven-years-hells-no-but-man-its-a-tough-place-to-leave-five-questions-on-startups-newsletters-life-post-airbnb-w-lenny-rachitsky/
   - https://www.lennysnewsletter.com/p/how-i-built-a-1m-subscriber-newsletter
-themes:
-  - build-assets-not-services
 tags:
   - books
   - roi

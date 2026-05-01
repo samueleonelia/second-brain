@@ -7,11 +7,6 @@ sources:
   - https://www.ycombinator.com/library/NJ-inside-claude-code-with-its-creator-boris-cherny
   - https://stationf.co/news/boris-cherny
   - https://www.teamday.ai/ai/boris-cherny-claude-code-year-one
-themes:
-  - build-for-yourself-first
-  - initial-reception-means-nothing
-  - ai-changes-the-game
-  - use-your-own-product-publicly
 tags:
   - claude-code
   - anthropic

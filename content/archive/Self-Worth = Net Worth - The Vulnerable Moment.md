@@ -4,8 +4,6 @@ type: permanent
 creator: sam-parr
 sources:
   - https://podcastnotes.org/my-first-million/how-to-actually-hit-your-goals-in-2026-my-first-million-with-sam-parr-shaan-puri-773/
-themes:
-  - vulnerability-builds-connection
 tags:
   - vulnerability
   - mental-health

@@ -4,9 +4,6 @@ type: permanent
 creator: sam-parr
 sources:
   - https://growthinreverse.com/sam-parr/
-themes:
-  - pricing-courage
-  - revenue-without-new-features
 tags:
   - pricing
   - presale

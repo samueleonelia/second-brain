@@ -4,9 +4,6 @@ type: permanent
 creator: jasmin-alic
 sources:
   - https://www.firstcustomerpodcast.com/2044430/episodes/14690481-the-first-customer-building-a-brand-by-betting-on-yourself-with-the-hey-jay-founder-jasmin-alic
-themes:
-  - marketing
-  - personal-growth
 tags:
   - fortune-500
   - self-doubt

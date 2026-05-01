@@ -5,9 +5,6 @@ creator: trung-phan
 sources:
   - https://growthinreverse.com/trung-phan/
   - https://creatoreconomy.so/p/trung-phan-smart-threads-dumb-memes
-themes:
-  - permissionless-creation
-  - platform-dependency-and-survival
 tags:
   - gatekeepers
   - hollywood

@@ -4,10 +4,6 @@ type: permanent
 creator: yannick-veys
 sources:
   - https://yannickveys.com/about/
-themes:
-  - traffic-without-buying-intent-is-worthless
-  - build-assets-not-services
-  - engagement-signals-as-sales-pipeline
 tags:
   - finance
   - seo

@@ -5,9 +5,6 @@ creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
   - https://borischerny.com/tech/2019/05/20/13-Tips-For-Writing-A-Technical-Book.html
-themes:
-  - forced-constraints
-  - side-projects-as-career-accelerators
 tags:
   - motorcycle-accident
   - typescript

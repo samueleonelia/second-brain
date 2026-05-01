@@ -6,9 +6,6 @@ sources:
   - https://growthinreverse.com/packy/
   - https://www.notboring.co/p/introducing-not-boring-capital
   - https://www.reidtandy.com/p/building-not-boring-a-conversation
-themes:
-  - distribution-over-product
-  - mailing-list
 tags:
   - flywheel
   - newsletter

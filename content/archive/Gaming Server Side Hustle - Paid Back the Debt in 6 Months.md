@@ -4,8 +4,6 @@ type: permanent
 creator: yannick-veys
 sources:
   - personally-verified
-themes:
-  - the-byproduct-is-the-business
 tags:
   - gaming
   - side-hustle

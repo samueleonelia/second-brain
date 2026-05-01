@@ -6,8 +6,6 @@ sources:
   - https://thebootstrappedfounder.com/milly-tamati-the-power-and-potential-of-generalists/
   - https://growthinreverse.com/milly-tamati/
   - https://www.oneknightinproduct.com/milly-tamati/
-themes:
-  - marketing
 tags:
   - community-building
   - slack

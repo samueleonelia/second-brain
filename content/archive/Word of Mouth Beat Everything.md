@@ -6,8 +6,6 @@ sources:
   - https://growthinreverse.substack.com/p/the-5-biggest-takeaways-from-lennys
   - https://nathanbarry.com/022-lenny-rachitsky-dark-side-paid-newsletters-talks/
   - https://manual.compoundplanning.com/chapters/interview-with-lenny-rachitsky-writer-of-lennys-newsletter
-themes:
-  - distribution-over-product
 tags:
   - word-of-mouth
   - growth

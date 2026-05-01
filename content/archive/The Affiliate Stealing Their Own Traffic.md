@@ -4,8 +4,6 @@ type: permanent
 creator: yannick-veys
 sources:
   - https://www.indiehackers.com/product/hypefury/6k-mrr-huge-affiliate-marketing-learning-for-you--M8P9XWpyqOHeZk4YtTl
-themes:
-  - growth-hacks-gone-wrong
 tags:
   - affiliate
   - google-ads

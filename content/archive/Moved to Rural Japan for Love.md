@@ -5,9 +5,6 @@ creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
   - https://borischerny.com/tech/2023/12/10/Working-Remotely.html
-themes:
-  - forced-constraints
-  - quit-strategically
 tags:
   - japan
   - instagram

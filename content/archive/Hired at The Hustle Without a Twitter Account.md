@@ -5,8 +5,6 @@ creator: trung-phan
 sources:
   - https://creatoreconomy.so/p/trung-phan-smart-threads-dumb-memes
   - https://fortheinterested.com/how-trung-phan-got-300k-twitter-followers-in-a-year/
-themes:
-  - underestimation-as-advantage
 tags:
   - twitter
   - the-hustle

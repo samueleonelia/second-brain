@@ -5,12 +5,6 @@ creator: sam-parr
 sources:
   - https://blog.marcoexperiences.com/samparr-0
   - https://joinhampton.com/about-us
-themes:
-  - vulnerability-builds-connection
-  - community-building
-  - finding-your-people
-  - revenue-without-new-features
-  - co-founder-dynamics
 tags:
   - loneliness
   - community

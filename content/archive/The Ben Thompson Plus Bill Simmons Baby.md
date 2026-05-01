@@ -5,9 +5,6 @@ creator: packy-mccormick
 sources:
   - https://www.reidtandy.com/p/building-not-boring-a-conversation
   - https://mercury.com/blog/packy-mccormick-one-man-show
-themes:
-  - how-can-i-become-a-writer
-  - how-can-i-create-engaging-content
 tags:
   - positioning
   - voice

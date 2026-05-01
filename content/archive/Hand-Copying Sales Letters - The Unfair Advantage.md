@@ -6,8 +6,6 @@ sources:
   - https://www.newsletterexamples.co/p/what-i-learned-taking-sam-parr-s-email-copywriting-course
   - https://copythat.com/
   - https://growthinreverse.com/sam-parr/
-themes:
-  - one-multiplier-skill
 tags:
   - copywriting
   - writing

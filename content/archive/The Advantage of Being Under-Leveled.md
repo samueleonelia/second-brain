@@ -5,8 +5,6 @@ creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
   - https://www.vibesparking.com/en/blog/ai/claude-code/career/2025-12-25-boris-cherny-claude-code-creator-career-insights/
-themes:
-  - underestimation-as-advantage
 tags:
   - meta
   - career-strategy

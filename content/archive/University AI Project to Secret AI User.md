@@ -4,8 +4,6 @@ type: permanent
 creator: charlie-hills
 sources:
   - https://www.buzzsprout.com/2317095/episodes/15451563-03-charlie-hills-shares-ai-strategies-how-to-build-newsletter-using-mega-prompt
-themes:
-  - origin-stories-and-background-as-advantage
 tags:
   - ai-tools
   - authenticity

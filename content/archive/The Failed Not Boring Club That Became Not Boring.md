@@ -4,8 +4,6 @@ type: permanent
 creator: packy-mccormick
 sources:
   - https://mercury.com/blog/packy-mccormick-one-man-show
-themes:
-  - origin-stories-and-background-as-advantage
 tags:
   - pivot
   - naming

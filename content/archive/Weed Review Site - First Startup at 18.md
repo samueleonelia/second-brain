@@ -5,11 +5,6 @@ creator: boris-cherny
 sources:
   - https://www.ycombinator.com/library/NJ-inside-claude-code-with-its-creator-boris-cherny
   - https://eu.36kr.com/en/p/3727086198963080
-themes:
-  - build-for-yourself-first
-  - no-formal-credentials-needed
-  - permissionless-creation
-  - starting-very-young
 tags:
   - weed-reviews
   - cannabis

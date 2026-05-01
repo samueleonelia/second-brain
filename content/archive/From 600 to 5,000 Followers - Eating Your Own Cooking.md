@@ -6,8 +6,6 @@ sources:
   - https://traction.substack.com/p/yannick-co-founder-of-hypefury
   - https://www.indiehackers.com/post/i-co-founded-hypefury-and-scaled-it-to-22k-mrr-ama-318a451a36
   - https://www.paddle.com/studios/shows/protect-the-hustle/hypefury-yannick-veys
-themes:
-  - use-your-own-product-publicly
 tags:
   - twitter
   - audience-growth

@@ -4,9 +4,6 @@ type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
-themes:
-  - ignore-the-competition
-  - authenticity-over-algorithm
 tags:
   - competition
   - codex

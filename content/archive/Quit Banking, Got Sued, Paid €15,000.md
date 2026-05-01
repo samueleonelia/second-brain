@@ -5,11 +5,6 @@ creator: yannick-veys
 sources:
   - https://yannickveys.com/about/
   - personally-verified
-themes:
-  - forced-constraints
-  - quit-strategically
-  - no-formal-credentials-needed
-  - skin-in-the-game
 tags:
   - banking
   - lawsuit

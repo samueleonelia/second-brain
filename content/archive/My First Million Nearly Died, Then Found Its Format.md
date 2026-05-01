@@ -4,8 +4,6 @@ type: permanent
 creator: sam-parr
 sources:
   - https://www.indiehackers.com/podcast/218-sam-parr-shaan-puri
-themes:
-  - initial-reception-means-nothing
 tags:
   - podcast
   - persistence

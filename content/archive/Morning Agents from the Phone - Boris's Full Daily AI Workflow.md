@@ -8,9 +8,6 @@ sources:
   - https://getpushtoprod.substack.com/p/how-the-creator-of-claude-code-actually
   - https://alexdharris.substack.com/p/how-the-creator-of-claude-code-ships
   - https://howborisusesclaudecode.com
-themes:
-  - ai-changes-the-game
-  - use-your-own-product-publicly
 tags:
   - claude-code
   - ai-workflow

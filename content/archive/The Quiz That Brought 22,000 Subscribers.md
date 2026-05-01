@@ -5,9 +5,6 @@ creator: milly-tamati
 sources:
   - https://www.beehiiv.com/blog/case-study-generalist-world
   - https://growthinreverse.com/milly-tamati/
-themes:
-  - mailing-list
-  - marketing
 tags:
   - quiz-funnel
   - tiktok

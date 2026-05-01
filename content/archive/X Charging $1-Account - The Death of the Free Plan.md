@@ -4,8 +4,6 @@ type: permanent
 creator: yannick-veys
 sources:
   - https://x.com/Yannick_Veys/status/1850872631093846437
-themes:
-  - platform-dependency-and-survival
 tags:
   - twitter
   - x-platform

@@ -6,9 +6,6 @@ sources:
   - https://www.hey-jay.com/speaking
   - https://www.linkupbyjasmin.com/about-jasmin-alic
   - https://mbf.hr/en/jasmin-alic/
-themes:
-  - personal-growth
-  - marketing
 tags:
   - public-speaking
   - keynotes

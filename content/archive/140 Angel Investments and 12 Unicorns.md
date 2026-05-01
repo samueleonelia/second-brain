@@ -5,8 +5,6 @@ creator: lenny-rachitsky
 sources:
   - https://www.lennysnewsletter.com/p/angel-investing
   - https://manual.compoundplanning.com/chapters/interview-with-lenny-rachitsky-writer-of-lennys-newsletter
-themes:
-  - side-projects-as-career-accelerators
 tags:
   - angel-investing
   - unicorns

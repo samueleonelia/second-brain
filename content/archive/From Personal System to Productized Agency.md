@@ -4,8 +4,6 @@ type: permanent
 creator: charlie-hills
 sources:
   - https://www.linked-agency.com/
-themes:
-  - use-your-own-product-publicly
 tags:
   - linkedin
   - ghostwriting

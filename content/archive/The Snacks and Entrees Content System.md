@@ -4,10 +4,6 @@ type: permanent
 creator: alex-garcia
 sources:
   - https://www.marketingexamined.com/blog/how-i-develop-my-content-strategy
-themes:
-  - how-can-i-create-engaging-content
-  - twitter
-  - mailing-list
 tags:
   - content-strategy
   - content-funnel

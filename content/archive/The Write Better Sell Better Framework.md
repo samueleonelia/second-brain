@@ -5,10 +5,6 @@ creator: jasmin-alic
 sources:
   - https://www.thefutur.com/content/mastering-the-linkedin-post
   - https://www.thefutur.com/content/adapting-to-linkedins-video-content-era---with-jasmin-alic
-themes:
-  - linkedin
-  - how-can-i-create-engaging-content
-  - how-can-i-become-a-writer
 tags:
   - copywriting
   - content-framework

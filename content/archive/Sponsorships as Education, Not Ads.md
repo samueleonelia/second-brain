@@ -4,8 +4,6 @@ type: permanent
 creator: charlie-hills
 sources:
   - https://www.favikon.com/blog/who-is-charlie-hills
-themes:
-  - sponsorship-without-selling-out
 tags:
   - sponsorships
   - monetization

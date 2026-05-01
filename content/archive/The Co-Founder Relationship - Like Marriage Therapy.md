@@ -5,8 +5,6 @@ creator: yannick-veys
 sources:
   - https://www.indiehackers.com/post/i-co-founded-hypefury-and-scaled-it-to-22k-mrr-ama-318a451a36
   - https://www.listenupih.com/hypefury/
-themes:
-  - co-founder-dynamics
 tags:
   - co-founder
   - partnership

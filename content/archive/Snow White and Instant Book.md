@@ -5,8 +5,6 @@ creator: lenny-rachitsky
 sources:
   - https://www.lennysnewsletter.com/p/what-seven-years-at-airbnb-taught
   - https://www.sharetribe.com/twosided/ep1-lenny-rachitsky-build-something-people-want/
-themes:
-  - build-for-yourself-first
 tags:
   - airbnb
   - product-strategy

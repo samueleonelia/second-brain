@@ -5,9 +5,6 @@ creator: milly-tamati
 sources:
   - https://www.creatorspotlight.com/p/milly-tamati
   - https://growthinreverse.com/milly-tamati/
-themes:
-  - linkedin
-  - how-can-i-create-engaging-content
 tags:
   - daily-posting
   - consistency

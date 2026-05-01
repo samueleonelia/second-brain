@@ -5,9 +5,6 @@ creator: alex-garcia
 sources:
   - https://growthinreverse.com/alex-garcia/
   - https://www.starterstory.com/marketing-examined-breakdown
-themes:
-  - mailing-list
-  - marketing
 tags:
   - newsletter-growth
   - content-swap

@@ -4,9 +4,6 @@ type: permanent
 creator: alex-garcia
 sources:
   - https://growthinreverse.com/optimized-onboarding/
-themes:
-  - mailing-list
-  - marketing
 tags:
   - email-onboarding
   - subscriber-retention

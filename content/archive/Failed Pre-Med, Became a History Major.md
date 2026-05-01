@@ -5,9 +5,6 @@ creator: trung-phan
 sources:
   - https://growthinreverse.com/trung-phan/
   - https://creatoreconomy.so/p/trung-phan-smart-threads-dumb-memes
-themes:
-  - forced-constraints
-  - no-formal-credentials-needed
 tags:
   - pre-med
   - history

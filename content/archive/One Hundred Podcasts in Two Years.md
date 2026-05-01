@@ -4,9 +4,6 @@ type: permanent
 creator: packy-mccormick
 sources:
   - https://growthinreverse.com/packy/
-themes:
-  - distribution-over-product
-  - marketing
 tags:
   - podcasts
   - distribution

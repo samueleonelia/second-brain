@@ -5,8 +5,6 @@ creator: trung-phan
 sources:
   - https://open.spotify.com/episode/3ancUeEgCZTN6ErzHSZOkT
   - https://growthinreverse.com/trung-phan/
-themes:
-  - skin-in-the-game
 tags:
   - vietnam
   - screenwriting

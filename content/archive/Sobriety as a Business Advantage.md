@@ -5,8 +5,6 @@ creator: sam-parr
 sources:
   - https://thehustle.co/6-things-learned-from-not-drinking-for-2-years
   - https://www.theantimba.com/having-fun-while-sober-and-how-to-develop-confidence/
-themes:
-  - vulnerability-builds-connection
 tags:
   - sobriety
   - health

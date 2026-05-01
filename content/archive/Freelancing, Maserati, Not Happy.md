@@ -5,9 +5,6 @@ creator: yannick-veys
 sources:
   - https://growthmarketer.co/yannick-veys-interview/
   - personally-verified
-themes:
-  - quit-strategically
-  - build-assets-not-services
 tags:
   - freelancing
   - consulting

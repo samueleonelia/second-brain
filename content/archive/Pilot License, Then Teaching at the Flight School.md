@@ -4,9 +4,6 @@ type: permanent
 creator: yannick-veys
 sources:
   - personally-verified
-themes:
-  - side-projects-as-career-accelerators
-  - origin-stories-and-background-as-advantage
 tags:
   - pilot-license
   - flight-school

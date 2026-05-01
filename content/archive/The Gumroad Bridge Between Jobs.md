@@ -6,8 +6,6 @@ sources:
   - https://www.starterstory.com/marketing-examined-breakdown
   - https://alexgarcia.gumroad.com/l/marketingexamined
   - https://creators.spotify.com/pod/profile/themarketingmillennials/episodes/64---Alex-Garcia-Gumroad-Growth-Marketing-Examined-e19vuor
-themes:
-  - infoproducts
 tags:
   - gumroad
   - paid-newsletter

@@ -4,8 +4,6 @@ type: permanent
 creator: sam-parr
 sources:
   - https://podcastnotes.org/below-the-line/parr/
-themes:
-  - simple-systems-beat-complex-ones
 tags:
   - philosophy
   - risk-taking

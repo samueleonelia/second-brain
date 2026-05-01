@@ -4,9 +4,6 @@ type: permanent
 creator: packy-mccormick
 sources:
   - https://growthinreverse.com/packy/
-themes:
-  - mailing-list
-  - marketing
 tags:
   - sponsorship
   - transparency

@@ -6,8 +6,6 @@ sources:
   - https://www.hey-jay.com/blog/jasmin-alic-interview-forbes
   - https://www.firstcustomerpodcast.com/2044430/episodes/14690481-the-first-customer-building-a-brand-by-betting-on-yourself-with-the-hey-jay-founder-jasmin-alic
   - https://medium.com/@snehatyagi18/how-jasmin-alic-built-a-multi-income-personal-brand-business-from-one-skill-009990735bf7
-themes:
-  - personal-growth
 tags:
   - fatherhood
   - motivation

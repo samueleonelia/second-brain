@@ -4,8 +4,6 @@ type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
-themes:
-  - earn-trust-before-pitching
 tags:
   - instagram
   - infrastructure-migration

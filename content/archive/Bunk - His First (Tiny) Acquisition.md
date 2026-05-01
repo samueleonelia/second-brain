@@ -4,8 +4,6 @@ type: permanent
 creator: sam-parr
 sources:
   - https://www.michelegargiulo.com/blog/sam-parr-biography-hustle-my-first-million
-themes:
-  - the-byproduct-is-the-business
 tags:
   - acquisition
   - startup

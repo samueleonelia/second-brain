@@ -4,9 +4,6 @@ type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
-themes:
-  - delegation-and-leverage
-  - content-ideas-from-unexpected-sources
 tags:
   - code-review
   - lint-rules

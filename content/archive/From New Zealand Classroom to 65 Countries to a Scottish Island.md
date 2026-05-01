@@ -6,8 +6,6 @@ sources:
   - https://thebootstrappedfounder.com/milly-tamati-the-power-and-potential-of-generalists/
   - https://indiebites.com/68
   - https://growthinreverse.com/milly-tamati/
-themes:
-  - why-does-a-career-matters
 tags:
   - generalist
   - career

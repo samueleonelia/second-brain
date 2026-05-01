@@ -5,9 +5,6 @@ creator: yannick-veys
 sources:
   - https://www.linkedin.com/pulse/how-my-seo-experiment-challenge-going-so-far-yannick-veys
   - https://yannickveys.com/how-to-grow-your-blog-to-make-a-living-with-it-from-scratch/
-themes:
-  - content-ideas-from-unexpected-sources
-  - quality-over-quantity
 tags:
   - seo
   - content

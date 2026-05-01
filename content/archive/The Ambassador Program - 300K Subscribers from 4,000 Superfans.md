@@ -4,11 +4,6 @@ type: permanent
 creator: sam-parr
 sources:
   - https://referralhero.com/blog/300k-super-fans-create-hustles-ambassador-program
-themes:
-  - distribution-over-product
-  - community-building
-  - remove-all-friction-from-growth
-  - engagement-signals-as-sales-pipeline
 tags:
   - referral-program
   - ambassadors

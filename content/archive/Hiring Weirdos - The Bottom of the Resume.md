@@ -5,8 +5,6 @@ creator: sam-parr
 sources:
   - https://www.forwardobsessed.com/episodes/sam-parr-hustle-hampton-my-first-million-podcast
   - https://www.indiehackers.com/podcast/108-sam-parr-of-the-hustle
-themes:
-  - finding-your-people
 tags:
   - hiring
   - culture

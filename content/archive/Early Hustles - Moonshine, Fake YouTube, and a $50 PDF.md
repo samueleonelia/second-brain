@@ -5,10 +5,6 @@ creator: sam-parr
 sources:
   - https://www.michelegargiulo.com/blog/sam-parr-biography-hustle-my-first-million
   - https://samp615.tumblr.com/post/45173300409/start-a-business-with-no-cash
-themes:
-  - no-formal-credentials-needed
-  - side-projects-as-career-accelerators
-  - starting-very-young
 tags:
   - hustle
   - arbitrage

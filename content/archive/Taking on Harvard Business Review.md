@@ -6,8 +6,6 @@ sources:
   - https://podcasts.apple.com/us/podcast/alex-garcia-on-taking-on-harvard-to-build-a-9/id1716289221?i=1000657955819
   - https://www.mentorpass.co/alexgarcia
   - https://www.starterstory.com/marketing-examined-breakdown
-themes:
-  - marketing
 tags:
   - media-company
   - vision

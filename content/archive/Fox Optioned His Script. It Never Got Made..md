@@ -5,9 +5,6 @@ creator: trung-phan
 sources:
   - https://www.readtrung.com/p/im-making-a-tv-show
   - https://growthinreverse.com/trung-phan/
-themes:
-  - forced-constraints
-  - permissionless-creation
 tags:
   - screenwriting
   - fox

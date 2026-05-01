@@ -5,8 +5,6 @@ creator: charlie-hills
 sources:
   - https://www.yahoo.com/lifestyle/articles/grew-linkedin-followers-over-100k-090701401.html
   - https://charliehills.substack.com/p/how-i-reached-180k-on-linkedin-with
-themes:
-  - distribution-over-product
 tags:
   - linkedin
   - engagement

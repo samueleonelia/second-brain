@@ -6,10 +6,6 @@ sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
   - https://www.cesarrg.com/weekly-retro-latent-demand-design-principle/
   - https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens
-themes:
-  - watch-what-users-do
-  - the-byproduct-is-the-business
-  - traffic-without-buying-intent-is-worthless
 tags:
   - facebook-marketplace
   - facebook-groups

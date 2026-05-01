@@ -5,9 +5,6 @@ creator: boris-cherny
 sources:
   - https://mezha.net/eng/bukvy/ukrainian-born-boris-cherniy-leads-ai-tool-claude-code-development-at-anthropic/
   - https://eu.36kr.com/en/p/3727086198963080
-themes:
-  - no-formal-credentials-needed
-  - origin-stories-and-background-as-advantage
 tags:
   - ukraine
   - odessa

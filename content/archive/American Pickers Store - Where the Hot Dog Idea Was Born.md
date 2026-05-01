@@ -4,8 +4,6 @@ type: permanent
 creator: sam-parr
 sources:
   - https://www.theantimba.com/about-sam-parr/
-themes:
-  - watch-what-users-do
 tags:
   - observation
   - hot-dogs

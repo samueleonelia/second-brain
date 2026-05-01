@@ -4,10 +4,6 @@ type: permanent
 creator: sam-parr
 sources:
   - https://samslist.co/about
-themes:
-  - watch-what-users-do
-  - build-for-yourself-first
-  - traffic-without-buying-intent-is-worthless
 tags:
   - validation
   - twitter

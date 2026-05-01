@@ -5,8 +5,6 @@ creator: milly-tamati
 sources:
   - https://thebootstrappedfounder.com/milly-tamati-the-power-and-potential-of-generalists/
   - https://www.oneknightinproduct.com/milly-tamati/
-themes:
-  - why-does-a-career-matters
 tags:
   - generalist
   - job-title

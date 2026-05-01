@@ -5,8 +5,6 @@ creator: lenny-rachitsky
 sources:
   - https://www.sharetribe.com/twosided/ep1-lenny-rachitsky-build-something-people-want/
   - https://userpilot.com/blog/who-is-lenny-rachitsky/
-themes:
-  - marketing
 tags:
   - marketplace
   - growth-frameworks

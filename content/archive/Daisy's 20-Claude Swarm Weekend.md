@@ -4,9 +4,6 @@ type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
-themes:
-  - delegation-and-leverage
-  - ai-changes-the-game
 tags:
   - claude-code
   - ai-swarm

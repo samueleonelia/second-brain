@@ -6,8 +6,6 @@ sources:
   - https://www.starterstory.com/marketing-examined-breakdown
   - https://readsom.com/newsletter/marketing-examined
   - https://www.mentorpass.co/alexgarcia
-themes:
-  - marketing
 tags:
   - agency
   - career-pivot

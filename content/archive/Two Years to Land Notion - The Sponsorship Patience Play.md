@@ -5,9 +5,6 @@ creator: milly-tamati
 sources:
   - https://growthinreverse.com/milly-tamati/
   - https://www.passionfroot.me/milly-from-generalist-world
-themes:
-  - marketing
-  - mailing-list
 tags:
   - sponsorship
   - brand-deals

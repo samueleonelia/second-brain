@@ -5,9 +5,6 @@ creator: trung-phan
 sources:
   - https://glasp.co/hatch/27rOwxVVtgM9Ss7tqaNTRC2l0e22/p/ahF6JuBxPcJDw6ixQfQJ
   - https://creatoreconomy.so/p/trung-phan-smart-threads-dumb-memes
-themes:
-  - content-ideas-from-unexpected-sources
-  - simple-systems-beat-complex-ones
 tags:
   - reddit
   - content-research

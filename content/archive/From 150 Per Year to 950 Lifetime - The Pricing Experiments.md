@@ -5,8 +5,6 @@ creator: milly-tamati
 sources:
   - https://growthinreverse.com/milly-tamati/
   - https://www.creatorspotlight.com/p/milly-tamati
-themes:
-  - pricing-courage
 tags:
   - pricing
   - community

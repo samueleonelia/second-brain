@@ -5,9 +5,6 @@ creator: alex-garcia
 sources:
   - https://www.starterstory.com/marketing-examined-breakdown
   - https://growthinreverse.com/alex-garcia/
-themes:
-  - mailing-list
-  - marketing
 tags:
   - the-hustle
   - hubspot

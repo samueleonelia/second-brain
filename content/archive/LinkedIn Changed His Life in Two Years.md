@@ -7,9 +7,6 @@ sources:
   - https://www.hey-jay.com/blog/jasmin-alic-interview-forbes
   - https://www.thefutur.com/content/mastering-the-linkedin-post
   - https://www.linkupbyjasmin.com/about-jasmin-alic
-themes:
-  - linkedin
-  - personal-growth
 tags:
   - platform-growth
   - linkedin-creator

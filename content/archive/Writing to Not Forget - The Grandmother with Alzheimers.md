@@ -4,9 +4,6 @@ type: permanent
 creator: packy-mccormick
 sources:
   - https://mercury.com/blog/packy-mccormick-one-man-show
-themes:
-  - how-can-i-become-a-writer
-  - personal-growth
 tags:
   - writing
   - memory

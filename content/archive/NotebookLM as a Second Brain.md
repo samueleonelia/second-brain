@@ -6,8 +6,6 @@ sources:
   - https://charliehills.substack.com/p/how-i-reached-180k-on-linkedin-with
   - https://charliehills.substack.com/p/linkedin-google-gemini
   - https://charliehills.substack.com/p/context-engineering
-themes:
-  - ai-changes-the-game
 tags:
   - ai-tools
   - notebooklm

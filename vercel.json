@@ -4,5 +4,9 @@
   "cleanUrls": true,
   "rewrites": [
     { "source": "/robots.txt", "destination": "/static/robots.txt" }
+  ],
+  "redirects": [
+    { "source": "/themes/:path*", "destination": "/archive/:path*", "permanent": true },
+    { "source": "/index", "destination": "/archive/@Index", "permanent": true }
   ]
 }

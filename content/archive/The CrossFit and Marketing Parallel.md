@@ -5,8 +5,6 @@ creator: alex-garcia
 sources:
   - https://x.com/alexgarcia_atx
   - https://www.mentorpass.co/alexgarcia
-themes:
-  - fitness
 tags:
   - crossfit
   - kollective

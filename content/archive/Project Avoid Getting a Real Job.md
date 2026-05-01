@@ -5,8 +5,6 @@ creator: lenny-rachitsky
 sources:
   - https://manual.compoundplanning.com/chapters/interview-with-lenny-rachitsky-writer-of-lennys-newsletter
   - https://hunterwalk.com/2020/04/17/did-i-intend-to-stay-there-for-seven-years-hells-no-but-man-its-a-tough-place-to-leave-five-questions-on-startups-newsletters-life-post-airbnb-w-lenny-rachitsky/
-themes:
-  - personal-growth
 tags:
   - sabbatical
   - exploration

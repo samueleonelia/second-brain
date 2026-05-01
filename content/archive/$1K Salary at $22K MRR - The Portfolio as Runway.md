@@ -4,8 +4,6 @@ type: permanent
 creator: yannick-veys
 sources:
   - https://www.indiehackers.com/post/i-co-founded-hypefury-and-scaled-it-to-22k-mrr-ama-318a451a36
-themes:
-  - build-assets-not-services
 tags:
   - mrr
   - salary

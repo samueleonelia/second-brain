@@ -4,9 +4,6 @@ type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
-themes:
-  - content-ideas-from-unexpected-sources
-  - watch-what-users-do
 tags:
   - user-research
   - facebook-groups

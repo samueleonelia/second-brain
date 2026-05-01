@@ -7,9 +7,6 @@ sources:
   - https://simonwillison.net/2025/Dec/27/boris-cherny/
   - https://getpushtoprod.substack.com/p/how-the-creator-of-claude-code-actually
   - https://howborisusesclaudecode.com
-themes:
-  - ai-changes-the-game
-  - simple-systems-beat-complex-ones
 tags:
   - claude-code
   - pull-requests

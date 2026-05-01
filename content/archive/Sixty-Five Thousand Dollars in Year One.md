@@ -6,8 +6,6 @@ sources:
   - https://on.substack.com/p/how-lenny-rachitsky-earned-65000
   - https://nathanbarry.com/022-lenny-rachitsky-dark-side-paid-newsletters-talks/
   - https://salley.beehiiv.com/p/lenny-rachitsky-made-newsletter-lucrative-job-airbnb
-themes:
-  - pricing-courage
 tags:
   - newsletter
   - substack

@@ -4,8 +4,6 @@ type: permanent
 creator: sam-parr
 sources:
   - https://www.theantimba.com/my-best-friend-died-and-this-is-for-him/
-themes:
-  - vulnerability-builds-connection
 tags:
   - vulnerability
   - personal-story

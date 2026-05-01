@@ -7,8 +7,6 @@ sources:
   - https://www.sharetribe.com/twosided/ep1-lenny-rachitsky-build-something-people-want/
   - https://lifeofluba.substack.com/p/from-an-acquisition-by-airbnb-to
   - https://airfocus.com/product-heroes/lenny-rachitsky/
-themes:
-  - side-projects-as-career-accelerators
 tags:
   - startup
   - acquisition

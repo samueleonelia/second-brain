@@ -7,9 +7,6 @@ sources:
   - https://www.linkedin.com/posts/alicjasmin_i-write-on-linkedin-for-a-deeper-reason-activity-7155884437103165441-tT3G
   - https://medium.com/@snehatyagi18/how-jasmin-alic-built-a-multi-income-personal-brand-business-from-one-skill-009990735bf7
   - https://www.thefutur.com/content/mastering-the-linkedin-post
-themes:
-  - marketing
-  - linkedin
 tags:
   - free-content
   - monetization

@@ -7,8 +7,6 @@ sources:
   - https://salley.beehiiv.com/p/lenny-rachitsky-made-newsletter-lucrative-job-airbnb
   - https://on.substack.com/p/how-lenny-rachitsky-earned-65000
   - https://growthinreverse.substack.com/p/the-5-biggest-takeaways-from-lennys
-themes:
-  - initial-reception-means-nothing
 tags:
   - medium
   - viral-post

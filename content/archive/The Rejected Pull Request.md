@@ -5,9 +5,6 @@ creator: boris-cherny
 sources:
   - https://programmerscareer.com/ai-native-engineering-claude-code/
   - https://eu.36kr.com/en/p/3727086198963080
-themes:
-  - forced-constraints
-  - ai-changes-the-game
 tags:
   - anthropic
   - pull-request

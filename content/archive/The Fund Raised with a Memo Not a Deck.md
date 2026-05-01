@@ -5,9 +5,6 @@ creator: packy-mccormick
 sources:
   - https://www.notboring.co/p/introducing-not-boring-capital
   - https://www.alexanderjarvis.com/vc-pitch-deck-not-boring-capital-fund-1/
-themes:
-  - how-can-i-become-a-writer
-  - build-assets-not-services
 tags:
   - venture-capital
   - memo
