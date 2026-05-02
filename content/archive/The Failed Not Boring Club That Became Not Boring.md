@@ -34,3 +34,4 @@ The name that defined one of Substack's biggest newsletters came from a failed s
 ## Related
 
 - [[The In-Laws Basement with a Baby on the Way]] -- same period, the personal stakes behind this pivot
+- [[The $48M VC-Backed Failure That Powered the Comeback]] -- Yossi Levi: a much larger failure that became the foundation of the next venture

@@ -32,3 +32,4 @@ The swap worked because it wasn't a swap in the traditional sense (cross-promoti
 
 - [[The 50 Threads in 50 Days Challenge]] -- another growth tactic that converted to subscribers
 - [[Word of Mouth Beat Everything]] -- similar principle: quality content as the growth lever
+- [[9,200 Subscribers from One-Way Substack Recommendations]] -- Tom Orbach: same "give value first" pattern, applied to recommendations

@@ -21,3 +21,6 @@ created: 2026-04-01
 7. [[The Snacks and Entrees Content System]] -- Alex Garcia: 3Ps Framework, content funnel architecture
 8. [[From Newsletter to Social Shows for Brands]] -- social-first shows as content strategy for brands
 9. [[1,000 Days of Posting Without Scheduling a Single One]] -- Milly Tamati: unscheduled daily content as brand-building
+10. [[The ABC Content System and 4-Week Sprints]] -- Yossi Levi: 16 content buckets and color-coded 4-week calendar
+11. [[The Insider-Tip Flywheel]] -- Yossi Levi: audience-supplied exclusives as a content engine
+12. [[The Market Rewards Asymmetrical, Scarce Insight]] -- Yossi Levi: scarcity as the content moat

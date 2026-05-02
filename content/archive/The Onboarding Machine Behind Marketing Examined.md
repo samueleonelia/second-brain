@@ -35,3 +35,5 @@ Most newsletter creators obsess over acquisition (how to get subscribers) and ig
 - [[The Snacks and Entrees Content System]] -- the content architecture that feeds into onboarding
 - [[From Side Hustle to One Million ARR]] -- the business these subscribers fuel
 - [[The Quiz That Brought 22,000 Subscribers]] -- Milly Tamati: quiz-based lead capture driving 22K+ subscribers
+- [[The Verify Your Signup Reply Trick]] -- Tom Orbach: simpler reply-to-confirm welcome flow for primary inbox placement
+- [[The 9-Day Launch Sequence Planned in Excel]] -- Tom Orbach: another mechanically careful email sequence

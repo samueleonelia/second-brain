@@ -38,3 +38,7 @@ Two years of outreach for a single sponsor sounds like a long time. But Milly wa
 
 - [[From Side Hustle to One Million ARR]] -- Alex Garcia: $65-75K/month sponsorship revenue at scale
 - [[The One-Person Media Empire]] -- Lenny Rachitsky: $2M podcast sponsorships in year one
+- [[9,200 Subscribers from One-Way Substack Recommendations]] -- Tom Orbach: same patience-and-receipts pattern, applied to recommendations
+- [[The 600 Decision-Makers Map]] -- Nathan May: the same finite-named-list outreach approach to a small B2B universe
+- [[The "Mind If I Add You?" LinkedIn DM]] -- Nathan May: faster cousin of the patience play — direct DM with named-peer social proof
+- [[The Sponsor Hunt That Almost Killed the Newsletter]] -- Jesse J. Anderson: contrast — sponsorships drained the creator and got abandoned for paid subs

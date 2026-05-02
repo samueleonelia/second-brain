@@ -36,3 +36,5 @@ The first six months of any platform are a trust-building exercise with the algo
 - [[Claude Code - The Side Project That Got 2 Likes]] -- initial reception means nothing
 - [[My First Million Nearly Died, Then Found Its Format]] -- patience before product-market fit
 - [[The Mystery CEO Call]] -- slow start, eventual payoff
+- [[The 2021 Boom That Faked Product-Market Fit]] -- Yossi Levi: the inverse, fake traction that hid the lack of PMF
+- [[CDG Was Built With Zero Paid Marketing]] -- Yossi Levi: organic-only growth as the structural choice that produces real signal

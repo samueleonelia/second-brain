@@ -39,3 +39,4 @@ Communities can smell marketing disguised as genuine engagement. The short-term 
 - [[Reddit Comments Are Gold Mines]] -- Extracting genuine value from Reddit by listening to what communities actually discuss
 - [[The Alter Ego Controversy - Fake Writers with LinkedIn Profiles]] -- Creative but ethically gray growth tactics that risk blowing up in your face
 - [[Beer with the Skeptics Before Pitching the Idea]] -- Earning trust before pitching by being genuinely present and helpful first
+- [[Let the Customer Be the Copywriter]] -- Nathan May: the productive way to use Reddit — extracting voice-of-customer language without manipulating the community

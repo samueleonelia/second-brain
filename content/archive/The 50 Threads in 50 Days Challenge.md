@@ -36,3 +36,6 @@ The 50-threads challenge is a compression strategy. Instead of posting sporadica
 
 - [[Twitter growth strategies]] -- platform tactics that enabled the challenge
 - [[1,000 Days of Posting Without Scheduling a Single One]] -- Milly Tamati: compressed daily challenge on LinkedIn
+- [[18,500 Tweets in 489 Days]] -- Yossi Levi: high-volume posting as the cold-start lever
+- [[4,000 Followers in 14 Hours from a Standing Start]] -- Yossi Levi: front-loaded engagement on Day 1
+- [[The 1,000-Person Waitlist Built Before Launch]] -- Tom Orbach: a different cold-start pre-positioning approach

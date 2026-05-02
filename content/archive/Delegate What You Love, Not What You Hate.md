@@ -41,3 +41,4 @@ Conventional wisdom says outsource the tasks you hate. Boris says the opposite: 
 - [[Never Tell Anyone What to Do]] -- enabling others rather than directing them
 - [[Daisy's 20-Claude Swarm Weekend]] -- delegation as leverage
 - [[Hiring Weirdos - The Bottom of the Resume]] -- finding the right people to delegate to
+- [[Never Delegate the Writing]] -- Nathan May: parallel rule for newsletters — never delegate the part that produces the leverage

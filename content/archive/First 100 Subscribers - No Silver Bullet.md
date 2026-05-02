@@ -39,3 +39,4 @@ The first 100 subscribers don't come from one channel. They come from a dozen ti
 - [[Six Months Invisible Before Traction]] -- the invisible early phase
 - [[The Mystery CEO Call]] -- making $4 the first month
 - [[Post and Ghost to Community Builder]] -- engagement before growth
+- [[First Question Is Monetization, Not Subscribers]] -- Nathan May: the strategic frame this tactical work fits inside

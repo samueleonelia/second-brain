@@ -36,3 +36,5 @@ The fastest way to monetize an audience is aggressive sponsorships. The fastest 
 - [[The HubSpot Deal - Radical Transparency as a Negotiation Weapon]] -- trust-first approach to business deals
 - [[Building in Public - The Competitor Betrayal That Backfired]] -- transparency as brand strategy
 - [[Don't Watch the Competition]] -- staying true to your own approach
+- [[Zero Dollars from a Single Car Brand]] -- Yossi Levi: an even stricter version, refusing money from one entire side of a market to protect impartiality
+- [[Free Stuff Better Than Their Paid Stuff]] -- Nathan May: same trust-first instinct, applied to whether to gate playbooks at all

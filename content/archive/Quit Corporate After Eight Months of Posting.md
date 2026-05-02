@@ -36,5 +36,4 @@ The best time to quit your job isn't when you're inspired. It's when the side pr
 - [[Freelancing, Maserati, Not Happy]] -- quitting what looks good on paper
 - [[The Airbnb Rejection That Sparked Everything]] -- forced departure as catalyst
 - [[Moved to Rural Japan for Love]] -- leaving stability for the unknown
-- [[The Teacher Who Won 200 Medals Then Quit]] -- quitting at peak performance, same platform
 - [[The Sabbatical That Killed His Airbnb Career]] -- sabbatical revealed the answer

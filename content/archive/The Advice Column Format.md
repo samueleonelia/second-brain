@@ -41,3 +41,4 @@ The advice column format solves two problems at once. First, it eliminates the "
 - [[Sixty-Five Thousand Dollars in Year One]] -- the revenue this format generated
 - [[Word of Mouth Beat Everything]] -- why quality content was the primary growth lever
 - [[Reddit Comments Are Gold Mines]] -- audience input as content idea source
+- [[Why Paid Newsletters Are Really, Really Hard]] -- Nathan May: the format fits the "jobs" niche he names as one of the four where paid works

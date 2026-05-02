@@ -35,3 +35,4 @@ Most creators quit during the trough between launch hype and real traction. MFM 
 - [[Claude Code - The Side Project That Got 2 Likes]] -- Boris's side project got almost zero initial reception but became significant later, proving early metrics are meaningless
 - [[15 Years of Reading Before Overnight Success]] -- Trung spent 15 years building skills before his "overnight" success, the same long grind before breakthrough
 - [[The Mystery CEO Call]] -- Yannick's slow start eventually compounded into something much bigger, mirroring MFM's trajectory
+- [[The 2021 Boom That Faked Product-Market Fit]] -- Yossi Levi: the inverse problem, market signals that masked the absence of real format-fit

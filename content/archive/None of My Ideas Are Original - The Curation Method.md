@@ -40,3 +40,4 @@ Originality is overrated as a content strategy. Harry built 130K subscribers by 
 - [[Reddit Comments Are Gold Mines]] -- sourcing content from other people's insights
 - [[The Salmon Sashimi Thread - 24K Likes from a Podcast Episode]] -- repackaging existing information into viral format
 - [[Someone Should Write About This]] -- writing the resource you wished existed
+- [[Borrowed His Anonymous Strategy from Strip Mall Guy]] -- Yossi Levi: copying the format and supplying it with material the original couldn't produce

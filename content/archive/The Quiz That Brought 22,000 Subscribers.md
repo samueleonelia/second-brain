@@ -39,3 +39,5 @@ Most lead magnets are PDFs that get downloaded and forgotten. Milly's quiz does 
 
 - [[The Onboarding Machine Behind Marketing Examined]] -- elaborate lead capture and onboarding system
 - [[Examples of lead magnet]] -- lead magnet types and effectiveness
+- [[The Product Hunt Win Disguised as a Gallery]] -- Tom Orbach: another funnel structure that exploits a platform's logic
+- [[The ADHD Strategy Guide PDF Lead Magnet]] -- Jesse J. Anderson: a different niche-specific lead magnet that delivered the first 1K subs

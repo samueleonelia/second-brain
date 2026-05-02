@@ -41,3 +41,4 @@ If you run an affiliate or referral program, explicitly prohibit affiliates from
 - [[$50M in Ad Spend Before Going Solo]] -- The paid marketing expertise that gave Yannick the instinct to catch this fraud
 - [[The One-Click Affiliate Button]] -- The affiliate program done right, with proper structure and incentives
 - [[Automate Your Code Reviews - The Lint Rule Spreadsheet]] -- Systematic observation and pattern recognition catching problems before they escalate
+- [[The Neuron - $1.80 Cheap Subs to Acquisition Target]] -- Nathan May: another case of the wrong upstream metric quietly destroying downstream revenue

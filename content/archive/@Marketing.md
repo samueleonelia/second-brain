@@ -36,3 +36,19 @@ created: 2026-04-01
 27. [[The Community That Banned Self-Promotion]] -- Milly Tamati: culture-first community design
 28. [[The Sponsor Deck Tweet That Sold Out Months of Ads]] -- Packy McCormick: transparency as monetization tactic
 29. [[One Hundred Podcasts in Two Years]] -- Packy McCormick: podcast guest appearances as distribution strategy
+30. [[The Microwave-in-the-Trunk Stunt That Built $28M in Sales]] -- Yossi Levi: stunt marketing as differentiation in a commodity market
+31. [[Zero Dollars from a Single Car Brand]] -- Yossi Levi: editorial impartiality as a long-term trust moat
+32. [[CDG Was Built With Zero Paid Marketing]] -- Yossi Levi: organic-only growth as the path to real product-market fit signal
+33. [[The 13-Minute Documentary That Doxxed Him on His Own Terms]] -- Yossi Levi: self-produced documentary to control a brand reveal narrative
+34. [[Viral Post Generator Sold in One Week]] -- Tom Orbach: reverse-engineered viral pattern, 2M users, acquired in 7 days
+35. [[The Wiz Drops Playbook]] -- Tom Orbach: 1 familiar format + 1 unexpected audience as B2B viral formula
+36. [[The Customer Certificates That 3x Social Shares]] -- Tom Orbach: recipient name as largest element
+37. [[Employee Advocacy - 100 Percent Work, 100 Percent Credit]] -- Tom Orbach: removing all friction from internal sharing
+38. [[Thompson's Law - Viral Is Just Broadcast]] -- Tom Orbach: viral spread comes from mega-accounts, not chain reactions
+39. [[The Reddit Ambassador Program]] -- Tom Orbach: paid superfans on a hostile-to-promotion channel
+40. [[The Product Hunt Win Disguised as a Gallery]] -- Tom Orbach: reframing positioning to fit a platform's logic
+41. [[Niche Within a Niche - The Wet-Dog-Food Agency]] -- Nathan May: hyper-specific positioning beats general positioning for B2B services
+42. [[The 600 Decision-Makers Map]] -- Nathan May: count actual buyers, not audience members, when selling high-ticket B2B
+43. [[The "Mind If I Add You?" LinkedIn DM]] -- Nathan May: LinkedIn DM script using social proof of named peers
+44. [[Free Stuff Better Than Their Paid Stuff]] -- Nathan May: open-sourcing playbooks as the highest-converting B2B trust mechanism
+45. [[Let the Customer Be the Copywriter]] -- Nathan May: voice-of-customer research from Reddit, organic social, internal data

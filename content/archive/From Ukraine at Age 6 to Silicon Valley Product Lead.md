@@ -38,4 +38,3 @@ Lenny's path from Ukrainian immigrant to Silicon Valley product lead took decade
 
 - [[The Sabbatical That Killed His Airbnb Career]] -- why he eventually left
 - [[The Localmind Founding and Acqui-Hire]] -- how he got into Airbnb
-- [[Learning English From Tupac and Satellite TV]] -- immigrant childhood shaping a global career

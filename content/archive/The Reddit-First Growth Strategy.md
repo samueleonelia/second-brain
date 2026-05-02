@@ -35,3 +35,4 @@ Most creators start with the platform where everyone else is competing. Sam star
 - [[The Undux Bicycle Campaign]] -- Boris went where users already gathered rather than trying to pull them somewhere new
 - [[Reddit Comments Are Gold Mines]] -- Trung also used Reddit as both a content source and growth engine for his work
 - [[The Ambassador Program - 300K Subscribers from 4,000 Superfans]] -- The ambassador program was Sam's next growth stage after Reddit plateaued
+- [[Let the Customer Be the Copywriter]] -- Nathan May: complementary use of Reddit as ad research, not just distribution

@@ -41,3 +41,4 @@ A viral project without a business model is a spectacle, not a business. But it'
 - [[The Airbnb Rejection That Sparked Everything]] -- failure as a redirect
 - [[Early Hustles - Moonshine, Fake YouTube, and a $50 PDF]] -- scrappy early projects before the real thing
 - [[Claude Code - The Side Project That Got 2 Likes]] -- side project that became the main thing
+- [[The Microwave-in-the-Trunk Stunt That Built $28M in Sales]] -- Yossi Levi: another low-budget stunt that produced disproportionate reach

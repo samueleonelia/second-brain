@@ -37,3 +37,6 @@ Your free content is your cheapest R&D department. Every post, every newsletter 
 - [[Tripled Revenue Without Writing a Line of Code]] -- monetizing existing content and audience
 - [[Latent Demand - How Facebook Marketplace Was Born]] -- observing demand before building
 - [[Why He Didn't Write a Book]] -- newsletter ROI beats book economics
+- [[Free Stuff Better Than Their Paid Stuff]] -- Nathan May: same "give it away first" instinct, applied to B2B services
+- [[The Media Mullet - Free Up Front, High-LTV Out Back]] -- Nathan May: the macro framework this validation pattern fits inside
+- [[First Question Is Monetization, Not Subscribers]] -- Nathan May: the upstream version — pick the back-of-mullet first

@@ -46,3 +46,7 @@ The numbers tell two stories. Story one: $65K in year one sounds modest, especia
 - [[From Side Hustle to One Million ARR]] -- Alex Garcia: opposite monetization model (free + sponsorships vs paid subs)
 - [[The Sponsor Deck Tweet That Sold Out Months of Ads]] -- Packy McCormick: free + sponsors model with radical transparency
 - [[From 150 Per Year to 950 Lifetime - The Pricing Experiments]] -- Milly Tamati: lifetime model vs recurring subscriptions
+- [[Two Years of Free Before the Paid Switch]] -- Tom Orbach: contrast - waited two years before any monetization
+- [[The Algorithmic Boost After Going Paid]] -- Tom Orbach: Substack's algorithm boosting paid creators
+- [[Why Paid Newsletters Are Really, Really Hard]] -- Nathan May: a real example of paid working at scale, and the rare conditions that allowed it
+- [[Patreon Quit, Substack Paid Won]] -- Jesse J. Anderson: same Substack paid model, activated casually after a failed Patreon

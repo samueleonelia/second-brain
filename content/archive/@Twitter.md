@@ -18,3 +18,8 @@ created: 2026-04-01
 4. [[Don’t fight on Twitter]]
 5. [[The 50 Threads in 50 Days Challenge]] -- Alex Garcia: 500 to 40K followers in 50 days
 6. [[The Snacks and Entrees Content System]] -- Alex Garcia: social content as "snacks" feeding newsletter "entrees"
+7. [[4,000 Followers in 14 Hours from a Standing Start]] -- Yossi Levi: Day 1 cold-start with 16 replies + 8 posts
+8. [[18,500 Tweets in 489 Days]] -- Yossi Levi: 37.8 tweets per day, mostly replies
+9. [[Borrowed His Anonymous Strategy from Strip Mall Guy]] -- Yossi Levi: anonymous account format borrowed and supplied with proprietary insight
+10. [[The Elon and Cathie Wood Retweets That Doubled His Following]] -- Yossi Levi: viral inflection point with newsletter CTAs underneath
+11. [[The Three-Stage Audience Reinvention - Consumer to Investor to B2B]] -- Yossi Levi: broad consumer wedge, then deliberate re-niching

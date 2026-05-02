@@ -36,3 +36,4 @@ A creative (if ethically gray) growth hack. The lesson isn't "create fake identi
 
 - [[Building in Public - The Competitor Betrayal That Backfired]] -- Yannick's experience shows the trade-offs of transparency, the opposite approach to Sam's fake personas
 - [[The Reddit-First Growth Strategy]] -- Another creative early-stage growth tactic Sam used when The Hustle had no brand recognition
+- [[Never Delegate the Writing]] -- Nathan May: the underlying principle — delegated writing breaks the founder-voice asset, even without fake personas

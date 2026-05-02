@@ -40,3 +40,5 @@ Your "overnight" breakthrough will be built on years of invisible preparation. T
 - [[My First Million Nearly Died, Then Found Its Format]] -- Grinding through a long trough of mediocre results before the format finally clicked
 - [[The Mystery CEO Call]] -- Small early results compounding over time into something significant
 - [[Hand-Copying Sales Letters - The Unfair Advantage]] -- Years of invisible, unglamorous practice building a skill that later became a decisive advantage
+- [[The 2021 Boom That Faked Product-Market Fit]] -- Yossi Levi: the inverse pattern, where rushed growth hid the absence of compounding foundation
+- [[1K to 10K Was Harder Than 10K to 100K]] -- Jesse J. Anderson: a shorter-arc version of the same compounding curve

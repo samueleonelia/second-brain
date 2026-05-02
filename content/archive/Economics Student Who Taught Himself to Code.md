@@ -43,4 +43,3 @@ Harry's competitive advantage isn't mastery in any one skill. It's the rare inte
 - [[Weed Review Site - First Startup at 18]] -- self-taught builder shipping early
 - [[Failed Pre-Med, Became a History Major]] -- unexpected academic path leading somewhere better
 - [[Screenwriter + Equity Analyst + CFA = Hidden Advantage]] -- rare skill combination as competitive edge
-- [[From Rapper Bigga to Copywriter]] -- previous career skills translating to a new field

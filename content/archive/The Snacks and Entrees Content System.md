@@ -40,3 +40,4 @@ The 90/10 split is the core insight. Garcia posts 9 pieces of pure value for eve
 
 - [[The 50 Threads in 50 Days Challenge]] -- the snacks strategy in extreme execution
 - [[The Onboarding Machine Behind Marketing Examined]] -- what happens after someone converts from snack to entree
+- [[Infographics That Add No Information]] -- Tom Orbach: another shareability-over-completeness format choice

@@ -39,3 +39,4 @@ You don't need to already have an audience to start building one. Trung went fro
 - [[The Advantage of Being Under-Leveled]] -- Starting from a low point can be liberating because there is no reputation to protect and every move is upside
 - [[The Indie Hackers Post - I'll Work for Free for 2 Months]] -- Beginning from nothing and offering value first to earn a foothold, similar to Trung arriving at The Hustle with zero following
 - [[15 Years of Reading Before Overnight Success]] -- The invisible preparation that made Trung's rapid Twitter growth possible once the opportunity arrived
+- [[From BCG and Mobile Apps to Newsletters via Two Singaporeans]] -- Nathan May: another sideways path into newsletter work, via consulting and mobile apps

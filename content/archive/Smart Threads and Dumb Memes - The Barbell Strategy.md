@@ -44,3 +44,5 @@ Don't choose between "serious" and "fun." Do both, deliberately. Light content k
 - [[The Content Stack - Memes > Threads > Newsletter > Product]] -- The full funnel view showing how memes and threads fit into the broader content stack leading to newsletter and products
 - [[The Undux Bicycle Campaign]] -- A deliberate distribution strategy designed to maximize reach, similar to the barbell's dual approach
 - [[The Ambassador Program - 300K Subscribers from 4,000 Superfans]] -- Layered growth engines that combine different mechanisms for both reach and retention
+- [[The Three-Stage Audience Reinvention - Consumer to Investor to B2B]] -- Yossi Levi: a sequential rather than barbell split between reach content and depth content
+- [[The ABC Content System and 4-Week Sprints]] -- Yossi Levi: a more granular formal system for typing content by purpose

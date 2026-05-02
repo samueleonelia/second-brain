@@ -37,3 +37,8 @@ Most newsletters that become massive had a period where they looked like failure
 - [[The In-Laws Basement with a Baby on the Way]] -- the personal stakes during the slow period
 - [[Word of Mouth Beat Everything]] -- Lenny Rachitsky: same lesson that quality and patience win
 - [[From Side Hustle to One Million ARR]] -- Alex Garcia: contrast with faster early growth trajectory
+- [[The Elon and Cathie Wood Retweets That Doubled His Following]] -- Yossi Levi: a different style of inflection point, contrasting with Packy's slow-build curve
+- [[CDG Was Built With Zero Paid Marketing]] -- Yossi Levi: another organic-only build that paid off in year two
+- [[Two Years of Free Before the Paid Switch]] -- Tom Orbach: same patience-pays-off pattern, applied to monetization
+- [[First Question Is Monetization, Not Subscribers]] -- Nathan May: the counterpoint — set 3-6 month kill criteria so patience doesn't become stubbornness
+- [[1K to 10K Was Harder Than 10K to 100K]] -- Jesse J. Anderson: same flat-feeling early segment, framed as the hardest part of the curve

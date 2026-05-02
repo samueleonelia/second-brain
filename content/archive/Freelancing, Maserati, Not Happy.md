@@ -41,5 +41,4 @@ Success without purpose feels hollow. Yannick had the income, the car, the clien
 - [[Moved to Rural Japan for Love]] -- Success on paper but searching for deeper meaning, leading to a leap into the unknown
 - [[Founder Loneliness - Hampton's Origin Story]] -- Achieving traditional success markers but feeling unfulfilled underneath
 - [[Only Build What Passes Three Filters]] -- Using "is it fun?" as the first filter for what to work on, not just what pays well
-- [[The Teacher Who Won 200 Medals Then Quit]] -- leaving a successful career because it wasn't going anywhere
 - [[The Sabbatical That Killed His Airbnb Career]] -- 7 years at a dream company, heart no longer in it

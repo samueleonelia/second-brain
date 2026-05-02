@@ -45,3 +45,4 @@ Build a funnel where each content type feeds the next. Free social content (meme
 - [[Smart Threads and Dumb Memes - The Barbell Strategy]] -- The social media layer of the stack in detail, explaining how memes and threads work together for retention and growth
 - [[The Ambassador Program - 300K Subscribers from 4,000 Superfans]] -- Layered audience building where different tiers of engagement serve different purposes
 - [[Hustle Con - $6K Invested, $56K Revenue, 400 Tickets in 7 Weeks]] -- A byproduct becoming the core business, similar to how Trung's social content feeds into his newsletter and products
+- [[The Media Mullet - Free Up Front, High-LTV Out Back]] -- Nathan May: a two-layer version of the same funnel logic, applied to newsletter businesses

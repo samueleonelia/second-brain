@@ -38,3 +38,4 @@ Garcia's revenue trajectory shows the newsletter sponsorship model at scale: at 
 - [[From 150 Per Year to 950 Lifetime - The Pricing Experiments]] -- Milly Tamati: community pricing vs newsletter sponsorships
 - [[Two Years to Land Notion - The Sponsorship Patience Play]] -- Milly Tamati: sponsorship strategy at smaller scale
 - [[The Sponsor Deck Tweet That Sold Out Months of Ads]] -- Packy McCormick: same free + sponsors model with transparency twist
+- [[The Media Mullet - Free Up Front, High-LTV Out Back]] -- Nathan May: the pattern this revenue model exemplifies

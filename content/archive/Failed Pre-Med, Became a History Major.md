@@ -34,3 +34,4 @@ Your "failed" first path often gives you the unusual combination of skills that 
 - [[Broke Both Arms, Discovered TypeScript]] -- A broken body forced a career detour that became the destination, just like Trung's academic failure redirected him toward storytelling
 - [[The Airbnb Rejection That Sparked Everything]] -- A clear rejection redirected energy toward something better, mirroring how Trung's pre-med failure opened the path to history and writing
 - [[Weed Review Site - First Startup at 18]] -- Built something real without formal credentials, proving that unconventional backgrounds can be strengths rather than weaknesses
+- [[From BCG and Mobile Apps to Newsletters via Two Singaporeans]] -- Nathan May: another stack of "wrong" career steps that compounded into a hidden moat

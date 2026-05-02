@@ -38,3 +38,4 @@ Content without a funnel is a hobby. Content with a funnel is a business. The 70
 - [[Smart Threads and Dumb Memes - The Barbell Strategy]] -- deliberate mix of content types
 - [[Trends.co - $30K on Day One, $1.2M at Launch]] -- converting free audience to paid
 - [[Tripled Revenue Without Writing a Line of Code]] -- monetizing existing audience
+- [[The ABC Content System and 4-Week Sprints]] -- Yossi Levi: a more granular formal system with 16 buckets and color-coded calendar

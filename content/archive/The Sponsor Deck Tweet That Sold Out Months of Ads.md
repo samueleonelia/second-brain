@@ -40,3 +40,7 @@ Radical transparency about money can be a growth lever, not a vulnerability. By 
 - [[Building in Public - The Competitor Betrayal That Backfired]] -- Yannick Veys: build-in-public as growth lever with different risks
 - [[From Side Hustle to One Million ARR]] -- Alex Garcia: same free-newsletter-plus-sponsors model at scale
 - [[Sixty-Five Thousand Dollars in Year One]] -- Lenny Rachitsky: opposite approach (paid subscriptions vs free + sponsors)
+- [[The Non-Calculatable Offer]] -- Tom Orbach: contrast - bundled obfuscation rather than radical transparency
+- [[Almost Bought The Neuron - Lost the Bid]] -- Nathan May: the same publish-the-private-business-artifact instinct, applied to a lost deal
+- [[Free Stuff Better Than Their Paid Stuff]] -- Nathan May: open-sourcing what others would charge for as a trust mechanic
+- [[The Welcome Section That Builds Status]] -- Nathan May: making private signals of demand publicly visible to drive more demand

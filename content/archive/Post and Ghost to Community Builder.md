@@ -39,6 +39,6 @@ Publishing is not participating. You can have the best content on the platform, 
 - [[The Ambassador Program - 300K Subscribers from 4,000 Superfans]] -- community as growth engine
 - [[Reddit Comments Are Gold Mines]] -- finding value in conversations, not just content
 - [[The 101 Viral Thread Hooks Giveaway]] -- giving value to get attention
-- [[LinkedIn Changed His Life in Two Years]] -- LinkedIn growth through daily consistency rather than engagement pivot
 - [[Three Weeks From Idea to Full-Time Founder]] -- Milly Tamati: community as business, different origin
 - [[The Community That Banned Self-Promotion]] -- Milly Tamati: anti-self-promotion community design
+- [[4,000 Followers in 14 Hours from a Standing Start]] -- Yossi Levi: the same engagement-vs-broadcast unlock applied to Twitter

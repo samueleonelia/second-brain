@@ -39,3 +39,6 @@ Sometimes the cost of leaving is high, but the cost of staying is higher. Yannic
 - [[Broke Both Arms, Discovered TypeScript]] -- A physical constraint became the catalyst for a career-defining skill, just as Yannick's lawsuit forced him into a new direction
 - [[Moved to Rural Japan for Love]] -- Leaving a stable, comfortable situation for the unknown, driven by something deeper than logic
 - [[Gaming Server Side Hustle - Paid Back the Debt in 6 Months]] -- The immediate aftermath: the gaming server opportunity that appeared because Yannick was free
+- [[The Personal Guarantee That Stole 2.5 Years of Sleep]] -- Yossi Levi: another founder forced to learn capital-structure mistakes the hard way
+- [[The $48M VC-Backed Failure That Powered the Comeback]] -- Yossi Levi: a much larger founder failure with a similar willingness to absorb the pain and move on
+- [[From BCG and Mobile Apps to Newsletters via Two Singaporeans]] -- Nathan May: leaving a credentialed corporate path (BCG) for an indie route

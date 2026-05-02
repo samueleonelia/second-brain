@@ -37,5 +37,4 @@ Most online communities die from the same disease: self-promotion drowns out gen
 
 ## Related
 
-- [[Share Everything for Free]] -- Jasmin Alic: free value as trust-builder, similar anti-sales philosophy
 - [[Post and Ghost to Community Builder]] -- community building as business model

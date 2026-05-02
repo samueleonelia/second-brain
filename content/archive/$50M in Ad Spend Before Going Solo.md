@@ -47,3 +47,6 @@ Working with big budgets at someone else's company teaches you lessons you can't
 - [[The Affiliate Stealing Their Own Traffic]] -- The expertise that let him catch the affiliate fraud instantly
 - [[Don't Watch the Competition]] -- Focusing on your own strengths and strategy instead of reacting to others
 - [[Screenwriter + Equity Analyst + CFA = Hidden Advantage]] -- Past careers providing hidden advantages that others cannot replicate
+- [[CDG Was Built With Zero Paid Marketing]] -- Yossi Levi: another founder who chose organic for their own thing after running paid at scale
+- [[The $48M VC-Backed Failure That Powered the Comeback]] -- Yossi Levi: past at-scale work as the credentialing engine for the next venture
+- [[Quality Beats Cheap CPL - 4-5x Engagement Lift]] -- Nathan May: at-scale ad operator who reached the opposite conclusion (use paid, but measure differently)

@@ -26,13 +26,16 @@ title: Index
 - [[@Alex Garcia]]
 - [[@Boris Cherny]]
 - [[@Charlie Hills]]
-- [[@Jasmin Alic]]
+- [[@Jesse J. Anderson]]
 - [[@Lenny Rachitsky]]
 - [[@Milly Tamati]]
+- [[@Nathan May]]
 - [[@Packy McCormick]]
 - [[@Sam Parr]]
+- [[@Tom Orbach]]
 - [[@Trung Phan]]
 - [[@Yannick Veys]]
+- [[@Yossi Levi]]
 
 ## Growth
 

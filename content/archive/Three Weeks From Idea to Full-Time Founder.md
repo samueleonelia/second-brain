@@ -38,3 +38,4 @@ Three weeks from idea to full-time commitment is unusually fast. But Milly wasn'
 
 - [[The Director of Miscellaneous]] -- the role that catalyzed the idea
 - [[Post and Ghost to Community Builder]] -- community as business, different origin path
+- [[The "Mind If I Add You?" LinkedIn DM]] -- Nathan May: another founder using LinkedIn DMs to reach high-value contacts directly

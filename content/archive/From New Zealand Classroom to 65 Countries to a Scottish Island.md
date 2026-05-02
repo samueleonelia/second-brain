@@ -32,6 +32,3 @@ She has been building businesses for approximately eight years, either her own o
 Milly's career reads like a series of random experiments, but each one built a different skill: hospitality, sales, design, teaching, operations. She had no language for what she was building until she discovered the word "generalist." The career that looked scattered from the outside was actually a compounding portfolio of transferable skills. The remote island wasn't a retreat from ambition. It became the headquarters of a six-figure business precisely because the work she built didn't require a city.
 
 ## Related
-
-- [[The Eight-Dollar-an-Hour Freelancer Who Stopped Sending Proposals]] -- scattered early career leading to breakout
-- [[The 2019 Crisis Year - One Thousand Dollars Total]] -- rock bottom before platform discovery

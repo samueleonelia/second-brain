@@ -34,3 +34,4 @@ A Product Hunt launch for a newsletter is unconventional, but that's what made i
 ## Related
 
 - [[A Year Below One Thousand Subscribers]] -- the slow growth period this launch helped break through
+- [[The Product Hunt Win Disguised as a Gallery]] -- Tom Orbach: same channel, but reframed as a "gallery" to bypass curation

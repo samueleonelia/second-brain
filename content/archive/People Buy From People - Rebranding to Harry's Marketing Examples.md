@@ -36,3 +36,4 @@ A faceless brand can produce good content, but a personal brand produces shareab
 - [[Post and Ghost to Community Builder]] -- shifting from faceless posting to personal engagement
 - [[If a Stranger Could Have Posted It, Delete It]] -- personal voice as differentiator
 - [[From 600 to 5,000 Followers - Eating Your Own Cooking]] -- personal brand as growth lever
+- [[The 13-Minute Documentary That Doxxed Him on His Own Terms]] -- Yossi Levi: another controlled brand reveal pivoting from faceless to personal

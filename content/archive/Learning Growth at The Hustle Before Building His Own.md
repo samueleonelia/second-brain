@@ -33,3 +33,4 @@ Garcia used his time at The Hustle the way Sam Parr used his time hand-copying s
 
 - [[The Austin Agency He Quit After Two and a Half Years]] -- the career step before The Hustle
 - [[From Side Hustle to One Million ARR]] -- the revenue that followed
+- [[The Saturday-Only Newsletter Behind a Full-Time Director Role]] -- Tom Orbach: same "use the day job to learn" pattern, kept the job

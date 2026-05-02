@@ -32,5 +32,3 @@ The events are organized by local community members, not by Milly's team. Genera
 International Generalist Day is a masterclass in community-driven scaling. Milly didn't organize 87 events. She created a date and a reason, and 25 (then 87) local hosts did the rest. The event costs the company almost nothing to run but generates massive brand visibility, media coverage, and member loyalty. It's the offline equivalent of user-generated content: give people a framework and let them build on it. The constraint (a two-person team on a remote island) became the design principle that made it work.
 
 ## Related
-
-- [[From Zero to Best Speaker at 32 Events]] -- Jasmin Alic: speaking-driven brand building

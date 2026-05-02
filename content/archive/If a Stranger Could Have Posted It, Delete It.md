@@ -36,4 +36,3 @@ AI makes it easy to produce content. It makes it harder to produce distinctive c
 - [[Don't Watch the Competition]] -- focus on your own voice
 - [[Smart Threads and Dumb Memes - The Barbell Strategy]] -- distinctive content strategy
 - [[Only Build What Passes Three Filters]] -- filtering for uniqueness
-- [[The Write Better Sell Better Framework]] -- signposting technique makes content untransferable

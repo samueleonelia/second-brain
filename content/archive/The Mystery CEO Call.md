@@ -41,4 +41,3 @@ Your "useless" past experience is someone else's goldmine. Yannick's banking bac
 - [[Screenwriter + Equity Analyst + CFA = Hidden Advantage]] -- A past career that seemed unrelated became the hidden advantage behind creative success
 - [[Claude Code - The Side Project That Got 2 Likes]] -- Starting with almost no traction (like Yannick's €4 first month) but compounding over time
 - [[15 Years of Reading Before Overnight Success]] -- Years of invisible preparation that looked like nothing until it suddenly paid off
-- [[The Digicel Fortune 500 Turning Point]] -- unexpected Fortune 500 call that redefines identity

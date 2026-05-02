@@ -31,3 +31,4 @@ Garcia's agency was succeeding by conventional metrics: growing, landing bigger 
 ## Related
 
 - [[Learning Growth at The Hustle Before Building His Own]] -- the next step after the agency
+- [[From BCG and Mobile Apps to Newsletters via Two Singaporeans]] -- Nathan May: pivot away from work that doesn't fit, even when it's succeeding

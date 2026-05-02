@@ -16,8 +16,7 @@ created: 2026-04-01
       2. [[LinekdIn story post]]
       3. [[LinkedIn resource post]]
 6. [[LinkedIn: to link or not to link]]
-7. [[LinkedIn Changed His Life in Two Years]] -- Jasmin Alic: zero to #1 creator in 2 years
-8. [[The Write Better Sell Better Framework]] -- Jasmin Alic: hook-rehook-signposting system
-9. [[Linkbound - Building a SaaS From His Own Problem]] -- warm outreach tool built on LinkedIn engagement
-10. [[Share Everything for Free]] -- Jasmin Alic: free content as top of funnel
-11. [[1,000 Days of Posting Without Scheduling a Single One]] -- Milly Tamati: 1,000+ day daily posting streak
+7. [[1,000 Days of Posting Without Scheduling a Single One]] -- Milly Tamati: 1,000+ day daily posting streak
+8. [[Drop Your Website - 650 Subs Per Post]] -- Tom Orbach: free-advice format that converts ~650 subs each time
+9. [[Viral Post Generator Sold in One Week]] -- Tom Orbach: reverse-engineered LinkedIn virality
+10. [[Employee Advocacy - 100 Percent Work, 100 Percent Credit]] -- Tom Orbach: pre-written posts + graphics for the LinkedIn share

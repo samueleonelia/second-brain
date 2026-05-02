@@ -39,3 +39,5 @@ The best content ideas are hiding in comment sections, not in headlines. While e
 - [[The Salmon Sashimi Thread - 24K Likes from a Podcast Episode]] -- A real example of a Reddit-sourced insight becoming a viral thread with 24K likes
 - [[Automate Your Code Reviews - The Lint Rule Spreadsheet]] -- Building curated, systematic processes for maximum efficiency, similar to Trung's streamlined 30-minute research routine
 - [[The Advice Column Format]] -- reader questions as content ideas, another audience-driven approach
+- [[The Insider-Tip Flywheel]] -- Yossi Levi: audience members supplying exclusive insider information as content fuel
+- [[Let the Customer Be the Copywriter]] -- Nathan May: same Reddit-as-source insight applied to ad hooks instead of content

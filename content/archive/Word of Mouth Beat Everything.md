@@ -39,7 +39,8 @@ Lenny tested nearly every growth tactic in the newsletter playbook, and most fai
 
 - [[The Advice Column Format]] -- the content approach that produced shareable quality
 - [[The Medium Post That Launched Everything]] -- the first viral piece that proved the model
-- [[Share Everything for Free]] -- same philosophy, different platform (LinkedIn vs Substack)
 - [[Post and Ghost to Community Builder]] -- engagement-based growth vs pure content quality
 - [[The Pat Walls Content Swap That Got 5-10K Subscribers]] -- Alex Garcia: content-as-swap vs traditional cross-promotion
 - [[A Year Below One Thousand Subscribers]] -- Packy McCormick: same patience-and-quality lesson from the newsletter trenches
+- [[Two Years of Free Before the Paid Switch]] -- Tom Orbach: free quality content as the trust-building base for paid monetization
+- [[I'd Rather Lose Every Other Channel Than Lose My Newsletter]] -- Jesse J. Anderson: email-as-core-asset framing of the same primacy
