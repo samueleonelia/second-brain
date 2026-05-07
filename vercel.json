@@ -3,6 +3,7 @@
   "outputDirectory": "public",
   "cleanUrls": true,
   "rewrites": [
+    { "source": "/", "destination": "/archive/@Index" },
     { "source": "/robots.txt", "destination": "/static/robots.txt" }
   ],
   "redirects": [
