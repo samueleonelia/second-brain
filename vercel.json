@@ -3,11 +3,11 @@
   "outputDirectory": "public",
   "cleanUrls": true,
   "rewrites": [
+    { "source": "/", "destination": "/index.html" },
     { "source": "/robots.txt", "destination": "/static/robots.txt" }
   ],
   "redirects": [
     { "source": "/themes/:path*", "destination": "/archive/:path*", "permanent": true },
-    { "source": "/index", "destination": "/archive/@Index", "permanent": true },
-    { "source": "/", "destination": "/archive/@Index", "permanent": true }
+    { "source": "/index", "destination": "/archive/@Index", "permanent": true }
   ]
 }
