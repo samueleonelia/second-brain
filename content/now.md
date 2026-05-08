@@ -2,6 +2,11 @@
 title: Now
 ---
 # Now
-_2025-04-04_
-- Working on the final touches of Cicero, my dictation app.
-- Testing how it is to work with Claude Code on VS Code instead of Wave Terminal.
+_2026-05-07_
+- Working on 
+	- The development of SOS Focus, a new to do app. The goal is to make it fully agentic.
+- Reading 
+	- House of Suns
+	- The Reopening of the Western Mind
+- Watching 
+	- For All Mankind
