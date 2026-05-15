@@ -38,3 +38,4 @@ The fastest way to monetize an audience is aggressive sponsorships. The fastest 
 - [[Don't Watch the Competition]] -- staying true to your own approach
 - [[Zero Dollars from a Single Car Brand]] -- Yossi Levi: an even stricter version, refusing money from one entire side of a market to protect impartiality
 - [[Free Stuff Better Than Their Paid Stuff]] -- Nathan May: same trust-first instinct, applied to whether to gate playbooks at all
+- [[Four Revenue Streams from One LinkedIn Audience]] -- Mischa Collins: brand deals as one of four stacked revenue streams on the same audience

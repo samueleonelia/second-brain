@@ -38,3 +38,5 @@ Best practices are averages. Your audience may not be average. The only way to k
 - [[The Finance Website - €30K from Buying Intent]] -- data pointing to non-obvious opportunities
 - [[He Deletes Underperforming Tweets]] -- data-driven content curation
 - [[Automate Your Code Reviews - The Lint Rule Spreadsheet]] -- systematic observation leading to action
+- [[Infographics 80K vs Lifestyle 5K Impressions]] -- Mischa Collins: same data-over-assumption approach to format
+- [[6K to 13K Followers After Three Years of Casual Posting]] -- Mischa Collins: weekly analytics review as core habit

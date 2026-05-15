@@ -37,3 +37,4 @@ Your worst rejection can be the catalyst for your best work. Sam's path from DUI
 - [[Quit Banking, Got Sued, Paid €15,000]] -- Yannick's forced exit from banking opened doors he never would have walked through voluntarily
 - [[The Rejected Pull Request]] -- Boris treated a rejected PR as useful signal rather than failure, reframing rejection as information
 - [[Sobriety as a Business Advantage]] -- The same DUI that cost Sam the Airbnb job became the trigger for the sobriety that sharpened his edge
+- [[The Layoff Post That Brought Two Clients]] -- Mischa Collins: same "forced exit becomes the catalyst" arc, applied to a layoff

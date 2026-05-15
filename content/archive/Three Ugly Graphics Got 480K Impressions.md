@@ -38,3 +38,4 @@ Polish is not a competitive advantage when everyone is polished. Pattern interru
 - [[The Salmon Sashimi Thread - 24K Likes from a Podcast Episode]] -- unexpected format outperforming
 - [[4-Hour Websites That Made €10K+ Each]] -- speed and simplicity over perfection
 - [[Smart Threads and Dumb Memes - The Barbell Strategy]] -- mixing formats strategically
+- [[Infographics 80K vs Lifestyle 5K Impressions]] -- Mischa Collins: same format-variable experiment, 16x impression gap

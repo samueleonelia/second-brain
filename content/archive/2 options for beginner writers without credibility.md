@@ -11,3 +11,7 @@ created: 2026-04-01
 # 2 options for beginner writers without credibility
 1. Curate experts.
 2. Go ultra specific.
+
+## Related
+
+- [[Permission Was the Problem, Not Expertise]] -- Mischa Collins: the wider version, "you don't need to be an expert, you need to start"

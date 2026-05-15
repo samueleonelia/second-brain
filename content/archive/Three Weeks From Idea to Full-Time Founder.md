@@ -39,3 +39,5 @@ Three weeks from idea to full-time commitment is unusually fast. But Milly wasn'
 - [[The Director of Miscellaneous]] -- the role that catalyzed the idea
 - [[Post and Ghost to Community Builder]] -- community as business, different origin path
 - [[The "Mind If I Add You?" LinkedIn DM]] -- Nathan May: another founder using LinkedIn DMs to reach high-value contacts directly
+- [[The Friendships Were the Real Return]] -- Mischa Collins: a different shape of peer community emerging from LinkedIn
+- [[The Mexico LinkedIn Influencer House]] -- Mischa Collins: the in-person counterpart to a virtual community

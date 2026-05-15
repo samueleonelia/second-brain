@@ -29,6 +29,7 @@ title: Index
 - [[@Jesse J. Anderson]]
 - [[@Lenny Rachitsky]]
 - [[@Milly Tamati]]
+- [[@Mischa Collins]]
 - [[@Nathan May]]
 - [[@Packy McCormick]]
 - [[@Sam Parr]]

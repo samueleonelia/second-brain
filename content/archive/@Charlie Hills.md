@@ -44,6 +44,7 @@ Charlie Hills is a LinkedIn creator and AI content strategist who grew from zero
 [[University AI Project to Secret AI User]] -- His AI journey started with a 2020 university research project, four years before his LinkedIn debut
 [[Kitchen X - The Food Tech Startup Before LinkedIn]] -- His food tech startup didn't make him famous but gave him the entrepreneurial muscle memory for everything after
 [[Quit Corporate After Eight Months of Posting]] -- He quit corporate marketing after eight months when LinkedIn revenue made the day job the bottleneck
+[[The Mexico LinkedIn Influencer House]] -- Mischa Collins names Charlie as part of the UK LinkedIn creator cluster that met in person in Mexico
 
 ## Monetization
 

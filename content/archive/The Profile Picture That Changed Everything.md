@@ -34,3 +34,4 @@ Sometimes the highest-leverage change is the simplest one. Most creators obsess 
 - [[The One-Click Affiliate Button]] -- tiny change, outsized impact
 - [[The Undux Bicycle Campaign]] -- simple tactic outperforming complex ones
 - [[Sam's List - From a Tweet to $99.5K in Year One]] -- small action leading to unexpected results
+- [[Everyone Overcomplicates LinkedIn - The Profile and Engagement System]] -- Mischa Collins: same 80% face profile photo advice as part of her profile audit

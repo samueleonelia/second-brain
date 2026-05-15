@@ -42,3 +42,5 @@ Publishing is not participating. You can have the best content on the platform, 
 - [[Three Weeks From Idea to Full-Time Founder]] -- Milly Tamati: community as business, different origin
 - [[The Community That Banned Self-Promotion]] -- Milly Tamati: anti-self-promotion community design
 - [[4,000 Followers in 14 Hours from a Standing Start]] -- Yossi Levi: the same engagement-vs-broadcast unlock applied to Twitter
+- [[The Friendships Were the Real Return]] -- Mischa Collins: peer creator engagement from inside the same UK LinkedIn cluster
+- [[Marketing Manager Job from Casual LinkedIn Posts]] -- Mischa Collins: a job offer landed through casual posting even without engagement

@@ -39,3 +39,4 @@ Most creators stop at content. They publish, check the likes, and move on. Charl
 - [[Cold-Call Desensitization - 100 Random Phone Calls a Day]] -- systematic outreach
 - [[The Finance Website - €30K from Buying Intent]] -- identifying intent signals
 - [[The One-Click Affiliate Button]] -- reducing friction between interest and action
+- [[LinkedIn Is a Revenue Engine, Not a Vanity Project]] -- Mischa Collins: same thesis, infrastructure-first (Folk CRM) rather than tool-first (Sales Navigator)

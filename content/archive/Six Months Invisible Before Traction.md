@@ -38,3 +38,5 @@ The first six months of any platform are a trust-building exercise with the algo
 - [[The Mystery CEO Call]] -- slow start, eventual payoff
 - [[The 2021 Boom That Faked Product-Market Fit]] -- Yossi Levi: the inverse, fake traction that hid the lack of PMF
 - [[CDG Was Built With Zero Paid Marketing]] -- Yossi Levi: organic-only growth as the structural choice that produces real signal
+- [[6K to 13K Followers After Three Years of Casual Posting]] -- Mischa Collins: 90-day acceleration after three "invisible" years
+- [[Tripled Monthly Income in 5 Months of Consistent Posting]] -- Mischa Collins: 99% of founders quit before compounding starts

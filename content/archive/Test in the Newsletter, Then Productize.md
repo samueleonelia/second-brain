@@ -40,3 +40,4 @@ Your free content is your cheapest R&D department. Every post, every newsletter 
 - [[Free Stuff Better Than Their Paid Stuff]] -- Nathan May: same "give it away first" instinct, applied to B2B services
 - [[The Media Mullet - Free Up Front, High-LTV Out Back]] -- Nathan May: the macro framework this validation pattern fits inside
 - [[First Question Is Monetization, Not Subscribers]] -- Nathan May: the upstream version — pick the back-of-mullet first
+- [[Four Revenue Streams from One LinkedIn Audience]] -- Mischa Collins: the productization side, stacking offers on an audience already shown to convert

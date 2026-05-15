@@ -39,3 +39,5 @@ Engagement isn't a feeling. It's an operating procedure. Charlie's circuit turns
 - [[Cold-Call Desensitization - 100 Random Phone Calls a Day]] -- systematic outreach as daily practice
 - [[The Ambassador Program - 300K Subscribers from 4,000 Superfans]] -- structured community engagement
 - [[Guerrilla User Research in the Cafeteria]] -- making a habit out of connecting with real people
+- [[Everyone Overcomplicates LinkedIn - The Profile and Engagement System]] -- Mischa Collins: nearly identical timed engagement structure
+- [[The Mexico LinkedIn Influencer House]] -- Mischa Collins: this routine is how Charlie and Mischa built relationships before meeting in person

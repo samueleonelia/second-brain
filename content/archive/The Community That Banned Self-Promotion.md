@@ -38,3 +38,5 @@ Most online communities die from the same disease: self-promotion drowns out gen
 ## Related
 
 - [[Post and Ghost to Community Builder]] -- community building as business model
+- [[The Friendships Were the Real Return]] -- Mischa Collins: an emergent peer-creator community that performs the same trust function without formal moderation
+- [[The Mexico LinkedIn Influencer House]] -- Mischa Collins: the in-person extension of an unmoderated creator peer network

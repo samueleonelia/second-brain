@@ -41,3 +41,4 @@ The most credible service you can sell is the one you visibly use on yourself. C
 - [[Claude Code - The Side Project That Got 2 Likes]] -- personal tool becoming a product
 - [[Trends.co - $30K on Day One, $1.2M at Launch]] -- packaging expertise into a paid product
 - [[Tripled Revenue Without Writing a Line of Code]] -- productizing existing knowledge
+- [[Four Revenue Streams from One LinkedIn Audience]] -- Mischa Collins: parallel productization, but stacked into four offers instead of one agency
