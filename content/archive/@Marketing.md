@@ -52,3 +52,6 @@ created: 2026-04-01
 43. [[The "Mind If I Add You?" LinkedIn DM]] -- Nathan May: LinkedIn DM script using social proof of named peers
 44. [[Free Stuff Better Than Their Paid Stuff]] -- Nathan May: open-sourcing playbooks as the highest-converting B2B trust mechanism
 45. [[Let the Customer Be the Copywriter]] -- Nathan May: voice-of-customer research from Reddit, organic social, internal data
+46. [[One Sponsor Instead of Many]] -- Kyla Scanlon: single anchor sponsor as a trust-protecting monetization model
+47. [[The Five-Platform Content Ecosystem]] -- Kyla Scanlon: resequenced multi-platform release schedule for solo operators
+48. [[From Substack Newsletter to NYT Bestseller]] -- Kyla Scanlon: load-bearing essay as the path from newsletter to book deal

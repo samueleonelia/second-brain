@@ -24,3 +24,5 @@ created: 2026-04-01
 10. [[The ABC Content System and 4-Week Sprints]] -- Yossi Levi: 16 content buckets and color-coded 4-week calendar
 11. [[The Insider-Tip Flywheel]] -- Yossi Levi: audience-supplied exclusives as a content engine
 12. [[The Market Rewards Asymmetrical, Scarce Insight]] -- Yossi Levi: scarcity as the content moat
+13. [[Writing TikToks as Poems]] -- Kyla Scanlon: short-form scripts written as poems, not compressed prose
+14. [[The Five-Platform Content Ecosystem]] -- Kyla Scanlon: resequenced release across five surfaces as a solo operator

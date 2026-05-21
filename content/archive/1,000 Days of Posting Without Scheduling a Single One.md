@@ -37,3 +37,4 @@ She has built 20,000+ LinkedIn followers and 35,000+ TikTok followers through th
 - [[18,500 Tweets in 489 Days]] -- Yossi Levi: another high-volume daily streak, Twitter-native and reply-heavy
 - [[Drop Your Website - 650 Subs Per Post]] -- Tom Orbach: contrast - explicit-ask format vs daily presence without asks
 - [[Employee Advocacy - 100 Percent Work, 100 Percent Credit]] -- Tom Orbach: contrast - employee-led vs leader-led posting cadence
+- [[The Five-Platform Content Ecosystem]] -- Kyla Scanlon: contrast - multi-platform resequenced release vs single-channel daily presence

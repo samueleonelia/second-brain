@@ -41,3 +41,4 @@ There is no version of "Twitter growth in 28 months to 455K followers" that does
 - [[Six Months Invisible Before Traction]] -- the patience required for volume to compound
 - [[The 60-Minute Daily Engagement Circuit]] -- a structured daily routine that produces high reply volume
 - [[The Atomic Essays That Became Extra Focus]] -- Jesse J. Anderson: another "writing constraint produced the content" origin story
+- [[The Five-Platform Content Ecosystem]] -- Kyla Scanlon: opposite strategy — multi-platform breadth as a solo operator, slower growth on each surface

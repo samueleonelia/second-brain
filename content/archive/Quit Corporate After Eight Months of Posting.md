@@ -38,3 +38,4 @@ The best time to quit your job isn't when you're inspired. It's when the side pr
 - [[Moved to Rural Japan for Love]] -- leaving stability for the unknown
 - [[The Sabbatical That Killed His Airbnb Career]] -- sabbatical revealed the answer
 - [[The Layoff Post That Brought Two Clients]] -- Mischa Collins: opposite trigger; forced exit rather than choice, but same data-driven freelance launch
+- [[Regret Minimization When She Quit Capital Group]] -- Kyla Scanlon: opposite framing — left without proof of revenue, using regret-minimization rather than data

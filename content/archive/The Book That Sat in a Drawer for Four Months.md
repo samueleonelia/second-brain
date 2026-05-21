@@ -41,3 +41,4 @@ When initial enthusiasm fades and the project quietly disappears for four months
 - [[The Wall-of-Text Page He Couldn't Get Past]] -- what shaped how the book was actually designed
 - [[The Atomic Essays That Became Extra Focus]] -- the writing-with-external-cadence pattern earlier in his career
 - [[The Trash Whiteboard That Reframed a Marriage]] -- another "outsource the prompt" fix
+- [[From Substack Newsletter to NYT Bestseller]] -- Kyla Scanlon: the inverse pattern — the publisher came to her because a single essay was already load-bearing

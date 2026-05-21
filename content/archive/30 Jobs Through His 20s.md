@@ -37,3 +37,4 @@ A pattern you can't name controls you. Jesse cycled through 30 jobs over a decad
 - [[The T-Shirt Tag Aha]] -- the moment the pattern got a name
 - [[The Trash Whiteboard That Reframed a Marriage]] -- the same brain pattern, fixed at home
 - [[The Sponsor Hunt That Almost Killed the Newsletter]] -- the pattern recurring in the creator career
+- [[The Louisville Car Dealership That Sparked the Mission]] -- Kyla Scanlon: a contrasting "pre-creator job" story where a single internship surfaced a clean mission rather than a pattern

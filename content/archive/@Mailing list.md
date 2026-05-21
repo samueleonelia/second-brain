@@ -69,3 +69,5 @@ created: 2026-04-01
 53. [[I'd Rather Lose Every Other Channel Than Lose My Newsletter]] -- Jesse J. Anderson: newsletter-as-only-irreplaceable-asset
 54. [[Patreon Quit, Substack Paid Won]] -- Jesse J. Anderson: failed Patreon, casual Substack paid flip
 55. [[The Sponsor Hunt That Almost Killed the Newsletter]] -- Jesse J. Anderson: sponsorship drain as the burnout trigger
+56. [[From Substack Newsletter to NYT Bestseller]] -- Kyla Scanlon: one viral newsletter post → NYT op-ed → Penguin Random House book deal
+57. [[One Sponsor Instead of Many]] -- Kyla Scanlon: "support this work" Substack model with no paywall, one anchor sponsor on video/podcast

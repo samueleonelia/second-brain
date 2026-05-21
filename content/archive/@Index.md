@@ -26,7 +26,9 @@ title: Index
 - [[@Alex Garcia]]
 - [[@Boris Cherny]]
 - [[@Charlie Hills]]
+- [[@Dan Shipper]]
 - [[@Jesse J. Anderson]]
+- [[@Kyla Scanlon]]
 - [[@Lenny Rachitsky]]
 - [[@Milly Tamati]]
 - [[@Mischa Collins]]
@@ -57,6 +59,10 @@ title: Index
 - [[@The state]]
 - [[@What is a moral life]]
 - [[@What is a romantic relationship]]
+
+## Software and AI
+
+- [[@Agent-Native Software]]
 
 ## Work and Career
 

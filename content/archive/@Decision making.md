@@ -35,3 +35,4 @@ created: 2026-04-01
 10. [[Combine Positive and Negative thinking]]
 11. [[Prediction and comprehension]]
     1. [[Prediction and risk]]
+12. [[Regret Minimization When She Quit Capital Group]] -- Kyla Scanlon: pro/con list reframed as regret-minimization with no safety net

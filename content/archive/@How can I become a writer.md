@@ -104,6 +104,9 @@ created: 2026-04-01
 26. [[The Ben Thompson Plus Bill Simmons Baby]] -- Packy McCormick: finding "voice-market fit" through Write of Passage
 27. [[Writing to Not Forget - The Grandmother with Alzheimers]] -- Packy McCormick: deeply personal motivation to write
 28. [[The Fund Raised with a Memo Not a Deck]] -- Packy McCormick: writing skill applied to VC fundraising
+29. [[40 Percent of the Day Reading]] -- Kyla Scanlon: input rate as the ceiling on writing output
+30. [[Writing TikToks as Poems]] -- Kyla Scanlon: short-form scripts written in a different genre, not as compressed prose
+31. [[From Substack Newsletter to NYT Bestseller]] -- Kyla Scanlon: load-bearing essay as the path from newsletter to book
 
 **Biblio**
 * [[ß The Art and Business You of Online Writing]]
