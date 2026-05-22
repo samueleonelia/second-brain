@@ -39,3 +39,4 @@ A clean offer ("$X for emails") is a calculator problem your subscriber re-runs 
 - [[The 9-Day Launch Sequence Planned in Excel]] -- how the bundle was rolled out
 - [[The Algorithmic Boost After Going Paid]] -- the unexpected aftermath
 - [[The Sponsor Deck Tweet That Sold Out Months of Ads]] -- Packy McCormick: contrast - direct transparency vs Tom's bundled obfuscation
+- [[Pay Once for the Library, Not to Keep Me Writing]] -- Olivia Wickstrom: same "escape per-email math" logic, framed as paid-tier access to a growing archive

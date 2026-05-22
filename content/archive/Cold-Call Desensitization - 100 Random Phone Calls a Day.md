@@ -39,3 +39,4 @@ Most creators avoid outreach because rejection hurts. Sam made rejection meaning
 - [[Beer with the Skeptics Before Pitching the Idea]] -- Boris overcame resistance to difficult conversations by proactively seeking out skeptics
 - [[The HubSpot Deal - Radical Transparency as a Negotiation Weapon]] -- Sam's directness in the HubSpot negotiation came from years of desensitizing himself to uncomfortable conversations
 - [[The Indie Hackers Post - I'll Work for Free for 2 Months]] -- Yannick made a bold move to break through, similar to Sam's willingness to face rejection head-on
+- [[1,500 Cold Pitches at One-in-Two-Hundred]] -- Olivia Wickstrom: similar high-volume cold outreach bootstrap, applied to freelance writing acquisition

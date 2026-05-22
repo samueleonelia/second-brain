@@ -42,3 +42,5 @@ Two years of free is the unfair advantage you can't fake. When 500 people pay yo
 - [[Word of Mouth Beat Everything]] -- Lenny Rachitsky: same "quality builds the trust" lesson
 - [[A Year Below One Thousand Subscribers]] -- Packy McCormick: a different version of patience paying off
 - [[Patreon Quit, Substack Paid Won]] -- Jesse J. Anderson: a faster, more casual paid switch that worked because the audience was already there
+- [[The $459 Post She Almost Paywalled]] -- Olivia Wickstrom: the same "free as engine of paid" logic, with the conversion math made explicit
+- [[Pay Once for the Library, Not to Keep Me Writing]] -- Olivia Wickstrom: the reframe that operationalizes the trust earned during the free period

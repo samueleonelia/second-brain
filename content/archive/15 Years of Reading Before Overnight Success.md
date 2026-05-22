@@ -44,3 +44,4 @@ Your "overnight" breakthrough will be built on years of invisible preparation. T
 - [[1K to 10K Was Harder Than 10K to 100K]] -- Jesse J. Anderson: a shorter-arc version of the same compounding curve
 - [[From SDR to 45K Followers Across Four Years]] -- Mischa Collins: three years of casual posting before going "all in" produced the breakout
 - [[40 Percent of the Day Reading]] -- Kyla Scanlon: the same input-volume principle, sustained at 10 books a week since childhood
+- [[The Nine-Month Wait, 200 Posts]] -- Olivia Wickstrom: the same patience-before-compounding pattern, applied to Substack

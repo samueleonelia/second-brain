@@ -39,3 +39,4 @@ Most B2B "customer marketing" makes the company the hero — case studies framed
 - [[Infographics That Add No Information]] -- same shareability-via-ego logic, different artifact
 - [[The Wiz Drops Playbook]] -- the broader Wiz strategy these certificates fit into
 - [[The Sponsor Deck Tweet That Sold Out Months of Ads]] -- Packy McCormick: contrast - making yourself look transparent rather than making others look smart
+- [[The Dink Awards - A Niche People's Choice Made the Industry Co-Promote]] -- Thomas Shields: same "make others look good and they distribute it" logic, scaled to entire industry orgs as winners

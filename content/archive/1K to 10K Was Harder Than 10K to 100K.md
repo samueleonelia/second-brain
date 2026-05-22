@@ -38,3 +38,4 @@ The flat-feeling year is the dangerous year. Most creators quit somewhere betwee
 - [[A Year Below One Thousand Subscribers]] -- Packy McCormick: a year below 1K before hockey-stick growth
 - [[15 Years of Reading Before Overnight Success]] -- the longer-arc version of the same compounding pattern
 - [[The Atomic Essays That Became Extra Focus]] -- the publishing constraint that powered the early curve
+- [[The Nine-Month Wait, 200 Posts]] -- Olivia Wickstrom: the Substack version of the same flat-early-curve pattern, with month 9 as the inflection

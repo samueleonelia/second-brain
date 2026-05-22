@@ -46,3 +46,4 @@ A status moment beats a sales pitch. The microwave wasn't valuable enough to cha
 - [[The Failed Not Boring Club That Became Not Boring]] -- experimental stunt that became the foundation
 - [[The Wiz Drops Playbook]] -- Tom Orbach: stunt-as-marketing scaled into a B2B drop strategy
 - [[Viral Post Generator Sold in One Week]] -- Tom Orbach: a different audacious attention hack
+- [[The Sprinter Van That Got Pickleball to Notice The Dink]] -- Thomas Shields: same logic — manufacture a moment unmissable enough to bypass paid distribution

@@ -55,3 +55,11 @@ created: 2026-04-01
 46. [[One Sponsor Instead of Many]] -- Kyla Scanlon: single anchor sponsor as a trust-protecting monetization model
 47. [[The Five-Platform Content Ecosystem]] -- Kyla Scanlon: resequenced multi-platform release schedule for solo operators
 48. [[From Substack Newsletter to NYT Bestseller]] -- Kyla Scanlon: load-bearing essay as the path from newsletter to book deal
+49. [[The Sprinter Van That Got Pickleball to Notice The Dink]] -- Thomas Shields: physical brand presence + first-party content as field marketing
+50. [[The Dink Awards - A Niche People's Choice Made the Industry Co-Promote]] -- Thomas Shields: awards program as co-promotion lever pulling industry orgs into your gravity well
+51. [[Sponsors Funded the Referral Program The Dink Got Free Distribution]] -- Thomas Shields: brand-partnership-funded referral program flipping the sponsor relationship
+52. [[ESPN of Pickleball - From Newsletter to Multi-Sport Media Holdco]] -- Thomas Shields: media-company positioning as the structural alternative to personal-brand creator
+53. [[Skipping Class to Teach Kevin Durant Pickleball]] -- Thomas Shields: niche authority pulling celebrities into the orbit unprompted
+54. [[9,300 Likes for Quitting Instagram]] -- Olivia Wickstrom: multi-platform ecosystem where each platform has a defined job
+55. [[100,000 Pinterest Visitors to a Substack]] -- Olivia Wickstrom: Pinterest as a long-tail distribution layer for newsletter posts
+56. [[One Note Brought 2,300 Subscribers After Months of Crickets]] -- Olivia Wickstrom: discovery-layer-as-acquisition channel on Substack

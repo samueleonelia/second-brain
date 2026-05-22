@@ -47,3 +47,4 @@ Asking for a swap is a transaction. Sending value and waiting until you have rec
 - [[Drop Your Website - 650 Subs Per Post]] -- the LinkedIn version of Tom's "give first" pattern
 - [[The Reddit Ambassador Program]] -- another Tom growth lever that depends on relationships
 - [[Two Years to Land Notion - The Sponsorship Patience Play]] -- Milly Tamati: same patience-and-receipts pattern, applied to sponsorships
+- [[One Note Brought 2,300 Subscribers After Months of Crickets]] -- Olivia Wickstrom: the cautionary inverse — depending on someone else's recommendation as your growth strategy

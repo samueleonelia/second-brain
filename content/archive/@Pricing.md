@@ -14,3 +14,4 @@ created: 2026-04-01
 3. [[Price justification for consulting services]]
 4. [[Price table position]]
 5. [[The right bonus]]
+6. [[Pay Once for the Library, Not to Keep Me Writing]] -- Olivia Wickstrom: $8/month reframed as "access to $500+ growing library" instead of "pay me to write"

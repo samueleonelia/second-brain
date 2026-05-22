@@ -42,3 +42,4 @@ Most newsletters that become massive had a period where they looked like failure
 - [[Two Years of Free Before the Paid Switch]] -- Tom Orbach: same patience-pays-off pattern, applied to monetization
 - [[First Question Is Monetization, Not Subscribers]] -- Nathan May: the counterpoint — set 3-6 month kill criteria so patience doesn't become stubbornness
 - [[1K to 10K Was Harder Than 10K to 100K]] -- Jesse J. Anderson: same flat-feeling early segment, framed as the hardest part of the curve
+- [[The Nine-Month Wait, 200 Posts]] -- Olivia Wickstrom: same Substack-side patience pattern, with month 9 and 200 posts as the concrete inflection

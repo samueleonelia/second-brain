@@ -46,3 +46,4 @@ The intuition that "this niche is too small" is the strongest signal that you've
 - [[How to define your niche: inductive approach]] -- The opposite framework, useful when starting from existing audience signal
 - [[The "niche audience" content bucket]] -- Foundational concept on niche-first content
 - [[Headlines that target both a niche and a broad audience]] -- A tactical companion: niche framing for broader reach
+- [[ESPN of Pickleball - From Newsletter to Multi-Sport Media Holdco]] -- Thomas Shields: same niche-down thesis applied to media positioning, not services

@@ -19,3 +19,6 @@ created: 2026-04-01
 7. [[Platforms to sell online courses]]
 8. [[First email, first offer]]
 9. [[The Gumroad Bridge Between Jobs]] -- Alex Garcia: paid newsletter as scaffolding, then removed
+10. [[Pay Once for the Library, Not to Keep Me Writing]] -- Olivia Wickstrom: Member Vault as growing-archive frame for a paid subscription
+11. [[The $459 Post She Almost Paywalled]] -- Olivia Wickstrom: which posts perform better free vs. paywalled
+12. [[Half Substack, Half Coaching - The Revenue Mix Beyond Subscriptions]] -- Olivia Wickstrom: digital product layers stacked on top of paid newsletter

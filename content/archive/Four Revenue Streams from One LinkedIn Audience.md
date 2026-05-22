@@ -44,3 +44,4 @@ One audience funded four offers. The four offers ladder by price and customer ef
 - [[Sponsorships as Education, Not Ads]] -- Charlie Hills: brand partnerships done in an educational frame
 - [[Tripled Monthly Income in 5 Months of Consistent Posting]] -- the income outcome these streams produced together
 - [[LinkedIn Is a Revenue Engine, Not a Vanity Project]] -- her own framing of the same shift
+- [[Half Substack, Half Coaching - The Revenue Mix Beyond Subscriptions]] -- Olivia Wickstrom: the same "one audience, multiple revenue lines" pattern applied to a Substack publication

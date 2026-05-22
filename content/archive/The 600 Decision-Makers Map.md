@@ -44,3 +44,4 @@ When the buyer is high-ticket B2B, "growth" and "audience-building" are the wron
 - [[Niche Within a Niche - The Wet-Dog-Food Agency]] -- Why hyper-specific beats general for B2B services
 - [[How to define your niche: deductive approach]] -- A complementary framework for picking a niche from the buyer side
 - [[Two Years to Land Notion - The Sponsorship Patience Play]] -- Milly Tamati's named-target approach to a finite list of sponsors
+- [[1,500 Cold Pitches at One-in-Two-Hundred]] -- Olivia Wickstrom: the inverse — what unmapped cold outreach math looks like when you don't have a list of named buyers

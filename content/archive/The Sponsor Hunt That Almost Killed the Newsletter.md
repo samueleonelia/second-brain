@@ -41,3 +41,4 @@ A monetization channel can have the right unit economics on paper and still be w
 - [[Two Years to Land Notion - The Sponsorship Patience Play]] -- Milly Tamati: someone who made sponsorships work in a different niche
 - [[30 Jobs Through His 20s]] -- the pattern of "wrong shape job" recurring in his creator career
 - [[The 30-Minute Parkinson's-Law Newsletter]] -- the energy-management principle applied to writing
+- [[Sponsors Funded the Referral Program The Dink Got Free Distribution]] -- Thomas Shields: a structure where sponsors fund growth rewards instead of paying for ad placements — sidesteps the hunt entirely

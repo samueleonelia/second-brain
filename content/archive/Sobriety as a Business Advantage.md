@@ -38,3 +38,4 @@ Your biggest perceived weakness can become your sharpest edge. Sam replaced alco
 - [[Sydney - The Dog Who Changed His Life]] -- The DUI that started Sam's sobriety journey happened while Sydney was waiting at home
 - [[Self-Worth = Net Worth - The Vulnerable Moment]] -- Sam's ongoing work with a psychiatrist shows the psychological cost of ambition doesn't end with sobriety
 - [[The Airbnb Rejection That Sparked Everything]] -- The Airbnb rejection was the specific event that forced Sam into sobriety
+- [[Sober at 26, Substack Bestseller at 31]] -- Olivia Wickstrom: parallel arc — sobriety as the precondition that made the creator business possible

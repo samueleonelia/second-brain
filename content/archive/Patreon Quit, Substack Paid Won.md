@@ -43,3 +43,4 @@ Two patterns sit in the same story. First: the same "support me" intent failed o
 - [[Two Years of Free Before the Paid Switch]] -- Tom Orbach: the trust window before turning paid on
 - [[The Sponsor Hunt That Almost Killed the Newsletter]] -- the monetization path Jesse abandoned
 - [[I'd Rather Lose Every Other Channel Than Lose My Newsletter]] -- why the paid tier could rest on email
+- [[The $459 Post She Almost Paywalled]] -- Olivia Wickstrom: same casual-paid-conversion pattern, with a free post outperforming paywalled tutorials on revenue

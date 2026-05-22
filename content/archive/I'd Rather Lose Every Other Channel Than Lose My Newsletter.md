@@ -38,3 +38,4 @@ The ranking has a built-in test. If your reaction to losing a platform is "that 
 - [[The Saturday-Only Newsletter Behind a Full-Time Director Role]] -- another "newsletter as the core asset" case (Tom Orbach)
 - [[1K to 10K Was Harder Than 10K to 100K]] -- the curve on the asset Jesse is protecting
 - [[Patreon Quit, Substack Paid Won]] -- where the newsletter community converted into income
+- [[9,300 Likes for Quitting Instagram]] -- Olivia Wickstrom: the platform-quitting version of the same "newsletter is the only asset I own" thesis

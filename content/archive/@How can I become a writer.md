@@ -107,6 +107,8 @@ created: 2026-04-01
 29. [[40 Percent of the Day Reading]] -- Kyla Scanlon: input rate as the ceiling on writing output
 30. [[Writing TikToks as Poems]] -- Kyla Scanlon: short-form scripts written in a different genre, not as compressed prose
 31. [[From Substack Newsletter to NYT Bestseller]] -- Kyla Scanlon: load-bearing essay as the path from newsletter to book
+32. [[The Nine-Month Wait, 200 Posts]] -- Olivia Wickstrom: surviving the 200-post invisible phase before any writing-online compounds
+33. [[1,500 Cold Pitches at One-in-Two-Hundred]] -- Olivia Wickstrom: cold-outreach math of building a freelance writing career from zero
 
 **Biblio**
 * [[ß The Art and Business You of Online Writing]]

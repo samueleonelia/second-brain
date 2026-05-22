@@ -52,3 +52,4 @@ The newsletter is not the business. It's the front-of-house. Sponsorship revenue
 - [[The Content Stack - Memes > Threads > Newsletter > Product]] -- Trung Phan: a four-layer version of the same funnel
 - [[From Side Hustle to One Million ARR]] -- Alex Garcia: a real example of the front (newsletter) leading to the back (sponsorships at scale)
 - [[The One-Person Media Empire]] -- Lenny Rachitsky: newsletter front, podcast/job-board/community back
+- [[Half Substack, Half Coaching - The Revenue Mix Beyond Subscriptions]] -- Olivia Wickstrom: Substack as the front, 1:1 coaching as the high-LTV back end

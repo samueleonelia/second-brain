@@ -71,3 +71,13 @@ created: 2026-04-01
 55. [[The Sponsor Hunt That Almost Killed the Newsletter]] -- Jesse J. Anderson: sponsorship drain as the burnout trigger
 56. [[From Substack Newsletter to NYT Bestseller]] -- Kyla Scanlon: one viral newsletter post → NYT op-ed → Penguin Random House book deal
 57. [[One Sponsor Instead of Many]] -- Kyla Scanlon: "support this work" Substack model with no paywall, one anchor sponsor on video/podcast
+58. [[Sponsors Funded the Referral Program The Dink Got Free Distribution]] -- Thomas Shields: brand-funded referral rewards turning newsletter into a coalition growth engine
+59. [[The Sprinter Van That Got Pickleball to Notice The Dink]] -- Thomas Shields: PPA partnership + branded van as first-party content engine
+60. [[ESPN of Pickleball - From Newsletter to Multi-Sport Media Holdco]] -- Thomas Shields: niche-media positioning scaled from one newsletter to multi-sport holding company
+61. [[The Nine-Month Wait, 200 Posts]] -- Olivia Wickstrom: month-9 inflection after 200 posts, the invisible-compounding phase
+62. [[One Note Brought 2,300 Subscribers After Months of Crickets]] -- Olivia Wickstrom: Notes as Substack's discovery layer, breakout after months of silence
+63. [[9,300 Likes for Quitting Instagram]] -- Olivia Wickstrom: owned-list-first multi-platform system after leaving Instagram
+64. [[100,000 Pinterest Visitors to a Substack]] -- Olivia Wickstrom: Pinterest as long-tail traffic engine for a Substack
+65. [[The $459 Post She Almost Paywalled]] -- Olivia Wickstrom: free tutorial outperforming paywalled tutorials on revenue
+66. [[Half Substack, Half Coaching - The Revenue Mix Beyond Subscriptions]] -- Olivia Wickstrom: paid subs as one stream, not the ceiling
+67. [[Pay Once for the Library, Not to Keep Me Writing]] -- Olivia Wickstrom: Member Vault reframe of paid subscriptions

@@ -45,3 +45,4 @@ In high-ticket B2B services, the bottleneck isn't who knows what you do — it's
 - [[Sponsorships as Education, Not Ads]] -- Charlie Hills: same logic applied to sponsor placements
 - [[The Sponsor Deck Tweet That Sold Out Months of Ads]] -- Packy McCormick: making something normally-private (a sponsor deck) freely public to drive demand
 - [[Test in the Newsletter, Then Productize]] -- Charlie Hills: free content as R&D for what becomes the paid product
+- [[The $459 Post She Almost Paywalled]] -- Olivia Wickstrom: same "give away the sauce" logic with hard conversion data (162 subs + $459 from one free tutorial)
