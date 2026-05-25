@@ -81,3 +81,10 @@ created: 2026-04-01
 65. [[The $459 Post She Almost Paywalled]] -- Olivia Wickstrom: free tutorial outperforming paywalled tutorials on revenue
 66. [[Half Substack, Half Coaching - The Revenue Mix Beyond Subscriptions]] -- Olivia Wickstrom: paid subs as one stream, not the ceiling
 67. [[Pay Once for the Library, Not to Keep Me Writing]] -- Olivia Wickstrom: Member Vault reframe of paid subscriptions
+68. [[Eighteen Months at Four Hundred Subscribers]] -- CJ Gustafson: 18 months in the invisible phase before 400 → 65K
+69. [[Owning CAC - Four Months of Nightly Twitter Replies]] -- CJ Gustafson: first 1K subscribers via the reply-guy SEO flywheel
+70. [[The Triple Stack - Paid to Distribute His Own Writing]] -- CJ Gustafson: $5-10K paid guest posts that doubled as backlinks and republished content
+71. [[The Four Sharing Archetypes - Write for the Forward]] -- CJ Gustafson: designing posts around who would forward them
+72. [[Niches Are Larger Than You Think]] -- CJ Gustafson: 70% of his readers aren't CFOs; narrow positioning pulled in adjacent audiences
+73. [[Quarterly-Only Sponsorships and I Never Discount Anything]] -- CJ Gustafson: 13-touch logic and no-discount discipline at $3M ARR
+74. [[Mostly Media at Three Million With No Full-Time Employees]] -- CJ Gustafson: lean contractor-stack media business beating a $330M-valued media company on profit

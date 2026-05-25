@@ -44,3 +44,4 @@ Radical transparency about money can be a growth lever, not a vulnerability. By 
 - [[Almost Bought The Neuron - Lost the Bid]] -- Nathan May: the same publish-the-private-business-artifact instinct, applied to a lost deal
 - [[Free Stuff Better Than Their Paid Stuff]] -- Nathan May: open-sourcing what others would charge for as a trust mechanic
 - [[The Welcome Section That Builds Status]] -- Nathan May: making private signals of demand publicly visible to drive more demand
+- [[Quarterly-Only Sponsorships and I Never Discount Anything]] -- CJ Gustafson: pricing-discipline-as-positioning, contrasted with transparency-as-positioning

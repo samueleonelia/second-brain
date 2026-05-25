@@ -26,6 +26,7 @@ title: Index
 - [[@Alex Garcia]]
 - [[@Boris Cherny]]
 - [[@Charlie Hills]]
+- [[@CJ Gustafson]]
 - [[@Dan Shipper]]
 - [[@Jesse J. Anderson]]
 - [[@Kyla Scanlon]]
@@ -61,6 +62,10 @@ title: Index
 - [[@The state]]
 - [[@What is a moral life]]
 - [[@What is a romantic relationship]]
+
+## Geopolitics
+
+- [[@Pacific Asia]]
 
 ## Software and AI
 

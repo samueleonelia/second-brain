@@ -43,3 +43,4 @@ Most platform-growth advice optimizes for the visible part of the curve. Olivia'
 - [[1K to 10K Was Harder Than 10K to 100K]] -- Jesse J. Anderson: the flat early segment as the hardest part of the curve
 - [[A Year Below One Thousand Subscribers]] -- Packy McCormick: a year of sub-1K before the hockey stick
 - [[Tripled Monthly Income in 5 Months of Consistent Posting]] -- Mischa Collins: 99% of founders quit before compounding starts
+- [[Eighteen Months at Four Hundred Subscribers]] -- CJ Gustafson: 18 months at 400 subs as the newsletter equivalent of the 200-post wait

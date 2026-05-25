@@ -48,3 +48,4 @@ Three years of casual posting and three months of committed posting produced wil
 - [[Tripled Monthly Income in 5 Months of Consistent Posting]] -- the financial outcome of the same commitment
 - [[Six Months Invisible Before Traction]] -- Charlie Hills: invisible phase before this kind of acceleration
 - [[Sunday Was the Best Day (Data, Not Assumption)]] -- Charlie Hills: weekly analytics review as core habit
+- [[Eighteen Months at Four Hundred Subscribers]] -- CJ Gustafson: the same invisible-then-compounding pattern on a newsletter

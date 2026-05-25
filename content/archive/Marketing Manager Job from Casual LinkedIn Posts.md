@@ -41,3 +41,4 @@ The standard creator framing is that you build an audience and then monetize it.
 - [[The Layoff Post That Brought Two Clients]] -- the same surface-area effect at a different stage
 - [[Post and Ghost to Community Builder]] -- Charlie Hills: the limit of posting without engagement, which Mischa accepted at this stage
 - [[From Creator to Closer - Using Engagement as Intent Data]] -- Charlie Hills: opposite, treating audience signal as warm leads
+- [[Writing His Way to CFO]] -- CJ Gustafson: the same "discovered via published content" career hop in a B2B finance context

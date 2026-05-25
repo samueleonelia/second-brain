@@ -63,3 +63,9 @@ created: 2026-04-01
 54. [[9,300 Likes for Quitting Instagram]] -- Olivia Wickstrom: multi-platform ecosystem where each platform has a defined job
 55. [[100,000 Pinterest Visitors to a Substack]] -- Olivia Wickstrom: Pinterest as a long-tail distribution layer for newsletter posts
 56. [[One Note Brought 2,300 Subscribers After Months of Crickets]] -- Olivia Wickstrom: discovery-layer-as-acquisition channel on Substack
+57. [[The Triple Stack - Paid to Distribute His Own Writing]] -- CJ Gustafson: $5-10K paid guest posts bundling distribution, backlink, and republished content
+58. [[Quarterly-Only Sponsorships and I Never Discount Anything]] -- CJ Gustafson: B2B sponsorship pricing discipline with quarterly minimums and no-discount rule
+59. [[Owning CAC - Four Months of Nightly Twitter Replies]] -- CJ Gustafson: own-a-phrase reply strategy for the first 1K subscribers
+60. [[The Four Sharing Archetypes - Write for the Forward]] -- CJ Gustafson: virality-by-design via four named sharing motions
+61. [[Walter the Dog and the Freak Flag]] -- CJ Gustafson: personality as competitive moat in a serious B2B vertical
+62. [[Niches Are Larger Than You Think]] -- CJ Gustafson: narrow positioning pulls in adjacent audiences instead of needing to broaden

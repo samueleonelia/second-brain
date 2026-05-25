@@ -47,3 +47,4 @@ A $4M+ annual business run by one person with contractors. No co-founder, no emp
 - [[I Never Thought I Could Be an Investor]] -- Packy McCormick: newsletter-to-investing pipeline
 - [[The Media Mullet - Free Up Front, High-LTV Out Back]] -- Nathan May: the framework that explains why this stack works
 - [[Why Paid Newsletters Are Really, Really Hard]] -- Nathan May: Lenny named as the rare exception that makes paid work
+- [[Mostly Media at Three Million With No Full-Time Employees]] -- CJ Gustafson: B2B-CFO version of the same one-person-with-contractors structure

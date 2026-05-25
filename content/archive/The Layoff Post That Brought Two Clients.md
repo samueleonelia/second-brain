@@ -43,3 +43,4 @@ The post that performs the worst on paper, the one that exposes the most, is oft
 - [[Post and Ghost to Community Builder]] -- Charlie Hills: same lesson that engagement, not broadcast, drives business outcomes
 - [[From SDR to 45K Followers Across Four Years]] -- the same trajectory in chronological form
 - [[The Friendships Were the Real Return]] -- the layoff also rebuilt her sense of self through community
+- [[Two Hundred Nine Thousand Lost on a Tourism Marketplace]] -- CJ Gustafson: writing in public about your own failure as a trust mechanism
