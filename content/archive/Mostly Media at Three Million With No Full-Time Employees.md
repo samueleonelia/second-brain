@@ -51,3 +51,5 @@ A media business doesn't need to be a media company. CJ proved that one operator
 - [[Four Revenue Streams from One LinkedIn Audience]] -- Mischa Collins: one audience funding four offers
 - [[Half Substack, Half Coaching - The Revenue Mix Beyond Subscriptions]] -- Olivia Wickstrom: same diversified-revenue pattern, smaller scale
 - [[Sponsorships are Booked Two Years Ahead]] -- not yet in vault; potential stub
+- [[The Personal Holding Company Philosophy]] -- Yong-Soo Chung: parallel cash-flow-forever architecture, but multi-business instead of multi-product
+- [[I-We-They Delegating Decisions Not Just Tasks]] -- Yong-Soo Chung: the delegation discipline that makes a contractor-heavy media business operable

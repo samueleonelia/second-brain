@@ -47,3 +47,4 @@ In any over-serious vertical — finance, law, medicine, enterprise software —
 - [[The Profile Picture That Changed Everything]] -- Charlie Hills: small personality signals having outsized engagement effects
 - [[Three Ugly Graphics Got 480K Impressions]] -- Charlie Hills: breaking pattern in a polished category
 - [[An example of non-obvious idea]] -- the structural principle of doing the obvious-but-undone thing
+- [[The Wealthy and Anonymous Epiphany]] -- Yong-Soo Chung: a deliberately public operator who later came to fear the inputs warping his real-life decisions

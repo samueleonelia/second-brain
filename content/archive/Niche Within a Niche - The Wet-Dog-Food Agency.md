@@ -49,3 +49,4 @@ The intuition that "this niche is too small" is the strongest signal that you've
 - [[ESPN of Pickleball - From Newsletter to Multi-Sport Media Holdco]] -- Thomas Shields: same niche-down thesis applied to media positioning, not services
 - [[Niches Are Larger Than You Think]] -- CJ Gustafson: speaking narrowly to CFOs pulled in 70% adjacent readers
 - [[The N of One - 80th Percentile in Three Things]] -- CJ Gustafson: skill-stacking as a different angle on the same defensibility logic
+- [[The Empty Box That Started GrowthJet]] -- Yong-Soo Chung: a boutique 3PL that won by refusing to compete on price in a commodity-feeling category

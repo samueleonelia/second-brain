@@ -8,3 +8,6 @@ created: 2026-04-01
 Problem -> Result -> Solution
 Visitors -> Subscribers -> Clients
 Induction -> Deduction -> Perspective
+
+## Related
+- [[Your years of expertise are one file away from being a product]] -- the same logic at the product layer: turning what you know into something sellable

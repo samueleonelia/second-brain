@@ -44,3 +44,4 @@ Most multi-platform creators reshare the same artifact across channels. Kyla res
 - [[The Snacks and Entrees Content System]] -- Alex Garcia: the framework underneath the resequenced ecosystem play
 - [[1,000 Days of Posting Without Scheduling a Single One]] -- Milly Tamati: an opposite-extreme strategy (daily, in-the-moment, two-platform focused)
 - [[18,500 Tweets in 489 Days]] -- Yossi Levi: opposite extreme — single-platform depth instead of multi-platform breadth
+- [[Newsletter as Bridge Between Twitter and Podcast]] -- Yong-Soo Chung: tighter three-step funnel where the newsletter is explicitly the conversion layer

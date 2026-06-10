@@ -23,3 +23,5 @@ created: 2026-04-01
 9. [[Borrowed His Anonymous Strategy from Strip Mall Guy]] -- Yossi Levi: anonymous account format borrowed and supplied with proprietary insight
 10. [[The Elon and Cathie Wood Retweets That Doubled His Following]] -- Yossi Levi: viral inflection point with newsletter CTAs underneath
 11. [[The Three-Stage Audience Reinvention - Consumer to Investor to B2B]] -- Yossi Levi: broad consumer wedge, then deliberate re-niching
+12. [[The 300K-Follower Podcast That Launched to 10 Downloads]] -- Yong-Soo Chung: party-analogy one-by-one relationship strategy after 12-year dormant Twitter relaunch
+13. [[Newsletter as Bridge Between Twitter and Podcast]] -- Yong-Soo Chung: Twitter as top of funnel, newsletter as capture, podcast as deep engagement

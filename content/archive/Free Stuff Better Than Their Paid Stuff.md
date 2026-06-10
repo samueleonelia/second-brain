@@ -46,3 +46,5 @@ In high-ticket B2B services, the bottleneck isn't who knows what you do — it's
 - [[The Sponsor Deck Tweet That Sold Out Months of Ads]] -- Packy McCormick: making something normally-private (a sponsor deck) freely public to drive demand
 - [[Test in the Newsletter, Then Productize]] -- Charlie Hills: free content as R&D for what becomes the paid product
 - [[The $459 Post She Almost Paywalled]] -- Olivia Wickstrom: same "give away the sauce" logic with hard conversion data (162 subs + $459 from one free tutorial)
+- [[Your years of expertise are one file away from being a product]] -- the packaged-product end of the same spectrum: turn the expertise into a sellable file instead of (or alongside) giving it away
+- [[The best digital product to sell is the tool you built for yourself]] -- the flywheel: use your own work to create the content that sells the work

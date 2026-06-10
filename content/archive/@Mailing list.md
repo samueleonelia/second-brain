@@ -88,3 +88,8 @@ created: 2026-04-01
 72. [[Niches Are Larger Than You Think]] -- CJ Gustafson: 70% of his readers aren't CFOs; narrow positioning pulled in adjacent audiences
 73. [[Quarterly-Only Sponsorships and I Never Discount Anything]] -- CJ Gustafson: 13-touch logic and no-discount discipline at $3M ARR
 74. [[Mostly Media at Three Million With No Full-Time Employees]] -- CJ Gustafson: lean contractor-stack media business beating a $330M-valued media company on profit
+75. [[Ten Years of Quiet Building Before The Newsletter Existed]] -- Matt Johansen: decade of Twitter + conferences as the launchpad, 1.5-2K instant subs at launch
+76. [[Each Platform Is Its Own Business]] -- Matt Johansen: per-platform jobs around the newsletter core (Twitter=subs, IG=sponsorships, YT=evergreen)
+77. [[Never Missed a Single Week]] -- Matt Johansen: never-skip cadence as the "number one" growth lever
+78. [[Newsletter as Bridge Between Twitter and Podcast]] -- Yong-Soo Chung: newsletter as low-friction conversion layer between social discovery and podcast engagement
+79. [[The 8K Subscriber Sponsorship Threshold]] -- Yong-Soo Chung: deliberate late monetization to preserve sponsor-selection signal

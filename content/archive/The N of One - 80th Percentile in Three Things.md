@@ -41,3 +41,4 @@ You don't need to be the best in the world at any one thing. You need to be in t
 - [[An example of non-obvious idea]] -- general principle of finding spots others won't compete in
 - [[Earned Credibility]] -- the broader credibility theme this story sits inside
 - [[Writing His Way to CFO]] -- the same skill stack flowing in the opposite direction
+- [[AI doesn't make you replaceable, it makes everyone the same]] -- the N-of-one is the positive counter: a combination that isn't in the training corpus, so AI can't reproduce it

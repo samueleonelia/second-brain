@@ -69,3 +69,7 @@ created: 2026-04-01
 60. [[The Four Sharing Archetypes - Write for the Forward]] -- CJ Gustafson: virality-by-design via four named sharing motions
 61. [[Walter the Dog and the Freak Flag]] -- CJ Gustafson: personality as competitive moat in a serious B2B vertical
 62. [[Niches Are Larger Than You Think]] -- CJ Gustafson: narrow positioning pulls in adjacent audiences instead of needing to broaden
+63. [[The Personal Holding Company Philosophy]] -- Yong-Soo Chung: personal brand as the glue across multiple unrelated hobby-businesses
+64. [[The Cradle Video and the Accidental Dog Influencer Business]] -- Yong-Soo Chung: viral content + reusable e-commerce playbook = second business
+65. [[The Empty Box That Started GrowthJet]] -- Yong-Soo Chung: an internal pain point becoming a customer-pulled business
+66. [[The 300K-Follower Podcast That Launched to 10 Downloads]] -- Yong-Soo Chung: audience non-transfer across niches even with massive social followings

@@ -47,3 +47,4 @@ Subscriber count is a vanity metric until a monetization model is attached to it
 - [[Test in the Newsletter, Then Productize]] -- Charlie Hills: small-scale version of validate-then-build
 - [[A Year Below One Thousand Subscribers]] -- Packy McCormick: the patient version of this lesson, when the model fits
 - [[First 100 Subscribers - No Silver Bullet]] -- The pre-monetization grind this advice sits on top of
+- [[The 8K Subscriber Sponsorship Threshold]] -- Yong-Soo Chung: opposite sequencing — deliberately waiting on monetization in service of audience trust, when the funnel is podcast → newsletter → sponsor

@@ -37,3 +37,4 @@ When a hire isn't working, act fast. Keeping the wrong person too long hurts mor
 - [[Hiring Weirdos - The Bottom of the Resume]] -- Looking for passion and personality rather than credentials when hiring
 - [[The Greg Egan Sci-Fi Lunch at Anthropic]] -- Cultural fit and shared values mattering more than raw skills
 - [[Delegate What You Love, Not What You Hate]] -- Finding the right people to delegate to and how bad delegation destroys momentum
+- [[I-We-They Delegating Decisions Not Just Tasks]] -- Yong-Soo Chung: the framework for when to start trusting hires with decision-making, not just execution

@@ -44,3 +44,5 @@ Lenny tested nearly every growth tactic in the newsletter playbook, and most fai
 - [[A Year Below One Thousand Subscribers]] -- Packy McCormick: same patience-and-quality lesson from the newsletter trenches
 - [[Two Years of Free Before the Paid Switch]] -- Tom Orbach: free quality content as the trust-building base for paid monetization
 - [[I'd Rather Lose Every Other Channel Than Lose My Newsletter]] -- Jesse J. Anderson: email-as-core-asset framing of the same primacy
+- [[Never Missed a Single Week]] -- Matt Johansen: the discipline-side of "consistency is the growth lever"
+- [[Ten Years of Quiet Building Before The Newsletter Existed]] -- Matt Johansen: pre-launch quality compounding via a different surface (Twitter + conferences) over a decade

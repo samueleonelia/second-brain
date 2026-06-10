@@ -53,3 +53,4 @@ Two pricing rules, both unintuitive for most creators. First, refuse single-issu
 - [[From Side Hustle to One Million ARR]] -- Alex Garcia: sponsorship revenue scaling
 - [[Quality Beats Cheap CPL - 4-5x Engagement Lift]] -- Nathan May: high-value B2B audience pricing logic
 - [[Sponsorships as Education, Not Ads]] -- Charlie Hills: parallel premium-positioning move
+- [[The 8K Subscriber Sponsorship Threshold]] -- Yong-Soo Chung: same discipline upstream — when to start saying yes at all

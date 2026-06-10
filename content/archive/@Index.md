@@ -14,6 +14,7 @@ title: Index
 
 ## Content and Writing
 
+- [[@Atomic Essays]]
 - [[@How can I become a writer]]
 - [[@How can I create engaging content]]
 - [[@LinkedIn]]
@@ -31,6 +32,7 @@ title: Index
 - [[@Jesse J. Anderson]]
 - [[@Kyla Scanlon]]
 - [[@Lenny Rachitsky]]
+- [[@Matt Johansen]]
 - [[@Milly Tamati]]
 - [[@Mischa Collins]]
 - [[@Nathan May]]
@@ -41,6 +43,7 @@ title: Index
 - [[@Tom Orbach]]
 - [[@Trung Phan]]
 - [[@Yannick Veys]]
+- [[@Yong-Soo Chung]]
 - [[@Yossi Levi]]
 
 ## Growth

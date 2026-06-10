@@ -16,3 +16,6 @@ created: 2026-04-01
 * Archive the reading notes with a tag.
 * Link notes together.
 * Use notes for content creation
+
+## Related
+- [[Building a Claude skill is a voice note and one sentence]] -- the same move with AI: an unstructured brain-dump becomes a structured, reusable artifact

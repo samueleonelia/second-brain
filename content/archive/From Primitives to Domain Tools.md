@@ -40,3 +40,5 @@ This sequencing — primitives first, domain tools second — preserves emergent
 - [[Graduating Hot Paths to Optimized Code While Preserving Parity]] -- the next step after a pattern proves itself
 - [[Latent Demand Discovery Through Agent Usage]] -- patterns that justify a domain tool surface here first
 - [[Files Are the Universal Interface for Agents]] -- the primitive layer most agent-native apps start from
+- [[Stop Feeding AI PDFs - Markdown Is Its Native Format]] -- same principle at the input layer: meet the model in the format it reasons about
+- [[Don't tell Claude to make a skill - use the skill that makes skills]] -- the skill-creator is a domain tool whose job is to bake the best-practice format in

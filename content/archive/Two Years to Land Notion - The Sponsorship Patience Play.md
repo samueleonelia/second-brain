@@ -42,3 +42,4 @@ Two years of outreach for a single sponsor sounds like a long time. But Milly wa
 - [[The 600 Decision-Makers Map]] -- Nathan May: the same finite-named-list outreach approach to a small B2B universe
 - [[The "Mind If I Add You?" LinkedIn DM]] -- Nathan May: faster cousin of the patience play — direct DM with named-peer social proof
 - [[The Sponsor Hunt That Almost Killed the Newsletter]] -- Jesse J. Anderson: contrast — sponsorships drained the creator and got abandoned for paid subs
+- [[The 8K Subscriber Sponsorship Threshold]] -- Yong-Soo Chung: same patience-and-pickiness discipline, applied to the timing question (when to start saying yes at all)

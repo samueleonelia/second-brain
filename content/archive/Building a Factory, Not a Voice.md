@@ -37,3 +37,4 @@ There's a trap in AI-assisted content creation: the tool is so good at producing
 - [[He Deletes Underperforming Tweets]] -- ruthless quality control
 - [[Daisy's 20-Claude Swarm Weekend]] -- AI at scale still needs human direction
 - [[Never Delegate the Writing]] -- Nathan May: human equivalent — delegating to a content team destroys the same voice asset
+- [[AI doesn't make you replaceable, it makes everyone the same]] -- the "80% like me" trap is sameness; Dan Shipper explains why models default to it

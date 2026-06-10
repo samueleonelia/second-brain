@@ -65,3 +65,4 @@ This is the same idea behind Boris Cherny's CLAUDE.md — a curated, growing con
 - [[Context Injection in the System Prompt]] -- context.md is typically the thing that gets injected
 - [[Files Are the Universal Interface for Agents]] -- context.md is the file pattern's most-load-bearing instance
 - [[Shared Workspace Over Separate Agent Sandboxes]] -- the user can read and edit context.md directly, which is the point
+- [[Build a Claude skill that rewrites itself when it's wrong]] -- the auto-updating cousin: a skill that revises itself the way context.md accumulates corrections

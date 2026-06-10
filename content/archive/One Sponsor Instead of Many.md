@@ -45,3 +45,4 @@ The fastest path to revenue is a flood of small sponsorships across channels. Ky
 - [[Zero Dollars from a Single Car Brand]] -- Yossi Levi: a stricter version, refusing money from one entire side of a market
 - [[The Sponsor Hunt That Almost Killed the Newsletter]] -- Jesse J. Anderson: the cost of the opposite approach (chasing many sponsors)
 - [[Sponsors Funded the Referral Program The Dink Got Free Distribution]] -- Thomas Shields: inverts the sponsor relationship — sponsors fund subscriber rewards, not editorial reads
+- [[The 8K Subscriber Sponsorship Threshold]] -- Yong-Soo Chung: same trust-protecting instinct expressed as patience before saying yes to any sponsor

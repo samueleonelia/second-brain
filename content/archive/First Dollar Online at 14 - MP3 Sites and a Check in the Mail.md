@@ -38,3 +38,4 @@ You don't need permission, credentials, or even adulthood to start making money 
 - [[Weed Review Site - First Startup at 18]] -- Scrappy first ventures as teenagers, learning by doing before anyone takes you seriously
 - [[Early Hustles - Moonshine, Fake YouTube, and a $50 PDF]] -- Early business experiments that build skills and confidence even when the scale is tiny
 - [[Failed Pre-Med, Became a History Major]] -- Unconventional paths that eventually lead to where you end up
+- [[From 30K of Stranded Earphones to Urban EDC]] -- Yong-Soo Chung: same "build the channel yourself when the marketplace fails" instinct, two decades later

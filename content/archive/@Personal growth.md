@@ -23,3 +23,5 @@ created: 2026-04-01
 9. [[Rational mis-integrations]]
 10. [[Wealth and intelligence (IQ)]]
 11. [[Why to watch news]]
+12. [[Threat Modeling Depression]] -- Matt Johansen: cyber threat-modeling framework imported into mental health
+13. [[There Is No Room of Adults — Imposter Syndrome Reframed]] -- Matt Johansen: behavioral (not psychological) reframe of imposter syndrome

@@ -40,7 +40,6 @@ The hardest milestone in a newsletter is the first thousand. CJ didn't grow ther
 
 ## Related
 
-- [[Owning a Phrase on Twitter]] -- Alex Garcia: the same "own a term" pattern at scale
 - [[Audience hacking]] -- the general pattern of inserting yourself where attention already lives
 - [[Engagement hacking]] -- adjacent tactical pattern, low-cost daily engagement work
 - [[The "Mind If I Add You?" LinkedIn DM]] -- Nathan May: parallel cold outreach script grounded in social proof

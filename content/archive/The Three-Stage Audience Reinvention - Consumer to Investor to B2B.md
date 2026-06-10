@@ -45,3 +45,5 @@ Niching down doesn't have to be your starting move. A broad consumer wedge will 
 - [[Headlines that target both a niche and a broad audience]] -- the headline-level version of the same wedge logic
 - [[The "general audience" content bucket]] -- the role broad content plays in feeding the funnel
 - [[Smart Threads and Dumb Memes - The Barbell Strategy]] -- another deliberate split between reach content and depth content
+- [[Each Platform Is Its Own Business]] -- Matt Johansen: differentiating jobs across platforms rather than across cohorts inside a platform
+- [[The 300K-Follower Podcast That Launched to 10 Downloads]] -- Yong-Soo Chung: failure case for cross-cohort transfer — the existing audience won't follow you into a new niche just because they like you

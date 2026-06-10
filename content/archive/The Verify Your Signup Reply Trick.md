@@ -40,3 +40,4 @@ Inbox placement is the silent killer of newsletter open rates. Most creators obs
 - [[The 1,000-Person Waitlist Built Before Launch]] -- the entry point before they hit the welcome email
 - [[The Onboarding Machine Behind Marketing Examined]] -- a more elaborate version of the same mechanic
 - [[The Saturday-Only Newsletter Behind a Full-Time Director Role]] -- the discipline that maintains the 45% open rates
+- [[Newsletter as Bridge Between Twitter and Podcast]] -- Yong-Soo Chung: same family — a low-friction step inserted between discovery and deeper content

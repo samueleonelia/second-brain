@@ -43,3 +43,4 @@ The flat part of the curve is the curve. Eighteen months of single-digit views l
 - [[The Nine-Month Wait, 200 Posts]] -- Olivia Wickstrom: month-9 inflection on Substack after 200 posts
 - [[A Year Below One Thousand Subscribers]] -- Packy McCormick: a year below 1K before hockey-stick growth
 - [[1K to 10K Was Harder Than 10K to 100K]] -- Jesse J. Anderson: the flat early segment is the hardest part of the curve
+- [[Ten Years of Quiet Building Before The Newsletter Existed]] -- Matt Johansen: a decade of pre-newsletter credibility, then instant launch conversion

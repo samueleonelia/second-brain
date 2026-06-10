@@ -51,3 +51,4 @@ Quitting a platform that's "working" is one of the most counterintuitive moves a
 - [[CDG Was Built With Zero Paid Marketing]] -- Yossi Levi: choosing owned organic growth over paid platform dependency
 - [[The 2021 Boom That Faked Product-Market Fit]] -- Yossi Levi: the inverse risk — platform-driven growth that vanishes when the platform shifts
 - [[One Note Brought 2,300 Subscribers After Months of Crickets]] -- Olivia Wickstrom: the discovery layer Olivia replaced Instagram with
+- [[Each Platform Is Its Own Business]] -- Matt Johansen: the keep-all-platforms-but-job-them version of the same systems-thinking reframe

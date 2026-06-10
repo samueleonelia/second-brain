@@ -40,3 +40,4 @@ Design for what agents can reason about. The best proxy for that is what would m
 - [[Files for Legibility, Databases for Structure]] -- when to leave the filesystem
 - [[Shared Workspace Over Separate Agent Sandboxes]] -- the corollary: agent and user share the same files
 - [[Claude Code - The Side Project That Got 2 Likes]] -- the canonical proof that bash + files is enough
+- [[Stop Feeding AI PDFs - Markdown Is Its Native Format]] -- the practical corollary: feed agents plain text/markdown, the formats they're fluent in, not opaque PDFs

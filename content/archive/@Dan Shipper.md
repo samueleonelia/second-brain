@@ -79,6 +79,14 @@ Dan Shipper is the co-founder and CEO of Every, a media and software company bui
 [[Agent-Native Anti-Patterns - Router, Workflow Tools, Defensive Design]] -- the named failure modes
 [[The Ultimate Test - Outcomes You Didn't Build a Feature For]] -- the single test that distinguishes agent-native from agent-flavored
 
+## Atomic Essays (seeded from his work)
+
+Ideas captured from Dan's writing for LinkedIn/X atomic essays (see [[@Atomic Essays]]).
+
+- [[Everyone thinks automation means less work, the teams automating fastest have more of it]] -- "After Automation": the more you automate, the more expert human work there is
+- [[AI doesn't make you replaceable, it makes everyone the same]] -- "After Automation": shared models default to sameness, so human judgment is the scarce thing
+- [[Your automation isn't set and forget, every agent needs a human on both ends]] -- "After Automation": the human sandwich, framing and judging on either end
+
 ## See Also
 
 - [[@Agent-Native Software]] -- the topic sub-index this material lives in

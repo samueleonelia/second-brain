@@ -41,3 +41,4 @@ Formal credentials matter less than shipping real work. Nobody asked Boris about
 - [[Early Hustles - Moonshine, Fake YouTube, and a $50 PDF]] -- scrappy first businesses
 - [[Quit Banking, Got Sued, Paid €15,000]] -- no credentials, just doing the work
 - [[Permissionless Creation vs. Hollywood Gatekeepers]] -- building without asking permission
+- [[From 30K of Stranded Earphones to Urban EDC]] -- Yong-Soo Chung: another scrappy first-venture origin, this time from stranded inventory

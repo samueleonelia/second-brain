@@ -38,3 +38,5 @@ For anyone building product right now, the question shifts from "what feature sh
 - [[Granularity - Tools Are Atomic Primitives, Features Are Outcomes]] -- the design rule that follows from the SDK shift
 - [[The Ultimate Test - Outcomes You Didn't Build a Feature For]] -- how to know whether you've actually built something agent-native
 - [[Three Modes of Working With AI]] -- agent-native software is the substrate that enables vibe-coding mode for end users
+- [[Everyone thinks automation means less work, the teams automating fastest have more of it]] -- agents scale execution, which is what shifts the remaining value onto human framing
+- [[Your automation isn't set and forget, every agent needs a human on both ends]] -- agent-native tools are built so a human can step into the loop at start and end

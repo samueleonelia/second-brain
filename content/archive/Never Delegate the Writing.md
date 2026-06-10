@@ -41,3 +41,5 @@ A founder-led newsletter's value sits in two specific moments: the reader thinks
 - [[Building a Factory, Not a Voice]] -- Charlie Hills: the parallel mistake of letting AI flatten a personal voice
 - [[The Alter Ego Controversy - Fake Writers with LinkedIn Profiles]] -- The consequences when delegated content is exposed as not-the-founder
 - [[Delegate What You Love, Not What You Hate]] -- The opposite advice in another domain: counterintuitive delegation rules
+- [[Everyone thinks automation means less work, the teams automating fastest have more of it]] -- automation concentrates rather than removes what only the human can do
+- [[AI doesn't make you replaceable, it makes everyone the same]] -- founder voice as the non-commoditizable asset when AI defaults to sameness

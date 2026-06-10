@@ -52,3 +52,4 @@ A "media company" positioning is more powerful than a "creator" positioning when
 - [[Skipping Class to Teach Kevin Durant Pickleball]] -- the kind of access that flows once the positioning is established
 - [[Sponsors Funded the Referral Program The Dink Got Free Distribution]] -- the monetization mechanic that media positioning unlocked
 - [[Niche Within a Niche - The Wet-Dog-Food Agency]] -- Nathan May: same niche-down thesis applied to services rather than media positioning
+- [[The Personal Holding Company Philosophy]] -- Yong-Soo Chung: opposite structural play — operator as glue across unrelated single-niche businesses instead of one media brand across niches

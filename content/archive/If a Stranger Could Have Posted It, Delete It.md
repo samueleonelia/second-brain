@@ -37,3 +37,4 @@ AI makes it easy to produce content. It makes it harder to produce distinctive c
 - [[Smart Threads and Dumb Memes - The Barbell Strategy]] -- distinctive content strategy
 - [[Only Build What Passes Three Filters]] -- filtering for uniqueness
 - [[Permission Was the Problem, Not Expertise]] -- Mischa Collins: the opposite filter, what you DON'T need to start (expertise) vs what you DO need (specificity)
+- [[AI doesn't make you replaceable, it makes everyone the same]] -- Dan Shipper's mechanism behind this filter: shared models produce sameness, so judgment is the scarce thing

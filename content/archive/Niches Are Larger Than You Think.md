@@ -45,3 +45,4 @@ When you're building for a small, high-value audience, the temptation is to broa
 - [[How to define your niche: deductive approach]] -- methodological cousin
 - [[How to define your niche: inductive approach]] -- methodological cousin
 - [[ESPN of Pickleball - From Newsletter to Multi-Sport Media Holdco]] -- Thomas Shields: ring-expansion pattern from a tight niche
+- [[The 300K-Follower Podcast That Launched to 10 Downloads]] -- Yong-Soo Chung: the failure mode — niche-mismatched audiences don't transfer at all

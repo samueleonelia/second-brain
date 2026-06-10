@@ -41,3 +41,4 @@ Track your repetitive work. If you find yourself giving the same feedback, answe
 - [[Daisy's 20-Claude Swarm Weekend]] -- systematizing repetitive work
 - [[Compound Engineering - Only Document Mistakes]] -- building compounding systems
 - [[Reddit Comments Are Gold Mines]] -- curated sources for maximum efficiency
+- [[Build a Claude skill that rewrites itself when it's wrong]] -- the same compounding move inside a skill: every recurring correction becomes a permanent rule

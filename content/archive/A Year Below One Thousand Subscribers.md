@@ -43,3 +43,4 @@ Most newsletters that become massive had a period where they looked like failure
 - [[First Question Is Monetization, Not Subscribers]] -- Nathan May: the counterpoint — set 3-6 month kill criteria so patience doesn't become stubbornness
 - [[1K to 10K Was Harder Than 10K to 100K]] -- Jesse J. Anderson: same flat-feeling early segment, framed as the hardest part of the curve
 - [[The Nine-Month Wait, 200 Posts]] -- Olivia Wickstrom: same Substack-side patience pattern, with month 9 and 200 posts as the concrete inflection
+- [[Ten Years of Quiet Building Before The Newsletter Existed]] -- Matt Johansen: the slow-build happening on Twitter + conferences for a decade before the newsletter launched

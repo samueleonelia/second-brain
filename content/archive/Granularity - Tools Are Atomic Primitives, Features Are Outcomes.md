@@ -36,3 +36,4 @@ To change behavior, do you edit prompts or refactor code? If the answer is "refa
 - [[Composability - New Features Through New Prompts]] -- atomic tools are the precondition for new features being just new prompts
 - [[Domain Tools Should Be Shortcuts, Not Gates]] -- when you add a domain tool, keep the underlying primitives accessible
 - [[Agent-Native Anti-Patterns - Router, Workflow Tools, Defensive Design]] -- workflow-shaped tools are the most common granularity failure
+- [[Your automation isn't set and forget, every agent needs a human on both ends]] -- agents act well only when a human frames them with the right primitives; bad framing is bad output
