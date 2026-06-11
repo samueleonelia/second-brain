@@ -30,6 +30,8 @@ Boris Cherny is a Ukrainian-born engineer who created Claude Code at Anthropic, 
 [[The 80% Kill Rate on Prototypes]] -- 80% of AI-generated prototypes never ship because taste and judgment are the real bottleneck
 [[Compound Engineering - Only Document Mistakes]] -- The CLAUDE.md file that only documents real failures, building institutional knowledge over time
 [[Automate Your Code Reviews - The Lint Rule Spreadsheet]] -- A spreadsheet tracking repeated code review comments that became automated lint rules
+[[Give the Agent a Way to Verify Its Own Work]] -- His most-repeated advice: give Claude a way to verify its output and quality jumps 2-3x
+[[Agent Loops Only Work When the Output Is Binary]] -- Atomic essay using his Sequoia talk: every loop he runs is a machine-gradeable chore, which proves the loop criterion
 
 ## Side Projects and TypeScript Journey
 

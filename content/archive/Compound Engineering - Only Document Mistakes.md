@@ -40,3 +40,5 @@ Build a system where every failure teaches the system, not just you. Keep a runn
 - [[Automate Your Code Reviews - The Lint Rule Spreadsheet]] -- building compounding systems
 - [[259 PRs in 30 Days, 2 Bugs - The Vanilla Setup]] -- simple systems, consistent output
 - [[The Headlights Philosophy - No Five-Year Plans]] -- keep it simple and iterate
+- [[Give the Agent a Way to Verify Its Own Work]] -- the complementary loop: verification catches today's error, CLAUDE.md makes sure it never recurs
+- [[Skills Are the Unit of Reusable Expertise]] -- the positive twin of documenting mistakes: anything you repeat becomes a versionable skill

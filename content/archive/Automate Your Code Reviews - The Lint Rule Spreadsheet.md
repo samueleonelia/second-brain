@@ -42,3 +42,4 @@ Track your repetitive work. If you find yourself giving the same feedback, answe
 - [[Compound Engineering - Only Document Mistakes]] -- building compounding systems
 - [[Reddit Comments Are Gold Mines]] -- curated sources for maximum efficiency
 - [[Build a Claude skill that rewrites itself when it's wrong]] -- the same compounding move inside a skill: every recurring correction becomes a permanent rule
+- [[The One Agent Loop Worth Copying Scores Its Own Work]] -- essay candidate on the scored-loop variant of automated review

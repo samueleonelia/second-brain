@@ -46,3 +46,5 @@ My angle (to develop): "set it and forget it" is the selling line for most autom
 - [[Why Agent-Native Software Works Now]] -- agent-native tools are built precisely so a human can step into the loop at start and end
 - [[@Dan Shipper]] -- primary source (Every); the "human sandwich" comes from Kieran Klaassen's team
 - [[Build a Claude skill that rewrites itself when it's wrong]] -- a concrete case of the trap: a skill that auto-updates in the background still needs a human to judge the "fix"
+- [[Agents Have Autonomy, Not Agency]] -- why the front slice of bread can't be removed: the agent has no ends of its own, so a human must supply the wanting
+- [[The Orchestration Tax - Cognitive Bandwidth Doesn't Parallelize]] -- the sandwich multiplied: every extra parallel agent adds two more slices of human framing and judging, and those don't scale

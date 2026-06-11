@@ -1,0 +1,46 @@
+---
+title: "A Gap in the Market Closed by Form Not Content"
+type: permanent
+pipeline: hypefuryGN-v1
+creator: kyla-scanlon
+identity_anchor: kylascanlon.com
+mechanism: "Positioned her economics book against the genre's form rather than its substance: 60 illustrations, metaphors, and poetry where competing titles offer equations and condescension"
+mechanism_tags: [format-differentiation, gap-in-market, book-positioning, accessibility-as-moat]
+sources:
+  - url: https://www.youtube.com/watch?v=7jopMwHa4Uk
+    type: youtube-transcript
+    source_type: primary
+    cached: ~/claudeCode/PKM/secondBrain/transcripts/7jopMwHa4Uk.md
+    verified_at: 2026-06-11
+  - url: https://www.kylascanlon.com/
+    type: web-article
+    source_type: primary
+    verified_at: 2026-06-11
+quotes:
+  - text: "I felt like there was a bit of a gap in the market"
+    source_index: 0
+    source_excerpt_line: 24
+  - text: "the book has 60 illustrations"
+    source_index: 0
+    source_excerpt_line: 24
+tags: [book-launch, positioning, finance-creators, differentiation]
+created: 2026-06-11
+---
+
+# A Gap in the Market Closed by Form Not Content
+
+## The Story
+
+When Jon Stewart asked Kyla Scanlon on The Daily Show what drew her to write In This Economy?, her answer was a positioning statement, not an origin story: _"I felt like there was a bit of a gap in the market"_. The gap was not in economic substance. Plenty of economists had written books explaining money and markets. The gap was in form.
+
+Her fill: _"the book has 60 illustrations"_, plus metaphors and poetry, deliberately tying economics to literature and the humanities. Stewart's review on air captured the differentiation she was aiming at, calling it one of the first economy books where every sentence did not seem to end with the phrase "obviously, dumb ass." The competing titles were condescending or equation-dense, and that, not their content, was the opening.
+
+The bet paid out in genre terms: a New York Times bestseller from a debut author, published by Penguin Random House, that coined the term "vibecession" and became the calling card for her TV appearances and a second book deal. The form was also native to her existing audience, since her TikToks already used drawings, skits, and verse-structured scripts. The book was her short-form mechanics printed and bound.
+
+## Lesson for Creators
+
+When a topic is crowded, the unclaimed territory is often the format, not the angle. Scanlon studied what every economics book looked like and shipped one that looked like none of them while saying broadly compatible things. The replicable move is to audit your genre for its formal conventions (tone, density, visuals) and break the convention your audience most resents.
+
+---
+
+## Related (matched on mechanism)

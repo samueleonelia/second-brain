@@ -41,3 +41,4 @@ Design for what agents can reason about. The best proxy for that is what would m
 - [[Shared Workspace Over Separate Agent Sandboxes]] -- the corollary: agent and user share the same files
 - [[Claude Code - The Side Project That Got 2 Likes]] -- the canonical proof that bash + files is enough
 - [[Stop Feeding AI PDFs - Markdown Is Its Native Format]] -- the practical corollary: feed agents plain text/markdown, the formats they're fluent in, not opaque PDFs
+- [[Obsidian Has Become an AI Platform]] -- platform-scale evidence: a plain-markdown vault turned out to be such a natural agent surface that Obsidian's CEO ships official Claude Skills

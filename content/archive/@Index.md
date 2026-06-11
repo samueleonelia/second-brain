@@ -73,6 +73,7 @@ title: Index
 ## Software and AI
 
 - [[@Agent-Native Software]]
+- [[@Claude Code]]
 
 ## Work and Career
 

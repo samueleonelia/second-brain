@@ -79,6 +79,13 @@ Dan Shipper is the co-founder and CEO of Every, a media and software company bui
 [[Agent-Native Anti-Patterns - Router, Workflow Tools, Defensive Design]] -- the named failure modes
 [[The Ultimate Test - Outcomes You Didn't Build a Feature For]] -- the single test that distinguishes agent-native from agent-flavored
 
+## After Automation (May 2026)
+
+Ideas from the essay "After Automation" not already covered by the atomic-essay seeds below.
+
+[[Benchmarks Measure the Frame, Not the Framer]] -- a benchmark score measures the model inside a human-supplied frame; saturation just moves the frame, and the framer stays human
+[[Agents Have Autonomy, Not Agency]] -- agents execute ends, humans have them; the toddler test for why wanting can't be delegated
+
 ## Atomic Essays (seeded from his work)
 
 Ideas captured from Dan's writing for LinkedIn/X atomic essays (see [[@Atomic Essays]]).

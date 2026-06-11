@@ -16,3 +16,4 @@ created: 2026-04-01
 8. [[Anything can be a game]]
 9. [[Knowledge vs Effort]]
 10. [[Temporary suspend distractions]]
+11. [[Obsidian Has Become an AI Platform]] -- the note-taking tool from [[Best note-taking apps]] is now an AI platform, with official Claude Skills from its CEO

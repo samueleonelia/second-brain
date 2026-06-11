@@ -38,3 +38,4 @@ This is the equivalent of briefing 20 freelance writers on Friday and having 20 
 - [[259 PRs in 30 Days, 2 Bugs - The Vanilla Setup]] -- prolific output through AI
 - [[Delegate What You Love, Not What You Hate]] -- delegation as leverage
 - [[Automate Your Code Reviews - The Lint Rule Spreadsheet]] -- systematizing repetitive work
+- [[The Orchestration Tax - Cognitive Bandwidth Doesn't Parallelize]] -- the sobering counterweight: 20 agents scale execution, but the briefing and evaluating Daisy did stays serial and caps how far a swarm can grow

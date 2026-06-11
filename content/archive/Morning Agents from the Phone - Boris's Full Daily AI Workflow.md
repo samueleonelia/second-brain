@@ -104,3 +104,6 @@ The shift isn't just "use AI." It's a complete restructuring of how productive w
 - [[Daisy's 20-Claude Swarm Weekend]] -- parallel AI orchestration
 - [[The Manager Who Codes Again]] -- creating in gaps between meetings
 - [[Three Modes of Working With AI]] -- choosing the right mode for the task
+- [[The Orchestration Tax - Cognitive Bandwidth Doesn't Parallelize]] -- names the limit of this workflow: 10-15 sessions only work while one human's attention budget still covers the steering
+- [[Stop Copying AI Workflows From People With Unlimited Tokens]] -- essay candidate: this workflow as the example of advice that embeds an insider's cost structure
+- [[Agent Loops Only Work When the Output Is Binary]] -- finalized essay: Boris's loops as evidence that working loops are always machine-gradeable chores

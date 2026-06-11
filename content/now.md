@@ -8,5 +8,6 @@ _2026-05-07_
 - Reading 
 	- Foundation and Empire
 	- The Reopening of the Western Mind
+	- Exodus
 - Watching 
 	- For All Mankind
