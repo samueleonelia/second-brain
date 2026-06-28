@@ -1,6 +1,5 @@
 ---
 title: Skills Are the Unit of Reusable Expertise
-type: permanent
 sources:
   - https://arps18.github.io/posts/claude-code-mastery/
 tags:

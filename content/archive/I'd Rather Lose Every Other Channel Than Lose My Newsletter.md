@@ -1,6 +1,5 @@
 ---
 title: "I'd Rather Lose Every Other Channel Than Lose My Newsletter"
-type: permanent
 creator: jesse-j-anderson
 sources:
   - https://newslettercircle.com/interviews/jesse-j-anderson-extra-focus/

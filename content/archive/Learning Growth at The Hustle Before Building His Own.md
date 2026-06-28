@@ -1,6 +1,5 @@
 ---
 title: "Learning Growth at The Hustle Before Building His Own"
-type: permanent
 creator: alex-garcia
 sources:
   - https://www.starterstory.com/marketing-examined-breakdown

@@ -1,6 +1,5 @@
 ---
 title: The meaning of contradictions
-type: permanent
 created: 2026-04-01
 ---
 

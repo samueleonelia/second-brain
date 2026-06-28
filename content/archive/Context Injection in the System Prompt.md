@@ -1,6 +1,5 @@
 ---
 title: "Context Injection in the System Prompt"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

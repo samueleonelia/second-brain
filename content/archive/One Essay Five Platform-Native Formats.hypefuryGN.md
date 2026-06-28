@@ -1,6 +1,5 @@
 ---
 title: "One Essay Five Platform-Native Formats"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com
@@ -33,3 +32,4 @@ Repurposing fails when it means copy-pasting one asset everywhere on the same af
 ---
 
 ## Related (matched on mechanism)
+- [[One Recording Into a Week of Content]] — duncan-rogoff, matched: repurpose-one-to-many, content-atomization, multi-platform-ecosystem

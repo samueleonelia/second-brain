@@ -1,6 +1,5 @@
 ---
 title: A Plan Document Can't Hold Your Product Vision
-type: permanent
 sources:
   - https://youtu.be/7clJ8IH784Q
 tags:

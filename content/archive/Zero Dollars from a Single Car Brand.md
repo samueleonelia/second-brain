@@ -1,6 +1,5 @@
 ---
 title: "Zero Dollars from a Single Car Brand"
-type: permanent
 creator: yossi-levi
 sources:
   - https://growthinreverse.com/yossi-levi/

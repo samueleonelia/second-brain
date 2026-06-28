@@ -1,6 +1,5 @@
 ---
 title: Value + Question Tweet
-type: permanent
 sources:
   - My four week Twitter Analysis
 tags:

@@ -1,6 +1,5 @@
 ---
 title: Four Revenue Streams from One LinkedIn Audience
-type: permanent
 creator: mischa-collins
 sources:
   - https://www.theaireport.ai/articles/she-lost-her-job-and-built-a-business-from-2-linked-in-posts--mischa-collins

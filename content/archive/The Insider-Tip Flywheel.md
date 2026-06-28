@@ -1,6 +1,5 @@
 ---
 title: "The Insider-Tip Flywheel"
-type: permanent
 creator: yossi-levi
 sources:
   - https://growthinreverse.com/yossi-levi/

@@ -1,6 +1,5 @@
 ---
 title: Dofollow vs nofollow links
-type: permanent
 sources:
   - https://johanneslarsson.com/course/the-complete-seo-checklist/
 tags:

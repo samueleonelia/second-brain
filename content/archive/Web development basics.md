@@ -1,6 +1,5 @@
 ---
 title: Web development basics
-type: permanent
 created: 2026-04-01
 ---
 

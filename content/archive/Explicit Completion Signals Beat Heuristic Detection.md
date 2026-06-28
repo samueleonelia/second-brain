@@ -1,6 +1,5 @@
 ---
 title: "Explicit Completion Signals Beat Heuristic Detection"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

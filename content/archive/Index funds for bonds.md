@@ -1,6 +1,5 @@
 ---
 title: Index funds for bonds
-type: permanent
 created: 2026-04-01
 ---
 

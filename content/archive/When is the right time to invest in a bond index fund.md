@@ -1,6 +1,5 @@
 ---
 title: When is the right time to invest in a bond index fund
-type: permanent
 sources:
   - https://jlcollinsnh.com/2012/09/21/the-smoother-path-to-wealth/
 tags:

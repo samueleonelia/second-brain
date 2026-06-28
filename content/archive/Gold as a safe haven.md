@@ -1,6 +1,5 @@
 ---
 title: Gold as a safe haven
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Content Pillars Before You Post Anything"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth

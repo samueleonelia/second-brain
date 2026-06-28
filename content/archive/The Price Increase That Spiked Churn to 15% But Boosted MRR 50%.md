@@ -1,6 +1,5 @@
 ---
 title: "The Price Increase That Spiked Churn to 15% But Boosted MRR 50%"
-type: permanent
 creator: yannick-veys
 sources:
   - https://www.indiehackers.com/post/i-co-founded-hypefury-and-scaled-it-to-22k-mrr-ama-318a451a36

@@ -1,6 +1,5 @@
 ---
 title: "Approval Stakes vs Reversibility Matrix"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

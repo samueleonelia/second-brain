@@ -1,6 +1,5 @@
 ---
 title: "259 PRs in 30 Days, 2 Bugs: The \"Vanilla\" Setup"
-type: permanent
 creator: boris-cherny
 sources:
   - https://alexdharris.substack.com/p/how-the-creator-of-claude-code-ships
@@ -100,3 +99,4 @@ The person who ships 259 finished pieces in 30 days with a vanilla setup beats t
 - [[Daisy's 20-Claude Swarm Weekend]] -- parallel AI execution
 - [[Compound Engineering - Only Document Mistakes]] -- simple systems, consistent discipline
 - [[The Headlights Philosophy - No Five-Year Plans]] -- simple process, repeated consistently
+- [[The Thousand Line Review Ceiling]] -- the small-batch discipline arrived at from the machine-review side: keep each unit small enough that the reviewer (human or agent) can still hold it

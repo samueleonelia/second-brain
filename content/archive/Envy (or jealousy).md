@@ -1,6 +1,5 @@
 ---
 title: Envy (or jealousy)
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: From Personal System to Productized Agency
-type: permanent
 creator: charlie-hills
 sources:
   - https://www.linked-agency.com/

@@ -1,6 +1,5 @@
 ---
 title: Backlink ideal sources
-type: permanent
 sources:
   - https://johanneslarsson.com/course/the-complete-seo-checklist/
 tags:

@@ -1,6 +1,5 @@
 ---
 title: "CDG Was Built With Zero Paid Marketing"
-type: permanent
 creator: yossi-levi
 sources:
   - https://www.thespl.it/p/car-dealership-guy-anonymous-vc-backed

@@ -1,6 +1,5 @@
 ---
 title: Demand perfection
-type: permanent
 sources:
   - The Last Dance
 tags:

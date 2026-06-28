@@ -1,6 +1,5 @@
 ---
 title: The Orchestration Tax - Cognitive Bandwidth Doesn't Parallelize
-type: permanent
 sources:
   - https://x.com/addyosmani/status/2059844244907696186
 tags:

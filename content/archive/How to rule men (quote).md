@@ -1,6 +1,5 @@
 ---
 title: How to rule men (quote)
-type: permanent
 sources:
   - Tai Pan
 tags:

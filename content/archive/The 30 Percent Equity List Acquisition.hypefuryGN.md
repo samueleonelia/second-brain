@@ -16,6 +16,16 @@ sources:
     type: web-article
     source_type: secondary
     verified_at: 2026-06-11
+quotes:
+  - text: "I managed to broker a deal that he would get 30% equity in Mindream and then he would bring all of his um newsletter subscribers"
+    source_index: 0
+    source_excerpt_line: 588
+  - text: "We didn't import the whole list, we imported the most active people"
+    source_index: 0
+    source_excerpt_line: 592
+  - text: "if we were to go out and and uh get 100,000 subscribers at that sort of quality through like paid strategy, we'd probably be paying best case uh$150 per subscriber"
+    source_index: 0
+    source_excerpt_line: null
 tags: [newsletter, acquisition, equity-deal]
 created: 2026-06-11
 ---
@@ -46,3 +56,5 @@ Equity is currency too, and at the early stage it is usually cheaper than cash. 
 ---
 
 ## Related (matched on mechanism)
+
+- [[Skip the Link Keep the Reach]] — kyla-scanlon, matched: newsletter-growth

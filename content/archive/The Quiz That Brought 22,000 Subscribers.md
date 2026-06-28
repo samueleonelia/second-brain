@@ -1,6 +1,5 @@
 ---
 title: "The Quiz That Brought 22,000 Subscribers"
-type: permanent
 creator: milly-tamati
 sources:
   - https://www.beehiiv.com/blog/case-study-generalist-world

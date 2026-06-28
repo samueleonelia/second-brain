@@ -1,6 +1,5 @@
 ---
 title: Give the Agent a Way to Verify Its Own Work
-type: permanent
 sources:
   - https://arps18.github.io/posts/claude-code-mastery/
 tags:
@@ -28,3 +27,5 @@ The deeper principle generalizes beyond coding: the quality of delegated work tr
 - [[Your automation isn't set and forget, every agent needs a human on both ends]] -- a self-verify loop shrinks the judging end of the human sandwich but never removes it
 - [[Agent Loops Only Work When the Output Is Binary]] -- the boundary condition as essay candidate: verification needs an objective signal to exist at all
 - [[The One Agent Loop Worth Copying Scores Its Own Work]] -- a full worked example of this principle: scored review as the verify step
+- [[Loops Make Sense Only With a Fixed Feedback Signal]] -- the boundary condition for this principle: verification only delegates safely when the signal it checks against is objective
+- [[RL Learns Outcomes While Fine-Tuning Imitates Labels]] -- the enterprise-scale version of "verification beats raw skill": an RL reward is a self-regenerating verify signal, so the loop compounds where a static fine-tune decays

@@ -1,6 +1,5 @@
 ---
 title: Proposal sequence
-type: permanent
 sources:
   - Million Dollar Consulting
 tags:

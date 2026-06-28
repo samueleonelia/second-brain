@@ -1,6 +1,5 @@
 ---
 title: "Let the Customer Be the Copywriter"
-type: permanent
 creator: nathan-may
 sources:
   - https://www.letterstack.co/podcast/how-to-scale-your-newsletter-nathan-may-talks-newsletter-advertising-strategies

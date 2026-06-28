@@ -1,6 +1,5 @@
 ---
 title: Failed His Own Audition for His Own TV Show
-type: permanent
 creator: trung-phan
 sources:
   - https://www.readtrung.com/p/im-making-a-tv-show

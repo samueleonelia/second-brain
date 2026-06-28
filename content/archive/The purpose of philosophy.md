@@ -1,6 +1,5 @@
 ---
 title: The purpose of philosophy
-type: permanent
 sources:
   - The Cave and the Light: Plato Versus Aristotle and the Struggles for the Soul of Western Civilization
 tags:

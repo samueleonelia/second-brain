@@ -1,6 +1,5 @@
 ---
 title: 1-3-1 + Bullets Introduction
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

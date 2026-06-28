@@ -1,6 +1,5 @@
 ---
 title: "Why Agent-Native Software Works Now"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

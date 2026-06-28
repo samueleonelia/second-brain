@@ -1,6 +1,5 @@
 ---
 title: "None of My Ideas Are Original: The Curation Method"
-type: permanent
 creator: harry-dry
 sources:
   - https://jakobgreenfeld.com/harry

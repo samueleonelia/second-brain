@@ -1,6 +1,5 @@
 ---
 title: Testimonial vs Case study
-type: permanent
 sources:
   - https://www.profitwell.com/recur/all/dtcpriced-art-of-sport
 tags:

@@ -12,6 +12,19 @@ sources:
     source_type: primary
     cached: ~/claudeCode/PKM/secondBrain/transcripts/xb3ehnGW_DU.md
     verified_at: 2026-06-11
+quotes:
+  - text: "we had employees from Lebanon, Pakistan, the Philippines, Iran"
+    source_index: 0
+    source_excerpt_line: 436
+  - text: "we were able to pay them like a very very good um rate for where they're from, which for us was more competitive than hiring um in in the UK or America"
+    source_index: 0
+    source_excerpt_line: null
+  - text: "They are still doing that now like 18 months later. They are still spending a lot of time together"
+    source_index: 0
+    source_excerpt_line: 454
+  - text: "He literally has them come and live in his house and follow him around for 3 months so they can clone him"
+    source_index: 0
+    source_excerpt_line: 464
 tags: [hiring, team-building, operations]
 created: 2026-06-11
 ---

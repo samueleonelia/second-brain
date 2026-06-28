@@ -1,6 +1,5 @@
 ---
 title: How writers create their own categories
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

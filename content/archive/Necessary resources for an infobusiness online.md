@@ -1,6 +1,5 @@
 ---
 title: Necessary resources for an infobusiness online
-type: permanent
 created: 2026-04-01
 ---
 

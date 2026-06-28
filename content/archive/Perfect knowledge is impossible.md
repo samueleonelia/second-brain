@@ -1,6 +1,5 @@
 ---
 title: Perfect knowledge is impossible
-type: permanent
 created: 2026-04-01
 ---
 

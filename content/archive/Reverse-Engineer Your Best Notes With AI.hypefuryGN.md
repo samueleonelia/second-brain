@@ -1,6 +1,5 @@
 ---
 title: "Reverse-Engineer Your Best Notes With AI"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth
@@ -34,3 +33,4 @@ Your own analytics are a content brief you are probably ignoring. Feed your top 
 ---
 
 ## Related (matched on mechanism)
+- [[Turn an Expert's Playbook Into a System Prompt]] — duncan-rogoff, matched: reverse-engineer-winners, ai-pattern-analysis

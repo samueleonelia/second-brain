@@ -1,6 +1,5 @@
 ---
 title: Follow up after the proposal
-type: permanent
 sources:
   - Million Dollar Consulting
 tags:

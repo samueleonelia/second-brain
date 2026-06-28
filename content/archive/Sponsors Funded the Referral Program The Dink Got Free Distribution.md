@@ -1,6 +1,5 @@
 ---
 title: "Sponsors Funded the Referral Program; The Dink Got Free Distribution"
-type: permanent
 creator: thomas-shields
 sources:
   - https://growthinreverse.com/the-dink/

@@ -2,12 +2,14 @@
 video_id: uhEyv-wk4hs
 url: https://www.youtube.com/watch?v=uhEyv-wk4hs
 title: "Building an AI Media Business from $1K to Multi-Million Exit | Adam Biddlecombe - Mindstream Founder"
-channel: "Scott D. Clary - Success Story Podcast"
-duration_minutes: 96
-fetched_at: 2026-06-11
+channel: Success Story with Scott D. Clary
+duration_minutes: 75
+fetched_at: 2026-06-28
 creator: adam-biddlecombe
 anchor: "@adam-bidd"
 ---
+
+# Building an AI Media Business from $1K to Multi-Million Exit | Adam Biddlecombe - Mindstream Founder
 
 When I was a musician playing in a band, I thought I was like a rock star. So, I spent 8 years of my professional career all the time begging people to come.
 

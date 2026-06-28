@@ -1,7 +1,5 @@
 ---
 title: Claude Code
-type: index
-scope: topic
 created: 2026-06-11
 ---
 
@@ -13,6 +11,7 @@ Working with AI coding agents in practice: workflows, configuration artifacts (s
 
 [[Give the Agent a Way to Verify Its Own Work]] -- Boris Cherny's most-repeated advice: a verification loop is worth a 2-3x quality bump
 [[Three Modes of Working With AI]] -- vibe coding, pairing, by hand: match the mode to the task
+[[Delegate vs Collaborate as the Meta-Skill of Knowledge Work]] -- Katie Parrott's sibling taxonomy: sort tasks by autonomy level before opening the agent
 [[The Orchestration Tax - Cognitive Bandwidth Doesn't Parallelize]] -- agents scale horizontally, your judgment doesn't; the hidden cost of parallelism
 [[Everyone Says Loop, Nobody Defines It]] -- AI-coding vocabulary spreads faster than its meaning; copy the workflow, not the slogan
 [[Loops Make Sense Only With a Fixed Feedback Signal]] -- the boundary for autonomous loops: a confined process with an objective score to optimize against
@@ -27,6 +26,8 @@ Working with AI coding agents in practice: workflows, configuration artifacts (s
 [[Subagents Keep the Main Context Clean]] -- isolated contexts and scoped permissions; separate concerns into separate workers
 [[A Claude Code Subagent Is a Markdown File]] -- the demystification: a working subagent is a 15-minute text file
 [[Compound Engineering - Only Document Mistakes]] -- the CLAUDE.md discipline: every real failure becomes a permanent rule
+[[The Three Prompt Rule for Promoting Prompts to Persistent Context]] -- the trigger for writing one: stop typing the third repetition and put it in a goal, skill, or CLAUDE.md
+[[Coding Agents Are Knowledge Work Agents in Disguise]] -- why these primitives matter beyond engineering: a non-developer needs goals, skills, and CLAUDE.md just as much
 
 ## In Practice
 

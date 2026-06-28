@@ -1,6 +1,5 @@
 ---
 title: "Gaming Server Side Hustle: Paid Back the Debt in 6 Months"
-type: permanent
 creator: yannick-veys
 sources:
   - personally-verified

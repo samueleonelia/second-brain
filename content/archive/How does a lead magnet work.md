@@ -1,6 +1,5 @@
 ---
 title: How does a lead magnet work
-type: permanent
 created: 2026-04-01
 ---
 

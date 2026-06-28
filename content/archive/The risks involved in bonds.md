@@ -1,6 +1,5 @@
 ---
 title: The risks involved in bonds
-type: permanent
 sources:
   - https://jlcollinsnh.com/2012/10/01/stocks-part-xii-bonds-and-a-bit-on-reits/
 tags:

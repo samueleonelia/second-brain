@@ -1,6 +1,5 @@
 ---
 title: "One Note Brought 2,300 Subscribers After Months of Crickets"
-type: permanent
 creator: olivia-wickstrom
 sources:
   - https://petalandhearth.substack.com/p/the-notes-strategy-that-made-me-a

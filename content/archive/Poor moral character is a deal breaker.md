@@ -1,6 +1,5 @@
 ---
 title: Poor moral character is a deal breaker
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "The Failed Not Boring Club That Became Not Boring"
-type: permanent
 creator: packy-mccormick
 sources:
   - https://mercury.com/blog/packy-mccormick-one-man-show

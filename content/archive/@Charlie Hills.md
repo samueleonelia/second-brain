@@ -1,7 +1,5 @@
 ---
 title: Charlie Hills
-type: index
-scope: creator
 created: 2026-04-01
 ---
 

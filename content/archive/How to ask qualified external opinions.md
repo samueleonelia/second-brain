@@ -1,6 +1,5 @@
 ---
 title: How to ask qualified external opinions
-type: permanent
 sources:
   - How to Decide: Simple Tools for Making Better Choices
 tags:

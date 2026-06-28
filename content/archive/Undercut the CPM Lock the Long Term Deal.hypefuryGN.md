@@ -17,6 +17,22 @@ sources:
     source_type: primary
     cached: ~/claudeCode/PKM/secondBrain/transcripts/xb3ehnGW_DU.md
     verified_at: 2026-06-11
+quotes:
+  - text: "we would just undercut slightly"
+    source_index: 0
+    source_excerpt_line: null
+  - text: "we kind of kept our rates a little bit lower than industry standard"
+    source_index: 1
+    source_excerpt_line: 260
+  - text: "we had more than 50% retention with our advertisers"
+    source_index: 0
+    source_excerpt_line: 850
+  - text: "the way we kept long-term customers is pricing at a position that just made so much sense for them"
+    source_index: 0
+    source_excerpt_line: 840
+  - text: "my rationale was let's get kind of a little bit less revenue than we could but then not have to hire a sales person and a customer success people and churn through advertisers at like a a quick rate"
+    source_index: 0
+    source_excerpt_line: null
 tags: [newsletter, monetization, sponsorship-pricing]
 created: 2026-06-11
 ---
@@ -51,3 +67,8 @@ The highest CPM you can extract is rarely the most profitable price. When your a
 ---
 
 ## Related (matched on mechanism)
+- [[Seventeen Sponsors Keep the Newsletter Free]] — maja-voje, matched: flat-fee-sponsorships
+
+- [[A Revenue Mix Anchored on Sponsorships]] — tom-alder, matched: revenue-mix, flat-fee-sponsorships
+
+- [[Cut Anyone Inactive for 50 Days]] — adam-biddlecombe, matched: advertiser-retention-via-engagement

@@ -1,6 +1,5 @@
 ---
 title: Sponsorships as Education, Not Ads
-type: permanent
 creator: charlie-hills
 sources:
   - https://www.favikon.com/blog/who-is-charlie-hills

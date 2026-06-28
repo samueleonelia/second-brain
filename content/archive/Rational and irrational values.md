@@ -1,6 +1,5 @@
 ---
 title: Rational and irrational values
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

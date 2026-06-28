@@ -1,6 +1,5 @@
 ---
 title: Why to create a lead magnet
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "The One-Click Affiliate Button"
-type: permanent
 creator: yannick-veys
 sources:
   - https://traction.substack.com/p/yannick-co-founder-of-hypefury

@@ -1,6 +1,5 @@
 ---
 title: "FAO Warns Hormuz Disruption Will Tighten Food Supplies Into 2027"
-type: permanent
 topic: asia-rice-hormuz-fallout
 tags:
   - pacific-asia

@@ -1,6 +1,5 @@
 ---
 title: Whim and ethics
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

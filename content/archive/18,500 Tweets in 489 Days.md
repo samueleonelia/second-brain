@@ -1,6 +1,5 @@
 ---
 title: "18,500 Tweets in 489 Days"
-type: permanent
 creator: yossi-levi
 sources:
   - https://growthinreverse.com/yossi-levi/

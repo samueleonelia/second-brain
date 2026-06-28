@@ -1,6 +1,5 @@
 ---
 title: "Strait of Hormuz Carries One-Third of Global Urea Exports"
-type: permanent
 topic: asia-rice-hormuz-fallout
 tags:
   - pacific-asia

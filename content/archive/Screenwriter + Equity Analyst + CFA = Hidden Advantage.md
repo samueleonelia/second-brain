@@ -1,6 +1,5 @@
 ---
 title: Screenwriter + Equity Analyst + CFA = Hidden Advantage
-type: permanent
 creator: trung-phan
 sources:
   - https://creatoreconomy.so/p/trung-phan-smart-threads-dumb-memes

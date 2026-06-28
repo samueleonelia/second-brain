@@ -1,6 +1,5 @@
 ---
 title: Sources of confidence
-type: permanent
 sources:
   - The Man Who Solved the Market
 tags:

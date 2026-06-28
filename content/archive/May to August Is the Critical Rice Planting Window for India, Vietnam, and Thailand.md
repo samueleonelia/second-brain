@@ -1,6 +1,5 @@
 ---
 title: "May to August Is the Critical Rice Planting Window for India, Vietnam, and Thailand"
-type: permanent
 topic: asia-rice-hormuz-fallout
 tags:
   - pacific-asia

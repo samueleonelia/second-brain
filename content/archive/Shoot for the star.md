@@ -1,6 +1,5 @@
 ---
 title: Shoot for the star
-type: permanent
 sources:
   - The Last Dance
 tags:

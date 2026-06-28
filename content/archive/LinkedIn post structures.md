@@ -1,6 +1,5 @@
 ---
 title: LinkedIn post structures
-type: permanent
 created: 2026-04-01
 ---
 

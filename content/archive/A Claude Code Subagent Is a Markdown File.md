@@ -1,6 +1,5 @@
 ---
 title: A Claude Code Subagent Is a Markdown File
-type: permanent
 sources:
   - https://x.com/0x_rody/status/2061019244595233135
 tags:

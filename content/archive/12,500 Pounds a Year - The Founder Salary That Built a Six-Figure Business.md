@@ -1,6 +1,5 @@
 ---
 title: "£12,500 a Year: The Founder Salary That Built a Six-Figure Business"
-type: permanent
 creator: milly-tamati
 sources:
   - https://growthinreverse.com/milly-tamati/

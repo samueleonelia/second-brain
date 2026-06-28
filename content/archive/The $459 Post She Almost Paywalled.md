@@ -1,6 +1,5 @@
 ---
 title: "The $459 Post She Almost Paywalled"
-type: permanent
 creator: olivia-wickstrom
 sources:
   - https://substack.com/@petalandhearth/note/c-193166271

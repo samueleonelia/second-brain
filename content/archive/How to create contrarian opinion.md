@@ -1,6 +1,5 @@
 ---
 title: How to create contrarian opinion
-type: permanent
 sources:
   - https://wynter.com/post/wild-opinions-into-traffic
 tags:

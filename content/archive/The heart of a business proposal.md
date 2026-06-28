@@ -1,6 +1,5 @@
 ---
 title: The heart of a business proposal
-type: permanent
 sources:
   - Million Dollar Consulting
 tags:

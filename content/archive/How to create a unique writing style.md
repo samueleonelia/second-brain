@@ -1,6 +1,5 @@
 ---
 title: How to create a unique writing style
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

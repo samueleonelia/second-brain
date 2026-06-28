@@ -1,6 +1,5 @@
 ---
 title: Write down your fears
-type: permanent
 sources:
   - https://nosidebar.com/my-fear-list
 tags:

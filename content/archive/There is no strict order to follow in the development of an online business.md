@@ -1,6 +1,5 @@
 ---
 title: There is no strict order to follow in the development of an online business
-type: permanent
 created: 2026-04-01
 ---
 

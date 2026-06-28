@@ -1,6 +1,5 @@
 ---
 title: "70% of the Work Is Visual"
-type: permanent
 creator: harry-dry
 sources:
   - https://jakobgreenfeld.com/harry

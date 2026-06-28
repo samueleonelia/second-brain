@@ -1,6 +1,5 @@
 ---
 title: SEO is not enough for content marketing
-type: permanent
 sources:
   - https://wynter.com/post/wild-opinions-into-traffic
 tags:

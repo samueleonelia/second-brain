@@ -1,6 +1,5 @@
 ---
 title: How to find friends on Twitter
-type: permanent
 sources:
   - https://www.makingtwitterfriends.com/
 tags:

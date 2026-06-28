@@ -1,6 +1,5 @@
 ---
 title: "Three Generations of Programmers: From Punch Cards to AI"
-type: permanent
 creator: boris-cherny
 sources:
   - https://mezha.net/eng/bukvy/ukrainian-born-boris-cherniy-leads-ai-tool-claude-code-development-at-anthropic/

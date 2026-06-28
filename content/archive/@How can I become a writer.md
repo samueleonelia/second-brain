@@ -1,7 +1,5 @@
 ---
 title: How can I become a writer
-type: index
-scope: topic
 created: 2026-04-01
 ---
 

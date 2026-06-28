@@ -1,6 +1,5 @@
 ---
 title: "Taking on Harvard Business Review"
-type: permanent
 creator: alex-garcia
 sources:
   - https://podcasts.apple.com/us/podcast/alex-garcia-on-taking-on-harvard-to-build-a-9/id1716289221?i=1000657955819

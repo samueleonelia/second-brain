@@ -1,6 +1,5 @@
 ---
 title: "Niche Within a Niche: The Wet-Dog-Food Agency"
-type: permanent
 creator: nathan-may
 sources:
   - https://growthinreverse.com/nathan-may/

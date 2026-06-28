@@ -1,6 +1,5 @@
 ---
 title: 5 forms of online writing
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

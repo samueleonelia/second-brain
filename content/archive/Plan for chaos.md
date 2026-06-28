@@ -1,6 +1,5 @@
 ---
 title: Plan for chaos
-type: permanent
 sources:
   - Chaos Planning
 tags:

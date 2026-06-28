@@ -1,6 +1,5 @@
 ---
 title: Thinking through writing
-type: permanent
 sources:
   - https://blog.stephsmith.io/learning-to-write-with-confidence/
 tags:

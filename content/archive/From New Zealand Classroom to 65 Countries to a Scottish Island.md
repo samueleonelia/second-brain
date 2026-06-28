@@ -1,6 +1,5 @@
 ---
 title: "From New Zealand Classroom to 65 Countries to a Scottish Island"
-type: permanent
 creator: milly-tamati
 sources:
   - https://thebootstrappedfounder.com/milly-tamati-the-power-and-potential-of-generalists/

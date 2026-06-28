@@ -1,6 +1,5 @@
 ---
 title: "Each Platform Is Its Own Business"
-type: permanent
 creator: matt-johansen
 sources:
   - https://growthinreverse.com/matt-johansen/

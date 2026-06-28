@@ -1,6 +1,5 @@
 ---
 title: "The 30-Minute Parkinson's-Law Newsletter"
-type: permanent
 creator: jesse-j-anderson
 sources:
   - https://newslettercircle.com/interviews/jesse-j-anderson-extra-focus/

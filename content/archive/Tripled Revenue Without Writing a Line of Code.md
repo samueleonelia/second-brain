@@ -1,6 +1,5 @@
 ---
 title: "Tripled Revenue Without Writing a Line of Code"
-type: permanent
 creator: yannick-veys
 sources:
   - https://growthlessons.co/how-twitter-automation-platform-hypefury-went-from-0-to-4-4k-mrr-in-4-months/

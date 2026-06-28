@@ -1,6 +1,5 @@
 ---
 title: "No Silent Agent Actions: UI Reflects Activity Immediately"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

@@ -1,7 +1,5 @@
 ---
 title: CJ Gustafson
-type: index
-scope: creator
 created: 2026-05-25
 ---
 

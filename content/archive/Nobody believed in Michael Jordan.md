@@ -1,6 +1,5 @@
 ---
 title: Nobody believed in Michael Jordan
-type: permanent
 sources:
   - The Last Dance
 tags:

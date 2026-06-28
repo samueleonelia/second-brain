@@ -1,6 +1,5 @@
 ---
 title: The Design Competition That Solved an Impossible Problem
-type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code

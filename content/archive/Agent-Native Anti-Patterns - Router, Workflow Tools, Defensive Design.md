@@ -1,6 +1,5 @@
 ---
 title: "Agent-Native Anti-Patterns: Router, Workflow Tools, Defensive Design"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

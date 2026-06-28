@@ -1,6 +1,5 @@
 ---
 title: Obsidian Has Become an AI Platform
-type: permanent
 sources:
   - https://x.com/eng_khairallah1/status/2061012675824644161
 tags:
@@ -24,3 +23,4 @@ The signal is the official endorsement. AI integration in Obsidian is no longer 
 
 - [[Best note-taking apps]] -- Obsidian's earlier evaluation in the vault (pro: graph view, con: learning curve); the AI plugin ecosystem is now arguably its biggest pro
 - [[Files Are the Universal Interface for Agents]] -- why Obsidian is so AI-compatible: a vault is plain markdown on disk, the most battle-tested agent interface
+- [[Coding Agents Are Knowledge Work Agents in Disguise]] -- Obsidian-as-AI-platform is the non-coding case study of Parrott's thesis: agentic primitives leaving the developer niche

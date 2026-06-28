@@ -1,6 +1,5 @@
 ---
 title: Add lead magnets to Pillar Pieces
-type: permanent
 sources:
   - 
 tags:

@@ -17,6 +17,13 @@ sources:
     source_type: primary
     cached: ~/claudeCode/PKM/secondBrain/transcripts/xb3ehnGW_DU.md
     verified_at: 2026-06-11
+quotes:
+  - text: "I will be wealthier from taking the HubSpot deal rather than taking the deal with 10x the money from unheard of company"
+    source_index: 0
+    source_excerpt_line: 926
+  - text: "don't have any skeletons in the closet"
+    source_index: 0
+    source_excerpt_line: 892
 tags: [newsletter, acquisition, exit-strategy]
 created: 2026-06-11
 ---

@@ -1,6 +1,5 @@
 ---
 title: The 80% Kill Rate on Prototypes
-type: permanent
 creator: boris-cherny
 sources:
   - https://www.news.aakashg.com/p/taste-at-speed

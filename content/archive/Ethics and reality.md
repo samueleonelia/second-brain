@@ -1,6 +1,5 @@
 ---
 title: Ethics and reality
-type: permanent
 sources:
   - https://newideal.aynrand.org/why-todays-ethics-offers-no-real-guidance/
 tags:

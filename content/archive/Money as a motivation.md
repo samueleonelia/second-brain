@@ -1,6 +1,5 @@
 ---
 title: Money as a motivation
-type: permanent
 sources:
   - The Man Who Solved the Market
 tags:

@@ -1,6 +1,5 @@
 ---
 title: "The $48M VC-Backed Failure That Powered the Comeback"
-type: permanent
 creator: yossi-levi
 sources:
   - https://www.thespl.it/p/car-dealership-guy-anonymous-vc-backed

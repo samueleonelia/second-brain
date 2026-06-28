@@ -1,6 +1,5 @@
 ---
 title: "The 120-Word Post That Outperformed Everything"
-type: permanent
 creator: tom-orbach
 sources:
   - https://www.marketingideas.com/p/how-i-grew-this-newsletter-from-0

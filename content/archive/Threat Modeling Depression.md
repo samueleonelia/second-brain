@@ -1,6 +1,5 @@
 ---
 title: "Threat Modeling Depression"
-type: permanent
 creator: matt-johansen
 sources:
   - https://www.mattjay.com/blog/threat-model-depression

@@ -1,6 +1,5 @@
 ---
 title: Keep a tiny price difference between the offer packages
-type: permanent
 sources:
   - Dartboard Pricing: How To Increase Prices (Without Losing Customers)
   - https://copyblogger.com/yes-yes-pricing/

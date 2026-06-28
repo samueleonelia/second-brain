@@ -1,6 +1,5 @@
 ---
 title: Write 10 ideas every day
-type: permanent
 sources:
   - https://jamesaltucher.com/blog/the-ultimate-guide-for-becoming-an-idea-machine/
 tags:

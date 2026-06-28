@@ -1,6 +1,5 @@
 ---
 title: "From One Lot in Philly to a B2B Holding Company"
-type: permanent
 creator: yossi-levi
 sources:
   - https://yossijlevi.com/

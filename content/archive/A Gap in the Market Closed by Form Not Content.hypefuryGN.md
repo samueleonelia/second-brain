@@ -1,6 +1,5 @@
 ---
 title: "A Gap in the Market Closed by Form Not Content"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com

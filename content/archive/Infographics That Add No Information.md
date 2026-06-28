@@ -1,6 +1,5 @@
 ---
 title: "Infographics That Add No Information"
-type: permanent
 creator: tom-orbach
 sources:
   - https://blog.hubspot.com/marketing/newsletter-growth-marketing-ideas

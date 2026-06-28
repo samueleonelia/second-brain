@@ -1,6 +1,5 @@
 ---
 title: Digital Gardens are useless
-type: permanent
 created: 2026-04-01
 ---
 

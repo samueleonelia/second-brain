@@ -1,6 +1,5 @@
 ---
 title: Gold as a long term investment
-type: permanent
 sources:
   - https://www.investopedia.com/ask/answers/020915/has-gold-been-good-investment-over-long-term.asp
 tags:

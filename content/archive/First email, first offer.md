@@ -1,6 +1,5 @@
 ---
 title: First email, first offer
-type: permanent
 sources:
   - https://entrepreneurshandbook.co/3-seemingly-a-backwards-strategies-i-use-to-grow-my-dream-online-business-95127cae108e
 tags:

@@ -1,6 +1,5 @@
 ---
 title: Emotions can be good or evil
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

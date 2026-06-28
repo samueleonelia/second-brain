@@ -1,6 +1,5 @@
 ---
 title: The Reddit-First Growth Strategy
-type: permanent
 creator: sam-parr
 sources:
   - https://growthinreverse.com/sam-parr/

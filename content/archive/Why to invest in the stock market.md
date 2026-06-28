@@ -1,6 +1,5 @@
 ---
 title: Why to invest in the stock market
-type: permanent
 sources:
   - https://jlcollinsnh.com/2012/04/19/stocks-part-ii-the-market-always-goes-up/
 tags:

@@ -1,6 +1,5 @@
 ---
 title: Rational mis-integrations
-type: permanent
 created: 2026-04-01
 ---
 

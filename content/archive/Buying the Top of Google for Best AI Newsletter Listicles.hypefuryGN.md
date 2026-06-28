@@ -12,6 +12,13 @@ sources:
     source_type: primary
     cached: ~/claudeCode/PKM/secondBrain/transcripts/uhEyv-wk4hs.md
     verified_at: 2026-06-11
+quotes:
+  - text: "We paid to get like first space on um articles of like 10 best AI newsletters"
+    source_index: 0
+    source_excerpt_line: 830
+  - text: "We didn't pay for Forbes. We managed to get on Forbes, but we we were kind of top spot on Google if you were searching for advertise on AI newsletters"
+    source_index: 0
+    source_excerpt_line: 838
 tags: [newsletter, seo, advertiser-pipeline]
 created: 2026-06-11
 ---

@@ -1,6 +1,5 @@
 ---
 title: Infoproducts that you can create quickly
-type: permanent
 created: 2026-04-01
 ---
 

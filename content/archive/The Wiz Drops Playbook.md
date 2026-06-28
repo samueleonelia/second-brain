@@ -1,6 +1,5 @@
 ---
 title: "The Wiz Drops Playbook"
-type: permanent
 creator: tom-orbach
 sources:
   - https://www.marketingideas.com/p/what-3-years-at-wiz-taught-me-about

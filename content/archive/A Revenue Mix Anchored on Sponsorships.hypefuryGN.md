@@ -1,6 +1,5 @@
 ---
 title: "A Revenue Mix Anchored on Sponsorships"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: tom-alder
 identity_anchor: strategy breakdowns
@@ -37,3 +36,6 @@ A newsletter can be funded on sponsorships from early on, but the durable pieces
 ---
 
 ## Related (matched on mechanism)
+- [[Seventeen Sponsors Keep the Newsletter Free]] — maja-voje, matched: flat-fee-sponsorships
+
+- [[Undercut the CPM Lock the Long Term Deal]] — adam-biddlecombe, matched: revenue-mix, flat-fee-sponsorships

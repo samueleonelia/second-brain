@@ -1,6 +1,5 @@
 ---
 title: "The Triple Stack - Paid to Distribute His Own Writing"
-type: permanent
 creator: cj-gustafson
 sources:
   - https://growthinreverse.com/mostly-metrics/

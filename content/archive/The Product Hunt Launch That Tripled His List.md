@@ -1,6 +1,5 @@
 ---
 title: "The Product Hunt Launch That Tripled His List"
-type: permanent
 creator: packy-mccormick
 sources:
   - https://growthinreverse.com/packy/

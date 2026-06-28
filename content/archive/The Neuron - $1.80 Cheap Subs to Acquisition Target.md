@@ -1,6 +1,5 @@
 ---
 title: "The Neuron: $1.80 Cheap Subs to Acquisition Target"
-type: permanent
 creator: nathan-may
 sources:
   - https://www.creatorspotlight.com/p/nathan-may

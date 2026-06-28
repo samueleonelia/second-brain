@@ -1,6 +1,5 @@
 ---
 title: "From Ukraine at Age 6 to Silicon Valley Product Lead"
-type: permanent
 creator: lenny-rachitsky
 sources:
   - https://www.fastcompany.com/90940453/lenny-rachitsky-newsletter-podcast-job-board-substack

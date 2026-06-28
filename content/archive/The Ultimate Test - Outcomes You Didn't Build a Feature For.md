@@ -1,6 +1,5 @@
 ---
 title: "The Ultimate Test: Outcomes You Didn't Build a Feature For"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

@@ -1,6 +1,5 @@
 ---
 title: "Your Emails Should Sound Like You're Messaging Your Mom"
-type: permanent
 creator: harry-dry
 sources:
   - https://podcast.everyonehatesmarketers.com/episodes/3-steps-to-repurposing-your-content-for-every-channel/transcript

@@ -1,6 +1,5 @@
 ---
 title: "The Louisville Car Dealership That Sparked the Mission"
-type: permanent
 creator: kyla-scanlon
 sources:
   - https://www.thatslifeiswear.com/kyla-scanlon-gen-zs-economic-guru-adviser/

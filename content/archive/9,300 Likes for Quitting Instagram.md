@@ -1,6 +1,5 @@
 ---
 title: "9,300 Likes for Quitting Instagram"
-type: permanent
 creator: olivia-wickstrom
 sources:
   - https://substack.com/@petalandhearth/note/c-188788938

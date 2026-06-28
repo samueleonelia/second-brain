@@ -1,7 +1,5 @@
 ---
 title: Atomic Essays
-type: index
-scope: topic
 created: 2026-05-30
 ---
 

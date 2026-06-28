@@ -1,6 +1,5 @@
 ---
 title: Deal breakers in love
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "The Austin Agency He Quit After Two and a Half Years"
-type: permanent
 creator: alex-garcia
 sources:
   - https://www.starterstory.com/marketing-examined-breakdown

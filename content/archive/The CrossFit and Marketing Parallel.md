@@ -1,6 +1,5 @@
 ---
 title: "The CrossFit and Marketing Parallel"
-type: permanent
 creator: alex-garcia
 sources:
   - https://x.com/alexgarcia_atx

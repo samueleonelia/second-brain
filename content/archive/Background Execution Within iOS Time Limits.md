@@ -1,6 +1,5 @@
 ---
 title: "Background Execution Within iOS Time Limits"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

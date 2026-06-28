@@ -1,6 +1,5 @@
 ---
 title: "Sober at 26, Substack Bestseller at 31"
-type: permanent
 creator: olivia-wickstrom
 sources:
   - https://petalandhearth.substack.com/p/what-sobriety-made-possible-the-life

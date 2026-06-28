@@ -1,6 +1,5 @@
 ---
 title: Brandon the Data Scientist Who Taught Himself
-type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code

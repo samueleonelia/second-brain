@@ -1,6 +1,5 @@
 ---
 title: Moved to Rural Japan for Love
-type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code

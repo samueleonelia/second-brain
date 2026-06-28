@@ -1,6 +1,5 @@
 ---
 title: Three Modes of Working With AI
-type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
@@ -43,3 +42,4 @@ Not every piece of content deserves the same process. Quick social posts can be 
 - [[Unshipping Features at Instagram]] -- knowing when not to ship
 - [[Everyone thinks automation means less work, the teams automating fastest have more of it]] -- the "more work" automation creates is exactly the judgment layer these modes describe
 - [[Your automation isn't set and forget, every agent needs a human on both ends]] -- the modes differ by how much human sits on each end of the agent's work
+- [[Delegate vs Collaborate as the Meta-Skill of Knowledge Work]] -- sibling taxonomy: Boris splits by output type (vibe / pairing / by hand), Parrott splits by autonomy level (delegate / collaborate) — applies before opening the agent

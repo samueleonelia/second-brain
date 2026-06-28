@@ -1,6 +1,5 @@
 ---
 title: Earned Credibility has more value because you can’t buy it
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

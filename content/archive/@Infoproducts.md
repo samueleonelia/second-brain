@@ -1,7 +1,5 @@
 ---
 title: Infoproducts
-type: index
-scope: topic
 created: 2026-04-01
 ---
 

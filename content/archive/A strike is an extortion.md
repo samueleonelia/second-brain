@@ -1,6 +1,5 @@
 ---
 title: A strike is an extortion
-type: permanent
 created: 2026-04-01
 ---
 

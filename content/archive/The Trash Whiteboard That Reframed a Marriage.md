@@ -1,6 +1,5 @@
 ---
 title: "The Trash Whiteboard That Reframed a Marriage"
-type: permanent
 creator: jesse-j-anderson
 sources:
   - https://www.hackingyouradhd.com/podcast/extra-focus-with-adhd-jesse

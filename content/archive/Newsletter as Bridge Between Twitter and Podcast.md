@@ -1,6 +1,5 @@
 ---
 title: "Newsletter as Bridge Between Twitter and Podcast"
-type: permanent
 creator: yong-soo-chung
 sources:
   - https://streamlinedsolopreneur.com/using-twitter-to-grow-your-podcast-with-yong-soo-chung/

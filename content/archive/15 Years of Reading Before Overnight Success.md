@@ -1,6 +1,5 @@
 ---
 title: "15 Years of Reading Before \"Overnight\" Success"
-type: permanent
 creator: trung-phan
 sources:
   - https://growthinreverse.com/trung-phan/

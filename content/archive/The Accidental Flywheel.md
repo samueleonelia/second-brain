@@ -1,6 +1,5 @@
 ---
 title: "The Accidental Flywheel"
-type: permanent
 creator: packy-mccormick
 sources:
   - https://growthinreverse.com/packy/

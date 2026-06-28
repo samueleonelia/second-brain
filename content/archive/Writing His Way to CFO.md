@@ -1,6 +1,5 @@
 ---
 title: "Writing His Way to CFO"
-type: permanent
 creator: cj-gustafson
 sources:
   - https://newslettercircle.com/interviews/mostly-metrics-cj-gustafson/

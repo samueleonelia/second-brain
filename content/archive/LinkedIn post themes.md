@@ -1,6 +1,5 @@
 ---
 title: LinkedIn post themes
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Vietnam and Thailand Farmers Cut Fertilizer Inputs as Costs Surge in 2026 Planting Season"
-type: permanent
 topic: asia-rice-hormuz-fallout
 tags:
   - pacific-asia

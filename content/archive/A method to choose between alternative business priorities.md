@@ -1,6 +1,5 @@
 ---
 title: A method to choose between alternative business priorities
-type: permanent
 created: 2026-04-01
 ---
 

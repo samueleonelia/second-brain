@@ -1,6 +1,5 @@
 ---
 title: Turn Pillar Pieces into products
-type: permanent
 sources:
   - The Art and Business You of Online Writing
 tags:

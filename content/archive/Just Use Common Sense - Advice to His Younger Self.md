@@ -1,6 +1,5 @@
 ---
 title: '"Just Use Common Sense": Advice to His Younger Self'
-type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code

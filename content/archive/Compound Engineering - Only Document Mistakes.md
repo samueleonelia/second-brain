@@ -1,6 +1,5 @@
 ---
 title: "Compound Engineering: Only Document Mistakes"
-type: permanent
 creator: boris-cherny
 sources:
   - https://getpushtoprod.substack.com/p/how-the-creator-of-claude-code-actually
@@ -42,3 +41,4 @@ Build a system where every failure teaches the system, not just you. Keep a runn
 - [[The Headlights Philosophy - No Five-Year Plans]] -- keep it simple and iterate
 - [[Give the Agent a Way to Verify Its Own Work]] -- the complementary loop: verification catches today's error, CLAUDE.md makes sure it never recurs
 - [[Skills Are the Unit of Reusable Expertise]] -- the positive twin of documenting mistakes: anything you repeat becomes a versionable skill
+- [[The Three Prompt Rule for Promoting Prompts to Persistent Context]] -- the second trigger for the same CLAUDE.md: repetition (foresight) alongside Boris's failure-driven (post-mortem) rule

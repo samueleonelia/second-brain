@@ -1,7 +1,5 @@
 ---
 title: How do you develop confidence
-type: index
-scope: topic
 created: 2026-04-01
 ---
 

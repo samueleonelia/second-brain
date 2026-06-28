@@ -74,6 +74,7 @@ title: Index
 
 - [[@Agent-Native Software]]
 - [[@Claude Code]]
+- [[@Owning Your AI Stack]]
 
 ## Work and Career
 

@@ -1,6 +1,5 @@
 ---
 title: How to use the Writing Data Flywheel
-type: permanent
 sources:
   - https://nicolascole77.medium.com/not-sure-what-to-write-about-heres-how-to-find-gold-in-your-analytics-48e82cc906cf
 tags:

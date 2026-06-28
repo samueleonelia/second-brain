@@ -1,6 +1,5 @@
 ---
 title: "The CHEF Framework: AI as Kitchen Equipment"
-type: permanent
 creator: charlie-hills
 sources:
   - https://charliehills.substack.com/p/linkedin-google-gemini

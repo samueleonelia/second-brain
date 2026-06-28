@@ -1,6 +1,5 @@
 ---
 title: Why people don’t practice their writing in public
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

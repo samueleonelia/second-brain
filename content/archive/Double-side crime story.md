@@ -1,6 +1,5 @@
 ---
 title: Double-side crime story
-type: permanent
 created: 2026-04-01
 ---
 

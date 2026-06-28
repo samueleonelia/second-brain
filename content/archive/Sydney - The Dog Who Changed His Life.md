@@ -1,6 +1,5 @@
 ---
 title: "Sydney: The Dog Who Changed His Life"
-type: permanent
 creator: sam-parr
 sources:
   - https://www.theantimba.com/my-best-friend-died-and-this-is-for-him/

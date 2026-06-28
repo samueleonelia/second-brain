@@ -1,6 +1,5 @@
 ---
 title: "The Sponsor Hunt That Almost Killed the Newsletter"
-type: permanent
 creator: jesse-j-anderson
 sources:
   - https://newslettercircle.com/interviews/jesse-j-anderson-extra-focus/

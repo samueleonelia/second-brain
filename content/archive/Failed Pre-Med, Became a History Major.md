@@ -1,6 +1,5 @@
 ---
 title: Failed Pre-Med, Became a History Major
-type: permanent
 creator: trung-phan
 sources:
   - https://growthinreverse.com/trung-phan/

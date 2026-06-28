@@ -1,6 +1,5 @@
 ---
 title: "Coaching Equals Half the Revenue"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth

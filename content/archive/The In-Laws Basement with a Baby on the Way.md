@@ -1,6 +1,5 @@
 ---
 title: "The In-Law's Basement with a Baby on the Way"
-type: permanent
 creator: packy-mccormick
 sources:
   - https://mercury.com/blog/packy-mccormick-one-man-show

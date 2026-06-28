@@ -1,6 +1,5 @@
 ---
 title: Reddit Comments Are Gold Mines
-type: permanent
 creator: trung-phan
 sources:
   - https://glasp.co/hatch/27rOwxVVtgM9Ss7tqaNTRC2l0e22/p/ahF6JuBxPcJDw6ixQfQJ

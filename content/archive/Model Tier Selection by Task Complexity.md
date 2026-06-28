@@ -1,6 +1,5 @@
 ---
 title: "Model Tier Selection by Task Complexity"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

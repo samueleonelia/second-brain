@@ -1,6 +1,5 @@
 ---
 title: "Trends.co: $30K on Day One, $1.2M at Launch"
-type: permanent
 creator: sam-parr
 sources:
   - https://growthinreverse.com/sam-parr/

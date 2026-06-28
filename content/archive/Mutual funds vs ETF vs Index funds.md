@@ -1,6 +1,5 @@
 ---
 title: Mutual funds vs ETF vs Index funds
-type: permanent
 created: 2026-04-01
 ---
 

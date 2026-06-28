@@ -1,6 +1,5 @@
 ---
 title: "Walter the Dog and the Freak Flag"
-type: permanent
 creator: cj-gustafson
 sources:
   - https://growthinreverse.com/mostly-metrics/

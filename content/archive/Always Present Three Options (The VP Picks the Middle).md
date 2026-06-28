@@ -1,6 +1,5 @@
 ---
 title: Always Present Three Options (The VP Picks the Middle)
-type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code

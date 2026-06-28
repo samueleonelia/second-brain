@@ -1,6 +1,5 @@
 ---
 title: The bonuses of the most expensive option
-type: permanent
 sources:
   - Dartboard Pricing: How To Increase Prices (Without Losing Customers)
 tags:

@@ -1,6 +1,5 @@
 ---
 title: Proven headlines format
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

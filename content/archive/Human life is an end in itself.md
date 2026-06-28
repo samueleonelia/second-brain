@@ -1,6 +1,5 @@
 ---
 title: Human life is an end in itself
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

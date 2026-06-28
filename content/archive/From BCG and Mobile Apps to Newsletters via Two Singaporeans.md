@@ -1,6 +1,5 @@
 ---
 title: "From BCG and Mobile Apps to Newsletters via Two Singaporeans"
-type: permanent
 creator: nathan-may
 sources:
   - https://www.letterstack.co/podcast/how-to-scale-your-newsletter-nathan-may-talks-newsletter-advertising-strategies

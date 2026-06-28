@@ -1,6 +1,5 @@
 ---
 title: "The Sprinter Van That Got Pickleball to Notice The Dink"
-type: permanent
 creator: thomas-shields
 sources:
   - https://growthinreverse.com/the-dink/

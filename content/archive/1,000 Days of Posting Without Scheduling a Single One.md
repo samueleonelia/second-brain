@@ -1,6 +1,5 @@
 ---
 title: "1,000 Days of Posting Without Scheduling a Single One"
-type: permanent
 creator: milly-tamati
 sources:
   - https://www.creatorspotlight.com/p/milly-tamati

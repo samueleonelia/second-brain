@@ -1,6 +1,5 @@
 ---
 title: Rules to invest in ETF
-type: permanent
 created: 2026-04-01
 ---
 

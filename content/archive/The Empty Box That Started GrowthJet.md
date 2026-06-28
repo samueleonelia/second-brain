@@ -1,6 +1,5 @@
 ---
 title: "The Empty Box That Started GrowthJet"
-type: permanent
 creator: yong-soo-chung
 sources:
   - https://www.hiscox.com/side-hustle-to-small-business/yong-soo-chung-podcast-season-3

@@ -1,6 +1,5 @@
 ---
 title: "One Sponsor Instead of Many"
-type: permanent
 creator: kyla-scanlon
 sources:
   - https://growthinreverse.com/kyla-scanlon/

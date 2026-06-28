@@ -1,6 +1,5 @@
 ---
 title: "The Welcome Section That Builds Status"
-type: permanent
 creator: nathan-may
 sources:
   - https://growthinreverse.com/nathan-may/

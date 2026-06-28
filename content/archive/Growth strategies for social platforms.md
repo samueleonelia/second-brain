@@ -1,6 +1,5 @@
 ---
 title: Growth strategies for social platforms
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

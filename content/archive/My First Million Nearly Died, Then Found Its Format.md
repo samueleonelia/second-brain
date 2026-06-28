@@ -1,6 +1,5 @@
 ---
 title: "My First Million Nearly Died, Then Found Its Format"
-type: permanent
 creator: sam-parr
 sources:
   - https://www.indiehackers.com/podcast/218-sam-parr-shaan-puri

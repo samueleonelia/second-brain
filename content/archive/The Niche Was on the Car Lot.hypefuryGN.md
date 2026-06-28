@@ -1,6 +1,5 @@
 ---
 title: "The Niche Was on the Car Lot"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com

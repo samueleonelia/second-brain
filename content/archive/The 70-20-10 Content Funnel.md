@@ -1,6 +1,5 @@
 ---
 title: The 70/20/10 Content Funnel
-type: permanent
 creator: charlie-hills
 sources:
   - https://charliehills.substack.com/p/how-i-reached-180k-on-linkedin-with

@@ -1,6 +1,5 @@
 ---
 title: The role of reason
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

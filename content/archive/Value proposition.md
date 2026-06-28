@@ -1,6 +1,5 @@
 ---
 title: Value proposition
-type: permanent
 sources:
   - Million Dollar Consulting
 tags:

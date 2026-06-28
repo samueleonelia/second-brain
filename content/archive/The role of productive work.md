@@ -1,6 +1,5 @@
 ---
 title: The role of productive work
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

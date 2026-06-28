@@ -1,6 +1,5 @@
 ---
 title: "Two Hundred Nine Thousand Lost on a Tourism Marketplace"
-type: permanent
 creator: cj-gustafson
 sources:
   - https://www.mostlymetrics.com/p/i-lost-209640-of-my-own-money-trying

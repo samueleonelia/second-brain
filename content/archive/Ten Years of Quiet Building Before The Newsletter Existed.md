@@ -1,6 +1,5 @@
 ---
 title: "Ten Years of Quiet Building Before The Newsletter Existed"
-type: permanent
 creator: matt-johansen
 sources:
   - https://growthinreverse.com/matt-johansen/

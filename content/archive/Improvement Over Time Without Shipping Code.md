@@ -1,6 +1,5 @@
 ---
 title: "Improvement Over Time Without Shipping Code"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

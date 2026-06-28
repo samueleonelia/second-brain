@@ -1,6 +1,5 @@
 ---
 title: "The Alter Ego Controversy: Fake Writers with LinkedIn Profiles"
-type: permanent
 creator: sam-parr
 sources:
   - https://growthinreverse.com/sam-parr/

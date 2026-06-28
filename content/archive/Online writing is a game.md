@@ -1,6 +1,5 @@
 ---
 title: Online writing is a game
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

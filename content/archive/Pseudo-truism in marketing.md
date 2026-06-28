@@ -1,6 +1,5 @@
 ---
 title: Pseudo-truism in marketing
-type: permanent
 created: 2026-04-01
 ---
 

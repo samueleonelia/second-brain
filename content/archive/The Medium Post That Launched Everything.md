@@ -1,6 +1,5 @@
 ---
 title: "The Medium Post That Launched Everything"
-type: permanent
 creator: lenny-rachitsky
 sources:
   - https://www.lennysnewsletter.com/p/what-seven-years-at-airbnb-taught

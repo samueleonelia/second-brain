@@ -1,6 +1,5 @@
 ---
 title: "The Salmon Sashimi Thread: 24K Likes from a Podcast Episode"
-type: permanent
 creator: trung-phan
 sources:
   - https://creatoreconomy.so/p/trung-phan-smart-threads-dumb-memes

@@ -1,6 +1,5 @@
 ---
 title: "The 13-Minute Documentary That Doxxed Him on His Own Terms"
-type: permanent
 creator: yossi-levi
 sources:
   - https://www.thespl.it/p/car-dealership-guy-anonymous-vc-backed

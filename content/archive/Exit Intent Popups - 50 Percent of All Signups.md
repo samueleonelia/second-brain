@@ -1,6 +1,5 @@
 ---
 title: "Exit Intent Popups: 50% of All Signups"
-type: permanent
 creator: harry-dry
 sources:
   - https://growthinreverse.com/marketing-examples/

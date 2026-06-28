@@ -1,6 +1,5 @@
 ---
 title: "One Post, Many Pins"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth
@@ -34,3 +33,4 @@ One post is raw material for a dozen assets. Atomize each piece into several ang
 ---
 
 ## Related (matched on mechanism)
+- [[One Recording Into a Week of Content]] — duncan-rogoff, matched: repurpose-one-to-many, content-atomization

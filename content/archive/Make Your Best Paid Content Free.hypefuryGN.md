@@ -1,6 +1,5 @@
 ---
 title: "Make Your Best Paid Content Free"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth
@@ -34,3 +33,4 @@ Your best free post is your best sales asset. Give away one flagship a month, be
 ---
 
 ## Related (matched on mechanism)
+- [[Seventeen Sponsors Keep the Newsletter Free]] — maja-voje, matched: free-drives-paid

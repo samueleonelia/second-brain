@@ -1,6 +1,5 @@
 ---
 title: Headlines that target both a niche and a broad audience
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

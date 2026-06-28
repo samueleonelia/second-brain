@@ -1,6 +1,5 @@
 ---
 title: An example of non-obvious idea
-type: permanent
 sources:
   - https://www.newyorker.com/culture/culture-desk/the-rise-of-the-internets-creative-middle-class
 tags:

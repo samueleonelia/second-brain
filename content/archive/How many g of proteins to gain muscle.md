@@ -1,6 +1,5 @@
 ---
 title: How many g of proteins to gain muscle
-type: permanent
 sources:
   - https://youtu.be/6y-R3dNx4vA
 tags:

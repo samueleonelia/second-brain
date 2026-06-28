@@ -1,6 +1,5 @@
 ---
 title: "First Dollar Online at 14: MP3 Sites and a Check in the Mail"
-type: permanent
 creator: yannick-veys
 sources:
   - https://yannickveys.com/about/

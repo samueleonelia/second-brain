@@ -1,6 +1,5 @@
 ---
 title: Spreadsheet VS automatic tools for budgeting
-type: permanent
 sources:
   - https://wallethacks.com/why-we-still-use-budget-net-worth-spreadsheets/
 tags:

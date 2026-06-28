@@ -1,6 +1,5 @@
 ---
 title: The “niche audience” content bucket
-type: permanent
 sources:
   - The Art and Business You of Online Writing
 tags:

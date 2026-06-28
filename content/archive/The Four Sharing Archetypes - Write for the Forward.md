@@ -1,6 +1,5 @@
 ---
 title: "The Four Sharing Archetypes - Write for the Forward"
-type: permanent
 creator: cj-gustafson
 sources:
   - https://www.reidtandy.com/p/the-making-of-mostly-metrics-with

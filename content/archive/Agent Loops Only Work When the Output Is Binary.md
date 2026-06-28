@@ -129,13 +129,13 @@ Thread:
 
 **LinkedIn (master):**
 
-"Loops are the future": this quote from Boris is all over my feed this week. And as of today I call it over-hype
+["Loops are the future"](https://www.youtube.com/watch?v=SlGRN8jh2RI): this quote from Boris is all over my feed this week. And as of today I call it over-hype
 
 First of all, for Boris Cherny and Peter Steinberger (the other big cantor of the loops) exploring the most extreme use cases of AI agent is their job and they don't have real limits on the number of tokens they consume.
 
 If you try to run multiple loops, I would predict significant costs before you achieve valid results.
 
-When it comes to regular users, the best approach seems the one defined by Ras Mic: "the only place a loop makes sense is in a very confined constrained process with a very fixed feedback loop". His example is code review, where Greptile (an AI-powered code review agent) analyzes and scores every push. If it's not good enough, the loop send it back to the coding agent that has to fix it and re-submit it for evaluation.
+When it comes to regular users, the best approach seems the one defined by Ras Mic: ["the only place a loop makes sense is in a very confined, constrained process with a very fixed feedback loop"](https://youtu.be/7clJ8IH784Q). His example is code review, where Greptile (an AI-powered code review agent) analyzes and scores every push. If it's not good enough, the loop send it back to the coding agent that has to fix it and re-submit it for evaluation.
 
 Loops are real, but they pay off only where a machine can score the result. Without that score, the agent guesses and burns tokens. 
 

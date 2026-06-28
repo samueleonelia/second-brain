@@ -1,6 +1,5 @@
 ---
 title: Art revolutions open the door to intellectual revolutions
-type: permanent
 created: 2026-04-01
 ---
 

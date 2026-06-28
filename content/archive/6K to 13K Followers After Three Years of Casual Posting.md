@@ -1,6 +1,5 @@
 ---
 title: 6K to 13K Followers After Three Years of Casual Posting
-type: permanent
 creator: mischa-collins
 sources:
   - https://www.linkedin.com/posts/mischa-collins_from-6k-followers-13k-in-3-months-my-activity-7270806983773929474-ujpR

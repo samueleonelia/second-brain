@@ -1,6 +1,5 @@
 ---
 title: Anchor text and keywords
-type: permanent
 sources:
   - https://johanneslarsson.com/course/the-complete-seo-checklist/
 tags:

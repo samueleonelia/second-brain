@@ -1,6 +1,5 @@
 ---
 title: How to self-promote online
-type: permanent
 sources:
   - The Art and Business You of Online Writing
 tags:

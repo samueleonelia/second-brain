@@ -1,6 +1,5 @@
 ---
 title: How to budget for couple
-type: permanent
 sources:
   - You Need a Budget
 tags:

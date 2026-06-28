@@ -1,6 +1,5 @@
 ---
 title: Question framing
-type: permanent
 sources:
   - https://pca.st/episode/82ba46f0-019c-4cc9-9cd5-d2b27dc95701
 tags:

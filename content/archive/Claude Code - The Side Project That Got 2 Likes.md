@@ -1,6 +1,5 @@
 ---
 title: "Claude Code: The Side Project That Got 2 Likes"
-type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code

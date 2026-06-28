@@ -1,6 +1,5 @@
 ---
 title: 3 steps for Category Design
-type: permanent
 created: 2026-04-01
 ---
 

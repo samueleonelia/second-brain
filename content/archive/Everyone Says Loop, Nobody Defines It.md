@@ -1,6 +1,5 @@
 ---
 title: Everyone Says Loop, Nobody Defines It
-type: permanent
 sources:
   - https://x.com/mvanhorn/status/2063865685558903149
 tags:

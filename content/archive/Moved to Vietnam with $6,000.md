@@ -1,6 +1,5 @@
 ---
 title: Moved to Vietnam with $6,000
-type: permanent
 creator: trung-phan
 sources:
   - https://open.spotify.com/episode/3ancUeEgCZTN6ErzHSZOkT

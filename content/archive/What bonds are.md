@@ -1,6 +1,5 @@
 ---
 title: What bonds are
-type: permanent
 created: 2026-04-01
 ---
 

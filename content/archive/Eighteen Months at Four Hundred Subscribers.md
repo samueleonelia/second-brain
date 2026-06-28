@@ -1,6 +1,5 @@
 ---
 title: "Eighteen Months at Four Hundred Subscribers"
-type: permanent
 creator: cj-gustafson
 sources:
   - https://www.hireframe.com/resources/what-worked-episode-31-why-65k-cfos-subscribe-to-this-ex-cfos-newsletter-with-cj-gustafson

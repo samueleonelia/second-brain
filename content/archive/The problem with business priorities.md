@@ -1,6 +1,5 @@
 ---
 title: The problem with business priorities
-type: permanent
 created: 2026-04-01
 ---
 

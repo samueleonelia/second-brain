@@ -1,6 +1,5 @@
 ---
 title: Little stuff can bother you disproportionally
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Don’t fight on Twitter
-type: permanent
 sources:
   - https://www.makingtwitterfriends.com/
 tags:

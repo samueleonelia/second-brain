@@ -1,6 +1,5 @@
 ---
 title: "Patreon Quit, Substack Paid Won"
-type: permanent
 creator: jesse-j-anderson
 sources:
   - https://newslettercircle.com/interviews/jesse-j-anderson-extra-focus/

@@ -1,6 +1,5 @@
 ---
 title: "Almost Bought The Neuron — Lost the Bid"
-type: permanent
 creator: nathan-may
 sources:
   - https://podcast.growthinreverse.com/episodes/nathan-may/transcript

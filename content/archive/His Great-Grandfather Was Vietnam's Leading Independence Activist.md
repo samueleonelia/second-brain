@@ -1,6 +1,5 @@
 ---
 title: "His Great-Grandfather Was Vietnam's Leading Independence Activist"
-type: permanent
 creator: trung-phan
 sources:
   - https://open.spotify.com/episode/3ancUeEgCZTN6ErzHSZOkT

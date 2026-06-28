@@ -1,6 +1,5 @@
 ---
 title: "Hustle Con: $6K Invested, $56K Revenue, 400 Tickets in 7 Weeks"
-type: permanent
 creator: sam-parr
 sources:
   - https://www.nevblog.com/hustlecon-2014/

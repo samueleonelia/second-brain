@@ -1,6 +1,5 @@
 ---
 title: The Rejected Pull Request
-type: permanent
 creator: boris-cherny
 sources:
   - https://programmerscareer.com/ai-native-engineering-claude-code/

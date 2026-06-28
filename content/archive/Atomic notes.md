@@ -1,6 +1,5 @@
 ---
 title: Atomic notes
-type: permanent
 sources:
   - https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1
 tags:

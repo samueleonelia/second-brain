@@ -1,6 +1,5 @@
 ---
 title: "Building in Public: The Competitor Betrayal That Backfired"
-type: permanent
 creator: yannick-veys
 sources:
   - https://baremetrics.com/blog/hypefury-growth

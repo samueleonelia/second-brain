@@ -1,6 +1,5 @@
 ---
 title: "First Question Is Monetization, Not Subscribers"
-type: permanent
 creator: nathan-may
 sources:
   - https://growthinreverse.com/nathan-may/

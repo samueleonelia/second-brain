@@ -1,6 +1,5 @@
 ---
 title: Platforms to sell online courses
-type: permanent
 created: 2026-04-01
 ---
 

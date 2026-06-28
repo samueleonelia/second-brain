@@ -1,6 +1,5 @@
 ---
 title: Go after the leader
-type: permanent
 sources:
   - The Last Dance
 tags:

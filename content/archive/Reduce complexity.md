@@ -1,6 +1,5 @@
 ---
 title: Reduce complexity
-type: permanent
 sources:
   - Effortless
 tags:

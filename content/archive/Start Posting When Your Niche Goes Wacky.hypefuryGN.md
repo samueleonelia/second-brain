@@ -1,6 +1,5 @@
 ---
 title: "Start Posting When Your Niche Goes Wacky"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com

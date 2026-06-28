@@ -1,6 +1,5 @@
 ---
 title: To elicit emotions highlight yours
-type: permanent
 created: 2026-04-01
 ---
 

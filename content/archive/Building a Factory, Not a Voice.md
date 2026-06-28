@@ -1,6 +1,5 @@
 ---
 title: Building a Factory, Not a Voice
-type: permanent
 creator: charlie-hills
 sources:
   - https://charliehills.substack.com/p/stop-using-chatgpt

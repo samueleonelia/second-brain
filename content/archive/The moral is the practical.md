@@ -1,6 +1,5 @@
 ---
 title: The moral is the practical
-type: permanent
 created: 2026-04-01
 ---
 

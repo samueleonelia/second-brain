@@ -1,6 +1,5 @@
 ---
 title: "The $9.9M Fund Raised with a Memo, Not a Deck"
-type: permanent
 creator: packy-mccormick
 sources:
   - https://www.notboring.co/p/introducing-not-boring-capital

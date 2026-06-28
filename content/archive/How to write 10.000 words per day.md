@@ -1,6 +1,5 @@
 ---
 title: How to write 10.000 words per day
-type: permanent
 sources:
   - https://medium.com/the-ascent/how-i-write-10-000-words-per-day-every-day-818421c980f0
 tags:

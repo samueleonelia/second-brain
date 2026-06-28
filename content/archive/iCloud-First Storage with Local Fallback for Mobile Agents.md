@@ -1,6 +1,5 @@
 ---
 title: "iCloud-First Storage with Local Fallback for Mobile Agents"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

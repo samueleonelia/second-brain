@@ -1,6 +1,5 @@
 ---
 title: "ADB Frames 2026 Crisis as Energy-Cost Shock vs 2022 Ukraine Grain Shock"
-type: permanent
 topic: asia-rice-hormuz-fallout
 tags:
   - pacific-asia

@@ -1,6 +1,5 @@
 ---
 title: "300 Lightbulb Stress Balls"
-type: permanent
 creator: tom-orbach
 sources:
   - https://www.marketingideas.com/p/10-unconventional-things-im-doing

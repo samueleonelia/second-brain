@@ -17,6 +17,16 @@ sources:
     source_type: primary
     cached: ~/claudeCode/PKM/secondBrain/transcripts/xb3ehnGW_DU.md
     verified_at: 2026-06-11
+quotes:
+  - text: "from day one, what we tried to do is not just report on the biggest AI news, but the AI news that we thought was really interesting and then to give an opinion on that news"
+    source_index: 0
+    source_excerpt_line: null
+  - text: "And also we signed off every newsletter with written by humans"
+    source_index: 0
+    source_excerpt_line: 424
+  - text: "we had this excellent editorial team and talent that were um you know doing the job of surfing the web every day to find out what was going on and then adding summarizing it, curating it but adding some real editorial and journalistic insight"
+    source_index: 0
+    source_excerpt_line: null
 tags: [newsletter, editorial, positioning]
 created: 2026-06-11
 ---

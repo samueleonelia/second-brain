@@ -1,6 +1,5 @@
 ---
 title: Test in the Newsletter, Then Productize
-type: permanent
 creator: charlie-hills
 sources:
   - https://www.favikon.com/blog/who-is-charlie-hills

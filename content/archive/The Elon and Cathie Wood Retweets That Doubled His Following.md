@@ -1,6 +1,5 @@
 ---
 title: "The Elon and Cathie Wood Retweets That Doubled His Following"
-type: permanent
 creator: yossi-levi
 sources:
   - https://growthinreverse.com/yossi-levi/

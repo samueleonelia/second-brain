@@ -1,7 +1,5 @@
 ---
 title: Yossi Levi
-type: index
-scope: creator
 created: 2026-04-27
 ---
 

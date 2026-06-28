@@ -1,6 +1,5 @@
 ---
 title: When to write on a blog, and when not to
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

@@ -1,6 +1,5 @@
 ---
 title: Hard decisions are in fact, easy
-type: permanent
 sources:
   - How to Decide: Simple Tools for Making Better Choices
 tags:

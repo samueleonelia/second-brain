@@ -1,6 +1,5 @@
 ---
 title: The marriage decision
-type: permanent
 sources:
   - https://markmanson.net/reasons-to-get-married
 tags:

@@ -1,6 +1,5 @@
 ---
 title: The Friendships Were the Real Return
-type: permanent
 creator: mischa-collins
 sources:
   - https://www.linkedin.com/posts/mischa-collins_18-months-ago-i-lost-my-job-and-with-it-activity-7353375534522716160-etC4

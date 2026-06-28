@@ -1,6 +1,5 @@
 ---
 title: Daisy's 20-Claude Swarm Weekend
-type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code

@@ -1,6 +1,5 @@
 ---
 title: "Two Years of Free Before the Paid Switch"
-type: permanent
 creator: tom-orbach
 sources:
   - https://growthinreverse.com/tom-orbach/

@@ -1,6 +1,5 @@
 ---
 title: How to write headlines people can’t help but read
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

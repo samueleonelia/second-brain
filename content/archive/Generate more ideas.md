@@ -1,6 +1,5 @@
 ---
 title: Generate more ideas
-type: permanent
 created: 2026-04-01
 ---
 

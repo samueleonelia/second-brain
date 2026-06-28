@@ -1,6 +1,5 @@
 ---
 title: Interrupt the buyer
-type: permanent
 sources:
   - Million Dollar Consulting
 tags:

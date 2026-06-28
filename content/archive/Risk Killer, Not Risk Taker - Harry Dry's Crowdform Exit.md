@@ -1,6 +1,5 @@
 ---
 title: "Risk Killer, Not Risk Taker: Harry Dry's Crowdform Exit"
-type: permanent
 creator: harry-dry
 sources:
   - https://www.indiehackers.com/podcast/115-quick-chat-with-harry-dry

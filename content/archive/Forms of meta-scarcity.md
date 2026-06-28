@@ -1,6 +1,5 @@
 ---
 title: Forms of meta-scarcity
-type: permanent
 created: 2026-04-01
 ---
 

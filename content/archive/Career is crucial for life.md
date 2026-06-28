@@ -1,6 +1,5 @@
 ---
 title: Career is crucial for life
-type: permanent
 created: 2026-04-01
 ---
 

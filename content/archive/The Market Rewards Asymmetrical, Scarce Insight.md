@@ -1,6 +1,5 @@
 ---
 title: "The Market Rewards Asymmetrical, Scarce Insight"
-type: permanent
 creator: yossi-levi
 sources:
   - https://growthinreverse.com/yossi-levi/

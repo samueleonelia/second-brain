@@ -1,6 +1,5 @@
 ---
 title: Why an ETFs index instead of a Mutual Index Fund
-type: permanent
 created: 2026-04-01
 ---
 

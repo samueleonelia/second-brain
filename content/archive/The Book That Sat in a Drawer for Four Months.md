@@ -1,6 +1,5 @@
 ---
 title: "The Book That Sat in a Drawer for Four Months"
-type: permanent
 creator: jesse-j-anderson
 sources:
   - https://www.hackingyouradhd.com/podcast/extra-focus-with-adhd-jesse

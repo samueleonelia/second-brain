@@ -1,6 +1,5 @@
 ---
 title: Life as the standard of value
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

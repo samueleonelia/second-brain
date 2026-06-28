@@ -1,6 +1,5 @@
 ---
 title: On-Page SEO best practices
-type: permanent
 sources:
   - https://backlinko.com/on-page-seo
 tags:

@@ -1,6 +1,5 @@
 ---
 title: "Dynamic Capability Discovery Over Static Tool Mapping"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

@@ -1,6 +1,5 @@
 ---
 title: "The Wall-of-Text Page He Couldn't Get Past"
-type: permanent
 creator: jesse-j-anderson
 sources:
   - https://www.hackingyouradhd.com/podcast/extra-focus-with-adhd-jesse

@@ -1,6 +1,5 @@
 ---
 title: How to make faster AND better decisions
-type: permanent
 created: 2026-04-01
 ---
 

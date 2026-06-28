@@ -1,6 +1,5 @@
 ---
 title: "The First Hour Decides the Post"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: tom-alder
 identity_anchor: strategy breakdowns
@@ -37,3 +36,5 @@ Reach is decided before lunch. Block the hour after you publish for live replies
 ---
 
 ## Related (matched on mechanism)
+
+- [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: first-hour-engagement

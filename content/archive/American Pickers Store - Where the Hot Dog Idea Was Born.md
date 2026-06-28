@@ -1,6 +1,5 @@
 ---
 title: "American Pickers Store: Where the Hot Dog Idea Was Born"
-type: permanent
 creator: sam-parr
 sources:
   - https://www.theantimba.com/about-sam-parr/

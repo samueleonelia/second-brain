@@ -1,6 +1,5 @@
 ---
 title: Basic rule for the main points of an article online
-type: permanent
 sources:
   - The Art and Business You of Online Writing
 tags:

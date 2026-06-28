@@ -1,6 +1,5 @@
 ---
 title: "The context.md Pattern for Agent Memory"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

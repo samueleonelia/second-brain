@@ -1,6 +1,5 @@
 ---
 title: Analysis-Paralysis
-type: permanent
 sources:
   - How to Decide: Simple Tools for Making Better Choices
 tags:

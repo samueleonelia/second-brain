@@ -1,6 +1,5 @@
 ---
 title: "Writing TikToks as Poems"
-type: permanent
 creator: kyla-scanlon
 sources:
   - https://growthinreverse.com/kyla-scanlon/

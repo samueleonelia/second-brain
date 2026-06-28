@@ -1,6 +1,5 @@
 ---
 title: "Shared Workspace Over Separate Agent Sandboxes"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

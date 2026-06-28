@@ -1,6 +1,5 @@
 ---
 title: List of digital independents in the Italian web
-type: permanent
 created: 2026-04-01
 ---
 

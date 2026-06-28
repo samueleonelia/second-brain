@@ -1,6 +1,5 @@
 ---
 title: The 60-Minute Daily Engagement Circuit
-type: permanent
 creator: charlie-hills
 sources:
   - https://charliehills.substack.com/p/how-to-master-linkedin-in-2025

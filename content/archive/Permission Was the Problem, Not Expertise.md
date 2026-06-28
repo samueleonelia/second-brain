@@ -1,6 +1,5 @@
 ---
 title: Permission Was the Problem, Not Expertise
-type: permanent
 creator: mischa-collins
 sources:
   - https://www.linkedin.com/posts/mischa-collins_i-gained-22k-followers-in-6-months-but-activity-7301208827616514048-xA3f

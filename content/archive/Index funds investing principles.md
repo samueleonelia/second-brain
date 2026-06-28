@@ -1,6 +1,5 @@
 ---
 title: Index funds investing principles
-type: permanent
 created: 2026-04-01
 ---
 

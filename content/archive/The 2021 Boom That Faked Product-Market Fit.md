@@ -1,6 +1,5 @@
 ---
 title: "The 2021 Boom That Faked Product-Market Fit"
-type: permanent
 creator: yossi-levi
 sources:
   - https://www.thespl.it/p/car-dealership-guy-anonymous-vc-backed

@@ -1,6 +1,5 @@
 ---
 title: "Never Missed a Single Week"
-type: permanent
 creator: matt-johansen
 sources:
   - https://growthinreverse.com/matt-johansen/

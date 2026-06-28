@@ -1,6 +1,5 @@
 ---
 title: How to buy an ETF
-type: permanent
 sources:
   - https://www.fool.com/investing/how-to-invest/etfs/
 tags:

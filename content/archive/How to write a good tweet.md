@@ -1,6 +1,5 @@
 ---
 title: How to write a good tweet
-type: permanent
 sources:
   - https://www.makingtwitterfriends.com/
 tags:

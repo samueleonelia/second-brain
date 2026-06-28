@@ -1,6 +1,5 @@
 ---
 title: "Conflict Models When Agents and Users Share Files"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

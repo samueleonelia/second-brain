@@ -1,6 +1,5 @@
 ---
 title: To make your business solid, do not focus only on the immediate ROI
-type: permanent
 created: 2026-04-01
 ---
 

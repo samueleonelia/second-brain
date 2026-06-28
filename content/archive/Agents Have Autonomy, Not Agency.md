@@ -1,6 +1,5 @@
 ---
 title: Agents Have Autonomy, Not Agency
-type: permanent
 sources:
   - https://every.to/p/after-automation
 tags:

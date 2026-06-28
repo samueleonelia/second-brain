@@ -1,6 +1,5 @@
 ---
 title: "People Buy From People: Rebranding to Harry's Marketing Examples"
-type: permanent
 creator: harry-dry
 sources:
   - https://indiebites.com/2/transcript

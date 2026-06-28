@@ -1,6 +1,5 @@
 ---
 title: "Quality Beats Cheap CPL: 4-5x Engagement Lift"
-type: permanent
 creator: nathan-may
 sources:
   - https://www.creatorspotlight.com/p/nathan-may

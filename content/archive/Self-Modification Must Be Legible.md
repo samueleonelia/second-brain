@@ -1,6 +1,5 @@
 ---
 title: "Self-Modification Must Be Legible"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

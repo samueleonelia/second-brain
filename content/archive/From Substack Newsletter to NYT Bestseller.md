@@ -1,6 +1,5 @@
 ---
 title: "From Substack Newsletter to NYT Bestseller"
-type: permanent
 creator: kyla-scanlon
 sources:
   - https://www.thatslifeiswear.com/kyla-scanlon-gen-zs-economic-guru-adviser/

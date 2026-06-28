@@ -1,6 +1,5 @@
 ---
 title: Big stories aren’t optimal
-type: permanent
 created: 2026-04-01
 ---
 

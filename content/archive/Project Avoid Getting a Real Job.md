@@ -1,6 +1,5 @@
 ---
 title: "Project: Avoid Getting a Real Job"
-type: permanent
 creator: lenny-rachitsky
 sources:
   - https://manual.compoundplanning.com/chapters/interview-with-lenny-rachitsky-writer-of-lennys-newsletter

@@ -1,6 +1,5 @@
 ---
 title: "Weed Review Site: First Startup at 18"
-type: permanent
 creator: boris-cherny
 sources:
   - https://www.ycombinator.com/library/NJ-inside-claude-code-with-its-creator-boris-cherny

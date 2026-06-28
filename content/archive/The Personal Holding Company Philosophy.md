@@ -1,6 +1,5 @@
 ---
 title: "The Personal Holding Company Philosophy"
-type: permanent
 creator: yong-soo-chung
 sources:
   - https://thebootstrappedfounder.com/yong-soo-chung-surviving-serial-entrepreneurship/

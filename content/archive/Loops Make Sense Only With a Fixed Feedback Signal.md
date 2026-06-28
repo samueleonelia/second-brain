@@ -1,6 +1,5 @@
 ---
 title: Loops Make Sense Only With a Fixed Feedback Signal
-type: permanent
 sources:
   - https://youtu.be/7clJ8IH784Q
 tags:

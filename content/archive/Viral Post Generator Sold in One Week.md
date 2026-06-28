@@ -1,6 +1,5 @@
 ---
 title: "Viral Post Generator Sold in One Week"
-type: permanent
 creator: tom-orbach
 sources:
   - https://theygotacquired.com/software/viral-post-generator-acquired-by-taplio/

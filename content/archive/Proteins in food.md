@@ -1,6 +1,5 @@
 ---
 title: Proteins in food
-type: permanent
 created: 2026-04-01
 ---
 

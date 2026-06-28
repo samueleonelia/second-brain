@@ -1,6 +1,5 @@
 ---
 title: "Three Weeks From Idea to Full-Time Founder"
-type: permanent
 creator: milly-tamati
 sources:
   - https://thebootstrappedfounder.com/milly-tamati-the-power-and-potential-of-generalists/

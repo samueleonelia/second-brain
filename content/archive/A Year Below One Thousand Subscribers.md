@@ -1,6 +1,5 @@
 ---
 title: "A Year Below One Thousand Subscribers"
-type: permanent
 creator: packy-mccormick
 sources:
   - https://growthinreverse.com/packy/

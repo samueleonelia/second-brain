@@ -1,6 +1,5 @@
 ---
 title: Trash talk and confidence
-type: permanent
 created: 2026-04-01
 ---
 

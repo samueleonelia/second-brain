@@ -1,6 +1,5 @@
 ---
 title: "Latent Demand Discovery Through Agent Usage"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

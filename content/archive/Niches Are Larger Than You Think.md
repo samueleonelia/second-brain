@@ -1,6 +1,5 @@
 ---
 title: "Niches Are Larger Than You Think"
-type: permanent
 creator: cj-gustafson
 sources:
   - https://growthinreverse.com/cj-gustafson/

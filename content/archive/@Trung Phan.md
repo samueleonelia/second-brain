@@ -1,7 +1,5 @@
 ---
 title: Trung Phan
-type: index
-scope: creator
 created: 2026-04-01
 ---
 

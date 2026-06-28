@@ -1,7 +1,5 @@
 ---
 title: Is there a process to generate new ideas
-type: index
-scope: topic
 created: 2026-04-01
 ---
 

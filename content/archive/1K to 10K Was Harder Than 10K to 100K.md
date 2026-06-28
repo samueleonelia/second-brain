@@ -1,6 +1,5 @@
 ---
 title: "1K to 10K Was Harder Than 10K to 100K"
-type: permanent
 creator: jesse-j-anderson
 sources:
   - https://newslettercircle.com/interviews/jesse-j-anderson-extra-focus/

@@ -1,6 +1,5 @@
 ---
 title: Sleep time
-type: permanent
 created: 2026-04-01
 ---
 

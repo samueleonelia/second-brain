@@ -1,6 +1,5 @@
 ---
 title: "International Generalist Day: 87 Events in 35 Countries"
-type: permanent
 creator: milly-tamati
 sources:
   - https://www.renewvc.com/episodes/building-a-beautiful-business-life-with-milly-tamati-of-generalist-world

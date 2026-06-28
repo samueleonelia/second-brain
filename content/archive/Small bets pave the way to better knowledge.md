@@ -1,6 +1,5 @@
 ---
 title: Small bets pave the way to better knowledge
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "The Product Hunt Win Disguised as a Gallery"
-type: permanent
 creator: tom-orbach
 sources:
   - https://growthinreverse.com/tom-orbach/

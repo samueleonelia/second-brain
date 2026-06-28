@@ -1,6 +1,5 @@
 ---
 title: "The Five-Platform Content Ecosystem"
-type: permanent
 creator: kyla-scanlon
 sources:
   - https://growthinreverse.com/kyla-scanlon/

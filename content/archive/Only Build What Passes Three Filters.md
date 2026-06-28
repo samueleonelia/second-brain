@@ -1,6 +1,5 @@
 ---
 title: "Only Build What Passes Three Filters"
-type: permanent
 creator: sam-parr
 sources:
   - https://www.forwardobsessed.com/episodes/sam-parr-hustle-hampton-my-first-million-podcast

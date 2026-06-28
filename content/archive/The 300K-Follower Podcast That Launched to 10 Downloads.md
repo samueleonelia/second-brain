@@ -1,6 +1,5 @@
 ---
 title: "The 300K-Follower Podcast That Launched to 10 Downloads"
-type: permanent
 creator: yong-soo-chung
 sources:
   - https://streamlinedsolopreneur.com/using-twitter-to-grow-your-podcast-with-yong-soo-chung/

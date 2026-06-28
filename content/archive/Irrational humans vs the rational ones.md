@@ -1,6 +1,5 @@
 ---
 title: Irrational humans vs the rational ones
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

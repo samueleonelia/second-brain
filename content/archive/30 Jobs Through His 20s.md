@@ -1,6 +1,5 @@
 ---
 title: "30 Jobs Through His 20s"
-type: permanent
 creator: jesse-j-anderson
 sources:
   - https://adhdnerds.com/jesse-j-anderson-my-adhd-diagnosis-story

@@ -1,6 +1,5 @@
 ---
 title: '"Shit I''m Fucked" Live Events'
-type: permanent
 creator: sam-parr
 sources:
   - https://joinhampton.com/about-us

@@ -1,6 +1,5 @@
 ---
 title: What is happiness
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

@@ -1,6 +1,5 @@
 ---
 title: From “wants” to “needs”
-type: permanent
 sources:
   - Million Dollar Consulting
 tags:

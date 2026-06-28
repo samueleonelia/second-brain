@@ -1,6 +1,5 @@
 ---
 title: How to build an emergency fund
-type: permanent
 created: 2026-04-01
 ---
 

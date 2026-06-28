@@ -1,6 +1,5 @@
 ---
 title: "The Growth Loop: Newsletter Feeds Twitter Feeds Newsletter"
-type: permanent
 creator: harry-dry
 sources:
   - https://growthinreverse.com/marketing-examples/

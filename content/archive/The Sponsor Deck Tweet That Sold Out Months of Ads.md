@@ -1,6 +1,5 @@
 ---
 title: "The Sponsor Deck Tweet That Sold Out Months of Ads"
-type: permanent
 creator: packy-mccormick
 sources:
   - https://growthinreverse.com/packy/

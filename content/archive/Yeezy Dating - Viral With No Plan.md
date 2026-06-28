@@ -1,6 +1,5 @@
 ---
 title: "Yeezy Dating: Viral With No Plan"
-type: permanent
 creator: harry-dry
 sources:
   - https://www.indiehackers.com/podcast/115-quick-chat-with-harry-dry

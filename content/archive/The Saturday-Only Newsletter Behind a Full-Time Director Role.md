@@ -1,6 +1,5 @@
 ---
 title: "The Saturday-Only Newsletter Behind a Full-Time Director Role"
-type: permanent
 creator: tom-orbach
 sources:
   - https://growthinreverse.com/tom-orbach/

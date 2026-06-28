@@ -1,6 +1,5 @@
 ---
 title: What makes life possible
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

@@ -1,7 +1,5 @@
 ---
 title: Boris Cherny
-type: index
-scope: creator
 created: 2026-04-01
 ---
 

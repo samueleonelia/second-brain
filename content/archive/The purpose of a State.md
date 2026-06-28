@@ -1,6 +1,5 @@
 ---
 title: The purpose of a State
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

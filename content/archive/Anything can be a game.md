@@ -1,6 +1,5 @@
 ---
 title: Anything can be a game
-type: permanent
 sources:
   - https://moretothat.com/the-gamification-of-life/
 tags:

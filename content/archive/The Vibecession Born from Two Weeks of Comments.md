@@ -1,6 +1,5 @@
 ---
 title: "The Vibecession Born from Two Weeks of Comments"
-type: permanent
 creator: kyla-scanlon
 sources:
   - https://www.marketplace.org/story/2022/09/07/for-tiktok-maker-kyla-scanlon-its-about-making-finance-fun-and-a-bit-chaotic

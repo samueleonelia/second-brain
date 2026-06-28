@@ -1,6 +1,5 @@
 ---
 title: "The 101 Viral Thread Hooks Giveaway"
-type: permanent
 creator: yannick-veys
 sources:
   - https://x.com/yannick_veys/status/1483035575653478405

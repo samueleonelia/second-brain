@@ -1,6 +1,5 @@
 ---
 title: The 5 Ss of attention
-type: permanent
 sources:
   - https://youtu.be/YQBAN1ccnAk
 tags:

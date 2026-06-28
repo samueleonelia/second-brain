@@ -1,6 +1,5 @@
 ---
 title: A stable job is the biggest risk
-type: permanent
 created: 2026-04-01
 ---
 

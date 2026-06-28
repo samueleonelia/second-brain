@@ -1,6 +1,5 @@
 ---
 title: How to make a better content
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

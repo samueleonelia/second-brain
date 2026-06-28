@@ -1,6 +1,5 @@
 ---
 title: "CRUD Completeness Audit for Every Entity"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

@@ -1,7 +1,5 @@
 ---
 title: Kyla Scanlon
-type: index
-scope: creator
 created: 2026-05-21
 ---
 

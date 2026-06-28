@@ -1,6 +1,5 @@
 ---
 title: Questions for useful testimonial
-type: permanent
 sources:
   - Brain Audit
 tags:

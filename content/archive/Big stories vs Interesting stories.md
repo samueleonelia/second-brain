@@ -1,6 +1,5 @@
 ---
 title: Big stories vs Interesting stories
-type: permanent
 created: 2026-04-01
 ---
 

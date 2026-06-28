@@ -1,6 +1,5 @@
 ---
 title: "The Atomic Essays That Became Extra Focus"
-type: permanent
 creator: jesse-j-anderson
 sources:
   - https://newslettercircle.com/interviews/jesse-j-anderson-extra-focus/

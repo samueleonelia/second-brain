@@ -1,6 +1,5 @@
 ---
 title: "Free Stuff Better Than Their Paid Stuff"
-type: permanent
 creator: nathan-may
 sources:
   - https://growthinreverse.com/nathan-may/

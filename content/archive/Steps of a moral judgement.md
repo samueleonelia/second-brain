@@ -1,6 +1,5 @@
 ---
 title: Steps of a moral judgement
-type: permanent
 created: 2026-04-01
 ---
 

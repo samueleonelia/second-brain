@@ -1,6 +1,5 @@
 ---
 title: The right bonus
-type: permanent
 sources:
   - Dartboard Pricing: How To Increase Prices (Without Losing Customers)
 tags:

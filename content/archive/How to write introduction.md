@@ -1,6 +1,5 @@
 ---
 title: How to write introduction
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

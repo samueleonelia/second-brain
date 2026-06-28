@@ -1,6 +1,5 @@
 ---
 title: Best paid autoresponder
-type: permanent
 created: 2026-04-01
 ---
 

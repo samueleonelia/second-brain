@@ -1,6 +1,5 @@
 ---
 title: How to invest in gold
-type: permanent
 created: 2026-04-01
 ---
 

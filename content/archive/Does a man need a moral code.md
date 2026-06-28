@@ -1,6 +1,5 @@
 ---
 title: Does a man need a moral code
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

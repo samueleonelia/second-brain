@@ -1,6 +1,5 @@
 ---
 title: Strategy to buy ETFs index
-type: permanent
 sources:
   - The Simple Path to Wealth: Your road map to financial independence and a rich, free life
 tags:

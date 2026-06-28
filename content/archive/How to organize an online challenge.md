@@ -1,6 +1,5 @@
 ---
 title: How to organize an online challenge
-type: permanent
 created: 2026-04-01
 ---
 

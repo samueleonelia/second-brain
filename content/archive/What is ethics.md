@@ -1,6 +1,5 @@
 ---
 title: What is ethics
-type: permanent
 sources:
   - Virtue of Selfishness
 tags:

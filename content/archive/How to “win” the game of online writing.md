@@ -1,6 +1,5 @@
 ---
 title: How to “win” the game of online writing
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

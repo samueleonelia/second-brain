@@ -1,6 +1,5 @@
 ---
 title: "Regret Minimization When She Quit Capital Group"
-type: permanent
 creator: kyla-scanlon
 sources:
   - https://pathlesspath.com/kyla-scanlon/

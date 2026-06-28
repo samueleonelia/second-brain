@@ -1,6 +1,5 @@
 ---
 title: What is morality
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

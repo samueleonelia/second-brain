@@ -1,6 +1,5 @@
 ---
 title: Why people pay for premium content
-type: permanent
 sources:
   - The Art and Business You of Online Writing
 tags:

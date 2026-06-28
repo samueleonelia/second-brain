@@ -1,6 +1,5 @@
 ---
 title: "Word of Mouth Beat Everything"
-type: permanent
 creator: lenny-rachitsky
 sources:
   - https://growthinreverse.substack.com/p/the-5-biggest-takeaways-from-lennys

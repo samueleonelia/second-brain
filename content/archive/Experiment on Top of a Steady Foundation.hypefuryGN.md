@@ -1,6 +1,5 @@
 ---
 title: "Experiment on Top of a Steady Foundation"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth

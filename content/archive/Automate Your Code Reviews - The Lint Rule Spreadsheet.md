@@ -1,6 +1,5 @@
 ---
 title: "Automate Your Code Reviews: The Lint Rule Spreadsheet"
-type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code

@@ -1,7 +1,5 @@
 ---
 title: Packy McCormick
-type: index
-scope: creator
 created: 2026-04-15
 ---
 

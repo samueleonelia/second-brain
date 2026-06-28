@@ -1,6 +1,5 @@
 ---
 title: How people see money
-type: permanent
 created: 2026-04-01
 ---
 

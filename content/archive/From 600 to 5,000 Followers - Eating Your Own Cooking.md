@@ -1,6 +1,5 @@
 ---
 title: "From 600 to 5,000 Followers: Eating Your Own Cooking"
-type: permanent
 creator: yannick-veys
 sources:
   - https://traction.substack.com/p/yannick-co-founder-of-hypefury

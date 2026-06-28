@@ -17,6 +17,16 @@ sources:
     source_type: primary
     cached: ~/claudeCode/PKM/secondBrain/transcripts/xb3ehnGW_DU.md
     verified_at: 2026-06-11
+quotes:
+  - text: "I would literally run home, get on my laptop, and uh engage on LinkedIn around the time of the post"
+    source_index: 0
+    source_excerpt_line: 450
+  - text: "wake up at 6:00 a.m., go to the gym, come home, write a piece of content for LinkedIn"
+    source_index: 0
+    source_excerpt_line: 446
+  - text: "the LinkedIn account became a subscriber generator. It also became our like main revenue driver and it became our our inbound source of leads to to then grow the newsletter"
+    source_index: 0
+    source_excerpt_line: null
 tags: [linkedin, newsletter, early-growth]
 created: 2026-06-11
 ---
@@ -47,3 +57,8 @@ The first-hour engagement window is a hard physical constraint, not a content-st
 ---
 
 ## Related (matched on mechanism)
+
+- [[The First Hour Decides the Post]] — tom-alder, matched: first-hour-engagement
+- [[Editing the Link in After the First Hour]] — tom-alder, matched: first-hour-engagement
+- [[The Nine-Month Daily Posting Streak]] — tom-alder, matched: daily-posting-streak
+- [[Go All In on LinkedIn as the Agency Lead Channel]] — duncan-rogoff, matched: linkedin-organic-growth

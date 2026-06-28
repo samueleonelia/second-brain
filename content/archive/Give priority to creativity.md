@@ -1,6 +1,5 @@
 ---
 title: Give priority to creativity
-type: permanent
 created: 2026-04-01
 ---
 

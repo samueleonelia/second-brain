@@ -1,6 +1,5 @@
 ---
 title: Focus on your value without guilt
-type: permanent
 sources:
   - The Last Dance
 tags:

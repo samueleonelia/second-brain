@@ -1,6 +1,5 @@
 ---
 title: "The Verify Your Signup Reply Trick"
-type: permanent
 creator: tom-orbach
 sources:
   - https://www.marketingideas.com/p/how-i-grew-this-newsletter-from-0

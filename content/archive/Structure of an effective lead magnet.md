@@ -1,6 +1,5 @@
 ---
 title: Structure of an effective lead magnet
-type: permanent
 tags:
   - samuele-onelia#
 created: 2026-04-01

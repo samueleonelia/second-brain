@@ -1,6 +1,5 @@
 ---
 title: "Five Bonus Comments on Your Own Post"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: tom-alder
 identity_anchor: strategy breakdowns

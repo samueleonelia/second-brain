@@ -1,6 +1,5 @@
 ---
 title: The Thousand Line Review Ceiling
-type: permanent
 sources:
   - https://youtu.be/7clJ8IH784Q
 tags:

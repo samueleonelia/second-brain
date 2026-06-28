@@ -1,6 +1,5 @@
 ---
 title: Decision tree
-type: permanent
 sources:
   - How to Decide: Simple Tools for Making Better Choices
 tags:

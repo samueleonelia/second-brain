@@ -1,6 +1,5 @@
 ---
 title: "Banned from Reddit for Being Too Clever"
-type: permanent
 creator: yannick-veys
 sources:
   - https://yannickveys.com/how-to-grow-your-blog-to-make-a-living-with-it-from-scratch/

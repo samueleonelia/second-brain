@@ -1,6 +1,5 @@
 ---
 title: A trade is the only win-win interaction
-type: permanent
 created: 2026-04-01
 ---
 

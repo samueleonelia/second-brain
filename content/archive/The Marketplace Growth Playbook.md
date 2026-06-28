@@ -1,6 +1,5 @@
 ---
 title: "The Marketplace Growth Playbook"
-type: permanent
 creator: lenny-rachitsky
 sources:
   - https://www.sharetribe.com/twosided/ep1-lenny-rachitsky-build-something-people-want/

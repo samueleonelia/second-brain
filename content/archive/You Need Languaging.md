@@ -1,6 +1,5 @@
 ---
 title: You Need Languaging
-type: permanent
 sources:
   - https://nicolascole77.medium.com/languaging-the-strategic-use-of-language-to-change-thinking-1ad1ce5ce291
 tags:

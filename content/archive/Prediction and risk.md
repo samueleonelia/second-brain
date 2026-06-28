@@ -1,6 +1,5 @@
 ---
 title: Prediction and risk
-type: permanent
 sources:
   - The Man Who Solved the Market
 tags:

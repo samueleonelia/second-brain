@@ -1,6 +1,5 @@
 ---
 title: "The Director of Miscellaneous"
-type: permanent
 creator: milly-tamati
 sources:
   - https://thebootstrappedfounder.com/milly-tamati-the-power-and-potential-of-generalists/

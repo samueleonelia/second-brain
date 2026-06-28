@@ -1,6 +1,5 @@
 ---
 title: "Checkpoint and Resume for Long-Running Agents on Mobile"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

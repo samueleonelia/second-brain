@@ -1,6 +1,5 @@
 ---
 title: What is a value
-type: permanent
 sources:
   - The Virtue of Selfishness
 tags:

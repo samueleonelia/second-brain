@@ -1,6 +1,5 @@
 ---
 title: Tripled Monthly Income in 5 Months of Consistent Posting
-type: permanent
 creator: mischa-collins
 sources:
   - https://www.linkedin.com/posts/mischa-collins_99-of-founders-quit-linkedin-too-soon-activity-7293232452792168448-JRLR

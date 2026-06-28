@@ -1,6 +1,5 @@
 ---
 title: "The Customer Certificates That 3x Social Shares"
-type: permanent
 creator: tom-orbach
 sources:
   - https://www.marketingideas.com/p/what-3-years-at-wiz-taught-me-about

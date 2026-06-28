@@ -1,6 +1,5 @@
 ---
 title: Sunday Was the Best Day (Data, Not Assumption)
-type: permanent
 creator: charlie-hills
 sources:
   - https://charliehills.substack.com/p/how-i-reached-180k-on-linkedin-with

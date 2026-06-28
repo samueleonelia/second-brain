@@ -1,6 +1,5 @@
 ---
 title: "There Is No Room of Adults — Imposter Syndrome Reframed"
-type: permanent
 creator: matt-johansen
 sources:
   - https://www.tines.com/blog/podcast-reddit-matt-johansen/

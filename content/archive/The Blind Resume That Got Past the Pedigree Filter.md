@@ -1,6 +1,5 @@
 ---
 title: "The Blind Resume That Got Past the Pedigree Filter"
-type: permanent
 creator: kyla-scanlon
 sources:
   - https://pathlesspath.com/kyla-scanlon/

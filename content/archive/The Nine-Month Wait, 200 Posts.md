@@ -1,6 +1,5 @@
 ---
 title: "The Nine-Month Wait, 200 Posts"
-type: permanent
 creator: olivia-wickstrom
 sources:
   - https://substack.com/@petalandhearth/note/c-259041506

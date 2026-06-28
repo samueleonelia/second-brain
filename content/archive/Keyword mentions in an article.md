@@ -1,6 +1,5 @@
 ---
 title: Keyword mentions in an article
-type: permanent
 sources:
   - https://johanneslarsson.com/course/the-complete-seo-checklist/
 tags:

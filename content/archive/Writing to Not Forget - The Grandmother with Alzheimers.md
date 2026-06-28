@@ -1,6 +1,5 @@
 ---
 title: "Writing to Not Forget: The Grandmother with Alzheimer's"
-type: permanent
 creator: packy-mccormick
 sources:
   - https://mercury.com/blog/packy-mccormick-one-man-show

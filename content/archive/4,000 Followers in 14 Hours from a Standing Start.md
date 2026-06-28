@@ -1,6 +1,5 @@
 ---
 title: "4,000 Followers in 14 Hours from a Standing Start"
-type: permanent
 creator: yossi-levi
 sources:
   - https://growthinreverse.com/yossi-levi/

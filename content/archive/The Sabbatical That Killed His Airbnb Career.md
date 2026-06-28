@@ -1,6 +1,5 @@
 ---
 title: "The Sabbatical That Killed His Airbnb Career"
-type: permanent
 creator: lenny-rachitsky
 sources:
   - https://www.lennysnewsletter.com/p/sabbatical-time-off

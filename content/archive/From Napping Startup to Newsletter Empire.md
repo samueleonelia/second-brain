@@ -1,6 +1,5 @@
 ---
 title: "From Napping Startup to Newsletter Empire"
-type: permanent
 creator: packy-mccormick
 sources:
   - https://mercury.com/blog/packy-mccormick-one-man-show

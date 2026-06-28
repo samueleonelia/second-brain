@@ -1,6 +1,5 @@
 ---
 title: LinkedIn Is a Revenue Engine, Not a Vanity Project
-type: permanent
 creator: mischa-collins
 sources:
   - https://www.linkedin.com/posts/mischa-collins_there-is-so-much-opportunity-on-linkedin-activity-7353803385562664960-O6S_

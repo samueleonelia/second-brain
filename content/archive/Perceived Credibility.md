@@ -1,6 +1,5 @@
 ---
 title: Perceived Credibility
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

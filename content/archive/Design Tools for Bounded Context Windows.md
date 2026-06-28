@@ -1,6 +1,5 @@
 ---
 title: "Design Tools for Bounded Context Windows"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

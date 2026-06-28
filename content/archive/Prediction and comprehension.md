@@ -1,6 +1,5 @@
 ---
 title: Prediction and comprehension
-type: permanent
 sources:
   - The Man Who Solved the Market
 tags:

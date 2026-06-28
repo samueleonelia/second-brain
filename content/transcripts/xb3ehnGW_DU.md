@@ -2,12 +2,14 @@
 video_id: xb3ehnGW_DU
 url: https://www.youtube.com/watch?v=xb3ehnGW_DU
 title: "How to Use LinkedIn to Grow Your Newsletter (Without Paid Ads)"
-channel: "The AI Why with Liam Lawson"
-duration_minutes: 81
-fetched_at: 2026-06-11
+channel: (interview with Liam)
+duration_minutes: 45
+fetched_at: 2026-06-28
 creator: adam-biddlecombe
 anchor: "@adam-bidd"
 ---
+
+# How to Use LinkedIn to Grow Your Newsletter (Without Paid Ads)
 
 Yeah, I just want to give a kind of call out specifically to the employee who hasn't used AI before. If you have fear thinking AI is could replace me or I could lose my my job or any of that
 

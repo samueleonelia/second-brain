@@ -1,6 +1,5 @@
 ---
 title: "Quarterly-Only Sponsorships and I Never Discount Anything"
-type: permanent
 creator: cj-gustafson
 sources:
   - https://growthinreverse.com/cj-gustafson/

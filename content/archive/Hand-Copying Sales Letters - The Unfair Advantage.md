@@ -1,6 +1,5 @@
 ---
 title: "Hand-Copying Sales Letters: The Unfair Advantage"
-type: permanent
 creator: sam-parr
 sources:
   - https://www.newsletterexamples.co/p/what-i-learned-taking-sam-parr-s-email-copywriting-course

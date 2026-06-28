@@ -1,6 +1,5 @@
 ---
 title: "Economics Student Who Taught Himself to Code"
-type: permanent
 creator: harry-dry
 sources:
   - https://www.nocsdegree.com/interviews-kanye-datingapp-creator-explains-learning-to-code-no-csdegree/

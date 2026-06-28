@@ -1,6 +1,5 @@
 ---
 title: "Retention Hacks for the Federal Reserve"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com

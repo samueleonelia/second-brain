@@ -1,7 +1,5 @@
 ---
 title: Tom Orbach
-type: index
-scope: creator
 created: 2026-05-02
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: A foundational philosophy for business
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Half Substack, Half Coaching - The Revenue Mix Beyond Subscriptions"
-type: permanent
 creator: olivia-wickstrom
 sources:
   - https://petalandhearth.substack.com/p/the-one-habit-that-took-my-substack

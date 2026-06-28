@@ -1,6 +1,5 @@
 ---
 title: "Launching to 5,000 Subscribers Before the First Edition"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: tom-alder
 identity_anchor: strategy breakdowns

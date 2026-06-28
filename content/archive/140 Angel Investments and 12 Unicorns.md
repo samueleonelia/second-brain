@@ -1,6 +1,5 @@
 ---
 title: "140 Angel Investments and 12 Unicorns"
-type: permanent
 creator: lenny-rachitsky
 sources:
   - https://www.lennysnewsletter.com/p/angel-investing

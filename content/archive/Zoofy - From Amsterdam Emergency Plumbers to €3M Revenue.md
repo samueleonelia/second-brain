@@ -1,6 +1,5 @@
 ---
 title: "Zoofy: From Amsterdam Emergency Plumbers to €3M Revenue"
-type: permanent
 creator: yannick-veys
 sources:
   - https://yannickveys.com/about/

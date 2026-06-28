@@ -1,6 +1,5 @@
 ---
 title: "Ranked #1 in Google, Made No Money"
-type: permanent
 creator: yannick-veys
 sources:
   - https://yannickveys.com/about/

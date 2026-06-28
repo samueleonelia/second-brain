@@ -1,6 +1,5 @@
 ---
 title: '"Someone Should Write About This"'
-type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code

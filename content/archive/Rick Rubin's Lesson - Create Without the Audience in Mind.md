@@ -1,6 +1,5 @@
 ---
 title: "Rick Rubin's Lesson: Create Without the Audience in Mind"
-type: permanent
 creator: trung-phan
 sources:
   - https://www.libertyrpf.com/p/trung-phan-solving-the-twitter-puzzle

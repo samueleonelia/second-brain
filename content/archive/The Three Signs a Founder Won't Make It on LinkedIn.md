@@ -1,6 +1,5 @@
 ---
 title: The Three Signs a Founder Won't Make It on LinkedIn
-type: permanent
 creator: mischa-collins
 sources:
   - https://www.linkedin.com/posts/mischa-collins_ive-spoken-to-100-founders-about-linkedin-activity-7338143896595492865-2gPY

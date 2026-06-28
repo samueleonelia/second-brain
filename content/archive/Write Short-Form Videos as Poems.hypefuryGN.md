@@ -1,6 +1,5 @@
 ---
 title: "Write Short-Form Videos as Poems"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com

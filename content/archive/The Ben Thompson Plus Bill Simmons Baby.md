@@ -1,6 +1,5 @@
 ---
 title: "The Ben Thompson + Bill Simmons Baby"
-type: permanent
 creator: packy-mccormick
 sources:
   - https://www.reidtandy.com/p/building-not-boring-a-conversation

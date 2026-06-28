@@ -1,6 +1,5 @@
 ---
 title: Earned Credibility gives you leverage
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

@@ -1,6 +1,5 @@
 ---
 title: "The Paid Newsletter That Gates Nothing"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com
@@ -43,3 +42,4 @@ A paywall monetizes your best readers and silences your best marketing at the sa
 ---
 
 ## Related (matched on mechanism)
+- [[Seventeen Sponsors Keep the Newsletter Free]] — maja-voje, matched: free-drives-paid

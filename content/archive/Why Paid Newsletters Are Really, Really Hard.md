@@ -1,6 +1,5 @@
 ---
 title: "Why Paid Newsletters Are Really, Really Hard"
-type: permanent
 creator: nathan-may
 sources:
   - https://growthinreverse.com/nathan-may/

@@ -1,6 +1,5 @@
 ---
 title: How to make money in the stock market
-type: permanent
 created: 2026-04-01
 ---
 

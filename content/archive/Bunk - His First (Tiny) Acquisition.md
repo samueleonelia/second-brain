@@ -1,6 +1,5 @@
 ---
 title: "Bunk: His First (Tiny) Acquisition"
-type: permanent
 creator: sam-parr
 sources:
   - https://www.michelegargiulo.com/blog/sam-parr-biography-hustle-my-first-million

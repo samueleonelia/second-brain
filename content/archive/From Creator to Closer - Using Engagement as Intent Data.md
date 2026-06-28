@@ -1,6 +1,5 @@
 ---
 title: "From Creator to Closer: Using Engagement as Intent Data"
-type: permanent
 creator: charlie-hills
 sources:
   - https://playground.lagrowthmachine.com/t/from-creator-to-closer-turning-authentic-ai-content-into-a-sales-engine-with-charlie-hills/4943

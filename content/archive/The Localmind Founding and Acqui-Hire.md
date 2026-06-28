@@ -1,6 +1,5 @@
 ---
 title: "The Localmind Founding and Acqui-Hire"
-type: permanent
 creator: lenny-rachitsky
 sources:
   - https://techcrunch.com/2012/12/13/airbnb-acquires-localmind/

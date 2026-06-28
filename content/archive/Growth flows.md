@@ -1,6 +1,5 @@
 ---
 title: Growth flows
-type: permanent
 created: 2026-04-01
 ---
 

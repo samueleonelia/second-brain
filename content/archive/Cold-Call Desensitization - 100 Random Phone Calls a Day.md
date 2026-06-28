@@ -1,6 +1,5 @@
 ---
 title: "Cold-Call Desensitization: 100 Random Phone Calls a Day"
-type: permanent
 creator: sam-parr
 sources:
   - https://www.forwardobsessed.com/episodes/sam-parr-hustle-hampton-my-first-million-podcast

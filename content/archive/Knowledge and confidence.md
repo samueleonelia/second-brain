@@ -1,6 +1,5 @@
 ---
 title: Knowledge and confidence
-type: permanent
 created: 2026-04-01
 ---
 

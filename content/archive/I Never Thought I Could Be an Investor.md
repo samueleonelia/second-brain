@@ -1,6 +1,5 @@
 ---
 title: "I Never Thought I Could Be an Investor"
-type: permanent
 creator: packy-mccormick
 sources:
   - https://mercury.com/blog/packy-mccormick-one-man-show

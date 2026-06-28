@@ -1,6 +1,5 @@
 ---
 title: "Founder Loneliness: Hampton's Origin Story"
-type: permanent
 creator: sam-parr
 sources:
   - https://blog.marcoexperiences.com/samparr-0

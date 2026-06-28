@@ -1,6 +1,5 @@
 ---
 title: "Editing the Link in After the First Hour"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: tom-alder
 identity_anchor: strategy breakdowns
@@ -37,3 +36,5 @@ Do not make the algorithm choose between your reach and your conversion. Win the
 ---
 
 ## Related (matched on mechanism)
+
+- [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: first-hour-engagement

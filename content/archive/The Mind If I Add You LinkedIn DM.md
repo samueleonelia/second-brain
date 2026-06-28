@@ -1,6 +1,5 @@
 ---
 title: "The 'Mind If I Add You?' LinkedIn DM"
-type: permanent
 creator: nathan-may
 sources:
   - https://growthinreverse.com/nathan-may/

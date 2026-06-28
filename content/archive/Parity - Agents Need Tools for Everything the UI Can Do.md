@@ -1,6 +1,5 @@
 ---
 title: "Parity: Agents Need Tools for Everything the UI Can Do"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

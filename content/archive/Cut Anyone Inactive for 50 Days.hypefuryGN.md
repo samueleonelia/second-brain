@@ -21,6 +21,16 @@ sources:
     type: web-article
     source_type: secondary
     verified_at: 2026-06-11
+quotes:
+  - text: "if anyone didn't um engage like open or click on our list in I think it's 50 days we took them off the list completely"
+    source_index: 0
+    source_excerpt_line: null
+  - text: "we were like actively and manually scrubbing our list with an automation that was happening all the time"
+    source_index: 0
+    source_excerpt_line: 316
+  - text: "our topline number of subscribers could have been almost really as high as we wanted to. But again if you if you do that and inflate your prices as such you can end up suddenly being um unviable for these advertisers"
+    source_index: 0
+    source_excerpt_line: null
 tags: [newsletter, list-hygiene, engagement]
 created: 2026-06-11
 ---
@@ -51,3 +61,4 @@ Aggressive culling is the unsexy infrastructure behind a sustainable ad business
 ---
 
 ## Related (matched on mechanism)
+- [[Undercut the CPM Lock the Long Term Deal]] — adam-biddlecombe, matched: advertiser-retention-via-engagement

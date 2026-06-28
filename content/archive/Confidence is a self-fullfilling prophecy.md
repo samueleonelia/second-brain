@@ -1,6 +1,5 @@
 ---
 title: Confidence is a self-fullfilling prophecy
-type: permanent
 sources:
   - http://www.paulgraham.com/fn.html
 tags:

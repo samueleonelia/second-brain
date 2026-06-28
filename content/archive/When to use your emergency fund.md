@@ -1,6 +1,5 @@
 ---
 title: When to use your emergency fund
-type: permanent
 created: 2026-04-01
 ---
 

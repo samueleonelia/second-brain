@@ -1,6 +1,5 @@
 ---
 title: "The 8K Subscriber Sponsorship Threshold"
-type: permanent
 creator: yong-soo-chung
 sources:
   - https://newslettercircle.com/interviews/yong-soo-chung-first-class-founders/

@@ -1,6 +1,5 @@
 ---
 title: "Borrowed His Anonymous Strategy from Strip Mall Guy"
-type: permanent
 creator: yossi-levi
 sources:
   - https://growthinreverse.com/yossi-levi/

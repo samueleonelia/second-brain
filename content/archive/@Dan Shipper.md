@@ -1,7 +1,5 @@
 ---
 title: Dan Shipper
-type: index
-scope: creator
 created: 2026-05-21
 ---
 

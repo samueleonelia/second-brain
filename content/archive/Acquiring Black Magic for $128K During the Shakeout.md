@@ -1,6 +1,5 @@
 ---
 title: "Acquiring Black Magic for $128K During the Shakeout"
-type: permanent
 creator: yannick-veys
 sources:
   - https://blackmagicso.substack.com/p/black-magic-has-joined-hypefury

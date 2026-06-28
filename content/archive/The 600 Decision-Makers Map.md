@@ -1,6 +1,5 @@
 ---
 title: "The 600 Decision-Makers Map"
-type: permanent
 creator: nathan-may
 sources:
   - https://growthinreverse.com/nathan-may/

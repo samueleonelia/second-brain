@@ -1,6 +1,5 @@
 ---
 title: "Composability: New Features Through New Prompts"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

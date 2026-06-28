@@ -1,6 +1,5 @@
 ---
 title: "X Charging $1/Account: The Death of the Free Plan"
-type: permanent
 creator: yannick-veys
 sources:
   - https://x.com/Yannick_Veys/status/1850872631093846437

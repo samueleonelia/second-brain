@@ -1,6 +1,5 @@
 ---
 title: Create a social media persona
-type: permanent
 created: 2026-04-01
 ---
 

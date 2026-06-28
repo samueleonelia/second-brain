@@ -1,6 +1,5 @@
 ---
 title: Examples of websites with a minimalist design
-type: permanent
 created: 2026-04-01
 ---
 

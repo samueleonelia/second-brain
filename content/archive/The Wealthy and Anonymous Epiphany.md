@@ -1,6 +1,5 @@
 ---
 title: "The Wealthy and Anonymous Epiphany"
-type: permanent
 creator: yong-soo-chung
 sources:
   - https://newslettercircle.com/interviews/yong-soo-chung-first-class-founders/

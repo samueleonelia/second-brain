@@ -1,6 +1,5 @@
 ---
 title: "The Non-Calculatable Offer"
-type: permanent
 creator: tom-orbach
 sources:
   - https://growthinreverse.com/tom-orbach/

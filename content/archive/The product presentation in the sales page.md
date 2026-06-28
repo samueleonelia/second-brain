@@ -1,6 +1,5 @@
 ---
 title: The product presentation in the sales page
-type: permanent
 created: 2026-04-01
 ---
 

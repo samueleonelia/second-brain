@@ -1,6 +1,5 @@
 ---
 title: Tell your side of a story
-type: permanent
 created: 2026-04-01
 ---
 

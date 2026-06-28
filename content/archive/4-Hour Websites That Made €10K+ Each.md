@@ -1,6 +1,5 @@
 ---
 title: "4-Hour Websites That Made €10K+ Each"
-type: permanent
 creator: yannick-veys
 sources:
   - https://yannickveys.com/about/

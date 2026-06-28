@@ -1,6 +1,5 @@
 ---
 title: The story section of a sales page
-type: permanent
 created: 2026-04-01
 ---
 

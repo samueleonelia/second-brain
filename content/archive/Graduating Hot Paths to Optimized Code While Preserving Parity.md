@@ -1,6 +1,5 @@
 ---
 title: "Graduating Hot Paths to Optimized Code While Preserving Parity"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

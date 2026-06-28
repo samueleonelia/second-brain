@@ -1,6 +1,5 @@
 ---
 title: "Smart Threads and Dumb Memes: The Barbell Strategy"
-type: permanent
 creator: trung-phan
 sources:
   - https://creatoreconomy.so/p/trung-phan-smart-threads-dumb-memes

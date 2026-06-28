@@ -1,6 +1,5 @@
 ---
 title: HTML basics
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Twitter purpose
-type: permanent
 created: 2026-04-01
 ---
 

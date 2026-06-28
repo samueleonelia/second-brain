@@ -1,6 +1,5 @@
 ---
 title: "The Ambassador Program: 300K Subscribers from 4,000 Superfans"
-type: permanent
 creator: sam-parr
 sources:
   - https://referralhero.com/blog/300k-super-fans-create-hustles-ambassador-program

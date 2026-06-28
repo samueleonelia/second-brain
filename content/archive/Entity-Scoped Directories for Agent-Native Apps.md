@@ -1,6 +1,5 @@
 ---
 title: "Entity-Scoped Directories for Agent-Native Apps"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

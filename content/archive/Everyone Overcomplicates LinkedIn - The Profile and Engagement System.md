@@ -1,6 +1,5 @@
 ---
 title: Everyone Overcomplicates LinkedIn - The Profile and Engagement System
-type: permanent
 creator: mischa-collins
 sources:
   - https://www.linkedin.com/posts/mischa-collins_everyone-overcomplicates-linkedin-growth-activity-7404856017672364032-MlLT

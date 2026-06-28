@@ -1,6 +1,5 @@
 ---
 title: "The Mystery CEO Call"
-type: permanent
 creator: yannick-veys
 sources:
   - https://yannickveys.com/about/

@@ -1,6 +1,5 @@
 ---
 title: "ESPN of Pickleball: From Newsletter to Multi-Sport Media Holdco"
-type: permanent
 creator: thomas-shields
 sources:
   - https://alcalde.texasexes.org/2023/06/as-pickleball-rises-in-popularity-one-longhorn-is-at-the-center-of-it-all

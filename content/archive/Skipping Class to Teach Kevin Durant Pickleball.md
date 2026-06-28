@@ -1,6 +1,5 @@
 ---
 title: "Skipping Class to Teach Kevin Durant Pickleball"
-type: permanent
 creator: thomas-shields
 sources:
   - https://alcalde.texasexes.org/2023/06/as-pickleball-rises-in-popularity-one-longhorn-is-at-the-center-of-it-all

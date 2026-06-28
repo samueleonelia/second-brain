@@ -1,6 +1,5 @@
 ---
 title: Subagents Keep the Main Context Clean
-type: permanent
 sources:
   - https://arps18.github.io/posts/claude-code-mastery/
 tags:

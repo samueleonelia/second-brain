@@ -1,6 +1,5 @@
 ---
 title: Price justification for consulting services
-type: permanent
 sources:
   - Million Dollar Consulting
 tags:

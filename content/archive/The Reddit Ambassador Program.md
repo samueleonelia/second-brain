@@ -1,6 +1,5 @@
 ---
 title: "The Reddit Ambassador Program"
-type: permanent
 creator: tom-orbach
 sources:
   - https://blog.hubspot.com/marketing/newsletter-growth-marketing-ideas

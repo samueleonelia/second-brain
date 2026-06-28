@@ -1,6 +1,5 @@
 ---
 title: "Hostilities From 28 February 2026 Effectively Closed Strait of Hormuz Shipping"
-type: permanent
 topic: asia-rice-hormuz-fallout
 tags:
   - pacific-asia

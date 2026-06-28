@@ -1,6 +1,5 @@
 ---
 title: "Surviving the Twitter API Apocalypse"
-type: permanent
 creator: yannick-veys
 sources:
   - https://x.com/Yannick_Veys/status/1643880419585150979

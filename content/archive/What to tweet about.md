@@ -1,6 +1,5 @@
 ---
 title: What to tweet about
-type: permanent
 sources:
   - Find Joy in Chaos
 tags:

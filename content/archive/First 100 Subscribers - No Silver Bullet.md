@@ -1,6 +1,5 @@
 ---
 title: "First 100 Subscribers: No Silver Bullet"
-type: permanent
 creator: harry-dry
 sources:
   - https://www.indiehackers.com/podcast/115-quick-chat-with-harry-dry

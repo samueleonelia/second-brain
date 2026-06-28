@@ -1,6 +1,5 @@
 ---
 title: Give the customer only 2 options
-type: permanent
 sources:
   - Dartboard Pricing: How To Increase Prices (Without Losing Customers)
   - https://copyblogger.com/yes-yes-pricing/

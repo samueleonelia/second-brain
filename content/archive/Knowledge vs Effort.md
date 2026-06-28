@@ -1,6 +1,5 @@
 ---
 title: Knowledge vs Effort
-type: permanent
 sources:
   - https://www.scotthyoung.com/blog/2021/05/15/time-to-learn/
 tags:

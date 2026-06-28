@@ -1,6 +1,5 @@
 ---
 title: The role of principles in decision-making
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: Milly Tamati
-type: index
-scope: creator
 created: 2026-04-12
 ---
 

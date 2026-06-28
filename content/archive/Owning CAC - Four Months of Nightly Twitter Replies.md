@@ -1,6 +1,5 @@
 ---
 title: "Owning CAC - Four Months of Nightly Twitter Replies"
-type: permanent
 creator: cj-gustafson
 sources:
   - https://growthinreverse.com/mostly-metrics/

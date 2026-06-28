@@ -1,6 +1,5 @@
 ---
 title: "Pay Once for the Library, Not to Keep Me Writing"
-type: permanent
 creator: olivia-wickstrom
 sources:
   - https://petalandhearth.substack.com/p/the-one-habit-that-took-my-substack

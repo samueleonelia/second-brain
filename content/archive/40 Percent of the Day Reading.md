@@ -1,6 +1,5 @@
 ---
 title: "40 Percent of the Day Reading"
-type: permanent
 creator: kyla-scanlon
 sources:
   - https://growthinreverse.com/kyla-scanlon/

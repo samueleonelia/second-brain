@@ -1,7 +1,5 @@
 ---
 title: Jesse J. Anderson
-type: index
-scope: creator
 created: 2026-05-02
 ---
 

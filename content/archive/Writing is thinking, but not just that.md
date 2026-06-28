@@ -1,6 +1,5 @@
 ---
 title: Writing is thinking, but not just that
-type: permanent
 sources:
   - https://www.animalz.co/blog/the-problem-with-writing-is-thinking/
 tags:

@@ -1,6 +1,5 @@
 ---
 title: "Quit Banking, Got Sued, Paid €15,000"
-type: permanent
 creator: yannick-veys
 sources:
   - https://yannickveys.com/about/

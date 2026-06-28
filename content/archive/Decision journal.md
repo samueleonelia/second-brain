@@ -1,6 +1,5 @@
 ---
 title: Decision journal
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Turn Paid On at 300 to 500 Subscribers"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth

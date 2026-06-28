@@ -1,6 +1,5 @@
 ---
 title: "The Onboarding Machine Behind Marketing Examined"
-type: permanent
 creator: alex-garcia
 sources:
   - https://growthinreverse.com/optimized-onboarding/

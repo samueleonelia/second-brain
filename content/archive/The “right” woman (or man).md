@@ -1,6 +1,5 @@
 ---
 title: The “right” woman (or man)
-type: permanent
 sources:
   - https://waitbutwhy.com/2016/09/marriage-decision.html
 tags:

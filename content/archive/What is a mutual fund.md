@@ -1,6 +1,5 @@
 ---
 title: What is a mutual fund
-type: permanent
 created: 2026-04-01
 ---
 

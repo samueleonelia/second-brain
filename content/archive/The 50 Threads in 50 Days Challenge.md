@@ -1,6 +1,5 @@
 ---
 title: "The 50 Threads in 50 Days Challenge"
-type: permanent
 creator: alex-garcia
 sources:
   - https://threadreaderapp.com/thread/1400084794986221568.html

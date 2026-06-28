@@ -1,6 +1,5 @@
 ---
 title: "The ABC Content System and 4-Week Sprints"
-type: permanent
 creator: yossi-levi
 sources:
   - https://growthinreverse.com/yossi-levi/

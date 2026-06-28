@@ -1,6 +1,5 @@
 ---
 title: "The ADHD Strategy Guide PDF Lead Magnet"
-type: permanent
 creator: jesse-j-anderson
 sources:
   - https://newslettercircle.com/interviews/jesse-j-anderson-extra-focus/

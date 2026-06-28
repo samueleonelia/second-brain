@@ -1,6 +1,5 @@
 ---
 title: "Build Something the Internet Has Never Seen Before"
-type: permanent
 creator: lenny-rachitsky
 sources:
   - https://www.lennysnewsletter.com/p/what-seven-years-at-airbnb-taught

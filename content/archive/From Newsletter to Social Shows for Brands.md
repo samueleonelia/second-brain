@@ -1,6 +1,5 @@
 ---
 title: "From Newsletter to Social Shows for Brands"
-type: permanent
 creator: alex-garcia
 sources:
   - https://www.linkedin.com/in/alex-garcia-294119159

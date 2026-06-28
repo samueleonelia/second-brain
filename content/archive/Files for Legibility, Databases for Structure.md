@@ -1,6 +1,5 @@
 ---
 title: "Files for Legibility, Databases for Structure"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

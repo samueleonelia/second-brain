@@ -1,6 +1,5 @@
 ---
 title: "From Side Hustle to One Million ARR"
-type: permanent
 creator: alex-garcia
 sources:
   - https://www.starterstory.com/marketing-examined-breakdown

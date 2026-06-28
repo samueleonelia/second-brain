@@ -1,7 +1,5 @@
 ---
 title: Yong-Soo Chung
-type: index
-scope: creator
 created: 2026-05-27
 ---
 

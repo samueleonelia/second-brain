@@ -1,6 +1,5 @@
 ---
 title: Notes & content
-type: permanent
 created: 2026-04-01
 ---
 

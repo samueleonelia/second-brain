@@ -1,6 +1,5 @@
 ---
 title: ß The Art and Business You of Online Writing
-type: permanent
 tags:
   - biblio
   - nicolas-cole

@@ -1,7 +1,5 @@
 ---
 title: Pacific Asia
-type: index
-scope: topic
 created: 2026-05-24
 ---
 

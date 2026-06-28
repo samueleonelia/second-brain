@@ -1,6 +1,5 @@
 ---
 title: How to budget with an irregular income
-type: permanent
 sources:
   - https://www.getrichslowly.org/how-to-budget-for-an-irregular-income/
 tags:

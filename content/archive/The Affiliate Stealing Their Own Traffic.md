@@ -1,6 +1,5 @@
 ---
 title: "The Affiliate Stealing Their Own Traffic"
-type: permanent
 creator: yannick-veys
 sources:
   - https://www.indiehackers.com/product/hypefury/6k-mrr-huge-affiliate-marketing-learning-for-you--M8P9XWpyqOHeZk4YtTl

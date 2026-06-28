@@ -1,6 +1,5 @@
 ---
 title: The best stories are personal
-type: permanent
 created: 2026-04-01
 ---
 

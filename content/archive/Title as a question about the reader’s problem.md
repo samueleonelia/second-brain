@@ -1,6 +1,5 @@
 ---
 title: Title as a question about the reader’s problem
-type: permanent
 created: 2026-04-01
 ---
 

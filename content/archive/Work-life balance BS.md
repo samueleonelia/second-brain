@@ -1,6 +1,5 @@
 ---
 title: Work-life balance BS
-type: permanent
 created: 2026-04-01
 ---
 

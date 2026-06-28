@@ -1,6 +1,5 @@
 ---
 title: How to find good questions for your notes
-type: permanent
 sources:
   - https://fortelabs.com/blog/basboverview/
 tags:

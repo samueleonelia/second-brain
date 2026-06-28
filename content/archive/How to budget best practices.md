@@ -1,6 +1,5 @@
 ---
 title: How to budget best practices
-type: permanent
 sources:
   - You Need a Budget
 tags:

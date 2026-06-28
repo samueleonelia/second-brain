@@ -1,6 +1,5 @@
 ---
 title: "Notes as the Number One Subscriber Engine"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth

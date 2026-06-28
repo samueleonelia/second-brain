@@ -1,6 +1,5 @@
 ---
 title: Growing a business is a continuous balancing act
-type: permanent
 created: 2026-04-01
 ---
 

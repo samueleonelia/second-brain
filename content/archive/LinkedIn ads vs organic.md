@@ -1,6 +1,5 @@
 ---
 title: LinkedIn ads vs organic
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Two Years to Land Notion: The Sponsorship Patience Play"
-type: permanent
 creator: milly-tamati
 sources:
   - https://growthinreverse.com/milly-tamati/

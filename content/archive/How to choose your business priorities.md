@@ -1,6 +1,5 @@
 ---
 title: How to choose your business priorities
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "$1K Salary at $22K MRR: The Portfolio as Runway"
-type: permanent
 creator: yannick-veys
 sources:
   - https://www.indiehackers.com/post/i-co-founded-hypefury-and-scaled-it-to-22k-mrr-ama-318a451a36

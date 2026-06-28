@@ -1,6 +1,5 @@
 ---
 title: "Don't Rely on Superheroes — A Beach Saved the Reddit Incident"
-type: permanent
 creator: matt-johansen
 sources:
   - https://www.mattjay.com/blog/superhero-incident-response

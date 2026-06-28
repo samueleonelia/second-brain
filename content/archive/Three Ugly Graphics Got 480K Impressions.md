@@ -1,6 +1,5 @@
 ---
 title: "Three \"Ugly\" Graphics Got 480K Impressions"
-type: permanent
 creator: charlie-hills
 sources:
   - https://charliehills.substack.com/p/the-ai-image-hack-taking-over-linkedin

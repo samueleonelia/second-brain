@@ -1,6 +1,5 @@
 ---
 title: "1,500 Cold Pitches at One-in-Two-Hundred"
-type: permanent
 creator: olivia-wickstrom
 sources:
   - https://www.makewritingyourjob.com/p/im-a-workaholic-compared-to-the-french

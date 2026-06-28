@@ -1,6 +1,5 @@
 ---
 title: "Hiring Weirdos: The Bottom of the Resume"
-type: permanent
 creator: sam-parr
 sources:
   - https://www.forwardobsessed.com/episodes/sam-parr-hustle-hampton-my-first-million-podcast

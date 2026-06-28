@@ -1,6 +1,5 @@
 ---
 title: Kakha Bendukidze
-type: permanent
 sources:
   - https://www.newyorker.com/news/news-desk/man-remade-georgia
 tags:

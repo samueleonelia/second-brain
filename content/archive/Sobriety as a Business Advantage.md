@@ -1,6 +1,5 @@
 ---
 title: Sobriety as a Business Advantage
-type: permanent
 creator: sam-parr
 sources:
   - https://thehustle.co/6-things-learned-from-not-drinking-for-2-years

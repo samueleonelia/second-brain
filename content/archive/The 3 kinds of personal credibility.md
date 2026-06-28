@@ -1,6 +1,5 @@
 ---
 title: The 3 kinds of personal credibility
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

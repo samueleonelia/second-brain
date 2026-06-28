@@ -1,6 +1,5 @@
 ---
 title: Quitting is an option
-type: permanent
 sources:
   - How to Decide: Simple Tools for Making Better Choices
 tags:

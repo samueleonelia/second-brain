@@ -1,6 +1,5 @@
 ---
 title: Foreign politic of a capitalist government
-type: permanent
 created: 2026-04-01
 ---
 

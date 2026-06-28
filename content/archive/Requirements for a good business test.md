@@ -1,6 +1,5 @@
 ---
 title: Requirements for a good business test
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "The Cradle Video and the Accidental Dog Influencer Business"
-type: permanent
 creator: yong-soo-chung
 sources:
   - https://www.hiscox.com/side-hustle-to-small-business/yong-soo-chung-podcast-season-3

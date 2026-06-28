@@ -1,6 +1,5 @@
 ---
 title: "The Algorithmic Boost After Going Paid"
-type: permanent
 creator: tom-orbach
 sources:
   - https://growthinreverse.com/tom-orbach/

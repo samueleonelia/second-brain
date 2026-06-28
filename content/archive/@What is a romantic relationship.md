@@ -1,7 +1,5 @@
 ---
 title: What is a romantic relationship
-type: index
-scope: topic
 created: 2026-04-01
 ---
 

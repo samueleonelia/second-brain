@@ -1,6 +1,5 @@
 ---
 title: "Sixty-Five Thousand Dollars in Year One"
-type: permanent
 creator: lenny-rachitsky
 sources:
   - https://on.substack.com/p/how-lenny-rachitsky-earned-65000

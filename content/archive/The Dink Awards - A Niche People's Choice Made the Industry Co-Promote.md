@@ -1,6 +1,5 @@
 ---
 title: "The Dink Awards: A Niche People's Choice Made the Industry Co-Promote"
-type: permanent
 creator: thomas-shields
 sources:
   - https://growthinreverse.com/the-dink/

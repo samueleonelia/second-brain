@@ -1,6 +1,5 @@
 ---
 title: Business proposals and personal goals
-type: permanent
 sources:
   - Million Dollar Consulting
 tags:

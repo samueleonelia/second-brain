@@ -1,6 +1,5 @@
 ---
 title: "100,000 Pinterest Visitors to a Substack"
-type: permanent
 creator: olivia-wickstrom
 sources:
   - https://petalandhearth.substack.com/p/how-i-brought-100k-visitors-to-my

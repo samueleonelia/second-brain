@@ -1,6 +1,5 @@
 ---
 title: "9,200 Subscribers from One-Way Substack Recommendations"
-type: permanent
 creator: tom-orbach
 sources:
   - https://growthinreverse.com/tom-orbach/

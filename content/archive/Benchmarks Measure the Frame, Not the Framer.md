@@ -1,6 +1,5 @@
 ---
 title: Benchmarks Measure the Frame, Not the Framer
-type: permanent
 sources:
   - https://every.to/p/after-automation
 tags:
@@ -27,3 +26,4 @@ The practical takeaway: when a new benchmark result looks scary, ask who wrote t
 - [[AI doesn't make you replaceable, it makes everyone the same]] -- same article, same root distinction: models know the already-done corpus, humans hold the live judgment that frames what matters now
 - [[Everyone thinks automation means less work, the teams automating fastest have more of it]] -- the benchmark saturation cycle is the chart-level version of why cheap competence creates more expert work
 - [[Your automation isn't set and forget, every agent needs a human on both ends]] -- the "human sandwich" is the workflow-level version of framing: a human sets the frame before the AI collapses the task
+- [[An RL Environment Is a Programmable Simulator of Your Business]] -- designing the reward in a private RL environment is framing at enterprise scale: the judgment about which outcome matters is exactly the "smuggled intelligence" you keep in-house

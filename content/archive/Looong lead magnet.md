@@ -1,6 +1,5 @@
 ---
 title: Looong lead magnet
-type: permanent
 created: 2026-04-01
 ---
 

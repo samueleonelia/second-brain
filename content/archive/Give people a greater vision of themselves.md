@@ -1,6 +1,5 @@
 ---
 title: Give people a greater vision of themselves
-type: permanent
 sources:
   - Becoming Steve Jobs
 tags:

@@ -1,6 +1,5 @@
 ---
 title: Combine Positive and Negative thinking
-type: permanent
 sources:
   - How to Decide: Simple Tools for Making Better Choices
 tags:

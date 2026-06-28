@@ -1,6 +1,5 @@
 ---
 title: "The Snacks and Entrees Content System"
-type: permanent
 creator: alex-garcia
 sources:
   - https://www.marketingexamined.com/blog/how-i-develop-my-content-strategy

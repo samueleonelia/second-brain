@@ -1,6 +1,5 @@
 ---
 title: "Drop Your Website - 650 Subs Per Post"
-type: permanent
 creator: tom-orbach
 sources:
   - https://blog.hubspot.com/marketing/newsletter-growth-marketing-ideas

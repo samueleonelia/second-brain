@@ -1,6 +1,5 @@
 ---
 title: "The First TikTok Made Possible by Leaving Capital Group"
-type: permanent
 creator: kyla-scanlon
 sources:
   - https://www.bloomberg.com/opinion/articles/2022-08-10/how-tiktok-influencer-kyla-scanlon-is-navigating-the-recession-vibes

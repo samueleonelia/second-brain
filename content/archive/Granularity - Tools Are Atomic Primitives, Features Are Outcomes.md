@@ -1,6 +1,5 @@
 ---
 title: "Granularity: Tools Are Atomic Primitives, Features Are Outcomes"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

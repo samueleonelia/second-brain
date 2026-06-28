@@ -1,6 +1,5 @@
 ---
 title: Post and Ghost to Community Builder
-type: permanent
 creator: charlie-hills
 sources:
   - https://www.yahoo.com/lifestyle/articles/grew-linkedin-followers-over-100k-090701401.html

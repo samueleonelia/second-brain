@@ -1,6 +1,5 @@
 ---
 title: Mindset for an infobusiness
-type: permanent
 created: 2026-04-01
 ---
 

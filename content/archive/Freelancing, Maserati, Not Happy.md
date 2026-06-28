@@ -1,6 +1,5 @@
 ---
 title: "Freelancing, Maserati, Not Happy"
-type: permanent
 creator: yannick-veys
 sources:
   - https://growthmarketer.co/yannick-veys-interview/

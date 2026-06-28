@@ -12,6 +12,16 @@ sources:
     source_type: primary
     cached: ~/claudeCode/PKM/secondBrain/transcripts/uhEyv-wk4hs.md
     verified_at: 2026-06-11
+quotes:
+  - text: "Beehive did this like promotion where they were uh offering like they they'd match your in uh they'd match match your investment into their boosts program which is like a cross uh paid cross collaboration across newsletters"
+    source_index: 0
+    source_excerpt_line: null
+  - text: "we then dropped in 2 and a half thousand which was the maximum. Um, so we got 5,000 uh dollars of boost credits and started paying paying for subscribers that way"
+    source_index: 0
+    source_excerpt_line: null
+  - text: "I think it was like $2 $300 for our first uh sponsor"
+    source_index: 0
+    source_excerpt_line: 472
 tags: [newsletter, platform-leverage, first-sponsor]
 created: 2026-06-11
 ---

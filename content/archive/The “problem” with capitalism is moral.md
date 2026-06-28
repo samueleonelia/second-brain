@@ -1,6 +1,5 @@
 ---
 title: The “problem” with capitalism is moral
-type: permanent
 created: 2026-04-01
 ---
 

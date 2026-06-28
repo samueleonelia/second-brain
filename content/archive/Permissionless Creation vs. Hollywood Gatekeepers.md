@@ -1,6 +1,5 @@
 ---
 title: Permissionless Creation vs. Hollywood Gatekeepers
-type: permanent
 creator: trung-phan
 sources:
   - https://growthinreverse.com/trung-phan/

@@ -1,6 +1,5 @@
 ---
 title: "I, We, They: Delegating Decisions, Not Just Tasks"
-type: permanent
 creator: yong-soo-chung
 sources:
   - https://www.drip.com/podcast/yong-soo-chung

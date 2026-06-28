@@ -1,6 +1,5 @@
 ---
 title: "$50M in Ad Spend Before Going Solo"
-type: permanent
 creator: yannick-veys
 sources:
   - https://app.growthmentor.com/mentors/yannick-veys

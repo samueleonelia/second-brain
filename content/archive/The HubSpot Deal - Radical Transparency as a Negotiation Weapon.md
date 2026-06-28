@@ -1,6 +1,5 @@
 ---
 title: "The HubSpot Deal: Radical Transparency as a Negotiation Weapon"
-type: permanent
 creator: sam-parr
 sources:
   - https://theygotacquired.com/podcast/sam-parr-the-hustle/

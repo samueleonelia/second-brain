@@ -1,6 +1,5 @@
 ---
 title: Beliefs and Limiting beliefs
-type: permanent
 sources:
   - https://markmanson.net/limiting-beliefs
 tags:

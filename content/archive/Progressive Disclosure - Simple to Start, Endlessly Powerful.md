@@ -1,6 +1,5 @@
 ---
 title: "Progressive Disclosure: Simple to Start, Endlessly Powerful"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

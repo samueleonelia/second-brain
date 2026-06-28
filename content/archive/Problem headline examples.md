@@ -1,6 +1,5 @@
 ---
 title: Problem headline examples
-type: permanent
 created: 2026-04-01
 ---
 

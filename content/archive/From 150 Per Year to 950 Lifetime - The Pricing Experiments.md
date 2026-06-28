@@ -1,6 +1,5 @@
 ---
 title: "From $150/Year to $950 Lifetime: The Pricing Experiments"
-type: permanent
 creator: milly-tamati
 sources:
   - https://growthinreverse.com/milly-tamati/

@@ -1,6 +1,5 @@
 ---
 title: From SDR to 45K Followers Across Four Years
-type: permanent
 creator: mischa-collins
 sources:
   - https://www.linkedin.com/posts/mischa-collins_at-26-i-was-an-sdr-working-in-tech-sales-activity-7403770283133730816-mRHV

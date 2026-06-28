@@ -1,7 +1,5 @@
 ---
 title: Thomas Shields
-type: index
-scope: creator
 created: 2026-05-21
 ---
 

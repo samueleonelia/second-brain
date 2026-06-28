@@ -1,6 +1,5 @@
 ---
 title: Tiny digital product
-type: permanent
 sources:
   - https://twitter.com/heyblake/status/1395731360418078720?s=21
 tags:

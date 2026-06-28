@@ -1,6 +1,5 @@
 ---
 title: "The Microwave-in-the-Trunk Stunt That Built $28M in Sales"
-type: permanent
 creator: yossi-levi
 sources:
   - https://www.thespl.it/p/car-dealership-guy-anonymous-vc-backed

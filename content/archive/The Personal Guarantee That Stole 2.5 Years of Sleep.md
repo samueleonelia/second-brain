@@ -1,6 +1,5 @@
 ---
 title: "The Personal Guarantee That Stole 2.5 Years of Sleep"
-type: permanent
 creator: yossi-levi
 sources:
   - https://www.thespl.it/p/car-dealership-guy-anonymous-vc-backed

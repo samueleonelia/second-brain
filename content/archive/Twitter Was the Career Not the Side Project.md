@@ -1,6 +1,5 @@
 ---
 title: "Twitter Was the Career, Not the Side Project"
-type: permanent
 creator: matt-johansen
 sources:
   - https://www.adelphi.edu/news/matt-johansen/

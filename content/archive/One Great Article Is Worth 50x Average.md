@@ -1,6 +1,5 @@
 ---
 title: "One Great Article Is Worth 50x Average"
-type: permanent
 creator: harry-dry
 sources:
   - https://www.verygoodcopy.com/microinterviews-2/harry-dry

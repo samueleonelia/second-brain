@@ -1,6 +1,5 @@
 ---
 title: Why a personal budget fails
-type: permanent
 sources:
   - https://www.getrichslowly.org/how-to-budget/
 tags:

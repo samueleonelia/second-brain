@@ -1,6 +1,5 @@
 ---
 title: "India Heavily Dependent on Gulf Fertilizer Imports, Pivots to Asian Suppliers"
-type: permanent
 topic: asia-rice-hormuz-fallout
 tags:
   - pacific-asia

@@ -1,6 +1,5 @@
 ---
 title: "Skip the Link Keep the Reach"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com
@@ -33,3 +32,5 @@ Platforms tax outbound links with reduced reach, and most creators pay that tax 
 ---
 
 ## Related (matched on mechanism)
+
+- [[The 30 Percent Equity List Acquisition]] — adam-biddlecombe, matched: newsletter-growth

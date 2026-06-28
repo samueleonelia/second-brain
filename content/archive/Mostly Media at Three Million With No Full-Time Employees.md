@@ -1,6 +1,5 @@
 ---
 title: "Mostly Media at Three Million With No Full-Time Employees"
-type: permanent
 creator: cj-gustafson
 sources:
   - https://www.therebooting.com/p/the-n-of-one

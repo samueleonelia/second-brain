@@ -1,6 +1,5 @@
 ---
 title: "Fox Optioned His Script. It Never Got Made."
-type: permanent
 creator: trung-phan
 sources:
   - https://www.readtrung.com/p/im-making-a-tv-show

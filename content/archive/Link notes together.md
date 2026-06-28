@@ -1,6 +1,5 @@
 ---
 title: Link notes together
-type: permanent
 created: 2026-04-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: How to kill impostor syndrome
-type: permanent
 created: 2026-04-01
 ---
 

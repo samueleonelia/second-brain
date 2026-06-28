@@ -1,6 +1,5 @@
 ---
 title: Where to write online
-type: permanent
 sources:
   - The Art and Business of Online Writing
 tags:

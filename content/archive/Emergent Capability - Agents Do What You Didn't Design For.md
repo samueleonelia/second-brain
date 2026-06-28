@@ -1,6 +1,5 @@
 ---
 title: "Emergent Capability: Agents Do What You Didn't Design For"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

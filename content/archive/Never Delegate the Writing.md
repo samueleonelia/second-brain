@@ -1,6 +1,5 @@
 ---
 title: "Never Delegate the Writing"
-type: permanent
 creator: nathan-may
 sources:
   - https://growthinreverse.com/nathan-may/

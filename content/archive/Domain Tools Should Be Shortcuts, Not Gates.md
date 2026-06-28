@@ -1,6 +1,5 @@
 ---
 title: "Domain Tools Should Be Shortcuts, Not Gates"
-type: permanent
 creator: dan-shipper
 sources:
   - https://every.to/guides/agent-native

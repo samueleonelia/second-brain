@@ -48,3 +48,4 @@ My angle (to develop): "set it and forget it" is the selling line for most autom
 - [[Build a Claude skill that rewrites itself when it's wrong]] -- a concrete case of the trap: a skill that auto-updates in the background still needs a human to judge the "fix"
 - [[Agents Have Autonomy, Not Agency]] -- why the front slice of bread can't be removed: the agent has no ends of its own, so a human must supply the wanting
 - [[The Orchestration Tax - Cognitive Bandwidth Doesn't Parallelize]] -- the sandwich multiplied: every extra parallel agent adds two more slices of human framing and judging, and those don't scale
+- [[A Plan Document Can't Hold Your Product Vision]] -- why the front slice of bread can't be compressed into a spec: judgment hasn't been formed yet and no document can carry it

@@ -1,6 +1,5 @@
 ---
 title: "Sam's List: From a Tweet to $99.5K in Year One"
-type: permanent
 creator: sam-parr
 sources:
   - https://samslist.co/about

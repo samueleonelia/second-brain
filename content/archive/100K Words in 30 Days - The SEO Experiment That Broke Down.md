@@ -1,6 +1,5 @@
 ---
 title: "100K Words in 30 Days: The SEO Experiment That Broke Down"
-type: permanent
 creator: yannick-veys
 sources:
   - https://www.linkedin.com/pulse/how-my-seo-experiment-challenge-going-so-far-yannick-veys

@@ -1,6 +1,5 @@
 ---
 title: "Morning Agents from the Phone: Boris's Full Daily AI Workflow"
-type: permanent
 creator: boris-cherny
 sources:
   - https://www.developing.dev/p/boris-cherny-creator-of-claude-code
@@ -107,3 +106,4 @@ The shift isn't just "use AI." It's a complete restructuring of how productive w
 - [[The Orchestration Tax - Cognitive Bandwidth Doesn't Parallelize]] -- names the limit of this workflow: 10-15 sessions only work while one human's attention budget still covers the steering
 - [[Stop Copying AI Workflows From People With Unlimited Tokens]] -- essay candidate: this workflow as the example of advice that embeds an insider's cost structure
 - [[Agent Loops Only Work When the Output Is Binary]] -- finalized essay: Boris's loops as evidence that working loops are always machine-gradeable chores
+- [[Loops Are Priced for Unlimited Token Budgets]] -- the same workflow read through the cost lens: rational at Anthropic's token price, a slot machine at retail prices

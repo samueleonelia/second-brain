@@ -1,6 +1,5 @@
 ---
 title: Buy now or wait for better
-type: permanent
 created: 2026-04-01
 ---
 

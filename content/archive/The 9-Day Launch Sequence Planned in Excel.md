@@ -1,6 +1,5 @@
 ---
 title: "The 9-Day Launch Sequence Planned in Excel"
-type: permanent
 creator: tom-orbach
 sources:
   - https://growthinreverse.com/tom-orbach/

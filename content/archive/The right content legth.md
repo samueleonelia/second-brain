@@ -1,6 +1,5 @@
 ---
 title: The right content legth
-type: permanent
 sources:
   - https://johanneslarsson.com/course/the-complete-seo-checklist/
 tags:

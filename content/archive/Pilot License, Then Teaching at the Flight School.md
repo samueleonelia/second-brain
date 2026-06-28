@@ -1,6 +1,5 @@
 ---
 title: "Pilot License, Then Teaching at the Flight School"
-type: permanent
 creator: yannick-veys
 sources:
   - personally-verified

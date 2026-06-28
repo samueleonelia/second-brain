@@ -1,6 +1,5 @@
 ---
 title: Pro-life principles
-type: permanent
 created: 2026-04-01
 ---
 

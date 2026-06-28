@@ -1,6 +1,5 @@
 ---
 title: Engagement hacking
-type: permanent
 sources:
   - The Art and Business You of Online Writing
 tags:

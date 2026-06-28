@@ -1,6 +1,5 @@
 ---
 title: "The Media Mullet: Free Up Front, High-LTV Out Back"
-type: permanent
 creator: nathan-may
 sources:
   - https://growthinreverse.com/nathan-may/

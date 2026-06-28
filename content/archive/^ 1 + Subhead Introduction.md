@@ -1,6 +1,5 @@
 ---
 title: ^ 1 + Subhead Introduction
-type: permanent
 tags:
   - biblio
   - nicolas-cole

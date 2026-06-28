@@ -1,6 +1,5 @@
 ---
 title: 4 types of search intent
-type: permanent
 sources:
   - https://johanneslarsson.com/course/the-complete-seo-checklist/
 tags:

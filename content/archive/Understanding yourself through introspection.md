@@ -1,6 +1,5 @@
 ---
 title: Understanding yourself through introspection
-type: permanent
 created: 2026-04-01
 ---
 

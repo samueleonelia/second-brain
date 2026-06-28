@@ -1,6 +1,5 @@
 ---
 title: "Philippines Government Warns Rice Output Could Fall 20-50% Without Intervention"
-type: permanent
 topic: asia-rice-hormuz-fallout
 tags:
   - pacific-asia

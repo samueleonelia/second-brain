@@ -1,6 +1,5 @@
 ---
 title: "The 1,000-Person Waitlist Built Before Launch"
-type: permanent
 creator: tom-orbach
 sources:
   - https://growthinreverse.com/tom-orbach/

@@ -1,6 +1,5 @@
 ---
 title: "Be the Poster Child for the Transformation"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth

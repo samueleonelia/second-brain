@@ -1,6 +1,5 @@
 ---
 title: "The Three-Stage Audience Reinvention: Consumer to Investor to B2B"
-type: permanent
 creator: yossi-levi
 sources:
   - https://growthinreverse.com/yossi-levi/

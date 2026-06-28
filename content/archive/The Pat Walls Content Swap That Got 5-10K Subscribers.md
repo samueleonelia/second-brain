@@ -1,6 +1,5 @@
 ---
 title: "The Pat Walls Content Swap That Got 5-10K Subscribers"
-type: permanent
 creator: alex-garcia
 sources:
   - https://growthinreverse.com/alex-garcia/

@@ -1,6 +1,5 @@
 ---
 title: Infographics 80K vs Lifestyle 5K Impressions
-type: permanent
 creator: mischa-collins
 sources:
   - https://www.theaireport.ai/articles/she-lost-her-job-and-built-a-business-from-2-linked-in-posts--mischa-collins

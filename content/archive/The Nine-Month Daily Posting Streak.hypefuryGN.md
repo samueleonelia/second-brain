@@ -1,6 +1,5 @@
 ---
 title: "The Nine-Month Daily Posting Streak"
-type: permanent
 pipeline: hypefuryGN-v1
 creator: tom-alder
 identity_anchor: strategy breakdowns
@@ -37,3 +36,5 @@ The audience that makes a launch easy is built in the boring months nobody watch
 ---
 
 ## Related (matched on mechanism)
+
+- [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: daily-posting-streak

@@ -1,6 +1,5 @@
 ---
 title: "Thompson's Law - Viral Is Just Broadcast"
-type: permanent
 creator: tom-orbach
 sources:
   - https://www.marketingideas.com/p/the-13-viral-marketing-laws

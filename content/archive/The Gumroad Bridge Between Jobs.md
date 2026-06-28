@@ -1,6 +1,5 @@
 ---
 title: "The Gumroad Bridge Between Jobs"
-type: permanent
 creator: alex-garcia
 sources:
   - https://www.starterstory.com/marketing-examined-breakdown
