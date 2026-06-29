@@ -40,4 +40,4 @@ Treat positioning as an experiment with a scoreboard. Put each candidate headlin
 
 ## Related (matched on mechanism)
 
-- (none yet)
+- [[The Paid-Subscriber Northstar]] — aakash-gupta, matched: conversion-as-judge

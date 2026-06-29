@@ -33,3 +33,4 @@ Repurposing fails when it means copy-pasting one asset everywhere on the same af
 
 ## Related (matched on mechanism)
 - [[One Recording Into a Week of Content]] — duncan-rogoff, matched: repurpose-one-to-many, content-atomization, multi-platform-ecosystem
+- [[One Deep Dive Many Spokes Best Saved for Paid]] — aakash-gupta, matched: repurpose-one-to-many, content-atomization

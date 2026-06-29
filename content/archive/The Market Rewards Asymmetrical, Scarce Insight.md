@@ -42,3 +42,4 @@ If a hundred other creators can produce your post, the post is worthless. Yossi'
 - [[How to create contrarian opinion]] -- building scarcity through perspective rather than experience
 - [[$50M in Ad Spend Before Going Solo]] -- past at-scale experience as the source of insight others can't replicate
 - [[AI doesn't make you replaceable, it makes everyone the same]] -- the AI-era mechanism behind this: shared models default to sameness, so scarce human insight is what holds value
+- [[The Moat Is the Learning Loop Not the Model]] -- the enterprise version of the same moat: a company's RL learning loop is scarce and uncopyable for the same reason your in-the-room insight is, what anyone can rent is worthless

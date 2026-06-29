@@ -25,3 +25,4 @@ The underlying idea: expertise compounds only when it is externalized into a reu
 - [[Compound Engineering - Only Document Mistakes]] -- the same compounding move applied to failures: every mistake becomes a permanent rule, every repeated prompt becomes a skill
 - [[Build a Claude skill that rewrites itself when it's wrong]] -- the self-improving extension of the skill-as-artifact idea
 - [[Composability - New Features Through New Prompts]] -- the agent-native parallel: when behavior lives in prompts, shipping new capability means writing text, not code
+- [[Own Your Embeddings Before You Own Your Model]] -- the same build-once-reuse-everywhere compounding moved into the data layer: a single owned embedding lifts every downstream consumer the way a skill lifts every session

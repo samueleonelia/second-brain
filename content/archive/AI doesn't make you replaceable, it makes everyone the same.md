@@ -122,4 +122,5 @@ What would only you have said?
 - [[The N of One - 80th Percentile in Three Things]] -- the positive counter: the unique combination AI can't reproduce because it isn't in the corpus
 - [[Never Delegate the Writing]] -- founder voice as the non-commoditizable asset; same logic from the writing side
 - [[The Market Rewards Asymmetrical, Scarce Insight]] -- Yossi Levi: the creator-side version — content anyone could produce is worthless, scarce human insight is the moat
+- [[The Moat Is the Learning Loop Not the Model]] -- the firm-level version of this individual law: when every company rents the same model, the differentiator is the learning loop they don't share, just as a person's edge is the judgment that isn't yet in the training set
 - [[@Dan Shipper]] -- primary source (Every) for the slop/sameness/judgment argument

@@ -24,3 +24,4 @@ The loop works because there is a feedback engine producing a number the agent c
 - [[The Thousand Line Review Ceiling]] -- where even this working loop breaks: past 1k lines the review signal itself degrades
 - [[Agent Loops Only Work When the Output Is Binary]] -- essay candidate that relays this note's criterion for LinkedIn/X
 - [[The One Agent Loop Worth Copying Scores Its Own Work]] -- essay candidate built on the gp-loop example described here
+- [[An RL Environment Is a Programmable Simulator of Your Business]] -- the reward function is the enterprise-scale form of this fixed feedback signal: a private simulator of the business is where "a confined process with an objective score" actually lives
