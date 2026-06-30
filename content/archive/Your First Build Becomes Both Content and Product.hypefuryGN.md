@@ -41,4 +41,5 @@ Build for your own pain first. If it works for you, the build itself is content 
 ## Related (matched on mechanism)
 - [[Zero Budget Launch Through Borrowed Communities]] — maja-voje, matched: build-in-public
 - [[Run the Play 300 Times Before Selling the Template]] — maja-voje, matched: productize-the-process
-- _No mechanism-tag matches among existing HypefuryGN cards yet._
+- [[The Tulum House That Became Launch House on Organic Attention]] — michael-houck, matched: build-in-public
+- [[Megaphone Productizes Cross-Creator Amplification]] — michael-houck, matched: productize-the-process

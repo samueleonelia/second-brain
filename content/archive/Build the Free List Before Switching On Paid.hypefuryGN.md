@@ -35,3 +35,4 @@ Grow and learn on a free list before you charge, and treat the size of that list
 
 ## Related (matched on mechanism)
 - [[The Nine-Month Daily Posting Streak]] — tom-alder, matched: audience-before-product
+- [[Sub-2-Dollar Subscribers Once the Content Proved Its Legs]] — michael-houck, matched: free-list-first

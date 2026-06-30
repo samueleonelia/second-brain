@@ -33,3 +33,4 @@ Paid subscriptions are a floor, not a ceiling. Build the ladder, free to subscri
 ---
 
 ## Related (matched on mechanism)
+- [[An Owned Newsletter Funnel That Cross-Sells the Whole Business]] — michael-houck, matched: revenue-beyond-subscriptions

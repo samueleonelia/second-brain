@@ -40,4 +40,4 @@ In a hard market, win one believer completely before chasing many. Co-build a re
 
 ## Related (matched on mechanism)
 
-- (none yet)
+- [[A Hundred Founder Interviews Into a Paid Case-Study Library]] — michael-houck, matched: case-study-led-sales

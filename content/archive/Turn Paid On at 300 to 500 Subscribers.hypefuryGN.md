@@ -33,3 +33,4 @@ Switching on paid is an ask, and asks need a warm room. Wait until a few hundred
 ---
 
 ## Related (matched on mechanism)
+- [[Newsletter as the Lower-Commitment Step Before the Sale]] — michael-houck, matched: trust-before-ask

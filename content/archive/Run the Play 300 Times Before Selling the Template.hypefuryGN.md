@@ -37,3 +37,4 @@ Earn the right to sell a template by running the exercise live until the pattern
 ## Related (matched on mechanism)
 
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: productize-the-process
+- [[Megaphone Productizes Cross-Creator Amplification]] — michael-houck, matched: productize-the-process

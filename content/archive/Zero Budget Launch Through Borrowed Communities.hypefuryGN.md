@@ -41,3 +41,4 @@ You do not need a budget to find the first thousand users. Show up and add value
 ## Related (matched on mechanism)
 
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: build-in-public
+- [[The Tulum House That Became Launch House on Organic Attention]] — michael-houck, matched: build-in-public
