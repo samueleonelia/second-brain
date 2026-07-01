@@ -6,12 +6,6 @@ creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Treats the opening hook as a separate component from the post: drafts the piece with one candidate hook, generates ten more from each of three AI models, narrows to two, previews both across devices in a browser extension, then judges live by first-ten-minute performance and swaps if it underperforms."
 mechanism_tags: [hook-engineering, test-the-hook, distribution-lever]
-sources:
-  - url: https://www.youtube.com/watch?v=vbqGLbF7t58
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/vbqGLbF7t58.md
-    verified_at: 2026-06-29
 quotes: []
 tags: [newsletter-growth, copywriting, distribution]
 created: 2026-06-29
@@ -30,6 +24,10 @@ The discipline is in refusing to let a strong post ship behind a weak opening. H
 ## Lesson for Creators
 
 Budget for the hook as its own deliverable, because it controls whether the work behind it ever gets seen. The copyable system is concrete: generate many hook variants, narrow to two, preview them where readers actually read, and let the first minutes of real performance, not your taste, pick the winner. The best post in the world fails behind a line nobody taps.
+
+## Sources
+
+- https://www.youtube.com/watch?v=vbqGLbF7t58
 
 ---
 

@@ -6,20 +6,6 @@ creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Positioned Product Growth at the intersection of B2B growth, B2C consumer growth, and careers — a topic only his 16-year PM-to-VP path covered — so he competed against no one directly. He paid $4,000 for David Perell's Write of Passage to learn the framing he calls a market of one."
 mechanism_tags: [personal-monopoly, gap-in-market, niche-at-intersection]
-sources:
-  - url: https://www.news.aakashg.com/p/the-product-growth-story-of-product
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-29
-  - url: https://www.youtube.com/watch?v=mYbrEHTQ390
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/mYbrEHTQ390.md
-    verified_at: 2026-06-29
-  - url: https://growthinreverse.com/aakash-gupta/
-    type: web-article
-    source_type: secondary
-    verified_at: 2026-06-29
 quotes: []
 tags: [newsletter-growth, positioning, niche]
 created: 2026-06-29
@@ -38,6 +24,12 @@ The mechanism is subtractive. Most creators widen their topic to reach more peop
 ## Lesson for Creators
 
 Find the intersection of two or three things your own history makes you uniquely credible on, and write there even though it feels narrower than the obvious niche. The copyable test is whether a rival could truthfully claim the same combination; if they can, go narrower until they cannot. A defensible position beats a broad one, because you cannot be out-competed on ground only you stand on.
+
+## Sources
+
+- https://www.news.aakashg.com/p/the-product-growth-story-of-product
+- https://www.youtube.com/watch?v=mYbrEHTQ390
+- https://growthinreverse.com/aakash-gupta/
 
 ---
 

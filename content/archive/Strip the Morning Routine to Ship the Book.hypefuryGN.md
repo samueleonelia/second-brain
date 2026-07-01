@@ -1,23 +1,14 @@
 ---
 title: "Strip the Morning Routine to Ship the Book"
+type: permanent
 pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Cut a three-hour morning routine down to writing first at 6am to finish the book in a year of daily deep work."
 mechanism_tags: [morning-deep-work, maker-not-manager, ship-discipline, cut-the-routine]
-sources:
-  - url: https://www.youtube.com/watch?v=zh6k_od9NTo
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/zh6k_od9NTo.md
-    verified_at: 2026-06-19
 quotes:
   - text: "I literally stripped down my morning routine"
-    source_index: 0
-    source_excerpt_line: 66
   - text: "no great thing ever in the history of humanity was was done in 30-minute breaks before the meetings"
-    source_index: 0
-    source_excerpt_line: 318
 tags: [productivity, writing, founder-discipline]
 created: 2026-06-19
 ---
@@ -35,6 +26,10 @@ The reframe underneath the schedule change was that the book was a maker's proje
 ## Lesson for Creators
 
 A second product does not get built in leftover time. Identify the one task only you can do, give it the first and freshest hours of the day, and demote everything else in the routine until it ships.
+
+## Sources
+
+- https://www.youtube.com/watch?v=zh6k_od9NTo
 
 ---
 

@@ -6,19 +6,10 @@ creator: michael-houck
 identity_anchor: foundingjourney.com
 mechanism: "Turned a Tulum co-living experiment into a company by posting the experience publicly on Instagram and Twitter during lockdown; press amplified it, and he leaned into the organic momentum instead of a pre-set plan."
 mechanism_tags: [build-in-public, organic-attention-to-business, momentum-over-plan]
-sources:
-  - url: https://blog.thunder.vc/cultivating-hype-and-attention-to-raise-capital-successfully
-    type: web-article
-    source_type: primary
-    cached: ""
-    verified_at: 2026-06-30
 quotes:
   - text: "convinced 18 early founders to live together for a month"
-    source_index: 0
   - text: "we were living in Tulum during lockdowns, posting on Instagram and Twitter"
-    source_index: 0
   - text: "We zigged when others zagged"
-    source_index: 0
 tags: [build-in-public, audience-growth, community]
 created: 2026-06-30
 ---
@@ -38,6 +29,10 @@ The momentum became the fundraising story. They had put over $200,000 of their o
 ## Lesson for Creators
 
 You do not always know which project is the real one. Build in public and the audience will tell you, by what they ask for, where the demand actually is. Houck's company emerged from documenting an experiment on social, not from a plan. When organic attention shows up around something unplanned, the move is to lean into it, not to force the roadmap you started with.
+
+## Sources
+
+- https://blog.thunder.vc/cultivating-hype-and-attention-to-raise-capital-successfully
 
 ---
 

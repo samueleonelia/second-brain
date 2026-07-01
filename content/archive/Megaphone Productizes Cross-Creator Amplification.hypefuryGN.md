@@ -6,24 +6,10 @@ creator: michael-houck
 identity_anchor: foundingjourney.com
 mechanism: "Turned the manual cross-promo tactic into a paid product: a SaaS that routes a user's posts to bigger creators who engage with and amplify them for a set fee, with creators pricing their own amplification."
 mechanism_tags: [productize-the-process, paid-amplification, creator-network-distribution]
-sources:
-  - url: https://blog.thunder.vc/cultivating-hype-and-attention-to-raise-capital-successfully
-    type: web-article
-    source_type: primary
-    cached: ""
-    verified_at: 2026-06-30
-  - url: https://thefoundingjourney.substack.com/about
-    type: web-article
-    source_type: primary
-    cached: ""
-    verified_at: 2026-06-30
 quotes:
   - text: "route your content to big creators for amplification"
-    source_index: 0
   - text: "a thread hitting 1.6M impressions"
-    source_index: 0
   - text: "success with audience building comes down to a combination of quality content and timely, relevant engagement"
-    source_index: 1
 tags: [audience-growth, distribution, saas]
 created: 2026-06-30
 ---
@@ -43,6 +29,11 @@ He treated the product as a step ladder, not a moonshot: skateboard, then bike, 
 ## Lesson for Creators
 
 The tactic you do by hand is often a product someone will pay for. Houck spent years trading engagement with peers, then packaged that exact behavior into a marketplace where amplification has a price. If a growth move works repeatedly and depends on a network you have built, productizing it turns your relationships into a revenue stream instead of a series of one-off favors.
+
+## Sources
+
+- https://blog.thunder.vc/cultivating-hype-and-attention-to-raise-capital-successfully
+- https://thefoundingjourney.substack.com/about
 
 ---
 

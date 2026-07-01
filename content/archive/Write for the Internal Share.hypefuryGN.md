@@ -6,15 +6,6 @@ creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "After a deep guide got shared inside Meta and produced a wave of paid signups from big-tech employees with learning-and-development budgets, he reverse-engineered the pattern and began deliberately writing pieces designed to circulate inside large companies whose staff can expense the paid subscription."
 mechanism_tags: [enterprise-internal-share, organic-referral, paid-conversion-driver]
-sources:
-  - url: https://growthinreverse.com/aakash-gupta/
-    type: web-article
-    source_type: secondary
-    verified_at: 2026-06-29
-  - url: https://www.news.aakashg.com/p/the-product-growth-story-of-product
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-29
 quotes: []
 tags: [newsletter-growth, paid-conversion, referral]
 created: 2026-06-29
@@ -33,6 +24,11 @@ The mechanism is engineering content for intra-company circulation among audienc
 ## Lesson for Creators
 
 Identify readers who sit inside organizations that will both share your work and reimburse the price, then write deliberately for that internal pass-around. The copyable move is to audit which pieces drove paying customers, find the ones that spread inside companies, and make more of them. One reader who forwards you to a team with a training budget is worth far more than a reader who simply likes the post.
+
+## Sources
+
+- https://growthinreverse.com/aakash-gupta/
+- https://www.news.aakashg.com/p/the-product-growth-story-of-product
 
 ---
 

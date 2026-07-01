@@ -6,17 +6,9 @@ creator: michael-houck
 identity_anchor: foundingjourney.com
 mechanism: "Uses the email newsletter as an intermediate, lower-commitment opt-in between rented social audiences and any paid offer: capture the email, send something valuable each week, build trust, then sell."
 mechanism_tags: [owned-audience-funnel, social-to-email-funnel, trust-before-ask]
-sources:
-  - url: https://thefoundingjourney.substack.com/p/100k-mrr-from-a-newsletter
-    type: web-article
-    source_type: primary
-    cached: ""
-    verified_at: 2026-06-30
 quotes:
   - text: "now there was an intermediate lower-commitment step you could offer them"
-    source_index: 0
   - text: "give them a reason to share their email with you"
-    source_index: 0
 tags: [newsletter, audience-growth, email-marketing]
 created: 2026-06-30
 ---
@@ -37,9 +29,14 @@ He noted that while email newsletters were hardly new in 2023, remarkably few fo
 
 Social reach is borrowed and can be revoked by an algorithm change you do not control. An email list is the one audience you keep. Do not ask a cold follower to buy. Ask for the smaller thing first, the email, then earn the right to sell by showing up weekly with something useful. The newsletter is the low-commitment step that converts rented attention into an owned relationship.
 
+## Sources
+
+- https://thefoundingjourney.substack.com/p/100k-mrr-from-a-newsletter
+
 ---
 
 ## Related (matched on mechanism)
+- [[Catch the Viral Spike in an Owned List]] — tomas-pueyo, matched: social-to-email-funnel
 - [[An Owned Newsletter Funnel That Cross-Sells the Whole Business]] — michael-houck, matched: owned-audience-funnel
 - [[Sub-2-Dollar Subscribers Once the Content Proved Its Legs]] — michael-houck, matched: social-to-email-funnel
 - [[Turn Paid On at 300 to 500 Subscribers]] — matched: trust-before-ask

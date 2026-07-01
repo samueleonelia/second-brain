@@ -1,23 +1,14 @@
 ---
 title: "Sell the Next Ten With One Case Study"
+type: permanent
 pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Landed a single champion customer, built a working use case and case study with them, then sold the same solution to ten lookalikes off that one proof."
 mechanism_tags: [land-one-champion, case-study-led-sales, productize-the-result, enterprise-beachhead]
-sources:
-  - url: https://www.youtube.com/watch?v=XsOBPotGyRs
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/XsOBPotGyRs.md
-    verified_at: 2026-06-19
 quotes:
   - text: "we constructed a case study and then we presented it with that specific client on webinars on industry events"
-    source_index: 0
-    source_excerpt_line: 34
   - text: "you helped one person now how can we find five or 10 different people that need the same thing"
-    source_index: 0
-    source_excerpt_line: 34
 tags: [sales, enterprise, case-studies]
 created: 2026-06-19
 ---
@@ -35,6 +26,10 @@ Then they cloned the motion. "you helped one person now how can we find five or 
 ## Lesson for Creators
 
 In a hard market, win one believer completely before chasing many. Co-build a real result with a single champion, package it as a case study, and use that one proof to sell the next ten customers who share the same problem.
+
+## Sources
+
+- https://www.youtube.com/watch?v=XsOBPotGyRs
 
 ---
 

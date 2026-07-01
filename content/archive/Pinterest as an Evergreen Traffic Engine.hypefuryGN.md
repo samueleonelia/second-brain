@@ -5,15 +5,8 @@ creator: olivia-wickstrom
 identity_anchor: petal and hearth
 mechanism: "Treats Pinterest as a search engine feeding her Substack: pins consistently using the platform's own search-suggestion keywords and Trends tool, accepting that most pins die but a handful of 'power pins' circulate for months, driving 100,000+ visitors"
 mechanism_tags: [pinterest-seo, evergreen-search-traffic, power-pins, consistency-over-bursts]
-sources:
-  - url: https://petalandhearth.substack.com/p/how-i-brought-100k-visitors-to-my
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-02
 quotes:
   - text: "Pinterest can only send traffic to places that exist"
-    source_index: 0
-    source_excerpt_line: 18
 tags: [substack, pinterest, seo, traffic]
 created: 2026-06-02
 ---
@@ -29,6 +22,10 @@ Her first principle is blunt: _"Pinterest can only send traffic to places that e
 ## Lesson for Creators
 
 Pinterest is a slow search engine, not a social feed. Pin consistently against the keywords it hands you, expect most pins to flop, and let the rare evergreen winners compound into traffic long after you posted them.
+
+## Sources
+
+- https://petalandhearth.substack.com/p/how-i-brought-100k-visitors-to-my
 
 ---
 

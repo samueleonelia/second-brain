@@ -1,22 +1,14 @@
 ---
 title: "Seventeen Sponsors Keep the Newsletter Free"
+type: permanent
 pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Funds a free newsletter through flat-fee brand sponsorships (17 partners in 2024) rather than reader subscriptions, keeping reach ungated."
 mechanism_tags: [flat-fee-sponsorships, free-drives-paid, sponsor-funded-free, revenue-mix]
-sources:
-  - url: https://knowledge.gtmstrategist.com/p/2024-in-review-at-gtm-strategist
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-19
 quotes:
   - text: "In 2024, 17 partners supported my content"
-    source_index: 0
-    source_excerpt_line: 205
   - text: "Your support helps keep this Substack free for everyone"
-    source_index: 0
-    source_excerpt_line: 205
 tags: [newsletter-revenue, sponsorships, monetization]
 created: 2026-06-19
 ---
@@ -35,6 +27,10 @@ Keeping the front door free is what makes the sponsorships worth buying. A large
 
 Sponsorship and free reach compound. Keep the newsletter open to everyone, sell the resulting audience to a roster of flat-fee brand partners, and let sponsor revenue, not reader paywalls, fund the work.
 
+## Sources
+
+- https://knowledge.gtmstrategist.com/p/2024-in-review-at-gtm-strategist
+
 ---
 
 ## Related (matched on mechanism)
@@ -43,3 +39,4 @@ Sponsorship and free reach compound. Keep the newsletter open to everyone, sell 
 - [[Undercut the CPM Lock the Long Term Deal]] — adam-biddlecombe, matched: flat-fee-sponsorships
 - [[Make Your Best Paid Content Free]] — olivia-wickstrom, matched: free-drives-paid
 - [[The Paid Newsletter That Gates Nothing]] — kyla-scanlon, matched: free-drives-paid
+- [[Free Post Hooks, Paid Post Pays Off]] — tomas-pueyo, matched: free-drives-paid

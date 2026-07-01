@@ -5,25 +5,11 @@ creator: duncan-rogoff
 identity_anchor: https://www.youtube.com/@duncanrogoff
 mechanism: "Run a research skill that scans the last 30 days of trending discussion across Reddit, X, YouTube, TikTok and more to surface what the audience is actively upvoting and debating, so every piece of content starts from proven demand instead of a guess."
 mechanism_tags: [audience-research, trending-topics, demand-mining, data-driven-ideation]
-sources:
-  - url: https://www.youtube.com/watch?v=z_rXNjNnx7s
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/claudeCode/PKM/secondBrain/transcripts/z_rXNjNnx7s.md
-    verified_at: 2026-06-15
 quotes:
   - text: "it basically researches the last 30 days of trending topic across Reddit, X, Blue Sky, YouTube, TikTok, Instagram, Happy News, Polymarket, and the web, and it finds what the community is actually upvoting and talking about"
-    source_index: 0
-    source_excerpt_line: 12
   - text: "you basically have your entire audience telling you exactly what they want to hear from you"
-    source_index: 0
-    source_excerpt_line: 12
   - text: "you don't want to just be creating content on the news, you want to be creating content on what people are really discussing"
-    source_index: 0
-    source_excerpt_line: 12
   - text: "I want you to do some further research on this and then create a relevant lead magnet for a high-level audience"
-    source_index: 0
-    source_excerpt_line: 12
 tags: [ai-content, audience-research, content-ideation, creator-systems]
 created: 2026-06-15
 ---
@@ -44,7 +30,11 @@ The research isn't the end of the workflow. It's the targeting system for everyt
 
 Start every piece from demand, not from a blank page. Before writing, pull what your audience is actively upvoting and debating across the platforms where they actually talk, then write into that conversation. The research step is what turns a hopeful guess into something you already know will land.
 
+## Sources
+
+- https://www.youtube.com/watch?v=z_rXNjNnx7s
+
 ---
 
 ## Related (matched on mechanism)
-- _No mechanism-tag matches among existing HypefuryGN cards yet._
+- [[Don't Build What Your Audience Says They Want]] — geoff-sharpe, matched: audience-research (both mine audience signal before deciding what to publish — Duncan writes into trending demand, Geoff reads survey and engagement signal but keeps the editorial call rather than obeying it)

@@ -6,12 +6,6 @@ creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Ranks every piece he ships by one revenue-proximate metric — net new paid subscribers (paid signups minus paid cancels) — and lets that single number, not free-subscriber or follower counts, govern his content calendar."
 mechanism_tags: [single-northstar-metric, conversion-as-judge, analytics-driven-content]
-sources:
-  - url: https://www.youtube.com/watch?v=vbqGLbF7t58
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/vbqGLbF7t58.md
-    verified_at: 2026-06-29
 quotes: []
 tags: [newsletter-growth, metrics, monetization]
 created: 2026-06-29
@@ -30,6 +24,10 @@ The discipline is in refusing the vanity metrics that are easier to grow. Free s
 ## Lesson for Creators
 
 Pick the one metric closest to revenue and let it, not applause, decide what you publish next. The copyable move is to log every send against net paid conversions and to run the losers as autopsies rather than forgetting them. Vanity counts feel like progress, but a creator who optimizes the number that pays builds a business instead of an audience.
+
+## Sources
+
+- https://www.youtube.com/watch?v=vbqGLbF7t58
 
 ---
 

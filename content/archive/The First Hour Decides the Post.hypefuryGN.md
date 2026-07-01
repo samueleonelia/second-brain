@@ -5,16 +5,8 @@ creator: tom-alder
 identity_anchor: strategy breakdowns
 mechanism: "Treats the first hour after publishing as the single biggest predictor of a LinkedIn post's total reach, and stays present replying to every comment in that window to push first-hour reactions past the ~200 viral threshold"
 mechanism_tags: [first-hour-engagement, reply-to-every-comment, algorithm-window, viral-threshold]
-sources:
-  - url: https://www.youtube.com/watch?v=Q8cbpfII_dg
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/Library/Mobile Documents/iCloud~md~obsidian/Documents/secondBrain/transcripts/Q8cbpfII_dg.md
-    verified_at: 2026-06-02
 quotes:
   - text: "the first hour right after you post is is by far the most important time period in determining the success of the post"
-    source_index: 0
-    source_excerpt_line: 23
 tags: [linkedin, engagement, algorithm]
 created: 2026-06-02
 ---
@@ -32,6 +24,10 @@ _"the first hour right after you post is by far the most important time period i
 ## Lesson for Creators
 
 Reach is decided before lunch. Block the hour after you publish for live replies, treat early reactions as a leading indicator, and judge whether a post is working by its first sixty minutes rather than its first day.
+
+## Sources
+
+- https://www.youtube.com/watch?v=Q8cbpfII_dg
 
 ---
 

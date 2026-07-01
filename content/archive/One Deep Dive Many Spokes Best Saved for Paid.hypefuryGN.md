@@ -6,17 +6,6 @@ creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Builds one 5,000-word paid newsletter deep dive as the hub, then atomizes it into three to four social posts and a free-tier version — while deliberately withholding the best material (e.g. three of five infographics) so the paid tier still has a reason to exist."
 mechanism_tags: [repurpose-one-to-many, content-atomization, paid-gating]
-sources:
-  - url: https://www.youtube.com/watch?v=mYbrEHTQ390
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/mYbrEHTQ390.md
-    verified_at: 2026-06-29
-  - url: https://www.youtube.com/watch?v=vbqGLbF7t58
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/vbqGLbF7t58.md
-    verified_at: 2026-06-29
 quotes: []
 tags: [newsletter-growth, repurposing, monetization]
 created: 2026-06-29
@@ -35,6 +24,11 @@ The mechanism is one act of creation feeding many acts of distribution, with a d
 ## Lesson for Creators
 
 Make one deep thing, then cut it into many platform-native pieces instead of creating separately for each channel. The copyable rule is a value gradient: release enough of the work for free to pull people in, and withhold enough of the best so paying is still worth it. Repurposing without gating gives away the business; gating without repurposing starves the funnel.
+
+## Sources
+
+- https://www.youtube.com/watch?v=mYbrEHTQ390
+- https://www.youtube.com/watch?v=vbqGLbF7t58
 
 ---
 

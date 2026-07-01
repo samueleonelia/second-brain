@@ -6,20 +6,6 @@ creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Published a deeply-researched essay to his own website, got no traffic, then reposted the same piece to LinkedIn where it found an instant audience — the moment that started his content flywheel. He stopped publishing into the void of an owned site with no built-in reach."
 mechanism_tags: [cold-start, rented-platform-distribution, owned-site-cold-start]
-sources:
-  - url: https://www.news.aakashg.com/p/the-product-growth-story-of-product
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-29
-  - url: https://www.youtube.com/watch?v=vbqGLbF7t58
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/vbqGLbF7t58.md
-    verified_at: 2026-06-29
-  - url: https://growthinreverse.com/aakash-gupta/
-    type: web-article
-    source_type: secondary
-    verified_at: 2026-06-29
 quotes: []
 tags: [newsletter-growth, distribution, cold-start]
 created: 2026-06-29
@@ -38,6 +24,12 @@ The order is the whole point. Owned platforms are where you keep an audience; re
 ## Lesson for Creators
 
 Do your best work, then release it where an algorithm will hand it to strangers, not where it sits waiting to be discovered. The copyable move is to treat your website or newsletter as the destination and a high-reach social platform as the on-ramp, especially at the start when you have no list to fall back on. Good work in an empty room is still an empty room.
+
+## Sources
+
+- https://www.news.aakashg.com/p/the-product-growth-story-of-product
+- https://www.youtube.com/watch?v=vbqGLbF7t58
+- https://growthinreverse.com/aakash-gupta/
 
 ---
 

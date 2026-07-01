@@ -6,12 +6,6 @@ creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Measured his free podcast's true effect on his email list and found it net-negative — each podcast email triggered ~150 unsubscribes against ~10 new subscribers from promotion — and named the channel a drain instead of assuming every channel grows the core asset."
 mechanism_tags: [channel-net-roi, analytics-driven-content, list-health]
-sources:
-  - url: https://www.youtube.com/watch?v=mYbrEHTQ390
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/mYbrEHTQ390.md
-    verified_at: 2026-06-29
 quotes: []
 tags: [newsletter-growth, metrics, channels]
 created: 2026-06-29
@@ -30,6 +24,10 @@ The mechanism is honest per-channel accounting against the core asset, not gut f
 ## Lesson for Creators
 
 Measure each channel by its net effect on the asset you actually care about, and be willing to find that a beloved channel is costing you. The copyable move is simple subtraction: subscribers gained minus subscribers lost, per channel, per send. A channel that feels like growth can quietly be attrition, and only the net number will tell you.
+
+## Sources
+
+- https://www.youtube.com/watch?v=mYbrEHTQ390
 
 ---
 

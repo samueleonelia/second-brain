@@ -5,22 +5,10 @@ creator: duncan-rogoff
 identity_anchor: https://www.youtube.com/@duncanrogoff
 mechanism: "Generate LinkedIn posts with an AI skill that writes in your saved tone of voice and reads from a reference folder of posts you liked; you keep adding strong posts to the folder so the skill's output sharpens over time, and you balance authority posts against giveaways."
 mechanism_tags: [ai-content, reference-library, tone-of-voice, authority-posts]
-sources:
-  - url: https://www.youtube.com/watch?v=z_rXNjNnx7s
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/claudeCode/PKM/secondBrain/transcripts/z_rXNjNnx7s.md
-    verified_at: 2026-06-15
 quotes:
   - text: "the skill is going to get better over time because it has stronger references"
-    source_index: 0
-    source_excerpt_line: 12
   - text: "You don't just want to be hammering people with giveaways, you actually want to establish yourself as an authority."
-    source_index: 0
-    source_excerpt_line: 12
   - text: "Your biggest asset on LinkedIn is the story you're too scared to tell."
-    source_index: 0
-    source_excerpt_line: 12
 tags: [ai-content, linkedin, copywriting, creator-systems]
 created: 2026-06-15
 ---
@@ -38,6 +26,10 @@ He's deliberate about what he asks it to write. Giveaways grow a list, but they 
 ## Lesson for Creators
 
 An AI writing skill is only as good as what it reads. Feed it your voice and a growing library of posts you genuinely admire, and its drafts improve every week instead of plateauing. Then point it at authority and story, not just giveaways, because the posts only you could write are the ones that build trust.
+
+## Sources
+
+- https://www.youtube.com/watch?v=z_rXNjNnx7s
 
 ---
 

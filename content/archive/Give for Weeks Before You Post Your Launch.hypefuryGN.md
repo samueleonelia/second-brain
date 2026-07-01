@@ -1,23 +1,14 @@
 ---
 title: "Give for Weeks Before You Post Your Launch"
+type: permanent
 pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Earns the right to post a launch in someone else's community by contributing value for weeks first and getting the admin's blessing."
 mechanism_tags: [give-before-you-get, community-warmup, borrowed-communities, admin-endorsement]
-sources:
-  - url: https://www.youtube.com/watch?v=Kq9dBIv8pDQ
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/Kq9dBIv8pDQ.md
-    verified_at: 2026-06-19
 quotes:
   - text: "always give before you get"
-    source_index: 0
-    source_excerpt_line: 28
   - text: "if you just like spend a couple of weeks before and just like give a couple of useful information"
-    source_index: 0
-    source_excerpt_line: 28
 tags: [communities, distribution, launch]
 created: 2026-06-19
 ---
@@ -36,8 +27,12 @@ The strongest version adds the gatekeeper. If you can earn the active admin's bl
 
 A borrowed community is earned, not raided. Contribute real value for weeks and win the admin's endorsement before you ever post your launch, so the audience receives you as a member rather than an intruder.
 
+## Sources
+
+- https://www.youtube.com/watch?v=Kq9dBIv8pDQ
+
 ---
 
 ## Related (matched on mechanism)
 
-- (none yet)
+- [[Zero-Budget Launch Through Borrowed Communities]] — maja-voje, matched: borrowed-communities

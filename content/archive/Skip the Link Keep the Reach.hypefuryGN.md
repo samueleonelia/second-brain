@@ -5,11 +5,6 @@ creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Omits the newsletter link from Reels and TikToks entirely to dodge the algorithm's link penalty, leaving a searchable breadcrumb (a self-comment saying find it on Substack) for high-intent viewers"
 mechanism_tags: [dodge-link-penalty, searchable-breadcrumb, algorithm-mechanics, newsletter-growth]
-sources:
-  - url: https://growthinreverse.com/kyla-scanlon/
-    type: web-article
-    source_type: secondary
-    verified_at: 2026-06-11
 quotes: []
 tags: [distribution, instagram, tiktok, newsletter-growth]
 created: 2026-06-11
@@ -28,6 +23,10 @@ The trade is explicit: she sacrifices the low-intent click for full algorithmic 
 ## Lesson for Creators
 
 Platforms tax outbound links with reduced reach, and most creators pay that tax on every promotional post. The replicable move is to split the job in two: let the post carry the idea at full reach, and let a searchable breadcrumb (a self-comment, an on-screen screenshot, a memorable name) carry the high-intent traffic. Reach for the many, friction only for the motivated.
+
+## Sources
+
+- https://growthinreverse.com/kyla-scanlon/
 
 ---
 

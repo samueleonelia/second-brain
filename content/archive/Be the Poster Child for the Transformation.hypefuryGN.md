@@ -5,15 +5,8 @@ creator: olivia-wickstrom
 identity_anchor: petal and hearth
 mechanism: "Posts photos and Notes that show herself actually living the outcome her publication sells, so a scrolling stranger thinks 'if she can do it, I can too,' then clicks through and subscribes"
 mechanism_tags: [poster-child, show-dont-tell, embody-the-outcome, identification-hook]
-sources:
-  - url: https://petalandhearth.substack.com/p/the-one-habit-that-took-my-substack
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-02
 quotes:
   - text: "The shift is letting your readers see you actually living the transformation, not just writing about it"
-    source_index: 0
-    source_excerpt_line: 40
 tags: [substack, notes, positioning]
 created: 2026-06-02
 ---
@@ -29,6 +22,10 @@ So she shares the evidence, not just the advice: the cozy home office, the finan
 ## Lesson for Creators
 
 You are the case study for what you sell. Show yourself living the outcome your readers want, because watching someone already do it is more persuasive than any how-to.
+
+## Sources
+
+- https://petalandhearth.substack.com/p/the-one-habit-that-took-my-substack
 
 ---
 

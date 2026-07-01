@@ -5,16 +5,8 @@ creator: tom-alder
 identity_anchor: strategy breakdowns
 mechanism: "Publishes the post link-free to protect first-hour reach, then edits the post after one hour to add the newsletter CTA, sidestepping LinkedIn's link penalty while still capturing subscribers"
 mechanism_tags: [delayed-link-edit, dodge-link-penalty, cta-placement, first-hour-engagement]
-sources:
-  - url: https://www.youtube.com/watch?v=Q8cbpfII_dg
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/Library/Mobile Documents/iCloud~md~obsidian/Documents/secondBrain/transcripts/Q8cbpfII_dg.md
-    verified_at: 2026-06-02
 quotes:
   - text: "you want to edit the post after 1 hour so you leave the post without um any link for the first hour optimized for you know engagement"
-    source_index: 0
-    source_excerpt_line: 33
 tags: [linkedin, cta, reach]
 created: 2026-06-02
 ---
@@ -32,6 +24,10 @@ _"you want to edit the post after 1 hour, so you leave the post without any link
 ## Lesson for Creators
 
 Do not make the algorithm choose between your reach and your conversion. Win the first hour with a clean post, then edit the call-to-action in once the reach is locked.
+
+## Sources
+
+- https://www.youtube.com/watch?v=Q8cbpfII_dg
 
 ---
 

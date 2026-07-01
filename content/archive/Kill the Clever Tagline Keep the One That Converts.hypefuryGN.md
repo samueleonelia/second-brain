@@ -1,23 +1,14 @@
 ---
 title: "Kill the Clever Tagline, Keep the One That Converts"
+type: permanent
 pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Tested book taglines with paid traffic, killed a clever line that lost thousands, and kept the literal one that converted at 8.5%."
 mechanism_tags: [test-with-paid-traffic, positioning-over-taste, kill-clever-copy, conversion-as-judge]
-sources:
-  - url: https://www.youtube.com/watch?v=fCF2WlcNx3Q
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/fCF2WlcNx3Q.md
-    verified_at: 2026-06-19
 quotes:
   - text: "My first tagline was from overwhelm to hyperfocus"
-    source_index: 0
-    source_excerpt_line: 220
   - text: "lose a couple of thousands of euros because that bloody thing did not convert"
-    source_index: 0
-    source_excerpt_line: 222
 tags: [positioning, copywriting, launch]
 created: 2026-06-19
 ---
@@ -35,6 +26,10 @@ She replaced it with a blunt, literal promise, from strategy to profit, which th
 ## Lesson for Creators
 
 Treat positioning as an experiment with a scoreboard. Put each candidate headline in front of paid traffic, read the conversion rate, and let a clever line die the moment a literal one outsells it.
+
+## Sources
+
+- https://www.youtube.com/watch?v=fCF2WlcNx3Q
 
 ---
 

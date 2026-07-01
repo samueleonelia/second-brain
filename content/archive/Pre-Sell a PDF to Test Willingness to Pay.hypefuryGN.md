@@ -1,23 +1,14 @@
 ---
 title: "Pre-Sell a PDF to Test Willingness to Pay"
+type: permanent
 pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Tests demand by trying to pre-sell a PDF or slide deck before building, treating a real payment as the only honest willingness-to-pay signal."
 mechanism_tags: [pre-sell-to-validate, willingness-to-pay-test, sell-before-build, anti-survey]
-sources:
-  - url: https://www.youtube.com/watch?v=Kq9dBIv8pDQ
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/Kq9dBIv8pDQ.md
-    verified_at: 2026-06-19
 quotes:
   - text: "create PDF create like a PowerPoint presentation and try to sell it try to pre-sell it people are like shut up and take my money"
-    source_index: 0
-    source_excerpt_line: 48
   - text: "I'm anti- survey but I'm definitely into early monetization"
-    source_index: 0
-    source_excerpt_line: 52
 tags: [validation, pricing, pre-sell]
 created: 2026-06-19
 ---
@@ -35,6 +26,10 @@ The pre-sale does double duty: it validates and it funds. Collecting pre-orders 
 ## Lesson for Creators
 
 The only reliable willingness-to-pay test is a charge. Package the idea as a PDF or deck, try to pre-sell it, and let real payments, not survey answers, decide whether to build.
+
+## Sources
+
+- https://www.youtube.com/watch?v=Kq9dBIv8pDQ
 
 ---
 

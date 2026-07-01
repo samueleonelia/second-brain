@@ -6,33 +6,12 @@ creator: adam-biddlecombe
 identity_anchor: "@adam-bidd"
 mechanism: "Priced ad inventory ~10-15% below competitor CPMs and offered to lock advertisers into multi-month contracts at the lower rate, achieving >50% advertiser retention and removing the need for a sales team or customer success hire by making each renewed deal more profitable than chasing the marginal new advertiser"
 mechanism_tags: [pricing-undercut, long-term-advertiser-lock, no-sales-team, advertiser-retention-via-engagement, revenue-mix, flat-fee-sponsorships]
-sources:
-  - url: https://www.youtube.com/watch?v=uhEyv-wk4hs
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/claudeCode/PKM/secondBrain/transcripts/uhEyv-wk4hs.md
-    verified_at: 2026-06-11
-  - url: https://www.youtube.com/watch?v=xb3ehnGW_DU
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/claudeCode/PKM/secondBrain/transcripts/xb3ehnGW_DU.md
-    verified_at: 2026-06-11
 quotes:
   - text: "we would just undercut slightly"
-    source_index: 0
-    source_excerpt_line: null
   - text: "we kind of kept our rates a little bit lower than industry standard"
-    source_index: 1
-    source_excerpt_line: 260
   - text: "we had more than 50% retention with our advertisers"
-    source_index: 0
-    source_excerpt_line: 850
   - text: "the way we kept long-term customers is pricing at a position that just made so much sense for them"
-    source_index: 0
-    source_excerpt_line: 840
   - text: "my rationale was let's get kind of a little bit less revenue than we could but then not have to hire a sales person and a customer success people and churn through advertisers at like a a quick rate"
-    source_index: 0
-    source_excerpt_line: null
 tags: [newsletter, monetization, sponsorship-pricing]
 created: 2026-06-11
 ---
@@ -63,6 +42,11 @@ _"my rationale was let's get kind of a little bit less revenue than we could but
 
 The highest CPM you can extract is rarely the most profitable price. When your alternative is hiring a sales team to refill the funnel every month, underpricing the inventory and locking the relationship is the move that keeps you operating on the founder's calendar instead of the salesperson's. Advertiser retention above 50% is what lets a newsletter forecast like a SaaS product.
 
+
+## Sources
+
+- https://www.youtube.com/watch?v=uhEyv-wk4hs
+- https://www.youtube.com/watch?v=xb3ehnGW_DU
 
 ---
 

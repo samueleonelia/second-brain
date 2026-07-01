@@ -6,12 +6,6 @@ creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Sequenced the business as distribution first, then a large free email list (~60,000 subscribers), and only then turned on paid — using the free phase to learn newsletter craft before any money was on the line."
 mechanism_tags: [audience-before-product, free-list-first, distribution-before-monetization]
-sources:
-  - url: https://www.youtube.com/watch?v=mYbrEHTQ390
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/mYbrEHTQ390.md
-    verified_at: 2026-06-29
 quotes: []
 tags: [newsletter-growth, monetization, sequencing]
 created: 2026-06-29
@@ -31,8 +25,13 @@ He frames the paid step as a distinct decision that needs its own differentiated
 
 Grow and learn on a free list before you charge, and treat the size of that list as evidence you have learned the craft, not just as a vanity number. The copyable rule is a strict order of operations: one distribution channel, then a free list large enough to teach you what converts, then paid. Monetizing a thin, untested audience is how creators burn the goodwill they will need later.
 
+## Sources
+
+- https://www.youtube.com/watch?v=mYbrEHTQ390
+
 ---
 
 ## Related (matched on mechanism)
 - [[The Nine-Month Daily Posting Streak]] — tom-alder, matched: audience-before-product
 - [[Sub-2-Dollar Subscribers Once the Content Proved Its Legs]] — michael-houck, matched: free-list-first
+- [[Buy the First Year of Growth in Month Three]] — geoff-sharpe, matched: free-list-first (both grow the free list first and monetize later — Aakash builds the audience before the product, Geoff buys the free list with ads before it converts to paying members)

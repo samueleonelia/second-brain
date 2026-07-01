@@ -6,31 +6,10 @@ creator: adam-biddlecombe
 identity_anchor: "@adam-bidd"
 mechanism: "Ran an always-on automation that removed any subscriber who had not opened or clicked a newsletter in 50 days, accepting a smaller topline subscriber count in exchange for advertiser-grade engagement metrics and protected deliverability, taking the open rate from 27-28% post-acquisition to 46-47% within a year"
 mechanism_tags: [list-hygiene, aggressive-pruning, advertiser-retention-via-engagement, deliverability-discipline, small-list-real-numbers]
-sources:
-  - url: https://www.youtube.com/watch?v=xb3ehnGW_DU
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/claudeCode/PKM/secondBrain/transcripts/xb3ehnGW_DU.md
-    verified_at: 2026-06-11
-  - url: https://www.youtube.com/watch?v=uhEyv-wk4hs
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/claudeCode/PKM/secondBrain/transcripts/uhEyv-wk4hs.md
-    verified_at: 2026-06-11
-  - url: https://www.beehiiv.com/blog/creator-spotlight-mindstream
-    type: web-article
-    source_type: secondary
-    verified_at: 2026-06-11
 quotes:
   - text: "if anyone didn't um engage like open or click on our list in I think it's 50 days we took them off the list completely"
-    source_index: 0
-    source_excerpt_line: null
   - text: "we were like actively and manually scrubbing our list with an automation that was happening all the time"
-    source_index: 0
-    source_excerpt_line: 316
   - text: "our topline number of subscribers could have been almost really as high as we wanted to. But again if you if you do that and inflate your prices as such you can end up suddenly being um unviable for these advertisers"
-    source_index: 0
-    source_excerpt_line: null
 tags: [newsletter, list-hygiene, engagement]
 created: 2026-06-11
 ---
@@ -57,6 +36,12 @@ The compounding consequence was an open rate that climbed from ~27-28% to ~46-47
 
 Aggressive culling is the unsexy infrastructure behind a sustainable ad business. A 50-day no-engagement cutoff makes the open rate you quote to advertisers the actual open rate they will see on their first send. The marketing-team instinct to maximize the headline is the right instinct for impressing investors and the wrong one for keeping advertisers past month two.
 
+
+## Sources
+
+- https://www.youtube.com/watch?v=xb3ehnGW_DU
+- https://www.youtube.com/watch?v=uhEyv-wk4hs
+- https://www.beehiiv.com/blog/creator-spotlight-mindstream
 
 ---
 

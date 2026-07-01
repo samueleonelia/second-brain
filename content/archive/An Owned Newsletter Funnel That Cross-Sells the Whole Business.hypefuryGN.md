@@ -6,17 +6,9 @@ creator: michael-houck
 identity_anchor: foundingjourney.com
 mechanism: "Runs two newsletters at the top of an owned funnel; each issue earns sponsorship revenue and also non-intrusively cross-sells the rest of the business (membership, agency, advising, fundraising service), keeping every offer top of mind."
 mechanism_tags: [owned-audience-funnel, monetization-stack, revenue-beyond-subscriptions]
-sources:
-  - url: https://thefoundingjourney.substack.com/p/100k-mrr-from-a-newsletter
-    type: web-article
-    source_type: primary
-    cached: ""
-    verified_at: 2026-06-30
 quotes:
   - text: "sit at the top of our owned-funnel"
-    source_index: 0
   - text: "building an email list but not using it to stay top of mind"
-    source_index: 0
 tags: [newsletter, monetization, audience-growth]
 created: 2026-06-30
 ---
@@ -36,6 +28,10 @@ His warning was for creators who stop at collecting emails. "If you're building 
 ## Lesson for Creators
 
 A newsletter is worth more as a distribution channel for your whole business than as a standalone product. Put the list at the top of the funnel, monetize it directly with sponsorships, and use every issue to keep your other offers in front of readers who already trust you. An email list you collect but never sell into is potential revenue you chose not to collect.
+
+## Sources
+
+- https://thefoundingjourney.substack.com/p/100k-mrr-from-a-newsletter
 
 ---
 

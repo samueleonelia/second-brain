@@ -6,17 +6,9 @@ creator: michael-houck
 identity_anchor: foundingjourney.com
 mechanism: "Seeds early growth by forming a peer group of creators in the same niche at a similar size, engaging with their posts early so they recognize you before any DM, then trading collaborations and cross-promos."
 mechanism_tags: [peer-group-cross-promo, borrow-big-audiences, outbound-commenting]
-sources:
-  - url: https://blog.thunder.vc/cultivating-hype-and-attention-to-raise-capital-successfully
-    type: web-article
-    source_type: primary
-    cached: ""
-    verified_at: 2026-06-30
 quotes:
   - text: "Form a peer group with creators in your niche and similar size"
-    source_index: 0
   - text: "comment early on their posts so they recognize you before you DM"
-    source_index: 0
 tags: [audience-growth, collaboration, networking]
 created: 2026-06-30
 ---
@@ -36,6 +28,10 @@ He was candid that the startup niche is a hard room, with a discerning, time-str
 ## Lesson for Creators
 
 Do not chase creators ten times your size for a shoutout; build a cohort at your own level and rise together. Earn recognition before you ask by commenting early and often, so the eventual DM lands as a familiar name. Peer cross-promotion compounds because every member is growing the others' audiences at the same time.
+
+## Sources
+
+- https://blog.thunder.vc/cultivating-hype-and-attention-to-raise-capital-successfully
 
 ---
 

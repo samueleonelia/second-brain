@@ -5,22 +5,9 @@ creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Runs a paid Substack ($10/month, $110/year, pay-what-you-want) with zero gated content, selling independence from clicks and brand deals instead of access"
 mechanism_tags: [free-drives-paid, patronage-model, no-paywall, independence-as-product]
-sources:
-  - url: https://kyla.substack.com/about
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-11
-  - url: https://growthinreverse.com/kyla-scanlon/
-    type: web-article
-    source_type: secondary
-    verified_at: 2026-06-11
 quotes:
   - text: "It will always be free"
-    source_index: 0
-    source_excerpt_line: 0
   - text: "I don't have to optimize for clicks or take every brand deal that comes my way"
-    source_index: 0
-    source_excerpt_line: 0
 tags: [monetization, newsletter, substack, patronage]
 created: 2026-06-11
 ---
@@ -39,7 +26,13 @@ Growth In Reverse noted how rare this is in the creator space and how it shapes 
 
 A paywall monetizes your best readers and silences your best marketing at the same time, because the gated essays are the ones that would have traveled. The patronage structure flips it: content stays at maximum reach, and the paid offer sells something a paywall cannot, the writer's independence. It works when the surrounding business (books, speaking, sponsorship) is what converts the reach into income.
 
+## Sources
+
+- https://kyla.substack.com/about
+- https://growthinreverse.com/kyla-scanlon/
+
 ---
 
 ## Related (matched on mechanism)
 - [[Seventeen Sponsors Keep the Newsletter Free]] — maja-voje, matched: free-drives-paid
+- [[Free Post Hooks, Paid Post Pays Off]] — tomas-pueyo, matched: free-drives-paid

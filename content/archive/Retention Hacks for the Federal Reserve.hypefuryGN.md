@@ -5,19 +5,9 @@ creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Deliberately engineers attention-span hacks into educational videos, treating retention mechanics as a tool to keep people listening to dry institutional topics"
 mechanism_tags: [retention-engineering, attention-economy, educational-content, algorithm-mechanics]
-sources:
-  - url: https://www.youtube.com/watch?v=dmTSehfZqKU
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/claudeCode/PKM/secondBrain/transcripts/dmTSehfZqKU.md
-    verified_at: 2026-06-11
 quotes:
   - text: "I think about attention spans when I make videos I do hacks to keep people listening about the Federal Reserve"
-    source_index: 0
-    source_excerpt_line: 36
   - text: "you're fighting against the entire world for just a second of people's time"
-    source_index: 0
-    source_excerpt_line: 48
 tags: [short-form-video, retention, attention-economy, educational-content]
 created: 2026-06-11
 ---
@@ -36,6 +26,11 @@ What separates her use of the playbook from the one she criticizes is what the r
 
 Educational creators routinely lose to entertainment because they treat retention engineering as beneath the material. Scanlon's position is that the dry topic is precisely why the hacks are required: the harder the subject, the more deliberately each video has to earn its next second. Study retention like an entertainer, then spend the attention on substance.
 
+## Sources
+
+- https://www.youtube.com/watch?v=dmTSehfZqKU
+
 ---
 
 ## Related (matched on mechanism)
+- [[Spend on Retention Because Growth Is the Easy Part]] — geoff-sharpe, matched: retention-engineering (both treat retention as something to deliberately engineer — Kyla builds attention hooks into the content, Geoff engineers onboarding and churn reduction over top-of-funnel growth)

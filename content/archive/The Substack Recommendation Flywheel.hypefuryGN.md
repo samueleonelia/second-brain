@@ -6,16 +6,6 @@ creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Got 1,100+ other newsletter writers to list Product Growth inside Substack's recommendation widget, making cross-newsletter recommendations his single largest subscriber-acquisition channel."
 mechanism_tags: [substack-recommendations, built-in-discovery, organic-referral]
-sources:
-  - url: https://www.youtube.com/watch?v=mYbrEHTQ390
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/mYbrEHTQ390.md
-    verified_at: 2026-06-29
-  - url: https://growthinreverse.com/aakash-gupta/
-    type: web-article
-    source_type: secondary
-    verified_at: 2026-06-29
 quotes: []
 tags: [newsletter-growth, substack, distribution]
 created: 2026-06-29
@@ -34,6 +24,11 @@ The earned part sits upstream of the widget. Other writers only recommend Produc
 ## Lesson for Creators
 
 A platform's native recommendation feature is the cheapest compounding distribution a newsletter can have, because each listing keeps working without you. The copyable action is concrete: get onto as many peer recommendation lists as possible, because this channel scales with the number of writers vouching for you, not with how often you post. The prerequisite is content other writers will stake their reputation on, which is why the lever only fires once the work is genuinely good.
+
+## Sources
+
+- https://www.youtube.com/watch?v=mYbrEHTQ390
+- https://growthinreverse.com/aakash-gupta/
 
 ---
 

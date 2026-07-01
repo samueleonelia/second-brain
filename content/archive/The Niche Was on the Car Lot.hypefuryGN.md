@@ -5,20 +5,8 @@ creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Picked financial education as her niche from direct customer observation while selling cars in college, watching buyers sign loans without knowing what an interest rate was"
 mechanism_tags: [niche-from-customer-contact, day-job-discovery, unmet-need-observation, niche-selection]
-sources:
-  - url: https://www.youtube.com/watch?v=GXWMjCo6s34
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/claudeCode/PKM/secondBrain/transcripts/GXWMjCo6s34.md
-    verified_at: 2026-06-11
-  - url: https://www.kylascanlon.com/
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-11
 quotes:
   - text: "I used to sell cars in college and people would come in and not know what an interest rate was"
-    source_index: 0
-    source_excerpt_line: 606
 tags: [niche-selection, origin, finance-creators, customer-discovery]
 created: 2026-06-11
 ---
@@ -36,6 +24,11 @@ She then went to the buy side at Capital Group, graduated into the pandemic, and
 ## Lesson for Creators
 
 The strongest niche selection data comes from jobs that put you face to face with the audience's ignorance, not from keyword tools. A day job where customers repeatedly fail at the same thing is a recorded list of content that needs to exist. The replicable move is to mine your own service-job history for the question customers kept getting wrong, and make that question the channel.
+
+## Sources
+
+- https://www.youtube.com/watch?v=GXWMjCo6s34
+- https://www.kylascanlon.com/
 
 ---
 

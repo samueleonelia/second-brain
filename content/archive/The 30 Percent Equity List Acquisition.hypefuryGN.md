@@ -6,26 +6,10 @@ creator: adam-biddlecombe
 identity_anchor: "@adam-bidd"
 mechanism: "Traded 30 percent of Mindstream's equity to a competitor founder in exchange for merging his ~200K-subscriber list, but imported only the most active subscribers to land at 110K overnight instead of paying ~$150K for the same volume through cross-promotion"
 mechanism_tags: [equity-for-list, competitor-merger, engaged-import-only, newsletter-growth, acquisition-vs-paid-growth]
-sources:
-  - url: https://www.youtube.com/watch?v=uhEyv-wk4hs
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/claudeCode/PKM/secondBrain/transcripts/uhEyv-wk4hs.md
-    verified_at: 2026-06-11
-  - url: https://www.creatorspotlight.com/p/adam-biddlecombe
-    type: web-article
-    source_type: secondary
-    verified_at: 2026-06-11
 quotes:
   - text: "I managed to broker a deal that he would get 30% equity in Mindream and then he would bring all of his um newsletter subscribers"
-    source_index: 0
-    source_excerpt_line: 588
   - text: "We didn't import the whole list, we imported the most active people"
-    source_index: 0
-    source_excerpt_line: 592
   - text: "if we were to go out and and uh get 100,000 subscribers at that sort of quality through like paid strategy, we'd probably be paying best case uh$150 per subscriber"
-    source_index: 0
-    source_excerpt_line: null
 tags: [newsletter, acquisition, equity-deal]
 created: 2026-06-11
 ---
@@ -53,8 +37,14 @@ That single transaction is what flipped the business from scrappy to fundable. W
 Equity is currency too, and at the early stage it is usually cheaper than cash. A founder with an accidental list is often a better trade partner than a paid-acquisition channel, because the equity binds them into the operation instead of leaving them as a one-time growth spike. The discipline is in the import filter: do not take the dead weight, only the engaged subs that will keep your open rate honest for the advertisers you have not signed yet.
 
 
+## Sources
+
+- https://www.youtube.com/watch?v=uhEyv-wk4hs
+- https://www.creatorspotlight.com/p/adam-biddlecombe
+
 ---
 
 ## Related (matched on mechanism)
 
 - [[Skip the Link Keep the Reach]] — kyla-scanlon, matched: newsletter-growth
+- [[Buy the First Year of Growth in Month Three]] — geoff-sharpe, matched: acquisition-vs-paid-growth (same decision axis — acquire a list fast by paying: Geoff buys subscribers with Meta ad spend, Adam trades equity to merge a competitor's list, both skipping the slow organic build)

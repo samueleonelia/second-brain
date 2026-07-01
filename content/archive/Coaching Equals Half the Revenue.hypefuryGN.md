@@ -5,15 +5,8 @@ creator: olivia-wickstrom
 identity_anchor: petal and hearth
 mechanism: "Refuses to treat paid subscriptions as the ceiling: builds a pipeline where free Notes readers become subscribers, subscribers watch her live sessions, then book 1:1 coaching, so higher-ticket coaching ends up matching subscription income dollar for dollar"
 mechanism_tags: [revenue-beyond-subscriptions, audience-to-coaching-pipeline, higher-ticket-offer, ecosystem-not-ceiling]
-sources:
-  - url: https://petalandhearth.substack.com/p/the-one-habit-that-took-my-substack
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-02
 quotes:
   - text: "half of my monthly income comes from Substack paid subscriptions"
-    source_index: 0
-    source_excerpt_line: 60
 tags: [substack, monetization, coaching, revenue]
 created: 2026-06-02
 ---
@@ -29,6 +22,10 @@ It runs in stages. A reader meets her in the Notes feed and subscribes. Free ess
 ## Lesson for Creators
 
 Paid subscriptions are a floor, not a ceiling. Build the ladder, free to subscriber to live to high-ticket offer, so the trust you already earned funds the work that pays the most.
+
+## Sources
+
+- https://petalandhearth.substack.com/p/the-one-habit-that-took-my-substack
 
 ---
 

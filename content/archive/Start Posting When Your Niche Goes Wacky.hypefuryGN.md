@@ -5,11 +5,6 @@ creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Timed her TikTok launch to the December 2020 GameStop mania, the exact window when demand for market explainers spiked and she was newly free of employer compliance rules"
 mechanism_tags: [timing-entry, news-volatility-window, compliance-exit, cold-start]
-sources:
-  - url: https://growthinreverse.com/kyla-scanlon/
-    type: web-article
-    source_type: secondary
-    verified_at: 2026-06-11
 quotes: []
 tags: [tiktok, cold-start, finance-creators, market-timing]
 created: 2026-06-11
@@ -28,6 +23,10 @@ From that December 2020 start, the growth compounded across platforms: TikTok fi
 ## Lesson for Creators
 
 Cold starts are cheapest when the niche is in chaos, because chaos manufactures an audience of confused newcomers faster than incumbents can serve them. The replicable move is to watch for the moment your topic hits mainstream confusion and to clear your publishing constraints before it arrives, so the launch can ride the spike instead of preparing through it.
+
+## Sources
+
+- https://growthinreverse.com/kyla-scanlon/
 
 ---
 

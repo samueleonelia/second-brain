@@ -6,27 +6,10 @@ creator: adam-biddlecombe
 identity_anchor: "@adam-bidd"
 mechanism: "In a category of 1,000+ AI newsletters all using AI to summarize AI news, hired a working copywriter as co-founder, layered editorial opinion on top of every news item, and signed off every single issue with a tagline declaring the issue had been written by humans, turning the bot-saturated competitive landscape into the differentiator"
 mechanism_tags: [editorial-differentiation, anti-ai-positioning, opinion-layer-on-curation, copywriter-as-cofounder, category-saturation-as-opening]
-sources:
-  - url: https://www.youtube.com/watch?v=uhEyv-wk4hs
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/claudeCode/PKM/secondBrain/transcripts/uhEyv-wk4hs.md
-    verified_at: 2026-06-11
-  - url: https://www.youtube.com/watch?v=xb3ehnGW_DU
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/claudeCode/PKM/secondBrain/transcripts/xb3ehnGW_DU.md
-    verified_at: 2026-06-11
 quotes:
   - text: "from day one, what we tried to do is not just report on the biggest AI news, but the AI news that we thought was really interesting and then to give an opinion on that news"
-    source_index: 0
-    source_excerpt_line: null
   - text: "And also we signed off every newsletter with written by humans"
-    source_index: 0
-    source_excerpt_line: 424
   - text: "we had this excellent editorial team and talent that were um you know doing the job of surfing the web every day to find out what was going on and then adding summarizing it, curating it but adding some real editorial and journalistic insight"
-    source_index: 0
-    source_excerpt_line: null
 tags: [newsletter, editorial, positioning]
 created: 2026-06-11
 ---
@@ -53,6 +36,11 @@ That sign-off was the cheapest piece of brand positioning in the company. It ref
 
 In a category where the dominant tool is the same one every competitor is using, the positioning move is not to find a smaller niche but to declare what your competitors quietly are. A working copywriter as your co-author is structurally different from a smart prompt, and saying so at the bottom of every issue lets the reader feel the difference without an essay about it.
 
+
+## Sources
+
+- https://www.youtube.com/watch?v=uhEyv-wk4hs
+- https://www.youtube.com/watch?v=xb3ehnGW_DU
 
 ---
 

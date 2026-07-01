@@ -5,16 +5,8 @@ creator: tom-alder
 identity_anchor: strategy breakdowns
 mechanism: "Set himself a 30-day daily-posting challenge on LinkedIn and extended it to nine months straight including weekends, reaching 10,000 followers before he had any product to sell"
 mechanism_tags: [daily-posting-streak, posting-challenge, cold-start, audience-before-product]
-sources:
-  - url: https://www.youtube.com/watch?v=Q8cbpfII_dg
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/Library/Mobile Documents/iCloud~md~obsidian/Documents/secondBrain/transcripts/Q8cbpfII_dg.md
-    verified_at: 2026-06-02
 quotes:
   - text: "ended up doing it for for nine months straight posting every single day including weekend and and got to 10,000 followers"
-    source_index: 0
-    source_excerpt_line: 14
 tags: [linkedin, consistency, cold-start]
 created: 2026-06-02
 ---
@@ -32,6 +24,10 @@ _"ended up doing it for for nine months straight posting every single day includ
 ## Lesson for Creators
 
 The audience that makes a launch easy is built in the boring months nobody watches. A fixed daily-posting commitment, held long past the point where it feels productive, is what produces the follower base you later convert.
+
+## Sources
+
+- https://www.youtube.com/watch?v=Q8cbpfII_dg
 
 ---
 

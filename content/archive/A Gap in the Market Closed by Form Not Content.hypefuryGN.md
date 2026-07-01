@@ -5,23 +5,9 @@ creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Positioned her economics book against the genre's form rather than its substance: 60 illustrations, metaphors, and poetry where competing titles offer equations and condescension"
 mechanism_tags: [format-differentiation, gap-in-market, book-positioning, accessibility-as-moat]
-sources:
-  - url: https://www.youtube.com/watch?v=7jopMwHa4Uk
-    type: youtube-transcript
-    source_type: primary
-    cached: ~/claudeCode/PKM/secondBrain/transcripts/7jopMwHa4Uk.md
-    verified_at: 2026-06-11
-  - url: https://www.kylascanlon.com/
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-11
 quotes:
   - text: "I felt like there was a bit of a gap in the market"
-    source_index: 0
-    source_excerpt_line: 24
   - text: "the book has 60 illustrations"
-    source_index: 0
-    source_excerpt_line: 24
 tags: [book-launch, positioning, finance-creators, differentiation]
 created: 2026-06-11
 ---
@@ -40,6 +26,13 @@ The bet paid out in genre terms: a New York Times bestseller from a debut author
 
 When a topic is crowded, the unclaimed territory is often the format, not the angle. Scanlon studied what every economics book looked like and shipped one that looked like none of them while saying broadly compatible things. The replicable move is to audit your genre for its formal conventions (tone, density, visuals) and break the convention your audience most resents.
 
+## Sources
+
+- https://www.youtube.com/watch?v=7jopMwHa4Uk
+- https://www.kylascanlon.com/
+
 ---
 
 ## Related (matched on mechanism)
+- [[Make Complexity Graspable With a Sticky Metaphor]] — tomas-pueyo, matched: accessibility-as-moat
+- [[A Visual on Every Unit You Publish]] — tomas-pueyo, matched: format-differentiation

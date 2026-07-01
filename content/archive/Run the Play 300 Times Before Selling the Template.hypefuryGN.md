@@ -1,19 +1,13 @@
 ---
 title: "Run the Play 300 Times Before Selling the Template"
+type: permanent
 pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Ran her GTM Power Hour exercise on a whiteboard 300 times before packaging it as a published template, so the product was earned reps, not theory."
 mechanism_tags: [reps-before-product, productize-the-process, earned-authority, template-from-practice]
-sources:
-  - url: https://knowledge.gtmstrategist.com/p/2024-in-review-at-gtm-strategist
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-19
 quotes:
   - text: "I have done it 300 times on a whiteboard before I published this template"
-    source_index: 0
-    source_excerpt_line: 205
 tags: [productized-service, authority, templates]
 created: 2026-06-19
 ---
@@ -31,6 +25,10 @@ That sequence, do the work live many times, then productize the pattern, is why 
 ## Lesson for Creators
 
 Earn the right to sell a template by running the exercise live until the pattern is obvious. Productize the process only after enough reps that the artifact carries real authority, not just theory.
+
+## Sources
+
+- https://knowledge.gtmstrategist.com/p/2024-in-review-at-gtm-strategist
 
 ---
 

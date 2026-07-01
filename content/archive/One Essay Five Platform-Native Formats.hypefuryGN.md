@@ -5,11 +5,6 @@ creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Turns every newsletter essay into a staggered multi-day rollout: Instagram Reel on publish day, full YouTube video the next day, podcast audio the same day, LinkedIn posts days later"
 mechanism_tags: [repurpose-one-to-many, content-atomization, staggered-rollout, multi-platform-ecosystem]
-sources:
-  - url: https://growthinreverse.com/kyla-scanlon/
-    type: web-article
-    source_type: secondary
-    verified_at: 2026-06-11
 quotes: []
 tags: [content-repurposing, newsletter-growth, distribution, ecosystem]
 created: 2026-06-11
@@ -28,6 +23,10 @@ The traffic data shows why the breadth matters: SimilarWeb showed LinkedIn and T
 ## Lesson for Creators
 
 Repurposing fails when it means copy-pasting one asset everywhere on the same afternoon. Scanlon's version works because the formats are native and the rollout is staggered across days, which multiplies the surface area of a single idea without multiplying the thinking. The mechanical takeaway: put the rollout on a fixed day-by-day schedule per essay, and rebuild the idea per platform instead of linking to it.
+
+## Sources
+
+- https://growthinreverse.com/kyla-scanlon/
 
 ---
 

@@ -1,26 +1,14 @@
 ---
 title: "Co-Author Deep Dives to Borrow Bigger Audiences"
+type: permanent
 pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Co-authored high-effort deep dives with bigger creators (Sean Ellis, Kyle Poyar, Aakash Gupta) so their audiences carried her work, with 30+ hours per shared asset."
 mechanism_tags: [borrow-big-audiences, collaboration-arbitrage, co-authored-deep-dives, audience-swap]
-sources:
-  - url: https://knowledge.gtmstrategist.com/p/2024-in-review-at-gtm-strategist
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-19
-  - url: https://www.growthunhinged.com/p/how-to-build-your-early-gtm-strategy
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-19
 quotes:
   - text: "one of those articles would be the most popular on the Substack"
-    source_index: 0
-    source_excerpt_line: 205
   - text: "my team and I put in at least 30 hours of very hard work"
-    source_index: 0
-    source_excerpt_line: 205
 tags: [newsletter-growth, collaborations, distribution]
 created: 2026-06-19
 ---
@@ -38,6 +26,11 @@ The arbitrage only works if the borrowed audience gets something worth their att
 ## Lesson for Creators
 
 Borrow reach instead of grinding for it. Co-create genuinely useful work with creators whose audience is bigger than yours, and over-invest in the quality of the shared asset so their readers convert into yours.
+
+## Sources
+
+- https://knowledge.gtmstrategist.com/p/2024-in-review-at-gtm-strategist
+- https://www.growthunhinged.com/p/how-to-build-your-early-gtm-strategy
 
 ---
 

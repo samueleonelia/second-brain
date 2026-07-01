@@ -1,23 +1,14 @@
 ---
 title: "Sixteen Influencers Posting at the Same Time"
+type: permanent
 pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Hired sixteen influencers to publish at coordinated times so a small brand looked omnipresent during a market spike."
 mechanism_tags: [coordinated-influencer-drop, manufactured-omnipresence, b2b-influencers, paid-momentum]
-sources:
-  - url: https://www.youtube.com/watch?v=Kq9dBIv8pDQ
-    type: youtube-transcript
-    source_type: primary
-    cached: /Users/samueleonelia/claudeCode/PKM/secondBrain/transcripts/Kq9dBIv8pDQ.md
-    verified_at: 2026-06-19
 quotes:
   - text: "now we hire 16 influencers we tell them exactly what time should they publish this"
-    source_index: 0
-    source_excerpt_line: 30
   - text: "it will look like to our audience that we are everywhere"
-    source_index: 0
-    source_excerpt_line: 30
 tags: [influencer-marketing, distribution, b2b]
 created: 2026-06-19
 ---
@@ -35,6 +26,10 @@ The effect was perception, not reach for its own sake. "it will look like to our
 ## Lesson for Creators
 
 A small brand can borrow the appearance of dominance. Coordinate several trusted voices to publish the same thing in one tight window, and a moment of manufactured omnipresence can do what a big ad budget cannot.
+
+## Sources
+
+- https://www.youtube.com/watch?v=Kq9dBIv8pDQ
 
 ---
 

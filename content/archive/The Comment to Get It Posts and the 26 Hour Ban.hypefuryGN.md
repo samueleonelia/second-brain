@@ -1,22 +1,14 @@
 ---
 title: "The Comment-to-Get-It Posts and the 26-Hour Ban"
+type: permanent
 pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Ran comment-gated lead-magnet posts on LinkedIn from June 2024 to distribute templates, growing reach until the volume of auto-DMs got her restricted for 26 hours."
 mechanism_tags: [lead-magnet, comment-gating, viral-distribution, platform-risk]
-sources:
-  - url: https://knowledge.gtmstrategist.com/p/2024-in-review-at-gtm-strategist
-    type: web-article
-    source_type: primary
-    verified_at: 2026-06-19
 quotes:
   - text: "temporarily restricted from LinkedIn for 26 hours because I sent out too many messages"
-    source_index: 0
-    source_excerpt_line: 205
   - text: "the materials you share have to be outstanding"
-    source_index: 0
-    source_excerpt_line: 205
 tags: [linkedin, lead-magnet, distribution]
 created: 2026-06-19
 ---
@@ -34,6 +26,10 @@ Her caveat separates the tactic from the spam version of it. Many creators gate 
 ## Lesson for Creators
 
 Comment-gated lead magnets buy reach, but only if the gated asset is excellent and you accept the platform risk. Lead with your best material, expect distribution limits when volume spikes, and never assume the channel will stay open.
+
+## Sources
+
+- https://knowledge.gtmstrategist.com/p/2024-in-review-at-gtm-strategist
 
 ---
 

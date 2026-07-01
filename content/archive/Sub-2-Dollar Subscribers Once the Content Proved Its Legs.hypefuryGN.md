@@ -6,17 +6,9 @@ creator: michael-houck
 identity_anchor: foundingjourney.com
 mechanism: "Scales a newsletter with paid acquisition (Meta, X, sometimes TikTok) at under $2 per subscriber against a roughly $12 yearly value, but only after organic content and cross-promos prove the funnel converts."
 mechanism_tags: [paid-newsletter-ads, social-to-email-funnel, free-list-first]
-sources:
-  - url: https://blog.thunder.vc/cultivating-hype-and-attention-to-raise-capital-successfully
-    type: web-article
-    source_type: primary
-    cached: ""
-    verified_at: 2026-06-30
 quotes:
   - text: "most scale with paid ads"
-    source_index: 0
   - text: "I invested modestly after proving legs with content"
-    source_index: 0
 tags: [newsletter, paid-acquisition, audience-growth]
 created: 2026-06-30
 ---
@@ -37,8 +29,14 @@ Because the unit economics held, he had no interest in raising for the business.
 
 Paid ads are how most large newsletters actually scale, and a sub-$2 subscriber against a $12 value is a profitable, repeatable machine. But prove the organic funnel first. Earn some subscribers with content and cross-promos, confirm they stay and convert, and only then spend to amplify what is already working.
 
+## Sources
+
+- https://blog.thunder.vc/cultivating-hype-and-attention-to-raise-capital-successfully
+
 ---
 
 ## Related (matched on mechanism)
 - [[Build the Free List Before Switching On Paid]] — matched: free-list-first
 - [[Newsletter as the Lower-Commitment Step Before the Sale]] — michael-houck, matched: social-to-email-funnel
+- [[Catch the Viral Spike in an Owned List]] — tomas-pueyo, matched: social-to-email-funnel
+- [[Buy the First Year of Growth in Month Three]] — geoff-sharpe, matched: free-list-first (both scale a free list with paid Meta ads but refuse to pour money in until cheap early engagement proves the funnel converts)

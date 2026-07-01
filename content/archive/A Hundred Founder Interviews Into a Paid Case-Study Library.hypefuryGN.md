@@ -6,17 +6,9 @@ creator: michael-houck
 identity_anchor: foundingjourney.com
 mechanism: "Converts recorded founder interviews into a paid, ever-growing case-study library plus a pitch-deck database, so each conversation becomes a durable membership asset rather than a one-time episode."
 mechanism_tags: [interview-to-asset, case-study-led-sales, membership-library]
-sources:
-  - url: https://thefoundingjourney.substack.com/about
-    type: web-article
-    source_type: primary
-    cached: ""
-    verified_at: 2026-06-30
 quotes:
   - text: "turned those conversations into case studies"
-    source_index: 0
   - text: "My database of over 1,800+ pitch decks"
-    source_index: 0
 tags: [newsletter, membership, content-repurposing]
 created: 2026-06-30
 ---
@@ -36,6 +28,10 @@ Because the catalogue grows every week, the membership gets more valuable over t
 ## Lesson for Creators
 
 An interview is not a disposable episode; it is raw material for an asset that can be sold again and again. Record the conversation once, then turn it into a written case study that lives in a library members pay to access. A back catalogue that grows every week becomes its own reason to subscribe, so the content you already make for reach does double duty as the product.
+
+## Sources
+
+- https://thefoundingjourney.substack.com/about
 
 ---
 
