@@ -31,6 +31,7 @@ title: Index
 - [[@Charlie Hills]]
 - [[@CJ Gustafson]]
 - [[@Dan Shipper]]
+- [[@Dave Kline]]
 - [[@Duncan Rogoff]]
 - [[@Geoff Sharpe]]
 - [[@Jesse J. Anderson]]
