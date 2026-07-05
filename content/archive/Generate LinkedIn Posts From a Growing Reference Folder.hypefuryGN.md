@@ -34,4 +34,5 @@ An AI writing skill is only as good as what it reads. Feed it your voice and a g
 ---
 
 ## Related (matched on mechanism)
+- [[A 52-Page Voice Doc That Lets AI Draft in Your Voice]] — katelyn-bourgoin, matched: ai-content
 - _No mechanism-tag matches among existing HypefuryGN cards yet._

@@ -30,3 +30,5 @@ Pick three or four specific pillars before you chase tactics. The constraint is 
 ---
 
 ## Related (matched on mechanism)
+- [[The Authority Flywheel Around One Ownable Idea]] — katelyn-bourgoin, matched: content-pillars
+- [[Saying One Thing a Thousand Ways]] — adam-robinson, matched: content-pillars

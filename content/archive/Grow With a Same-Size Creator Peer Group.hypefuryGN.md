@@ -38,3 +38,4 @@ Do not chase creators ten times your size for a shoutout; build a cohort at your
 ## Related (matched on mechanism)
 - [[Co-Author Deep Dives to Borrow Bigger Audiences]] — maja-voje, matched: borrow-big-audiences
 - [[Outbound Comments on Big Creators]] — tom-alder, matched: borrow-big-audiences, outbound-commenting
+- [[The Ten-Person Commenting Play]] — adam-robinson, matched: outbound-commenting

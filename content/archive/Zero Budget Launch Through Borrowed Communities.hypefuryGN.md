@@ -1,5 +1,5 @@
 ---
-title: "Zero-Budget Launch Through Borrowed Communities"
+title: "Zero Budget Launch Through Borrowed Communities"
 type: permanent
 pipeline: hypefuryGN-v1
 creator: maja-voje
@@ -13,7 +13,7 @@ tags: [product-launch, distribution, communities]
 created: 2026-06-19
 ---
 
-# Zero-Budget Launch Through Borrowed Communities
+# Zero Budget Launch Through Borrowed Communities
 
 ## The Story
 
@@ -34,7 +34,7 @@ You do not need a budget to find the first thousand users. Show up and add value
 ---
 
 ## Related (matched on mechanism)
-
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: build-in-public
 - [[The Tulum House That Became Launch House on Organic Attention]] — michael-houck, matched: build-in-public
 - [[Give for Weeks Before You Post Your Launch]] — maja-voje, matched: borrowed-communities
+- [[Content Market Fit Before Any Demo]] — adam-robinson, matched: build-in-public

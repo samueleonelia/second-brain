@@ -37,5 +37,6 @@ You do not always know which project is the real one. Build in public and the au
 ---
 
 ## Related (matched on mechanism)
-- [[Zero-Budget Launch Through Borrowed Communities]] — maja-voje, matched: build-in-public
+- [[Zero Budget Launch Through Borrowed Communities]] — maja-voje, matched: build-in-public
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: build-in-public
+- [[Content Market Fit Before Any Demo]] — adam-robinson, matched: build-in-public

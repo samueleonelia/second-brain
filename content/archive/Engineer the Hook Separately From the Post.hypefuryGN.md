@@ -32,4 +32,4 @@ Budget for the hook as its own deliverable, because it controls whether the work
 ---
 
 ## Related (matched on mechanism)
-- (none yet)
+- [[Every Post Assumes Nobody Knows You]] — adam-robinson, matched: hook-engineering

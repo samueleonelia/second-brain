@@ -26,6 +26,7 @@ title: Index
 
 - [[@Aakash Gupta]]
 - [[@Adam Biddlecombe]]
+- [[@Adam Robinson]]
 - [[@Alex Garcia]]
 - [[@Boris Cherny]]
 - [[@Charlie Hills]]
@@ -35,6 +36,7 @@ title: Index
 - [[@Duncan Rogoff]]
 - [[@Geoff Sharpe]]
 - [[@Jesse J. Anderson]]
+- [[@Katelyn Bourgoin]]
 - [[@Kyla Scanlon]]
 - [[@Lenny Rachitsky]]
 - [[@Maja Voje]]

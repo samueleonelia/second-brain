@@ -34,9 +34,9 @@ Sponsorship and free reach compound. Keep the newsletter open to everyone, sell 
 ---
 
 ## Related (matched on mechanism)
-
 - [[A Revenue Mix Anchored on Sponsorships]] — tom-alder, matched: flat-fee-sponsorships
 - [[Undercut the CPM Lock the Long Term Deal]] — adam-biddlecombe, matched: flat-fee-sponsorships
 - [[Make Your Best Paid Content Free]] — olivia-wickstrom, matched: free-drives-paid
 - [[The Paid Newsletter That Gates Nothing]] — kyla-scanlon, matched: free-drives-paid
 - [[Free Post Hooks, Paid Post Pays Off]] — tomas-pueyo, matched: free-drives-paid
+- [[The Free Offer as a Megaphone]] — adam-robinson, matched: free-drives-paid

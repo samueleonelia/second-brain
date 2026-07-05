@@ -1,5 +1,5 @@
 ---
-title: "The Comment-to-Get-It Posts and the 26-Hour Ban"
+title: "The Comment to Get It Posts and the 26 Hour Ban"
 type: permanent
 pipeline: hypefuryGN-v1
 creator: maja-voje
@@ -13,7 +13,7 @@ tags: [linkedin, lead-magnet, distribution]
 created: 2026-06-19
 ---
 
-# The Comment-to-Get-It Posts and the 26-Hour Ban
+# The Comment to Get It Posts and the 26 Hour Ban
 
 ## The Story
 

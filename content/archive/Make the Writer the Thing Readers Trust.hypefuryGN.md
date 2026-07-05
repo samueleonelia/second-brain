@@ -37,4 +37,4 @@ Some content will never convert directly, yet still be worth producing because o
 ---
 
 ## Related (matched on mechanism)
-- (none yet)
+- [[Inbound-Led Outbound Through the Profile]] — adam-robinson, matched: parasocial-relationship

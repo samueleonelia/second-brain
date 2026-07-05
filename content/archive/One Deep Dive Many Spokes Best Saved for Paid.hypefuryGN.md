@@ -33,6 +33,7 @@ Make one deep thing, then cut it into many platform-native pieces instead of cre
 ---
 
 ## Related (matched on mechanism)
+- [[Bootstrap a New Platform With Content That Already Won]] — katelyn-bourgoin, matched: repurpose-one-to-many
 - [[One Essay Five Platform-Native Formats]] — kyla-scanlon, matched: repurpose-one-to-many, content-atomization
 - [[One Recording Into a Week of Content]] — duncan-rogoff, matched: repurpose-one-to-many, content-atomization
 - [[One Post, Many Pins]] — olivia-wickstrom, matched: repurpose-one-to-many, content-atomization

@@ -32,5 +32,6 @@ The audience that makes a launch easy is built in the boring months nobody watch
 ---
 
 ## Related (matched on mechanism)
-
+- [[Newsletter as Pipeline Bait, Then Follow the Signal]] — katelyn-bourgoin, matched: audience-before-product
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: daily-posting-streak
+- [[Content Market Fit Before Any Demo]] — adam-robinson, matched: audience-before-product

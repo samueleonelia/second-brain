@@ -30,5 +30,6 @@ One post is raw material for a dozen assets. Atomize each piece into several ang
 ---
 
 ## Related (matched on mechanism)
+- [[Bootstrap a New Platform With Content That Already Won]] — katelyn-bourgoin, matched: repurpose-one-to-many
 - [[One Recording Into a Week of Content]] — duncan-rogoff, matched: repurpose-one-to-many, content-atomization
 - [[One Deep Dive Many Spokes Best Saved for Paid]] — aakash-gupta, matched: repurpose-one-to-many, content-atomization

@@ -34,4 +34,5 @@ Find the intersection of two or three things your own history makes you uniquely
 ---
 
 ## Related (matched on mechanism)
+- [[Newsletter as Pipeline Bait, Then Follow the Signal]] — katelyn-bourgoin, matched: gap-in-market
 - [[A Gap in the Market Closed by Form Not Content]] — kyla-scanlon, matched: gap-in-market

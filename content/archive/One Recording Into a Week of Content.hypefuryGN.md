@@ -32,6 +32,7 @@ Your highest-effort asset is the long recording you already made. Atomizing it i
 ---
 
 ## Related (matched on mechanism)
+- [[Bootstrap a New Platform With Content That Already Won]] — katelyn-bourgoin, matched: repurpose-one-to-many
 - [[One Essay Five Platform-Native Formats]] — kyla-scanlon, matched: repurpose-one-to-many, content-atomization, multi-platform-ecosystem
 - [[One Post Many Pins]] — olivia-wickstrom, matched: repurpose-one-to-many, content-atomization
 - [[One Deep Dive Many Spokes Best Saved for Paid]] — aakash-gupta, matched: repurpose-one-to-many, content-atomization

@@ -37,3 +37,4 @@ Build for your own pain first. If it works for you, the build itself is content 
 - [[Run the Play 300 Times Before Selling the Template]] — maja-voje, matched: productize-the-process
 - [[The Tulum House That Became Launch House on Organic Attention]] — michael-houck, matched: build-in-public
 - [[Megaphone Productizes Cross-Creator Amplification]] — michael-houck, matched: productize-the-process
+- [[Content Market Fit Before Any Demo]] — adam-robinson, matched: build-in-public

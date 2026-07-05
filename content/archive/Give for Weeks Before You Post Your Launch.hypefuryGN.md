@@ -35,4 +35,4 @@ A borrowed community is earned, not raided. Contribute real value for weeks and 
 
 ## Related (matched on mechanism)
 
-- [[Zero-Budget Launch Through Borrowed Communities]] — maja-voje, matched: borrowed-communities
+- [[Zero Budget Launch Through Borrowed Communities]] — maja-voje, matched: borrowed-communities

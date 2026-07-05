@@ -45,8 +45,10 @@ The first-hour engagement window is a hard physical constraint, not a content-st
 ---
 
 ## Related (matched on mechanism)
-
+- [[Bootstrap a New Platform With Content That Already Won]] — katelyn-bourgoin, matched: linkedin-organic-growth
 - [[The First Hour Decides the Post]] — tom-alder, matched: first-hour-engagement
 - [[Editing the Link in After the First Hour]] — tom-alder, matched: first-hour-engagement
 - [[The Nine-Month Daily Posting Streak]] — tom-alder, matched: daily-posting-streak
 - [[Go All In on LinkedIn as the Agency Lead Channel]] — duncan-rogoff, matched: linkedin-organic-growth
+- [[The Ten-Person Commenting Play]] — adam-robinson, matched: do-things-that-dont-scale
+- [[Widening the Attack Surface]] — adam-robinson, matched: linkedin-organic-growth

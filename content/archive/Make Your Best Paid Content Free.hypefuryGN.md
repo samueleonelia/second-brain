@@ -32,3 +32,4 @@ Your best free post is your best sales asset. Give away one flagship a month, be
 ## Related (matched on mechanism)
 - [[Free Post Hooks, Paid Post Pays Off]] — tomas-pueyo, matched: free-drives-paid
 - [[Seventeen Sponsors Keep the Newsletter Free]] — maja-voje, matched: free-drives-paid
+- [[The Free Offer as a Megaphone]] — adam-robinson, matched: free-drives-paid

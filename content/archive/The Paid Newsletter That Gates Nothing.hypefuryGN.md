@@ -36,3 +36,4 @@ A paywall monetizes your best readers and silences your best marketing at the sa
 ## Related (matched on mechanism)
 - [[Seventeen Sponsors Keep the Newsletter Free]] — maja-voje, matched: free-drives-paid
 - [[Free Post Hooks, Paid Post Pays Off]] — tomas-pueyo, matched: free-drives-paid
+- [[The Free Offer as a Megaphone]] — adam-robinson, matched: free-drives-paid

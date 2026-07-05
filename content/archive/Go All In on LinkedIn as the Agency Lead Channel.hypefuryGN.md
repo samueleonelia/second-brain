@@ -36,4 +36,6 @@ Pick the platform where your buyer already is, not the one with the largest audi
 ---
 
 ## Related (matched on mechanism)
+- [[Bootstrap a New Platform With Content That Already Won]] — katelyn-bourgoin, matched: linkedin-organic-growth
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: linkedin-organic-growth
+- [[Widening the Attack Surface]] — adam-robinson, matched: linkedin-organic-growth

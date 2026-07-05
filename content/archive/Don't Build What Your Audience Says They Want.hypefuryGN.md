@@ -36,4 +36,5 @@ Clicks and survey answers measure what people will consume for free, not what th
 ---
 
 ## Related (matched on mechanism)
+- [[Research as the Moat Instead of Algorithm Hacks]] — katelyn-bourgoin, matched: audience-research
 - [[Research Trending Topics With the Last 30 Days Skill]] — duncan-rogoff, matched: audience-research (both mine audience signal before deciding what to publish — Duncan writes into trending demand, Geoff reads survey and engagement signal but keeps the editorial call rather than obeying it)

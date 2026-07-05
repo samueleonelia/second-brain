@@ -37,4 +37,5 @@ Start every piece from demand, not from a blank page. Before writing, pull what 
 ---
 
 ## Related (matched on mechanism)
+- [[Research as the Moat Instead of Algorithm Hacks]] — katelyn-bourgoin, matched: audience-research
 - [[Don't Build What Your Audience Says They Want]] — geoff-sharpe, matched: audience-research (both mine audience signal before deciding what to publish — Duncan writes into trending demand, Geoff reads survey and engagement signal but keeps the editorial call rather than obeying it)

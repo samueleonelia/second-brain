@@ -32,6 +32,8 @@ Grow and learn on a free list before you charge, and treat the size of that list
 ---
 
 ## Related (matched on mechanism)
+- [[Newsletter as Pipeline Bait, Then Follow the Signal]] — katelyn-bourgoin, matched: audience-before-product
 - [[The Nine-Month Daily Posting Streak]] — tom-alder, matched: audience-before-product
 - [[Sub-2-Dollar Subscribers Once the Content Proved Its Legs]] — michael-houck, matched: free-list-first
 - [[Buy the First Year of Growth in Month Three]] — geoff-sharpe, matched: free-list-first (both grow the free list first and monetize later — Aakash builds the audience before the product, Geoff buys the free list with ads before it converts to paying members)
+- [[Content Market Fit Before Any Demo]] — adam-robinson, matched: audience-before-product

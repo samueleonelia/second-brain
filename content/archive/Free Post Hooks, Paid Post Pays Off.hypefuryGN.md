@@ -33,3 +33,4 @@ Do not treat free and paid as separate products. Use the free post as the hook a
 - [[Make Your Best Paid Content Free]] — olivia-wickstrom, matched: free-drives-paid
 - [[Seventeen Sponsors Keep the Newsletter Free]] — maja-voje, matched: free-drives-paid
 - [[The Paid Newsletter That Gates Nothing]] — kyla-scanlon, matched: free-drives-paid
+- [[The Free Offer as a Megaphone]] — adam-robinson, matched: free-drives-paid

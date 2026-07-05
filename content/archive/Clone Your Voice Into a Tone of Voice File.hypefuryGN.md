@@ -34,4 +34,5 @@ Before you automate any content, capture your voice as a file. The cheapest way 
 ---
 
 ## Related (matched on mechanism)
+- [[A 52-Page Voice Doc That Lets AI Draft in Your Voice]] — katelyn-bourgoin, matched: voice-cloning
 - _No mechanism-tag matches among existing HypefuryGN cards yet._
