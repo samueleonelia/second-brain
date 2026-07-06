@@ -5,13 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-robinson
 identity_anchor: "@retentionadam"
 mechanism: "Write the hook before the post and refuse to write the post without one; then front-load hard credibility into every hook because post-to-post audience overlap is tiny, so each post must convert a total stranger."
-mechanism_tags: [hook-engineering, test-the-hook, credibility-stacking, post-like-a-stranger]
-quotes:
-  - text: "you have to treat each post as though no one has ever heard of you before"
-  - text: "use as many numbers as humanly possible"
-  - text: "the crossover of audience from post to post is like 15%"
-  - text: "I spoke to 10 early stage founders over the last four weeks about cold outbound"
-tags: [linkedin, founder-led-growth, copywriting]
+mechanism_tags: hook-engineering, test-the-hook, credibility-stacking, post-like-a-stranger
 created: 2026-07-04
 ---
 
@@ -28,6 +22,13 @@ He gives concrete hook patterns. The first is quantification: _"use as many numb
 ## Lesson for Creators
 
 Assume every reader is a stranger, every time, and design the first line to prove you are worth reading before they know anything about you. Lead with a number, a credibility marker, or brokered insight. And impose the discipline Adam does: if you cannot write a compelling hook, do not write the post at all. The hook is not decoration on the idea; it is the gate the idea has to pass through.
+
+## Quotes
+
+- "you have to treat each post as though no one has ever heard of you before"
+- "use as many numbers as humanly possible"
+- "the crossover of audience from post to post is like 15%"
+- "I spoke to 10 early stage founders over the last four weeks about cold outbound"
 
 ## Sources
 

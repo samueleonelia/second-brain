@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Hired sixteen influencers to publish at coordinated times so a small brand looked omnipresent during a market spike."
-mechanism_tags: [coordinated-influencer-drop, manufactured-omnipresence, b2b-influencers, paid-momentum]
-quotes:
-  - text: "now we hire 16 influencers we tell them exactly what time should they publish this"
-  - text: "it will look like to our audience that we are everywhere"
-tags: [influencer-marketing, distribution, b2b]
+mechanism_tags: coordinated-influencer-drop, manufactured-omnipresence, b2b-influencers, paid-momentum
 created: 2026-06-19
 ---
 
@@ -26,6 +22,11 @@ The effect was perception, not reach for its own sake. "it will look like to our
 ## Lesson for Creators
 
 A small brand can borrow the appearance of dominance. Coordinate several trusted voices to publish the same thing in one tight window, and a moment of manufactured omnipresence can do what a big ad budget cannot.
+
+## Quotes
+
+- "now we hire 16 influencers we tell them exactly what time should they publish this"
+- "it will look like to our audience that we are everywhere"
 
 ## Sources
 

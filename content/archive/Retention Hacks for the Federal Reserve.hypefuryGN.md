@@ -4,11 +4,7 @@ pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Deliberately engineers attention-span hacks into educational videos, treating retention mechanics as a tool to keep people listening to dry institutional topics"
-mechanism_tags: [retention-engineering, attention-economy, educational-content, algorithm-mechanics]
-quotes:
-  - text: "I think about attention spans when I make videos I do hacks to keep people listening about the Federal Reserve"
-  - text: "you're fighting against the entire world for just a second of people's time"
-tags: [short-form-video, retention, attention-economy, educational-content]
+mechanism_tags: retention-engineering, attention-economy, educational-content, algorithm-mechanics
 created: 2026-06-11
 ---
 
@@ -25,6 +21,11 @@ What separates her use of the playbook from the one she criticizes is what the r
 ## Lesson for Creators
 
 Educational creators routinely lose to entertainment because they treat retention engineering as beneath the material. Scanlon's position is that the dry topic is precisely why the hacks are required: the harder the subject, the more deliberately each video has to earn its next second. Study retention like an entertainer, then spend the attention on substance.
+
+## Quotes
+
+- "I think about attention spans when I make videos I do hacks to keep people listening about the Federal Reserve"
+- "you're fighting against the entire world for just a second of people's time"
 
 ## Sources
 

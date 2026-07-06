@@ -5,10 +5,7 @@ pipeline: hypefuryGN-v1
 creator: tomas-pueyo
 identity_anchor: tomaspueyo.com
 mechanism: "Coin a reusable two-part metaphor (geography as hardware, institutions as software) and apply it across an explanation, so a complex subject becomes a graspable, shareable mental model."
-mechanism_tags: [simplify-complexity, mental-model, accessibility-as-moat]
-quotes:
-  - text: "that's the hardware, but also the software is one of the best that we've come up with so far"
-tags: [explainer, writing-craft, mental-models]
+mechanism_tags: simplify-complexity, mental-model, accessibility-as-moat
 created: 2026-06-30
 ---
 
@@ -23,6 +20,10 @@ That reaction is the mechanism in miniature. A sticky two-part frame does the ex
 ## Lesson for Creators
 
 Do not just simplify; package the simplification into a phrase people can carry. A clean, reusable metaphor makes a hard idea click, and it hands readers a handle they pass on for you.
+
+## Quotes
+
+- "that's the hardware, but also the software is one of the best that we've come up with so far"
 
 ## Sources
 - https://www.youtube.com/watch?v=apKKXbhpdQs

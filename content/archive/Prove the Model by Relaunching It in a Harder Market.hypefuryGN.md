@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: geoff-sharpe
 identity_anchor: lookoutmediaco.com
 mechanism: "Deliberately relaunch a validated newsletter into a tougher, more competitive market as a controlled test, then benchmark the new city's month-by-month metrics against the original's timeline — near-identical numbers prove the playbook is replicable before betting on further expansion."
-mechanism_tags: [model-replication, market-expansion, benchmarking, disciplined-scaling]
-quotes:
-  - text: "if it works in a place like Vancouver then that tells us that the model works basically everywhere"
-  - text: "a lot of benchmarking to see how each publication is comparing where they are at each different spot of the timeline"
-  - text: "we're basically hitting the same number of paying members the same same if not better sort of open rate"
-tags: [newsletters, expansion, benchmarking]
+mechanism_tags: model-replication, market-expansion, benchmarking, disciplined-scaling
 created: 2026-07-01
 ---
 
@@ -27,6 +22,12 @@ It did. _"we're basically hitting the same number of paying members the same sam
 ## Lesson for Creators
 
 Your first success might be the market, not the method. Before you scale a playbook, re-run it somewhere harder and instrument it: line the new venture's metrics up against the original's timeline, month for month, so you are comparing like with like. If a tougher market reproduces the numbers, you have evidence the model travels. If it does not, you learned that cheaply, before pouring money into replication.
+
+## Quotes
+
+- "if it works in a place like Vancouver then that tells us that the model works basically everywhere"
+- "a lot of benchmarking to see how each publication is comparing where they are at each different spot of the timeline"
+- "we're basically hitting the same number of paying members the same same if not better sort of open rate"
 
 ## Sources
 

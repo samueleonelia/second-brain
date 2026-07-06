@@ -5,13 +5,7 @@ pipeline: hypefuryGN-v1
 creator: dave-kline
 identity_anchor: "@davidkline"
 mechanism: "Kline and his wife built a creator funnel (LinkedIn + Twitter presence feeding a newsletter feeding cohort courses feeding 1:1 coaching) around a sharp statistical wedge (60% of managers fail, only ~15% get any training) and turned their husband-wife split into a positioning feature rather than a bug."
-mechanism_tags: [creator-funnel, newsletter-to-course, husband-wife-duo, audience-to-product]
-quotes:
-  - text: "Twitter and Linkedin lead to the newsletter which lead to the courses"
-  - text: "the husband wife Duo thing would be a bug and then it turned out to be a feature"
-  - text: "can turn me off at any moment in time"
-  - text: "like a dinner party"
-tags: [creator-business, newsletter, cohort-courses, personal-brand]
+mechanism_tags: creator-funnel, newsletter-to-course, husband-wife-duo, audience-to-product
 created: 2026-07-02
 ---
 
@@ -28,6 +22,13 @@ Their most counterintuitive move was positioning. They initially assumed running
 ## Lesson for Creators
 
 A durable creator business is a funnel, not a single channel: rented attention (social) feeds an owned list (newsletter) that feeds a real product (courses) that feeds your highest-touch offer (coaching). Anchor the whole thing to a sharp, quantified problem your audience already feels. And the "flaw" you're tempted to hide, like an unconventional two-person setup, is often the exact thing that makes you distinctive: lean into it instead of sanding it off.
+
+## Quotes
+
+- "Twitter and Linkedin lead to the newsletter which lead to the courses"
+- "the husband wife Duo thing would be a bug and then it turned out to be a feature"
+- "can turn me off at any moment in time"
+- "like a dinner party"
 
 ## Sources
 

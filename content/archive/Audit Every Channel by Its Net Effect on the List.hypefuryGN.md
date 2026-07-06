@@ -5,9 +5,7 @@ pipeline: hypefuryGN-v1
 creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Measured his free podcast's true effect on his email list and found it net-negative — each podcast email triggered ~150 unsubscribes against ~10 new subscribers from promotion — and named the channel a drain instead of assuming every channel grows the core asset."
-mechanism_tags: [channel-net-roi, analytics-driven-content, list-health]
-quotes: []
-tags: [newsletter-growth, metrics, channels]
+mechanism_tags: channel-net-roi, analytics-driven-content, list-health
 created: 2026-06-29
 ---
 
@@ -33,3 +31,4 @@ Measure each channel by its net effect on the asset you actually care about, and
 
 ## Related (matched on mechanism)
 - [[The Paid-Subscriber Northstar]] — aakash-gupta, matched: analytics-driven-content
+- [[Channel-Offer Fit Beats Product-Market Fit]] — jakob-greenfeld, matched: channel-net-roi

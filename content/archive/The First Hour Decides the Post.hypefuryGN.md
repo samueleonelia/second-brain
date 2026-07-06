@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: tom-alder
 identity_anchor: strategy breakdowns
 mechanism: "Treats the first hour after publishing as the single biggest predictor of a LinkedIn post's total reach, and stays present replying to every comment in that window to push first-hour reactions past the ~200 viral threshold"
-mechanism_tags: [first-hour-engagement, reply-to-every-comment, algorithm-window, viral-threshold]
-quotes:
-  - text: "the first hour right after you post is is by far the most important time period in determining the success of the post"
-tags: [linkedin, engagement, algorithm]
+mechanism_tags: first-hour-engagement, reply-to-every-comment, algorithm-window, viral-threshold
 created: 2026-06-02
 ---
 
@@ -25,6 +22,10 @@ _"the first hour right after you post is by far the most important time period i
 
 Reach is decided before lunch. Block the hour after you publish for live replies, treat early reactions as a leading indicator, and judge whether a post is working by its first sixty minutes rather than its first day.
 
+## Quotes
+
+- "the first hour right after you post is is by far the most important time period in determining the success of the post"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=Q8cbpfII_dg
@@ -34,3 +35,4 @@ Reach is decided before lunch. Block the hour after you publish for live replies
 ## Related (matched on mechanism)
 
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: first-hour-engagement
+- [[Befriend Five Creators to Clear the Initial Barrier]] — jakob-greenfeld, matched: first-hour-engagement, viral-threshold

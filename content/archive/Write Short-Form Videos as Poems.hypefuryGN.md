@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Scripts every short-form video with poem structure (beats, line breaks, word timbre) so a finance explainer holds attention the way verse does"
-mechanism_tags: [poem-structure-scripts, short-form-scripting, retention-engineering, format-craft]
-quotes:
-  - text: "I write them as poems"
-tags: [short-form-video, tiktok, content-craft, finance-creators]
+mechanism_tags: poem-structure-scripts, short-form-scripting, retention-engineering, format-craft
 created: 2026-06-11
 ---
 
@@ -26,6 +23,10 @@ The result reads as effortless speed. Viewers describe her videos as having the 
 ## Lesson for Creators
 
 The unit of craft in short-form video is the script, not the edit. Structuring a script as a poem forces three decisions that retention depends on: where the beats land, how long each line runs, and which word carries the stress. A creator in any dense niche can copy this mechanically by drafting the script in verse form first and only then recording it.
+
+## Quotes
+
+- "I write them as poems"
 
 ## Sources
 

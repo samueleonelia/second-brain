@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: tom-alder
 identity_anchor: strategy breakdowns
 mechanism: "Instead of a single self-comment, drops about five high-value comments on his own post after the ten-minute mark, including a Unicode-bold BONUS TIP led by an emoji, each ending in its own CTA"
-mechanism_tags: [stacked-self-comments, bonus-tip-comment, cta-in-comments, dont-set-and-forget]
-quotes:
-  - text: "you don't just leave one comment you leave like five awesome comments on your own posts"
-tags: [linkedin, comments, cta]
+mechanism_tags: stacked-self-comments, bonus-tip-comment, cta-in-comments, dont-set-and-forget
 created: 2026-06-02
 ---
 
@@ -24,6 +21,10 @@ _"you don't just leave one comment, you leave five awesome comments on your own 
 ## Lesson for Creators
 
 Treat your own comment section as bonus content, not an afterthought. A handful of high-value self-comments, each with a distinct CTA, multiplies the chances a reader takes the next step.
+
+## Quotes
+
+- "you don't just leave one comment you leave like five awesome comments on your own posts"
 
 ## Sources
 

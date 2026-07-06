@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Tests demand by trying to pre-sell a PDF or slide deck before building, treating a real payment as the only honest willingness-to-pay signal."
-mechanism_tags: [pre-sell-to-validate, willingness-to-pay-test, sell-before-build, anti-survey]
-quotes:
-  - text: "create PDF create like a PowerPoint presentation and try to sell it try to pre-sell it people are like shut up and take my money"
-  - text: "I'm anti- survey but I'm definitely into early monetization"
-tags: [validation, pricing, pre-sell]
+mechanism_tags: pre-sell-to-validate, willingness-to-pay-test, sell-before-build, anti-survey
 created: 2026-06-19
 ---
 
@@ -26,6 +22,11 @@ The pre-sale does double duty: it validates and it funds. Collecting pre-orders 
 ## Lesson for Creators
 
 The only reliable willingness-to-pay test is a charge. Package the idea as a PDF or deck, try to pre-sell it, and let real payments, not survey answers, decide whether to build.
+
+## Quotes
+
+- "create PDF create like a PowerPoint presentation and try to sell it try to pre-sell it people are like shut up and take my money"
+- "I'm anti- survey but I'm definitely into early monetization"
 
 ## Sources
 

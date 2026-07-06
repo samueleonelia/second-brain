@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: tom-alder
 identity_anchor: strategy breakdowns
 mechanism: "Added a subscribe CTA to the bottom of his existing daily LinkedIn posts, pointing to a near-blank coming-soon landing page, and accumulated ~5,000 subscribers before publishing a single edition"
-mechanism_tags: [pre-launch-list, cta-on-existing-content, placeholder-landing-page, launch-before-ready]
-quotes:
-  - text: "by the time my first email went out I was yeah ballpark 5,000 maybe four and a half thousand subscribers"
-tags: [linkedin, newsletter, cold-start, pre-launch]
+mechanism_tags: pre-launch-list, cta-on-existing-content, placeholder-landing-page, launch-before-ready
 created: 2026-06-02
 ---
 
@@ -25,6 +22,10 @@ _"by the time my first email went out I was yeah ballpark 5,000 maybe four and a
 
 You do not need the product before you start the list. If you already have any audience, attach a subscribe CTA to the content you are posting anyway and send it to a placeholder page. The first edition can go out to thousands instead of to friends and family.
 
+## Quotes
+
+- "by the time my first email went out I was yeah ballpark 5,000 maybe four and a half thousand subscribers"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=Q8cbpfII_dg
@@ -32,3 +33,4 @@ You do not need the product before you start the list. If you already have any a
 ---
 
 ## Related (matched on mechanism)
+- [[A 90-Minute Tool That Hit Number 2 on Product Hunt]] — jakob-greenfeld, matched: launch-before-ready

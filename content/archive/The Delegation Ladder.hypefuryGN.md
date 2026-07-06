@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: dave-kline
 identity_anchor: "@davidkline"
 mechanism: "Kline sequences delegation to beat the fear that blocks it: start with low-risk internal and explicitly experimental work, and with the tasks you are bad at (handing them to someone different from you), and only move your critical, best-at work last."
-mechanism_tags: [delegation-sequencing, delegate-your-weakness, manager-leverage, low-risk-first]
-quotes:
-  - text: "don't take something that you have a superpower in and give that away"
-  - text: "delegate too late not too soon"
-tags: [delegation, management, leverage, team-building]
+mechanism_tags: delegation-sequencing, delegate-your-weakness, manager-leverage, low-risk-first
 created: 2026-07-02
 ---
 
@@ -28,6 +24,11 @@ He frames "delegate everything" as aspirational: as you offload, you free space 
 ## Lesson for Creators
 
 Delegation stalls on fear, so lower the stakes of the first step. Offload low-risk, internal, and clearly experimental work first, and give away your weaknesses (to people wired for them) before your strengths. That builds the muscle and the trust to eventually hand off even your best work. The default error is waiting too long, not letting go too early.
+
+## Quotes
+
+- "don't take something that you have a superpower in and give that away"
+- "delegate too late not too soon"
 
 ## Sources
 

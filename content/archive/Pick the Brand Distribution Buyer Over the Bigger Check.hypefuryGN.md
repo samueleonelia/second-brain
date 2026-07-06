@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-biddlecombe
 identity_anchor: "@adam-bidd"
 mechanism: "When HubSpot offered to acquire Mindstream alongside competing offers from other buyers, modeled the 10-year compounding value of post-exit access (podcast bookings, partner network, personal brand lift) and chose HubSpot over a hypothetical 10x cash offer from an unknown buyer, reasoning that the brand-association tail beat the immediate check"
-mechanism_tags: [buyer-fit-over-price, exit-narrative-building, post-exit-distribution-flywheel, clean-books-as-exit-prep]
-quotes:
-  - text: "I will be wealthier from taking the HubSpot deal rather than taking the deal with 10x the money from unheard of company"
-  - text: "don't have any skeletons in the closet"
-tags: [newsletter, acquisition, exit-strategy]
+mechanism_tags: buyer-fit-over-price, exit-narrative-building, post-exit-distribution-flywheel, clean-books-as-exit-prep
 created: 2026-06-11
 ---
 
@@ -33,6 +29,11 @@ After the close, HubSpot moved Mindstream off the sponsorship treadmill and onto
 
 The buyer who pays the most is not always the buyer who pays you the most. When the asset being sold is partly a personal-brand seed crystal, optimize for who can compound that brand after the close. Run the books clean from day one so the due-diligence call is boring, and accept the lower offer when its post-exit distribution is structurally larger than the alternative.
 
+
+## Quotes
+
+- "I will be wealthier from taking the HubSpot deal rather than taking the deal with 10x the money from unheard of company"
+- "don't have any skeletons in the closet"
 
 ## Sources
 

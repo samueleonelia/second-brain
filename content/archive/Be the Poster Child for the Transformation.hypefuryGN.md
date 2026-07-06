@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth
 mechanism: "Posts photos and Notes that show herself actually living the outcome her publication sells, so a scrolling stranger thinks 'if she can do it, I can too,' then clicks through and subscribes"
-mechanism_tags: [poster-child, show-dont-tell, embody-the-outcome, identification-hook]
-quotes:
-  - text: "The shift is letting your readers see you actually living the transformation, not just writing about it"
-tags: [substack, notes, positioning]
+mechanism_tags: poster-child, show-dont-tell, embody-the-outcome, identification-hook
 created: 2026-06-02
 ---
 
@@ -22,6 +19,10 @@ So she shares the evidence, not just the advice: the cozy home office, the finan
 ## Lesson for Creators
 
 You are the case study for what you sell. Show yourself living the outcome your readers want, because watching someone already do it is more persuasive than any how-to.
+
+## Quotes
+
+- "The shift is letting your readers see you actually living the transformation, not just writing about it"
 
 ## Sources
 

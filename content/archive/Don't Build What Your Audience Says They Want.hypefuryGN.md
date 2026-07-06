@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: geoff-sharpe
 identity_anchor: lookoutmediaco.com
 mechanism: "Refuse to let survey-stated preferences dictate the product, because what readers click and say they want (events, real estate) is not what they will pay for (hard journalism) — keep the paid hard-news core even though events get the most engagement."
-mechanism_tags: [revealed-preference, editorial-independence, willingness-to-pay, audience-research]
-quotes:
-  - text: "what people are willing to pay for is very different from what they're willing to sort of say that they want"
-  - text: "if I only did what people told us to cover in terms of topics, it would be an event-based newsletter"
-  - text: "giving an audience what they don't know that they want"
-tags: [newsletters, editorial-strategy, monetization]
+mechanism_tags: revealed-preference, editorial-independence, willingness-to-pay, audience-research
 created: 2026-07-01
 ---
 
@@ -27,6 +22,12 @@ Geoff positions this as an editorial responsibility, not contrarianism for its o
 ## Lesson for Creators
 
 Clicks and survey answers measure what people will consume for free, not what they will pay for — and those are often different products. If you monetize through memberships, optimize the paid core around revealed willingness-to-pay, even when your most-engaged content points somewhere cheaper. Use the popular, low-value material (events, listicles) as the top-of-funnel hook, and reserve the paywall for the work only you can produce. Listening to your audience means finding the guard rails, not handing them the editorial pen.
+
+## Quotes
+
+- "what people are willing to pay for is very different from what they're willing to sort of say that they want"
+- "if I only did what people told us to cover in terms of topics, it would be an event-based newsletter"
+- "giving an audience what they don't know that they want"
 
 ## Sources
 

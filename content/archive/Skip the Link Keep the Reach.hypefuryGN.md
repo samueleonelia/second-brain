@@ -4,9 +4,7 @@ pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Omits the newsletter link from Reels and TikToks entirely to dodge the algorithm's link penalty, leaving a searchable breadcrumb (a self-comment saying find it on Substack) for high-intent viewers"
-mechanism_tags: [dodge-link-penalty, searchable-breadcrumb, algorithm-mechanics, newsletter-growth]
-quotes: []
-tags: [distribution, instagram, tiktok, newsletter-growth]
+mechanism_tags: dodge-link-penalty, searchable-breadcrumb, algorithm-mechanics, newsletter-growth
 created: 2026-06-11
 ---
 

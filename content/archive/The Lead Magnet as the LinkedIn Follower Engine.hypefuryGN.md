@@ -4,14 +4,7 @@ pipeline: hypefuryGN-v1
 creator: duncan-rogoff
 identity_anchor: https://www.youtube.com/@duncanrogoff
 mechanism: "Post hyper-targeted free lead magnets that require a comment (or an email on a landing page) to receive, converting cold strangers into followers and leads, while balancing giveaways with authority posts."
-mechanism_tags: [lead-magnet, comment-gating, email-capture, audience-growth]
-quotes:
-  - text: "This is the fastest way to grow your following on LinkedIn right now, I guarantee it."
-  - text: "It is hyper-targeted and focused and it requires them to engage with you in order to receive the thing that they want, thus growing your audience and your following and making your first connections."
-  - text: "over 20,000 impressions and over 1,000 comments"
-  - text: "the people who do put in their email are actually the highest intent buyers anyway, and you want to nurture those relationships. So, it's a quality over quantity debate."
-  - text: "having a balance of lead magnets and authority building or expert positioning post will really serve you the best in the long term."
-tags: [linkedin, lead-magnet, audience-growth, creator-monetization]
+mechanism_tags: lead-magnet, comment-gating, email-capture, audience-growth
 created: 2026-06-15
 ---
 
@@ -30,6 +23,14 @@ He runs two distribution modes. The low-friction one: when someone comments a ke
 ## Lesson for Creators
 
 A lead magnet converts a like-only audience into an engaged, reachable list. Gate it behind a comment to maximize reach, or behind an email to filter for buying intent, but alternate the giveaways with authority posts so you build a reputation rather than a giveaway habit. The comment requirement is not a gimmick; it is what turns a passive impression into a contactable lead.
+
+## Quotes
+
+- "This is the fastest way to grow your following on LinkedIn right now, I guarantee it."
+- "It is hyper-targeted and focused and it requires them to engage with you in order to receive the thing that they want, thus growing your audience and your following and making your first connections."
+- "over 20,000 impressions and over 1,000 comments"
+- "the people who do put in their email are actually the highest intent buyers anyway, and you want to nurture those relationships. So, it's a quality over quantity debate."
+- "having a balance of lead magnets and authority building or expert positioning post will really serve you the best in the long term."
 
 ## Sources
 

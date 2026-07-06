@@ -4,12 +4,7 @@ pipeline: hypefuryGN-v1
 creator: duncan-rogoff
 identity_anchor: https://www.youtube.com/@duncanrogoff
 mechanism: "Run every long recording (podcast, webinar, video) through one automation that atomizes it into platform-native captions for X, LinkedIn, and Instagram plus three differently-angled blog posts, so one hour of talking yields a week of content."
-mechanism_tags: [repurpose-one-to-many, content-atomization, multi-platform-ecosystem, content-leverage]
-quotes:
-  - text: "If you're publishing podcasts or webinars and not repurposing them, you're basically lighting free leads on fire. One recording can be an entire week of content if you have the right system."
-  - text: "a repeatable content engine that turns 1 hour of talking into a week's worth of social media posts and a full marketing stack"
-  - text: "you get three separate blog posts that take a different angle on the same topic"
-tags: [content-repurposing, content-atomization, multi-platform, creator-systems]
+mechanism_tags: repurpose-one-to-many, content-atomization, multi-platform-ecosystem, content-leverage
 created: 2026-06-15
 ---
 
@@ -24,6 +19,12 @@ The output is deliberately platform-native rather than one message copy-pasted e
 ## Lesson for Creators
 
 Your highest-effort asset is the long recording you already made. Atomizing it into platform-shaped pieces, and re-angling the same material into several genuinely different posts, multiplies reach without multiplying the work. The recording is the seed; a week of content is the harvest you leave on the table when you publish once and move on.
+
+## Quotes
+
+- "If you're publishing podcasts or webinars and not repurposing them, you're basically lighting free leads on fire. One recording can be an entire week of content if you have the right system."
+- "a repeatable content engine that turns 1 hour of talking into a week's worth of social media posts and a full marketing stack"
+- "you get three separate blog posts that take a different angle on the same topic"
 
 ## Sources
 

@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-biddlecombe
 identity_anchor: "@adam-bidd"
 mechanism: "Built a daily four-touchpoint routine around the LinkedIn first-hour engagement window: write and schedule a post before work, run home at lunch to engage with every comment at peak visibility, return after the workday for another engagement block, sustaining it for the first 6-7 weeks to pull the first 1,000 newsletter subscribers entirely from organic LinkedIn"
-mechanism_tags: [first-hour-engagement, linkedin-organic-growth, do-things-that-dont-scale, linkedin-newsletter-funnel, daily-posting-streak]
-quotes:
-  - text: "I would literally run home, get on my laptop, and uh engage on LinkedIn around the time of the post"
-  - text: "wake up at 6:00 a.m., go to the gym, come home, write a piece of content for LinkedIn"
-  - text: "the LinkedIn account became a subscriber generator. It also became our like main revenue driver and it became our our inbound source of leads to to then grow the newsletter"
-tags: [linkedin, newsletter, early-growth]
+mechanism_tags: first-hour-engagement, linkedin-organic-growth, do-things-that-dont-scale, linkedin-newsletter-funnel, daily-posting-streak
 created: 2026-06-11
 ---
 
@@ -37,6 +32,12 @@ _"the LinkedIn account became a subscriber generator. It also became our like ma
 The first-hour engagement window is a hard physical constraint, not a content-strategy abstraction. Build your day around being at the keyboard during that window, even if it means engineering an absurd lunch-break sprint. Doing it for six weeks straight while still in a day job is what produces the first thousand subscribers without ad spend. The work is small, the window is short, and the routine is the moat.
 
 
+## Quotes
+
+- "I would literally run home, get on my laptop, and uh engage on LinkedIn around the time of the post"
+- "wake up at 6:00 a.m., go to the gym, come home, write a piece of content for LinkedIn"
+- "the LinkedIn account became a subscriber generator. It also became our like main revenue driver and it became our our inbound source of leads to to then grow the newsletter"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=uhEyv-wk4hs
@@ -52,3 +53,5 @@ The first-hour engagement window is a hard physical constraint, not a content-st
 - [[Go All In on LinkedIn as the Agency Lead Channel]] — duncan-rogoff, matched: linkedin-organic-growth
 - [[The Ten-Person Commenting Play]] — adam-robinson, matched: do-things-that-dont-scale
 - [[Widening the Attack Surface]] — adam-robinson, matched: linkedin-organic-growth
+- [[Befriend Five Creators to Clear the Initial Barrier]] — jakob-greenfeld, matched: first-hour-engagement
+- [[A Tweet Every Day to Stay Findable]] — jakob-greenfeld, matched: daily-posting-streak

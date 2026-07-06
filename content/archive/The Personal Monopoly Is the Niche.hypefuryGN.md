@@ -5,9 +5,7 @@ pipeline: hypefuryGN-v1
 creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Positioned Product Growth at the intersection of B2B growth, B2C consumer growth, and careers — a topic only his 16-year PM-to-VP path covered — so he competed against no one directly. He paid $4,000 for David Perell's Write of Passage to learn the framing he calls a market of one."
-mechanism_tags: [personal-monopoly, gap-in-market, niche-at-intersection]
-quotes: []
-tags: [newsletter-growth, positioning, niche]
+mechanism_tags: personal-monopoly, gap-in-market, niche-at-intersection
 created: 2026-06-29
 ---
 

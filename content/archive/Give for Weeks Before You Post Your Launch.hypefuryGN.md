@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Earns the right to post a launch in someone else's community by contributing value for weeks first and getting the admin's blessing."
-mechanism_tags: [give-before-you-get, community-warmup, borrowed-communities, admin-endorsement]
-quotes:
-  - text: "always give before you get"
-  - text: "if you just like spend a couple of weeks before and just like give a couple of useful information"
-tags: [communities, distribution, launch]
+mechanism_tags: give-before-you-get, community-warmup, borrowed-communities, admin-endorsement
 created: 2026-06-19
 ---
 
@@ -26,6 +22,11 @@ The strongest version adds the gatekeeper. If you can earn the active admin's bl
 ## Lesson for Creators
 
 A borrowed community is earned, not raided. Contribute real value for weeks and win the admin's endorsement before you ever post your launch, so the audience receives you as a member rather than an intruder.
+
+## Quotes
+
+- "always give before you get"
+- "if you just like spend a couple of weeks before and just like give a couple of useful information"
 
 ## Sources
 

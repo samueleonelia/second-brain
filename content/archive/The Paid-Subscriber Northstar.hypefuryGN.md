@@ -5,9 +5,7 @@ pipeline: hypefuryGN-v1
 creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Ranks every piece he ships by one revenue-proximate metric — net new paid subscribers (paid signups minus paid cancels) — and lets that single number, not free-subscriber or follower counts, govern his content calendar."
-mechanism_tags: [single-northstar-metric, conversion-as-judge, analytics-driven-content]
-quotes: []
-tags: [newsletter-growth, metrics, monetization]
+mechanism_tags: single-northstar-metric, conversion-as-judge, analytics-driven-content
 created: 2026-06-29
 ---
 

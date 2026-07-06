@@ -5,14 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-biddlecombe
 identity_anchor: "@adam-bidd"
 mechanism: "Priced ad inventory ~10-15% below competitor CPMs and offered to lock advertisers into multi-month contracts at the lower rate, achieving >50% advertiser retention and removing the need for a sales team or customer success hire by making each renewed deal more profitable than chasing the marginal new advertiser"
-mechanism_tags: [pricing-undercut, long-term-advertiser-lock, no-sales-team, advertiser-retention-via-engagement, revenue-mix, flat-fee-sponsorships]
-quotes:
-  - text: "we would just undercut slightly"
-  - text: "we kind of kept our rates a little bit lower than industry standard"
-  - text: "we had more than 50% retention with our advertisers"
-  - text: "the way we kept long-term customers is pricing at a position that just made so much sense for them"
-  - text: "my rationale was let's get kind of a little bit less revenue than we could but then not have to hire a sales person and a customer success people and churn through advertisers at like a a quick rate"
-tags: [newsletter, monetization, sponsorship-pricing]
+mechanism_tags: pricing-undercut, long-term-advertiser-lock, no-sales-team, advertiser-retention-via-engagement, revenue-mix, flat-fee-sponsorships
 created: 2026-06-11
 ---
 
@@ -42,6 +35,14 @@ _"my rationale was let's get kind of a little bit less revenue than we could but
 
 The highest CPM you can extract is rarely the most profitable price. When your alternative is hiring a sales team to refill the funnel every month, underpricing the inventory and locking the relationship is the move that keeps you operating on the founder's calendar instead of the salesperson's. Advertiser retention above 50% is what lets a newsletter forecast like a SaaS product.
 
+
+## Quotes
+
+- "we would just undercut slightly"
+- "we kind of kept our rates a little bit lower than industry standard"
+- "we had more than 50% retention with our advertisers"
+- "the way we kept long-term customers is pricing at a position that just made so much sense for them"
+- "my rationale was let's get kind of a little bit less revenue than we could but then not have to hire a sales person and a customer success people and churn through advertisers at like a a quick rate"
 
 ## Sources
 

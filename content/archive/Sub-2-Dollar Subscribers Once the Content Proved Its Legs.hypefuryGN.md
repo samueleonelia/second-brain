@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: michael-houck
 identity_anchor: foundingjourney.com
 mechanism: "Scales a newsletter with paid acquisition (Meta, X, sometimes TikTok) at under $2 per subscriber against a roughly $12 yearly value, but only after organic content and cross-promos prove the funnel converts."
-mechanism_tags: [paid-newsletter-ads, social-to-email-funnel, free-list-first]
-quotes:
-  - text: "most scale with paid ads"
-  - text: "I invested modestly after proving legs with content"
-tags: [newsletter, paid-acquisition, audience-growth]
+mechanism_tags: paid-newsletter-ads, social-to-email-funnel, free-list-first
 created: 2026-06-30
 ---
 
@@ -28,6 +24,11 @@ Because the unit economics held, he had no interest in raising for the business.
 ## Lesson for Creators
 
 Paid ads are how most large newsletters actually scale, and a sub-$2 subscriber against a $12 value is a profitable, repeatable machine. But prove the organic funnel first. Earn some subscribers with content and cross-promos, confirm they stay and convert, and only then spend to amplify what is already working.
+
+## Quotes
+
+- "most scale with paid ads"
+- "I invested modestly after proving legs with content"
 
 ## Sources
 

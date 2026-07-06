@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Picked financial education as her niche from direct customer observation while selling cars in college, watching buyers sign loans without knowing what an interest rate was"
-mechanism_tags: [niche-from-customer-contact, day-job-discovery, unmet-need-observation, niche-selection]
-quotes:
-  - text: "I used to sell cars in college and people would come in and not know what an interest rate was"
-tags: [niche-selection, origin, finance-creators, customer-discovery]
+mechanism_tags: niche-from-customer-contact, day-job-discovery, unmet-need-observation, niche-selection
 created: 2026-06-11
 ---
 
@@ -25,6 +22,10 @@ She then went to the buy side at Capital Group, graduated into the pandemic, and
 
 The strongest niche selection data comes from jobs that put you face to face with the audience's ignorance, not from keyword tools. A day job where customers repeatedly fail at the same thing is a recorded list of content that needs to exist. The replicable move is to mine your own service-job history for the question customers kept getting wrong, and make that question the channel.
 
+## Quotes
+
+- "I used to sell cars in college and people would come in and not know what an interest rate was"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=GXWMjCo6s34
@@ -33,3 +34,4 @@ The strongest niche selection data comes from jobs that put you face to face wit
 ---
 
 ## Related (matched on mechanism)
+- [[The Box Got Bigger but Remained a Box]] — jakob-greenfeld, matched: niche-selection

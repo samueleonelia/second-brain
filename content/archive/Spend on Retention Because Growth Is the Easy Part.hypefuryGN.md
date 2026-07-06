@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: geoff-sharpe
 identity_anchor: lookoutmediaco.com
 mechanism: "Shift time and money away from top-of-funnel growth and into retention — onboarding sequences, audience segmentation, surveys, strong editorial — because cutting churn by 30-40% frees the same budget to re-spend on growth, and growth is now the easy half."
-mechanism_tags: [retention-engineering, churn-reduction, onboarding-series, growth-vs-retention]
-quotes:
-  - text: "it's actually never been easier to grow but it's never been harder to retain those people that you grow"
-  - text: "worrying about growing your list worrying about retention"
-  - text: "your ad spend and your resources will go a lot farther"
-tags: [newsletters, retention, churn]
+mechanism_tags: retention-engineering, churn-reduction, onboarding-series, growth-vs-retention
 created: 2026-07-01
 ---
 
@@ -27,6 +22,12 @@ Concretely, retention for Lookout means a strong onboarding series, audience seg
 ## Lesson for Creators
 
 If acquisition is cheap and mechanical, it is no longer where your effort earns the most. Automate growth — buy it with well-targeted ads — and pour your genuinely scarce resource, attention, into retention: onboarding, segmentation, surveys, and editorial quality. A 30-40% cut in churn is money you get to spend again on growth, which means retention work quietly funds acquisition. Treat keeping subscribers, not getting them, as the hard and high-leverage problem.
+
+## Quotes
+
+- "it's actually never been easier to grow but it's never been harder to retain those people that you grow"
+- "worrying about growing your list worrying about retention"
+- "your ad spend and your resources will go a lot farther"
 
 ## Sources
 

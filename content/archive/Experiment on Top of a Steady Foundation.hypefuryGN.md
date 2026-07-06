@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth
 mechanism: "Once consistent posting and clear pillars are in place, deliberately layers a new growth experiment on top of that foundation on a regular cadence, giving each one three to six months and a pre-defined success metric before judging it"
-mechanism_tags: [relentless-experimentation, layer-on-foundation, three-to-six-month-window, pre-defined-success-metric]
-quotes:
-  - text: "Give it at least three to six months before you decide if it's working"
-tags: [substack, experimentation, growth]
+mechanism_tags: relentless-experimentation, layer-on-foundation, three-to-six-month-window, pre-defined-success-metric
 created: 2026-06-02
 ---
 
@@ -22,6 +19,10 @@ She runs it with rules learned by doing it wrong first. Each experiment ties to 
 ## Lesson for Creators
 
 Consistency gets you to a plateau; experiments get you past it. Keep a stable base, then layer one new, measured bet on top at a regular cadence and give it real time before you judge it.
+
+## Quotes
+
+- "Give it at least three to six months before you decide if it's working"
 
 ## Sources
 

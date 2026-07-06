@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: tomas-pueyo
 identity_anchor: tomaspueyo.com
 mechanism: "Carry a hard-won intuition from a prior job (watching Facebook viral apps grow exponentially) into a new domain, giving you a read on events that outsiders without that pattern lack."
-mechanism_tags: [transferable-intuition, exponential-thinking, pattern-recognition]
-quotes:
-  - text: "handling Facebook viral apps and I built a few that grew"
-  - text: "you get a good sense of it"
-  - text: "viral applications that exploded to up to 20 million users"
-tags: [career-pivot, virality, intuition]
+mechanism_tags: transferable-intuition, exponential-thinking, pattern-recognition
 created: 2026-06-30
 ---
 
@@ -25,6 +20,12 @@ That instinct is what he pointed at COVID. When cases started doubling, his prod
 ## Lesson for Creators
 
 Your unfair advantage is often an instinct you built somewhere else. Name the pattern only you can see because of your past work, then aim it at a topic where everyone else is reading the data without that lens.
+
+## Quotes
+
+- "handling Facebook viral apps and I built a few that grew"
+- "you get a good sense of it"
+- "viral applications that exploded to up to 20 million users"
 
 ## Sources
 - https://www.youtube.com/watch?v=apKKXbhpdQs

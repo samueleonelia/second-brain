@@ -4,9 +4,7 @@ pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Timed her TikTok launch to the December 2020 GameStop mania, the exact window when demand for market explainers spiked and she was newly free of employer compliance rules"
-mechanism_tags: [timing-entry, news-volatility-window, compliance-exit, cold-start]
-quotes: []
-tags: [tiktok, cold-start, finance-creators, market-timing]
+mechanism_tags: timing-entry, news-volatility-window, compliance-exit, cold-start
 created: 2026-06-11
 ---
 
@@ -31,3 +29,4 @@ Cold starts are cheapest when the niche is in chaos, because chaos manufactures 
 ---
 
 ## Related (matched on mechanism)
+- [[Growth Playbooks Decay With Every Copying Cohort]] — jakob-greenfeld, matched: timing-entry

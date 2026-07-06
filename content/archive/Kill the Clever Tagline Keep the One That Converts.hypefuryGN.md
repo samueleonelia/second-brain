@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Tested book taglines with paid traffic, killed a clever line that lost thousands, and kept the literal one that converted at 8.5%."
-mechanism_tags: [test-with-paid-traffic, positioning-over-taste, kill-clever-copy, conversion-as-judge]
-quotes:
-  - text: "My first tagline was from overwhelm to hyperfocus"
-  - text: "lose a couple of thousands of euros because that bloody thing did not convert"
-tags: [positioning, copywriting, launch]
+mechanism_tags: test-with-paid-traffic, positioning-over-taste, kill-clever-copy, conversion-as-judge
 created: 2026-06-19
 ---
 
@@ -26,6 +22,11 @@ She replaced it with a blunt, literal promise, from strategy to profit, which th
 ## Lesson for Creators
 
 Treat positioning as an experiment with a scoreboard. Put each candidate headline in front of paid traffic, read the conversion rate, and let a clever line die the moment a literal one outsells it.
+
+## Quotes
+
+- "My first tagline was from overwhelm to hyperfocus"
+- "lose a couple of thousands of euros because that bloody thing did not convert"
 
 ## Sources
 

@@ -5,9 +5,7 @@ pipeline: hypefuryGN-v1
 creator: tomas-pueyo
 identity_anchor: tomaspueyo.com
 mechanism: "Run a paired weekly cadence where a broadly shareable free post opens a curiosity gap and a paid follow-up delivers the answer, so free reach directly feeds paid conversions."
-mechanism_tags: [free-drives-paid, free-hook-paid-payoff, curiosity-gap]
-quotes: []
-tags: [monetization, newsletter, paywall]
+mechanism_tags: free-drives-paid, free-hook-paid-payoff, curiosity-gap
 created: 2026-06-30
 ---
 

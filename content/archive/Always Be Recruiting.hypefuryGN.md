@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: dave-kline
 identity_anchor: "@davidkline"
 mechanism: "Kline distinguishes reactive hiring (post a role, interview the best available now) from continuous recruiting: imagining the roles you'll need 6-12 months out, building a warm pre-vetted list of the best people, and nurturing them so that when a seat opens you pick the best-of-the-best at lower cost."
-mechanism_tags: [continuous-recruiting, talent-pipeline, relationship-nurture, hiring-vs-recruiting]
-quotes:
-  - text: "always be recruiting"
-  - text: "chief of staff for like the next seven years"
-tags: [hiring, recruiting, talent, management]
+mechanism_tags: continuous-recruiting, talent-pipeline, relationship-nurture, hiring-vs-recruiting
 created: 2026-07-02
 ---
 
@@ -26,6 +22,11 @@ To show recruiting is a discipline, not a lucky break, Kline points to the top-g
 ## Lesson for Creators
 
 Do not wait for the vacancy. Keep a running short list of the people you would most want, from collaborators to hires, and touch each of them on a light cadence long before you have an opening. When you finally need someone, you are picking from warm, pre-qualified people instead of scrambling for whoever is available and on the market. Recruiting is a slow drip you control; hiring is a panic you inherit.
+
+## Quotes
+
+- "always be recruiting"
+- "chief of staff for like the next seven years"
 
 ## Sources
 

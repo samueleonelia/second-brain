@@ -4,11 +4,7 @@ pipeline: hypefuryGN-v1
 creator: duncan-rogoff
 identity_anchor: https://www.youtube.com/@duncanrogoff
 mechanism: "Build an automation to solve your own problem, then monetize the same artifact three ways at once: use it yourself, turn the build into content (a YouTube video), and sell it as a client project."
-mechanism_tags: [build-in-public, productize-the-process, sell-what-you-build, first-sale]
-quotes:
-  - text: "one of the first AI automations I ever built was an automation for LinkedIn. It would take trending news sources, it would write a LinkedIn post all in my tone of voice, and then it would publish it to LinkedIn."
-  - text: "This became one of my first YouTube videos, and this actually became one of the first client projects that I ever sold. I sold it for 600 bucks, and the rest is history."
-tags: [build-in-public, monetization, ai-automation, creator-monetization]
+mechanism_tags: build-in-public, productize-the-process, sell-what-you-build, first-sale
 created: 2026-06-15
 ---
 
@@ -26,6 +22,11 @@ The pattern compounds over time. The same trending-topic automation he first sol
 
 Build for your own pain first. If it works for you, the build itself is content (show the wiring) and the result is a product (sell the outcome). One artifact can pay you as a tool you use, a video that grows an audience, and a client deliverable, so stop separating "what I use" from "what I sell." The first thing you make to scratch your own itch is usually your first sellable asset.
 
+## Quotes
+
+- "one of the first AI automations I ever built was an automation for LinkedIn. It would take trending news sources, it would write a LinkedIn post all in my tone of voice, and then it would publish it to LinkedIn."
+- "This became one of my first YouTube videos, and this actually became one of the first client projects that I ever sold. I sold it for 600 bucks, and the rest is history."
+
 ## Sources
 
 - https://www.youtube.com/watch?v=z_rXNjNnx7s
@@ -38,3 +39,4 @@ Build for your own pain first. If it works for you, the build itself is content 
 - [[The Tulum House That Became Launch House on Organic Attention]] — michael-houck, matched: build-in-public
 - [[Megaphone Productizes Cross-Creator Amplification]] — michael-houck, matched: productize-the-process
 - [[Content Market Fit Before Any Demo]] — adam-robinson, matched: build-in-public
+- [[A Made-By Badge That Landed a Podcast Shoutout]] — jakob-greenfeld, matched: build-in-public

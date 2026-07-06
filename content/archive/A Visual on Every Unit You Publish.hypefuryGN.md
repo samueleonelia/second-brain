@@ -5,9 +5,7 @@ pipeline: hypefuryGN-v1
 creator: tomas-pueyo
 identity_anchor: tomaspueyo.com
 mechanism: "Attach a visualization to every unit of distribution (a chart or map on every tweet in a thread, about one image per 130 to 140 words in an article) so the content stops the scroll and travels."
-mechanism_tags: [data-visualization, visual-on-every-post, format-differentiation]
-quotes: []
-tags: [distribution, visuals, twitter]
+mechanism_tags: data-visualization, visual-on-every-post, format-differentiation
 created: 2026-06-30
 ---
 

@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: tom-alder
 identity_anchor: strategy breakdowns
 mechanism: "Publishes the post link-free to protect first-hour reach, then edits the post after one hour to add the newsletter CTA, sidestepping LinkedIn's link penalty while still capturing subscribers"
-mechanism_tags: [delayed-link-edit, dodge-link-penalty, cta-placement, first-hour-engagement]
-quotes:
-  - text: "you want to edit the post after 1 hour so you leave the post without um any link for the first hour optimized for you know engagement"
-tags: [linkedin, cta, reach]
+mechanism_tags: delayed-link-edit, dodge-link-penalty, cta-placement, first-hour-engagement
 created: 2026-06-02
 ---
 
@@ -25,6 +22,10 @@ _"you want to edit the post after 1 hour, so you leave the post without any link
 
 Do not make the algorithm choose between your reach and your conversion. Win the first hour with a clean post, then edit the call-to-action in once the reach is locked.
 
+## Quotes
+
+- "you want to edit the post after 1 hour so you leave the post without um any link for the first hour optimized for you know engagement"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=Q8cbpfII_dg
@@ -34,3 +35,4 @@ Do not make the algorithm choose between your reach and your conversion. Win the
 ## Related (matched on mechanism)
 
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: first-hour-engagement
+- [[Befriend Five Creators to Clear the Initial Barrier]] — jakob-greenfeld, matched: first-hour-engagement

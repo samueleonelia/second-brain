@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-biddlecombe
 identity_anchor: "@adam-bidd"
 mechanism: "Ran an always-on automation that removed any subscriber who had not opened or clicked a newsletter in 50 days, accepting a smaller topline subscriber count in exchange for advertiser-grade engagement metrics and protected deliverability, taking the open rate from 27-28% post-acquisition to 46-47% within a year"
-mechanism_tags: [list-hygiene, aggressive-pruning, advertiser-retention-via-engagement, deliverability-discipline, small-list-real-numbers]
-quotes:
-  - text: "if anyone didn't um engage like open or click on our list in I think it's 50 days we took them off the list completely"
-  - text: "we were like actively and manually scrubbing our list with an automation that was happening all the time"
-  - text: "our topline number of subscribers could have been almost really as high as we wanted to. But again if you if you do that and inflate your prices as such you can end up suddenly being um unviable for these advertisers"
-tags: [newsletter, list-hygiene, engagement]
+mechanism_tags: list-hygiene, aggressive-pruning, advertiser-retention-via-engagement, deliverability-discipline, small-list-real-numbers
 created: 2026-06-11
 ---
 
@@ -36,6 +31,12 @@ The compounding consequence was an open rate that climbed from ~27-28% to ~46-47
 
 Aggressive culling is the unsexy infrastructure behind a sustainable ad business. A 50-day no-engagement cutoff makes the open rate you quote to advertisers the actual open rate they will see on their first send. The marketing-team instinct to maximize the headline is the right instinct for impressing investors and the wrong one for keeping advertisers past month two.
 
+
+## Quotes
+
+- "if anyone didn't um engage like open or click on our list in I think it's 50 days we took them off the list completely"
+- "we were like actively and manually scrubbing our list with an automation that was happening all the time"
+- "our topline number of subscribers could have been almost really as high as we wanted to. But again if you if you do that and inflate your prices as such you can end up suddenly being um unviable for these advertisers"
 
 ## Sources
 

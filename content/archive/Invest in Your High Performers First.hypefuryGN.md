@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: dave-kline
 identity_anchor: "@davidkline"
 mechanism: "Kline reversed his early instinct to pour time into low performers by doing the math: a 10% lift on a 2x performer adds far more output than a 10% lift on a 50% performer, so disciplined managers protect time for their best people instead of being pulled toward the most demanding ones."
-mechanism_tags: [high-performer-roi, time-allocation, compounding-returns, invest-in-strengths]
-quotes:
-  - text: "I screw this up I had this backwards"
-  - text: "just skip my mistake and do that"
-tags: [management, performance, time-management, high-performers]
+mechanism_tags: high-performer-roi, time-allocation, compounding-returns, invest-in-strengths
 created: 2026-07-02
 ---
 
@@ -26,6 +22,11 @@ Kline is clear this is about time allocation, not writing off strugglers. He has
 ## Lesson for Creators
 
 Your attention flows to whoever makes the most noise, which is usually your weakest performer, and that's backwards. Run the math: a small improvement on your best people compounds into far more output than the same effort spent rescuing a struggler. Build a deliberate habit that protects time for your top performers instead of letting the demanding ones absorb it by default.
+
+## Quotes
+
+- "I screw this up I had this backwards"
+- "just skip my mistake and do that"
 
 ## Sources
 

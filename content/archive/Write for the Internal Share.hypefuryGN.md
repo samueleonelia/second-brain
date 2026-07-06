@@ -5,9 +5,7 @@ pipeline: hypefuryGN-v1
 creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "After a deep guide got shared inside Meta and produced a wave of paid signups from big-tech employees with learning-and-development budgets, he reverse-engineered the pattern and began deliberately writing pieces designed to circulate inside large companies whose staff can expense the paid subscription."
-mechanism_tags: [enterprise-internal-share, organic-referral, paid-conversion-driver]
-quotes: []
-tags: [newsletter-growth, paid-conversion, referral]
+mechanism_tags: enterprise-internal-share, organic-referral, paid-conversion-driver
 created: 2026-06-29
 ---
 

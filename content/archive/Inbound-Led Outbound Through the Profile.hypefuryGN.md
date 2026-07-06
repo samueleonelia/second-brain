@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-robinson
 identity_anchor: "@retentionadam"
 mechanism: "Use the audience built on a personal profile to run outbound that books at near-100% because prospects feel they already know you; then hand the actual call to a teammate, so the profile's booking power scales past the founder's own hours."
-mechanism_tags: [inbound-led-outbound, warm-outbound, personal-brand-distribution, parasocial-relationship]
-quotes:
-  - text: "a 100% book rate and 100% show rate"
-  - text: "the profile can be scaled beyond the hours that I have in the day"
-tags: [linkedin, founder-led-growth, sales, distribution]
+mechanism_tags: inbound-led-outbound, warm-outbound, personal-brand-distribution, parasocial-relationship
 created: 2026-07-04
 ---
 
@@ -27,6 +23,11 @@ The discipline around it is restraint. The RB2B tool resolves anonymous website 
 
 An audience is not just reach, it is a permission structure for outbound. The people who consume your content will take a meeting from you that they would never take from a stranger, and crucially they will take it even when someone else runs the call. Build the parasocial trust first, then let it book meetings at rates cold outreach cannot touch, and scale it by decoupling the introduction from the person who actually shows up.
 
+## Quotes
+
+- "a 100% book rate and 100% show rate"
+- "the profile can be scaled beyond the hours that I have in the day"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=cvl4Wk76dsY
@@ -36,3 +37,4 @@ An audience is not just reach, it is a permission structure for outbound. The pe
 
 ## Related (matched on mechanism)
 - [[Make the Writer the Thing Readers Trust]] — geoff-sharpe, matched: parasocial-relationship
+- [[A Made-By Badge That Landed a Podcast Shoutout]] — jakob-greenfeld, matched: personal-brand-distribution

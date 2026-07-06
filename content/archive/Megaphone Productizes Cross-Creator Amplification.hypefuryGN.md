@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: michael-houck
 identity_anchor: foundingjourney.com
 mechanism: "Turned the manual cross-promo tactic into a paid product: a SaaS that routes a user's posts to bigger creators who engage with and amplify them for a set fee, with creators pricing their own amplification."
-mechanism_tags: [productize-the-process, paid-amplification, creator-network-distribution]
-quotes:
-  - text: "route your content to big creators for amplification"
-  - text: "a thread hitting 1.6M impressions"
-  - text: "success with audience building comes down to a combination of quality content and timely, relevant engagement"
-tags: [audience-growth, distribution, saas]
+mechanism_tags: productize-the-process, paid-amplification, creator-network-distribution
 created: 2026-06-30
 ---
 
@@ -29,6 +24,12 @@ He treated the product as a step ladder, not a moonshot: skateboard, then bike, 
 ## Lesson for Creators
 
 The tactic you do by hand is often a product someone will pay for. Houck spent years trading engagement with peers, then packaged that exact behavior into a marketplace where amplification has a price. If a growth move works repeatedly and depends on a network you have built, productizing it turns your relationships into a revenue stream instead of a series of one-off favors.
+
+## Quotes
+
+- "route your content to big creators for amplification"
+- "a thread hitting 1.6M impressions"
+- "success with audience building comes down to a combination of quality content and timely, relevant engagement"
 
 ## Sources
 

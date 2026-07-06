@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-robinson
 identity_anchor: "@retentionadam"
 mechanism: "Pick 2-3 authentic, slightly polarizing content pillars and repeat each one endlessly in fresh forms, so the audience builds a single clear picture of who you are without noticing the repetition."
-mechanism_tags: [content-pillars, message-repetition, constraint-as-focus, founder-brand]
-quotes:
-  - text: "All a content pillar is is you just saying the same thing over and over again in many different ways"
-  - text: "the skill is saying it in a way where people do not realize that that is what you're doing"
-tags: [linkedin, founder-led-growth, content-strategy]
+mechanism_tags: content-pillars, message-repetition, constraint-as-focus, founder-brand
 created: 2026-07-04
 ---
 
@@ -28,6 +24,11 @@ The result is a manufactured but true identity: ask anyone who follows Adam who 
 ## Lesson for Creators
 
 Fear of repetition is the enemy. Because only a fraction of your followers see any given post, and because they forget, the same idea has to be said again and again, just dressed differently. Choose two or three specific, defensible themes, not the safe mainstream ones, and hammer each from new angles. The craft is not variety of topic; it is variety of expression around a fixed, narrow message.
+
+## Quotes
+
+- "All a content pillar is is you just saying the same thing over and over again in many different ways"
+- "the skill is saying it in a way where people do not realize that that is what you're doing"
 
 ## Sources
 

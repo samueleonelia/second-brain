@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-biddlecombe
 identity_anchor: "@adam-bidd"
 mechanism: "In a category of 1,000+ AI newsletters all using AI to summarize AI news, hired a working copywriter as co-founder, layered editorial opinion on top of every news item, and signed off every single issue with a tagline declaring the issue had been written by humans, turning the bot-saturated competitive landscape into the differentiator"
-mechanism_tags: [editorial-differentiation, anti-ai-positioning, opinion-layer-on-curation, copywriter-as-cofounder, category-saturation-as-opening]
-quotes:
-  - text: "from day one, what we tried to do is not just report on the biggest AI news, but the AI news that we thought was really interesting and then to give an opinion on that news"
-  - text: "And also we signed off every newsletter with written by humans"
-  - text: "we had this excellent editorial team and talent that were um you know doing the job of surfing the web every day to find out what was going on and then adding summarizing it, curating it but adding some real editorial and journalistic insight"
-tags: [newsletter, editorial, positioning]
+mechanism_tags: editorial-differentiation, anti-ai-positioning, opinion-layer-on-curation, copywriter-as-cofounder, category-saturation-as-opening
 created: 2026-06-11
 ---
 
@@ -37,6 +32,12 @@ That sign-off was the cheapest piece of brand positioning in the company. It ref
 In a category where the dominant tool is the same one every competitor is using, the positioning move is not to find a smaller niche but to declare what your competitors quietly are. A working copywriter as your co-author is structurally different from a smart prompt, and saying so at the bottom of every issue lets the reader feel the difference without an essay about it.
 
 
+## Quotes
+
+- "from day one, what we tried to do is not just report on the biggest AI news, but the AI news that we thought was really interesting and then to give an opinion on that news"
+- "And also we signed off every newsletter with written by humans"
+- "we had this excellent editorial team and talent that were um you know doing the job of surfing the web every day to find out what was going on and then adding summarizing it, curating it but adding some real editorial and journalistic insight"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=uhEyv-wk4hs
@@ -45,3 +46,4 @@ In a category where the dominant tool is the same one every competitor is using,
 ---
 
 ## Related (matched on mechanism)
+- [[Growth Playbooks Decay With Every Copying Cohort]] — jakob-greenfeld, matched: category-saturation-as-opening

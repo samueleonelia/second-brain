@@ -5,13 +5,7 @@ pipeline: hypefuryGN-v1
 creator: geoff-sharpe
 identity_anchor: lookoutmediaco.com
 mechanism: "Put the individual writer's name and face in the newsletter so readers build trust in a person, not just the masthead — then convert that personal trust into revenue the content itself won't sell, like sold-out paid events."
-mechanism_tags: [named-writer-trust, parasocial-relationship, trust-to-events, personal-brand-moat]
-quotes:
-  - text: "it's not just our brand that people trust, it's the food writer themselves"
-  - text: "we have a picture of them in the newsletter so people know who they are"
-  - text: "$120 tickets sold out in a week"
-  - text: "trust is so hard to build and so easy to lose"
-tags: [newsletters, personal-brand, trust]
+mechanism_tags: named-writer-trust, parasocial-relationship, trust-to-events, personal-brand-moat
 created: 2026-07-01
 ---
 
@@ -29,6 +23,13 @@ The payoff shows up in adjacent revenue. That personal trust let Lookout run its
 
 Some content will never convert directly, yet still be worth producing because of the trust it builds in a named person. Put a real face and byline on the work, hold that trust as sacred (no pay-for-praise, ever), and then monetize the relationship rather than the article — through events, memberships, or access. People pay to be near someone they trust more readily than they pay for the content that earned the trust.
 
+## Quotes
+
+- "it's not just our brand that people trust, it's the food writer themselves"
+- "we have a picture of them in the newsletter so people know who they are"
+- "$120 tickets sold out in a week"
+- "trust is so hard to build and so easy to lose"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=SHepIYEgtxs
@@ -38,3 +39,4 @@ Some content will never convert directly, yet still be worth producing because o
 
 ## Related (matched on mechanism)
 - [[Inbound-Led Outbound Through the Profile]] — adam-robinson, matched: parasocial-relationship
+- [[The Box Got Bigger but Remained a Box]] — jakob-greenfeld, matched: personal-brand-moat

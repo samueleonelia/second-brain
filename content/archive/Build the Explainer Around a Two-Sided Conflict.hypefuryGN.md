@@ -5,10 +5,7 @@ pipeline: hypefuryGN-v1
 creator: tomas-pueyo
 identity_anchor: tomaspueyo.com
 mechanism: "Structure an explainer around a two-sided conflict, because audiences instinctively grasp conflict, turning a dry topic into a story they will follow."
-mechanism_tags: [conflict-structure, storytelling, narrative-tension]
-quotes:
-  - text: "conflict is something that people really really understand. It's the basis of storytelling."
-tags: [storytelling, writing-process, structure]
+mechanism_tags: conflict-structure, storytelling, narrative-tension
 created: 2026-06-30
 ---
 
@@ -23,6 +20,10 @@ The two-sided frame gives the reader stakes and a reason to keep reading through
 ## Lesson for Creators
 
 A fact list informs; a conflict pulls. Find the genuine two-sided tension inside your topic, two forces, two camps, or two outcomes, and build the piece on it. You never have to tell the reader to care, because the conflict does that for you.
+
+## Quotes
+
+- "conflict is something that people really really understand. It's the basis of storytelling."
 
 ## Sources
 - https://www.youtube.com/watch?v=apKKXbhpdQs

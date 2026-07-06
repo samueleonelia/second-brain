@@ -5,10 +5,7 @@ pipeline: hypefuryGN-v1
 creator: tomas-pueyo
 identity_anchor: tomaspueyo.com
 mechanism: "When one piece goes viral, immediately convert the borrowed attention into an owned email list via an embedded sign-up form, instead of letting the traffic evaporate on a rented platform."
-mechanism_tags: [capture-the-spike, social-to-email-funnel, email-capture]
-quotes:
-  - text: "65 million reads and most of them within a week"
-tags: [audience-growth, email, virality]
+mechanism_tags: capture-the-spike, social-to-email-funnel, email-capture
 created: 2026-06-30
 ---
 
@@ -23,6 +20,10 @@ The distinction matters. The same spike also took him from roughly 450 to over 3
 ## Lesson for Creators
 
 Virality is a flood, not a faucet. Put an email capture inside the viral piece itself so a one-time spike becomes a list you can reach again. Attention you do not convert to an owned channel is attention you rent and lose.
+
+## Quotes
+
+- "65 million reads and most of them within a week"
 
 ## Sources
 - https://www.youtube.com/watch?v=apKKXbhpdQs

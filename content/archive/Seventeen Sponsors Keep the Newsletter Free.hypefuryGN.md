@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Funds a free newsletter through flat-fee brand sponsorships (17 partners in 2024) rather than reader subscriptions, keeping reach ungated."
-mechanism_tags: [flat-fee-sponsorships, free-drives-paid, sponsor-funded-free, revenue-mix]
-quotes:
-  - text: "In 2024, 17 partners supported my content"
-  - text: "Your support helps keep this Substack free for everyone"
-tags: [newsletter-revenue, sponsorships, monetization]
+mechanism_tags: flat-fee-sponsorships, free-drives-paid, sponsor-funded-free, revenue-mix
 created: 2026-06-19
 ---
 
@@ -26,6 +22,11 @@ Keeping the front door free is what makes the sponsorships worth buying. A large
 ## Lesson for Creators
 
 Sponsorship and free reach compound. Keep the newsletter open to everyone, sell the resulting audience to a roster of flat-fee brand partners, and let sponsor revenue, not reader paywalls, fund the work.
+
+## Quotes
+
+- "In 2024, 17 partners supported my content"
+- "Your support helps keep this Substack free for everyone"
 
 ## Sources
 

@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: tomas-pueyo
 identity_anchor: tomaspueyo.com
 mechanism: "Maintain a large standing backlog of drafts (100 to 150 in progress) and work in repeatable themed series, so there is always a piece ready to ship and a template to apply to the next subject."
-mechanism_tags: [draft-pipeline, idea-backlog, series-format]
-quotes:
-  - text: "I already have the draft"
-  - text: "a lot of what to say about it"
-tags: [content-pipeline, consistency, writing-process]
+mechanism_tags: draft-pipeline, idea-backlog, series-format
 created: 2026-06-30
 ---
 
@@ -24,6 +20,11 @@ On Summation he points to the next one in the queue. He has not published Argent
 ## Lesson for Creators
 
 Consistency is not willpower; it is inventory. Keep far more drafts alive than you publish, and work in repeatable formats, so every week you ship the strongest ready piece instead of inventing one under deadline.
+
+## Quotes
+
+- "I already have the draft"
+- "a lot of what to say about it"
 
 ## Sources
 - https://www.youtube.com/watch?v=-D5d-Rpyi9c

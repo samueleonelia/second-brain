@@ -5,9 +5,7 @@ pipeline: hypefuryGN-v1
 creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Published a deeply-researched essay to his own website, got no traffic, then reposted the same piece to LinkedIn where it found an instant audience — the moment that started his content flywheel. He stopped publishing into the void of an owned site with no built-in reach."
-mechanism_tags: [cold-start, rented-platform-distribution, owned-site-cold-start]
-quotes: []
-tags: [newsletter-growth, distribution, cold-start]
+mechanism_tags: cold-start, rented-platform-distribution, owned-site-cold-start
 created: 2026-06-29
 ---
 

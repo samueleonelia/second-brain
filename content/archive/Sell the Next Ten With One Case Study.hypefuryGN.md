@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Landed a single champion customer, built a working use case and case study with them, then sold the same solution to ten lookalikes off that one proof."
-mechanism_tags: [land-one-champion, case-study-led-sales, productize-the-result, enterprise-beachhead]
-quotes:
-  - text: "we constructed a case study and then we presented it with that specific client on webinars on industry events"
-  - text: "you helped one person now how can we find five or 10 different people that need the same thing"
-tags: [sales, enterprise, case-studies]
+mechanism_tags: land-one-champion, case-study-led-sales, productize-the-result, enterprise-beachhead
 created: 2026-06-19
 ---
 
@@ -26,6 +22,11 @@ Then they cloned the motion. "you helped one person now how can we find five or 
 ## Lesson for Creators
 
 In a hard market, win one believer completely before chasing many. Co-build a real result with a single champion, package it as a case study, and use that one proof to sell the next ten customers who share the same problem.
+
+## Quotes
+
+- "we constructed a case study and then we presented it with that specific client on webinars on industry events"
+- "you helped one person now how can we find five or 10 different people that need the same thing"
 
 ## Sources
 

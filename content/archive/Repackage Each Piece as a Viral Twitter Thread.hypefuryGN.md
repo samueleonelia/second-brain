@@ -5,9 +5,7 @@ pipeline: hypefuryGN-v1
 creator: tomas-pueyo
 identity_anchor: tomaspueyo.com
 mechanism: "Repackage each long-form research piece into a Twitter thread engineered to go viral, one cohesive story with a curiosity hook and a visualization in every tweet, making threads the primary distribution channel that reaches millions and feeds the newsletter."
-mechanism_tags: [viral-distribution, twitter-threads, story-as-thread]
-quotes: []
-tags: [audience-growth, twitter, distribution, virality]
+mechanism_tags: viral-distribution, twitter-threads, story-as-thread
 created: 2026-06-30
 ---
 

@@ -4,13 +4,7 @@ pipeline: hypefuryGN-v1
 creator: duncan-rogoff
 identity_anchor: https://www.youtube.com/@duncanrogoff
 mechanism: "Bet the whole content strategy on LinkedIn (not YouTube) because a professional audience converts directly into B2B agency leads, then track followers and inbound leads as the scoreboard."
-mechanism_tags: [linkedin-organic-growth, channel-bet, b2b-lead-gen, organic-traffic]
-quotes:
-  - text: "A few months ago, I made a decision to go all in on building my brand on LinkedIn, knowing that the professional connections I would make would likely lead to a lot of leads for my business."
-  - text: "in just a couple of months, I went from 1,500 followers to over 10,000 followers"
-  - text: "What is the best social media platform to publish your content on if you want to actually book automation clients? And I'll give you a hint, it's not YouTube."
-  - text: "LinkedIn is one of the main platforms I've used to grow my AI agency to over $10,000 a month and sell my automations to thousands of customers."
-tags: [linkedin, audience-growth, b2b, creator-monetization]
+mechanism_tags: linkedin-organic-growth, channel-bet, b2b-lead-gen, organic-traffic
 created: 2026-06-15
 ---
 
@@ -28,6 +22,13 @@ The bet paid out on two scoreboards at once. On audience, _"in just a couple of 
 
 Pick the platform where your buyer already is, not the one with the largest audience. For a B2B offer, a focused LinkedIn presence can out-earn a much larger following on a platform where the buyers never transact. Duncan measured the bet by inbound leads, not vanity reach, which is why he could tell within months that the concentration was working.
 
+## Quotes
+
+- "A few months ago, I made a decision to go all in on building my brand on LinkedIn, knowing that the professional connections I would make would likely lead to a lot of leads for my business."
+- "in just a couple of months, I went from 1,500 followers to over 10,000 followers"
+- "What is the best social media platform to publish your content on if you want to actually book automation clients? And I'll give you a hint, it's not YouTube."
+- "LinkedIn is one of the main platforms I've used to grow my AI agency to over $10,000 a month and sell my automations to thousands of customers."
+
 ## Sources
 
 - https://www.youtube.com/watch?v=z_rXNjNnx7s
@@ -39,3 +40,5 @@ Pick the platform where your buyer already is, not the one with the largest audi
 - [[Bootstrap a New Platform With Content That Already Won]] — katelyn-bourgoin, matched: linkedin-organic-growth
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: linkedin-organic-growth
 - [[Widening the Attack Surface]] — adam-robinson, matched: linkedin-organic-growth
+- [[Channel-Offer Fit Beats Product-Market Fit]] — jakob-greenfeld, matched: channel-bet
+- [[Master One Distribution Channel First]] — jakob-greenfeld, matched: channel-bet

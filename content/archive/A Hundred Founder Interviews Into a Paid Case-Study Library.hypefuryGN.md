@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: michael-houck
 identity_anchor: foundingjourney.com
 mechanism: "Converts recorded founder interviews into a paid, ever-growing case-study library plus a pitch-deck database, so each conversation becomes a durable membership asset rather than a one-time episode."
-mechanism_tags: [interview-to-asset, case-study-led-sales, membership-library]
-quotes:
-  - text: "turned those conversations into case studies"
-  - text: "My database of over 1,800+ pitch decks"
-tags: [newsletter, membership, content-repurposing]
+mechanism_tags: interview-to-asset, case-study-led-sales, membership-library
 created: 2026-06-30
 ---
 
@@ -28,6 +24,11 @@ Because the catalogue grows every week, the membership gets more valuable over t
 ## Lesson for Creators
 
 An interview is not a disposable episode; it is raw material for an asset that can be sold again and again. Record the conversation once, then turn it into a written case study that lives in a library members pay to access. A back catalogue that grows every week becomes its own reason to subscribe, so the content you already make for reach does double duty as the product.
+
+## Quotes
+
+- "turned those conversations into case studies"
+- "My database of over 1,800+ pitch decks"
 
 ## Sources
 

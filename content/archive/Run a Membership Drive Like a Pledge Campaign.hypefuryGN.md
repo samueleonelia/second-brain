@@ -5,13 +5,7 @@ pipeline: hypefuryGN-v1
 creator: geoff-sharpe
 identity_anchor: lookoutmediaco.com
 mechanism: "Concentrate a large share of annual paid-membership revenue into a single time-boxed December drive built as a story arc — a mission, a funding target, and a hard deadline — rather than asking for support year-round."
-mechanism_tags: [membership-drive, deadline-campaign, campaign-storytelling, annual-revenue-concentration]
-quotes:
-  - text: "campaigns as a mechanism for raising money work really"
-  - text: "creating a story around what you're doing is incredibly powerful"
-  - text: "we need 30 new members to fund this series by October 31st"
-  - text: "setting that deadline helps anchor it in people's minds that something has to be done by this point"
-tags: [newsletters, membership, fundraising-campaign]
+mechanism_tags: membership-drive, deadline-campaign, campaign-storytelling, annual-revenue-concentration
 created: 2026-07-01
 ---
 
@@ -28,6 +22,13 @@ Two levers do the heavy lifting: a target and a timeline. He frames it as a coun
 ## Lesson for Creators
 
 A recurring-revenue product does not have to sell itself the same way every week. Concentrate a slice of your annual ask into one campaign with three ingredients: a mission the audience can see the point of, a specific numeric target, and a real deadline. Give people a role in the story — funding a named piece of work — instead of a generic "support us." Then let the clock do the closing: expect most sign-ups in the final days, and design the arc so the last week has the most pressure.
+
+## Quotes
+
+- "campaigns as a mechanism for raising money work really"
+- "creating a story around what you're doing is incredibly powerful"
+- "we need 30 new members to fund this series by October 31st"
+- "setting that deadline helps anchor it in people's minds that something has to be done by this point"
 
 ## Sources
 

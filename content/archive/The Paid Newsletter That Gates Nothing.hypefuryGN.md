@@ -4,11 +4,7 @@ pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Runs a paid Substack ($10/month, $110/year, pay-what-you-want) with zero gated content, selling independence from clicks and brand deals instead of access"
-mechanism_tags: [free-drives-paid, patronage-model, no-paywall, independence-as-product]
-quotes:
-  - text: "It will always be free"
-  - text: "I don't have to optimize for clicks or take every brand deal that comes my way"
-tags: [monetization, newsletter, substack, patronage]
+mechanism_tags: free-drives-paid, patronage-model, no-paywall, independence-as-product
 created: 2026-06-11
 ---
 
@@ -25,6 +21,11 @@ Growth In Reverse noted how rare this is in the creator space and how it shapes 
 ## Lesson for Creators
 
 A paywall monetizes your best readers and silences your best marketing at the same time, because the gated essays are the ones that would have traveled. The patronage structure flips it: content stays at maximum reach, and the paid offer sells something a paywall cannot, the writer's independence. It works when the surrounding business (books, speaking, sponsorship) is what converts the reach into income.
+
+## Quotes
+
+- "It will always be free"
+- "I don't have to optimize for clicks or take every brand deal that comes my way"
 
 ## Sources
 

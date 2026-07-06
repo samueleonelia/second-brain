@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth
 mechanism: "Weekly, pulls top-performing Notes from the Substack Growth dashboard, pastes them into Claude or ChatGPT with a prompt to extract the shared patterns (topic, tone, format, hook, length) and generate ten new Note ideas built on those patterns"
-mechanism_tags: [ai-pattern-analysis, reverse-engineer-winners, growth-dashboard-review, data-driven-ideation]
-quotes:
-  - text: "You're essentially reverse-engineering your own success"
-tags: [substack, ai, notes, analytics]
+mechanism_tags: ai-pattern-analysis, reverse-engineer-winners, growth-dashboard-review, data-driven-ideation
 created: 2026-06-02
 ---
 
@@ -22,6 +19,10 @@ _"You're essentially reverse-engineering your own success"_, she writes, and the
 ## Lesson for Creators
 
 Your own analytics are a content brief you are probably ignoring. Feed your top performers to an AI, ask it what they share, and let the answer write your next batch instead of guessing from scratch.
+
+## Quotes
+
+- "You're essentially reverse-engineering your own success"
 
 ## Sources
 

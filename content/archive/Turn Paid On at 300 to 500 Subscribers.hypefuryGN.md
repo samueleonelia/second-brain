@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth
 mechanism: "Waits to switch on paid subscriptions until 300-500 free subscribers exist, so the ask lands on a warm base that already trusts her voice, rather than asking strangers at 50 to invest in something they barely know"
-mechanism_tags: [paywall-timing, warm-base-first, 300-to-500-threshold, trust-before-ask]
-quotes:
-  - text: "I would turn on paid subscriptions somewhere between 300 and 500 free subscribers"
-tags: [substack, monetization, timing]
+mechanism_tags: paywall-timing, warm-base-first, 300-to-500-threshold, trust-before-ask
 created: 2026-06-02
 ---
 
@@ -22,6 +19,10 @@ The reasoning is about warmth, not vanity metrics. By a few hundred subscribers,
 ## Lesson for Creators
 
 Switching on paid is an ask, and asks need a warm room. Wait until a few hundred people have chosen to keep reading you, then make the offer to people who already trust the work.
+
+## Quotes
+
+- "I would turn on paid subscriptions somewhere between 300 and 500 free subscribers"
 
 ## Sources
 

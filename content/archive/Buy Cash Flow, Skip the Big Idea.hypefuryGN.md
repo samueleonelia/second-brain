@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: dave-kline
 identity_anchor: "@davidkline"
 mechanism: "Instead of waiting for a breakthrough idea, Kline bought an existing profitable education-review site for cash flow and runway, then evolved it toward higher-ticket cohort courses and his own content, so an audience-and-distribution asset he already owned became the launchpad for the product."
-mechanism_tags: [buy-dont-build, cash-flow-first, audience-to-product, cohort-course-launch]
-quotes:
-  - text: "I kept waiting for the big idea"
-  - text: "what if we went and bought a business then we would have cash flow then we would have a Runway"
-tags: [entrepreneurship, acquisition, cohort-courses, creator-business]
+mechanism_tags: buy-dont-build, cash-flow-first, audience-to-product, cohort-course-launch
 created: 2026-07-02
 ---
 
@@ -26,6 +22,11 @@ The acquisition logic had two forward bets baked in. First, they saw cohort-base
 ## Lesson for Creators
 
 You do not need a original idea to start; you need cash flow and a distribution asset you can steer. Buying (or building) something that already has an audience and revenue buys you runway and a warm channel, and the real product can emerge later by converting that audience from someone else's affiliate into your own higher-margin offer. Kline's review site was the on-ramp; the cohort course was the destination.
+
+## Quotes
+
+- "I kept waiting for the big idea"
+- "what if we went and bought a business then we would have cash flow then we would have a Runway"
 
 ## Sources
 

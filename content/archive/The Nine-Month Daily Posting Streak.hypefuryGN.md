@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: tom-alder
 identity_anchor: strategy breakdowns
 mechanism: "Set himself a 30-day daily-posting challenge on LinkedIn and extended it to nine months straight including weekends, reaching 10,000 followers before he had any product to sell"
-mechanism_tags: [daily-posting-streak, posting-challenge, cold-start, audience-before-product]
-quotes:
-  - text: "ended up doing it for for nine months straight posting every single day including weekend and and got to 10,000 followers"
-tags: [linkedin, consistency, cold-start]
+mechanism_tags: daily-posting-streak, posting-challenge, cold-start, audience-before-product
 created: 2026-06-02
 ---
 
@@ -25,6 +22,10 @@ _"ended up doing it for for nine months straight posting every single day includ
 
 The audience that makes a launch easy is built in the boring months nobody watches. A fixed daily-posting commitment, held long past the point where it feels productive, is what produces the follower base you later convert.
 
+## Quotes
+
+- "ended up doing it for for nine months straight posting every single day including weekend and and got to 10,000 followers"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=Q8cbpfII_dg
@@ -35,3 +36,4 @@ The audience that makes a launch easy is built in the boring months nobody watch
 - [[Newsletter as Pipeline Bait, Then Follow the Signal]] — katelyn-bourgoin, matched: audience-before-product
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: daily-posting-streak
 - [[Content Market Fit Before Any Demo]] — adam-robinson, matched: audience-before-product
+- [[A Tweet Every Day to Stay Findable]] — jakob-greenfeld, matched: daily-posting-streak

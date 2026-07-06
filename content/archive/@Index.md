@@ -35,6 +35,7 @@ title: Index
 - [[@Dave Kline]]
 - [[@Duncan Rogoff]]
 - [[@Geoff Sharpe]]
+- [[@Jakob Greenfeld]]
 - [[@Jesse J. Anderson]]
 - [[@Katelyn Bourgoin]]
 - [[@Kyla Scanlon]]

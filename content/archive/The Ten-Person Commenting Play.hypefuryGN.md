@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-robinson
 identity_anchor: "@retentionadam"
 mechanism: "Pick ~10 influential people in your ecosystem and leave genuinely thoughtful (never AI-generated) comments on their posts for months, because reciprocal engagement and second/third-degree comment reach are what the LinkedIn algorithm rewards most."
-mechanism_tags: [outbound-commenting, do-things-that-dont-scale, relationship-building, second-degree-reach]
-quotes:
-  - text: "if you have a list of 10 people in your space and you spend a few days a week commenting on their stuff they might start commenting on your stuff"
-  - text: "second and third degree connections commenting on your post is what it likes more than anything"
-tags: [linkedin, founder-led-growth, distribution]
+mechanism_tags: outbound-commenting, do-things-that-dont-scale, relationship-building, second-degree-reach
 created: 2026-07-04
 ---
 
@@ -27,6 +23,11 @@ There is an algorithmic reason it compounds, and it is counterintuitive. The one
 
 Before you optimize your own posts, spend your engagement budget on ten people whose audience you want. Real comments, over months, not automated ones. It builds relationships that turn into reciprocal reach, and it feeds the exact signal, engagement from outside your immediate network, that the platform amplifies. The slow, manual, ten-name version beats broadcasting into a network that cannot yet see you.
 
+## Quotes
+
+- "if you have a list of 10 people in your space and you spend a few days a week commenting on their stuff they might start commenting on your stuff"
+- "second and third degree connections commenting on your post is what it likes more than anything"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=cvl4Wk76dsY
@@ -39,3 +40,4 @@ Before you optimize your own posts, spend your engagement budget on ten people w
 - [[Outbound Comments on Big Creators]] — tom-alder, matched: outbound-commenting
 - [[Grow With a Same-Size Creator Peer Group]] — michael-houck, matched: outbound-commenting
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: do-things-that-dont-scale
+- [[Befriend Five Creators to Clear the Initial Barrier]] — jakob-greenfeld, matched: relationship-building

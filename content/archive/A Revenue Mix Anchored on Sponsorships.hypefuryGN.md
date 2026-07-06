@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: tom-alder
 identity_anchor: strategy breakdowns
 mechanism: "Runs the newsletter on roughly 75-80% flat-fee sponsorships, 15-20% paid referrals, and 2-3% recurring SaaS affiliate income, while planning to diversify toward a scalable paid product"
-mechanism_tags: [revenue-mix, flat-fee-sponsorships, paid-referrals, recurring-affiliate]
-quotes:
-  - text: "about 75 to 80% is is sponsorships currently"
-tags: [newsletter, monetization, revenue]
+mechanism_tags: revenue-mix, flat-fee-sponsorships, paid-referrals, recurring-affiliate
 created: 2026-06-02
 ---
 
@@ -24,6 +21,10 @@ _"about 75 to 80% is is sponsorships currently"_
 ## Lesson for Creators
 
 A newsletter can be funded on sponsorships from early on, but the durable pieces are the recurring ones. Know your revenue split by percentage, and treat the small recurring slice as the seed of the next stage rather than a rounding error.
+
+## Quotes
+
+- "about 75 to 80% is is sponsorships currently"
 
 ## Sources
 

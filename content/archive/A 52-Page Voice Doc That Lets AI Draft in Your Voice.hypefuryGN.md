@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: katelyn-bourgoin
 identity_anchor: beunignorable.com
 mechanism: "Spend ~100 hours encoding your strategy, voice, winning posts, and frameworks into a book-length instruction set for an AI co-writer that interviews you and drafts in your voice, cutting post-writing time roughly in half without sounding generic."
-mechanism_tags: [ai-content, tone-of-voice, voice-cloning, content-scaling]
-quotes:
-  - text: "the instructional doc is 52 pages long"
-  - text: "trained on my brand strategy, my voice, my posts that have been successful"
-tags: [ai-writing, content-systems, personal-brand]
+mechanism_tags: ai-content, tone-of-voice, voice-cloning, content-scaling
 created: 2026-07-05
 ---
 
@@ -26,6 +22,11 @@ Her thesis on why this beats one-line magic prompts is a growth argument. In an 
 ## Lesson for Creators
 
 If writing is your bottleneck, do not reach for a short prompt and settle for average output. Do the opposite: over-invest once in encoding how you actually think — your strategy, your frameworks, your hook principles, your voice, your best past work — into a long, specific instruction set. Then let the AI interview you rather than replace you, feeding it your raw ideas and stored stories so the draft stays yours. The hours you spend building the system are what keep your AI-assisted output from sounding like everyone else's.
+
+## Quotes
+
+- "the instructional doc is 52 pages long"
+- "trained on my brand strategy, my voice, my posts that have been successful"
 
 ## Sources
 

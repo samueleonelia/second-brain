@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: katelyn-bourgoin
 identity_anchor: beunignorable.com
 mechanism: "Enter a second platform by republishing the exact posts that already proved themselves on your first platform, so you start with validated content instead of guessing."
-mechanism_tags: [repurpose-one-to-many, linkedin-organic-growth, proven-content-first, multi-platform-ecosystem]
-quotes:
-  - text: "reposting the stuff that worked well on X"
-  - text: "turning those into LinkedIn posts"
-tags: [linkedin, content-repurposing, newsletter-growth]
+mechanism_tags: repurpose-one-to-many, linkedin-organic-growth, proven-content-first, multi-platform-ecosystem
 created: 2026-07-05
 ---
 
@@ -26,6 +22,11 @@ The reason this is a growth lever and not just a time-saver: new-platform reach 
 ## Lesson for Creators
 
 Do not treat a second platform as a fresh start that resets your batting average. Treat your first platform as an R&D lab that has already told you which ideas work. When you expand, port your proven posts first — the threads, hooks, and angles that already won — rather than inventing net-new material for an audience you do not understand yet. You get to skip the cold-start guessing phase because someone else's feed already ran the experiment for you.
+
+## Quotes
+
+- "reposting the stuff that worked well on X"
+- "turning those into LinkedIn posts"
 
 ## Sources
 

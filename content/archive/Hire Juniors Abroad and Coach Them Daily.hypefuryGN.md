@@ -5,13 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-biddlecombe
 identity_anchor: "@adam-bidd"
 mechanism: "After breaking the agency-and-freelancer stack that 'never cared as much as I did', filled the 10-person team almost entirely with juniors hired from Lebanon, Pakistan, the Philippines and Iran via informal LinkedIn callouts, then ran 1-2 hour daily one-on-one sessions per direct report (the 'doppelganger' pattern Adam borrowed from MrBeast) to clone operational thinking into each hire"
-mechanism_tags: [distributed-juniors-with-1-on-1-mentoring, anti-agency-hiring, linkedin-as-recruiting-channel, doppelganger-mentoring, underpriced-labor-markets]
-quotes:
-  - text: "we had employees from Lebanon, Pakistan, the Philippines, Iran"
-  - text: "we were able to pay them like a very very good um rate for where they're from, which for us was more competitive than hiring um in in the UK or America"
-  - text: "They are still doing that now like 18 months later. They are still spending a lot of time together"
-  - text: "He literally has them come and live in his house and follow him around for 3 months so they can clone him"
-tags: [hiring, team-building, operations]
+mechanism_tags: distributed-juniors-with-1-on-1-mentoring, anti-agency-hiring, linkedin-as-recruiting-channel, doppelganger-mentoring, underpriced-labor-markets
 created: 2026-06-11
 ---
 
@@ -41,6 +35,13 @@ The transferred behavior compounded fast enough that Maria, the senior copywrite
 
 Juniors hired in underpriced labor markets are not a cost-saving move, they are an ownership-density move. The price you pay for that density is the founder time spent daily in 1:1s, which feels too expensive until you compare it to the cost of running a team that needs more headcount because nobody owns the judgment calls.
 
+
+## Quotes
+
+- "we had employees from Lebanon, Pakistan, the Philippines, Iran"
+- "we were able to pay them like a very very good um rate for where they're from, which for us was more competitive than hiring um in in the UK or America"
+- "They are still doing that now like 18 months later. They are still spending a lot of time together"
+- "He literally has them come and live in his house and follow him around for 3 months so they can clone him"
 
 ## Sources
 

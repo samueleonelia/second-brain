@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: geoff-sharpe
 identity_anchor: lookoutmediaco.com
 mechanism: "Fund almost all newsletter list growth with paid Meta ads instead of organic tactics, treating audience acquisition as a time-frame problem — spend a growth-hire's salary now to pull a year's worth of subscribers forward to month three, once cheap early engagement validates the idea."
-mechanism_tags: [paid-acquisition, meta-ads, growth-timing, acquisition-vs-paid-growth, free-list-first]
-quotes:
-  - text: "if you have the money to be able to spend on paid ads that is what I would spend almost all"
-  - text: "if your revenue is a function of the size of your list and the engagement of your list"
-  - text: "if you can take your 20,000 list that you have at the end of the year and put that at month three"
-tags: [newsletters, paid-growth, audience-acquisition]
+mechanism_tags: paid-acquisition, meta-ads, growth-timing, acquisition-vs-paid-growth, free-list-first
 created: 2026-07-01
 ---
 
@@ -28,6 +23,12 @@ There is a gate on the strategy. He only pours money in once the idea is validat
 
 If you have a validated offer and a way to monetize, audience size is partly a purchasing decision, not only a patience decision. Treat the first year of list growth as something you can compress by spending: a small paid test proves engagement, then you scale spend to move your end-of-year subscriber number to month three. The organic grind (Reddit posts, cold outreach, referral loops) is the fallback for when you lack the cash, not the default. The precondition is retention: buying subscribers only compounds if the editorial keeps them, so the engagement bar comes before the ad spend.
 
+## Quotes
+
+- "if you have the money to be able to spend on paid ads that is what I would spend almost all"
+- "if your revenue is a function of the size of your list and the engagement of your list"
+- "if you can take your 20,000 list that you have at the end of the year and put that at month three"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=7x3W0vKolWY
@@ -39,3 +40,4 @@ If you have a validated offer and a way to monetize, audience size is partly a p
 - [[Sub-2-Dollar Subscribers Once the Content Proved Its Legs]] — michael-houck, matched: free-list-first (both scale a free list with paid Meta ads but refuse to pour money in until cheap early engagement proves the funnel converts)
 - [[Optimize Ads for Who Converts, Not Who's Cheapest]] — geoff-sharpe, matched: paid-acquisition
 - [[Build the Free List Before Switching On Paid]] — aakash-gupta, matched: free-list-first (both grow the free list first and monetize later — Aakash builds the audience before the product, Geoff buys the free list with ads before it converts to paying members)
+- [[Channel-Offer Fit Beats Product-Market Fit]] — jakob-greenfeld, matched: paid-acquisition

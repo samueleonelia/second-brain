@@ -5,9 +5,7 @@ pipeline: hypefuryGN-v1
 creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Got 1,100+ other newsletter writers to list Product Growth inside Substack's recommendation widget, making cross-newsletter recommendations his single largest subscriber-acquisition channel."
-mechanism_tags: [substack-recommendations, built-in-discovery, organic-referral]
-quotes: []
-tags: [newsletter-growth, substack, distribution]
+mechanism_tags: substack-recommendations, built-in-discovery, organic-referral
 created: 2026-06-29
 ---
 

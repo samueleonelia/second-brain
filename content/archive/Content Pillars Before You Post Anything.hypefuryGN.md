@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth
 mechanism: "Defines 3-4 content pillars first and forces every Note and long-form post to ladder up to one of them, using the constraint to kill blank-page paralysis and tell the audience exactly what they subscribed for"
-mechanism_tags: [content-pillars, constraint-as-focus, audience-clarity, three-to-four-themes]
-quotes:
-  - text: "every note you post should tie back to one of them"
-tags: [substack, content-strategy, pillars]
+mechanism_tags: content-pillars, constraint-as-focus, audience-clarity, three-to-four-themes
 created: 2026-06-02
 ---
 
@@ -22,6 +19,10 @@ The rule is strict. _"every note you post should tie back to one of them"_, whic
 ## Lesson for Creators
 
 Pick three or four specific pillars before you chase tactics. The constraint is what makes you consistent and legible, so a stranger can tell in one scroll what your publication is actually about.
+
+## Quotes
+
+- "every note you post should tie back to one of them"
 
 ## Sources
 

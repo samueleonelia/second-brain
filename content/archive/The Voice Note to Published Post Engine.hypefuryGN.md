@@ -4,13 +4,7 @@ pipeline: hypefuryGN-v1
 creator: duncan-rogoff
 identity_anchor: https://www.youtube.com/@duncanrogoff
 mechanism: "Remove the friction of consistent posting by wiring a voice-note/text input (Telegram) to an automation that researches the topic, writes the post in a viral framework, and publishes it, so a finished post takes a 30-second message from anywhere."
-mechanism_tags: [content-velocity, frictionless-publishing, automation, research-augmented-posts]
-quotes:
-  - text: "no matter where you are, you can leave a voice message, you can send a text, and it will go ahead and perform additional research on whatever it is that you want to post about that day"
-  - text: "And that took what 30 seconds or something like that."
-  - text: "we actually need to do additional research. And this is cool because it's actually going to make your post better, especially if you start bringing in statistics and things like that."
-  - text: "anywhere on the go, if you have an idea for a topic, if you're talking to a friend, if you hear some crazy news, you can always have access to publish a viral LinkedIn post"
-tags: [automation, content-velocity, linkedin, creator-systems]
+mechanism_tags: content-velocity, frictionless-publishing, automation, research-augmented-posts
 created: 2026-06-15
 ---
 
@@ -27,6 +21,13 @@ The real payoff is that publishing stops being an event and becomes ambient: _"a
 ## Lesson for Creators
 
 Consistency is an engineering problem, not a willpower problem. When the distance between "I had a thought" and "it's published" collapses to a 30-second voice note, you post far more often. And bolting a research step in front of the writer means each automated post arrives sharper and more cited than an off-the-cuff one would have.
+
+## Quotes
+
+- "no matter where you are, you can leave a voice message, you can send a text, and it will go ahead and perform additional research on whatever it is that you want to post about that day"
+- "And that took what 30 seconds or something like that."
+- "we actually need to do additional research. And this is cool because it's actually going to make your post better, especially if you start bringing in statistics and things like that."
+- "anywhere on the go, if you have an idea for a topic, if you're talking to a friend, if you hear some crazy news, you can always have access to publish a viral LinkedIn post"
 
 ## Sources
 

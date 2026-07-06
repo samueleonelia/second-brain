@@ -5,9 +5,7 @@ pipeline: hypefuryGN-v1
 creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Treats the opening hook as a separate component from the post: drafts the piece with one candidate hook, generates ten more from each of three AI models, narrows to two, previews both across devices in a browser extension, then judges live by first-ten-minute performance and swaps if it underperforms."
-mechanism_tags: [hook-engineering, test-the-hook, distribution-lever]
-quotes: []
-tags: [newsletter-growth, copywriting, distribution]
+mechanism_tags: hook-engineering, test-the-hook, distribution-lever
 created: 2026-06-29
 ---
 

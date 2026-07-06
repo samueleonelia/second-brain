@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Co-authored high-effort deep dives with bigger creators (Sean Ellis, Kyle Poyar, Aakash Gupta) so their audiences carried her work, with 30+ hours per shared asset."
-mechanism_tags: [borrow-big-audiences, collaboration-arbitrage, co-authored-deep-dives, audience-swap]
-quotes:
-  - text: "one of those articles would be the most popular on the Substack"
-  - text: "my team and I put in at least 30 hours of very hard work"
-tags: [newsletter-growth, collaborations, distribution]
+mechanism_tags: borrow-big-audiences, collaboration-arbitrage, co-authored-deep-dives, audience-swap
 created: 2026-06-19
 ---
 
@@ -26,6 +22,11 @@ The arbitrage only works if the borrowed audience gets something worth their att
 ## Lesson for Creators
 
 Borrow reach instead of grinding for it. Co-create genuinely useful work with creators whose audience is bigger than yours, and over-invest in the quality of the shared asset so their readers convert into yours.
+
+## Quotes
+
+- "one of those articles would be the most popular on the Substack"
+- "my team and I put in at least 30 hours of very hard work"
 
 ## Sources
 

@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: michael-houck
 identity_anchor: foundingjourney.com
 mechanism: "Turned a Tulum co-living experiment into a company by posting the experience publicly on Instagram and Twitter during lockdown; press amplified it, and he leaned into the organic momentum instead of a pre-set plan."
-mechanism_tags: [build-in-public, organic-attention-to-business, momentum-over-plan]
-quotes:
-  - text: "convinced 18 early founders to live together for a month"
-  - text: "we were living in Tulum during lockdowns, posting on Instagram and Twitter"
-  - text: "We zigged when others zagged"
-tags: [build-in-public, audience-growth, community]
+mechanism_tags: build-in-public, organic-attention-to-business, momentum-over-plan
 created: 2026-06-30
 ---
 
@@ -30,6 +25,12 @@ The momentum became the fundraising story. They had put over $200,000 of their o
 
 You do not always know which project is the real one. Build in public and the audience will tell you, by what they ask for, where the demand actually is. Houck's company emerged from documenting an experiment on social, not from a plan. When organic attention shows up around something unplanned, the move is to lean into it, not to force the roadmap you started with.
 
+## Quotes
+
+- "convinced 18 early founders to live together for a month"
+- "we were living in Tulum during lockdowns, posting on Instagram and Twitter"
+- "We zigged when others zagged"
+
 ## Sources
 
 - https://blog.thunder.vc/cultivating-hype-and-attention-to-raise-capital-successfully
@@ -40,3 +41,4 @@ You do not always know which project is the real one. Build in public and the au
 - [[Zero Budget Launch Through Borrowed Communities]] — maja-voje, matched: build-in-public
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: build-in-public
 - [[Content Market Fit Before Any Demo]] — adam-robinson, matched: build-in-public
+- [[A Made-By Badge That Landed a Podcast Shoutout]] — jakob-greenfeld, matched: build-in-public

@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: tom-alder
 identity_anchor: strategy breakdowns
 mechanism: "Posts 15-20 high-value comments per day on large creators in his niche before publishing his own post, aiming for the top-comment slot so a measurable slice of their million-impression audiences clicks through to his profile and follows"
-mechanism_tags: [outbound-commenting, top-comment-arbitrage, borrow-big-audiences, niche-creators]
-quotes:
-  - text: "for roughly half an hour before I post I would highly recommend posting comments on on other people's uh post particularly larger creators in your Niche"
-tags: [linkedin, distribution, commenting]
+mechanism_tags: outbound-commenting, top-comment-arbitrage, borrow-big-audiences, niche-creators
 created: 2026-06-02
 ---
 
@@ -24,6 +21,10 @@ _"for roughly half an hour before I post I would highly recommend posting commen
 ## Lesson for Creators
 
 Early on, other people's audiences are larger than yours, so go where they already are. A daily quota of high-value comments on big accounts in your niche is a distribution channel, not a courtesy.
+
+## Quotes
+
+- "for roughly half an hour before I post I would highly recommend posting comments on on other people's uh post particularly larger creators in your Niche"
 
 ## Sources
 

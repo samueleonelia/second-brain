@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-biddlecombe
 identity_anchor: "@adam-bidd"
 mechanism: "When Beehiiv ran a one-time matching grant on its Boost cross-promotion program, dumped the maximum £2,500 in to receive $5,000 of paid-acquisition credits, doubling Mindstream from ~1K to ~3K subscribers and unlocking the first sponsorship deal at the new audience size"
-mechanism_tags: [matching-grant-leverage, platform-promotion-window, newsletter-cross-promo, validation-via-first-sponsor]
-quotes:
-  - text: "Beehive did this like promotion where they were uh offering like they they'd match your in uh they'd match match your investment into their boosts program which is like a cross uh paid cross collaboration across newsletters"
-  - text: "we then dropped in 2 and a half thousand which was the maximum. Um, so we got 5,000 uh dollars of boost credits and started paying paying for subscribers that way"
-  - text: "I think it was like $2 $300 for our first uh sponsor"
-tags: [newsletter, platform-leverage, first-sponsor]
+mechanism_tags: matching-grant-leverage, platform-promotion-window, newsletter-cross-promo, validation-via-first-sponsor
 created: 2026-06-11
 ---
 
@@ -34,6 +29,12 @@ That first paid invoice did two things at once. It validated the unit economics 
 
 When a platform runs a one-time matching event on a paid-distribution mechanism it owns, the rational move is the maximum, not the testing amount. The credit is free upside relative to your cash outlay, and the new audience size frequently unlocks the first paid advertiser, which then validates the business model on paper. The window closes; the validation compounds.
 
+
+## Quotes
+
+- "Beehive did this like promotion where they were uh offering like they they'd match your in uh they'd match match your investment into their boosts program which is like a cross uh paid cross collaboration across newsletters"
+- "we then dropped in 2 and a half thousand which was the maximum. Um, so we got 5,000 uh dollars of boost credits and started paying paying for subscribers that way"
+- "I think it was like $2 $300 for our first uh sponsor"
 
 ## Sources
 

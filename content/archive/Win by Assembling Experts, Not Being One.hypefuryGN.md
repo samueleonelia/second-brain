@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: tomas-pueyo
 identity_anchor: tomaspueyo.com
 mechanism: "When a hairy new topic breaks, gather the scattered expert research into one clear place and explain it, winning authority by synthesis rather than by being a credentialed expert."
-mechanism_tags: [synthesis-as-edge, explainer-positioning, assemble-dont-originate]
-quotes:
-  - text: "gather all the research from all these different places and put it in one place so that people can understand it"
-  - text: "making the Assembly of the arguments"
-tags: [positioning, authority, explainer]
+mechanism_tags: synthesis-as-edge, explainer-positioning, assemble-dont-originate
 created: 2026-06-30
 ---
 
@@ -24,6 +20,11 @@ He framed his own role precisely. He was not the person making the arguments but
 ## Lesson for Creators
 
 You do not need to be the world expert to own a topic. Be the person who reads everything, strips the jargon, and assembles it into one place a normal reader can follow. The synthesizer who makes a confusing subject legible often out-distributes the experts who produced the raw material.
+
+## Quotes
+
+- "gather all the research from all these different places and put it in one place so that people can understand it"
+- "making the Assembly of the arguments"
 
 ## Sources
 - https://www.youtube.com/watch?v=fMiIPu1iJmE

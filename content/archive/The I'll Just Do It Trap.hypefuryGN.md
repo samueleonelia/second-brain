@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: dave-kline
 identity_anchor: "@davidkline"
 mechanism: "Kline breaks down why 'that's okay, I'll do it' quietly destroys a team (unclear feedback, undoing your own system, robbing the report of compounding) and counters reverse-delegation by refusing to accept the 'monkey' with a question: what do you propose?"
-mechanism_tags: [reverse-delegation, monkey-management, delegation-sequencing, manager-leverage]
-quotes:
-  - text: "that's okay I'll do it"
-  - text: "when you see the monkey coming you got to keep it with them"
-  - text: "what do you propose"
-tags: [delegation, management, feedback, leverage]
+mechanism_tags: reverse-delegation, monkey-management, delegation-sequencing, manager-leverage
 created: 2026-07-02
 ---
 
@@ -27,6 +22,12 @@ Kline notes the asymmetry with a live example from the interview: the host had l
 ## Lesson for Creators
 
 Taking the work back feels generous and is actually lose-lose: no feedback for them, no leverage for you. When work boomerangs back, don't accept the monkey; hand it back with "what do you propose" and a request to name the specific decision they need from you. A 20-second question beats a 20-minute rescue every time, and it's the only version where the other person actually grows.
+
+## Quotes
+
+- "that's okay I'll do it"
+- "when you see the monkey coming you got to keep it with them"
+- "what do you propose"
 
 ## Sources
 

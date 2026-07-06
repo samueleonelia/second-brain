@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-robinson
 identity_anchor: "@retentionadam"
 mechanism: "Post founder content daily for ~9-12 months judged only on top-of-funnel signals (recognition, recruiting, partnerships), not demos, until a repeatable 'content-market-fit' voice emerges."
-mechanism_tags: [content-market-fit, audience-before-product, delayed-payoff, build-in-public]
-quotes:
-  - text: "there is a very real content market fit that you need to find and it is not easy"
-  - text: "one day closer to finding your voice"
-  - text: "it didn't really work for like nine or 12 months and then something clicked"
-tags: [linkedin, founder-led-growth, content-strategy]
+mechanism_tags: content-market-fit, audience-before-product, delayed-payoff, build-in-public
 created: 2026-07-04
 ---
 
@@ -30,6 +25,12 @@ The payoff came later and in a different market. When he re-pointed the same acc
 
 The trap is measuring a top-of-funnel activity with a bottom-of-funnel ruler. A founder audience takes months to convert, and Adam's own clients (per the ProducTea discussion) abort the experiment right before it works because they stare at signups instead of reach. Treat the first 9-12 months as voice-finding, not lead-gen: judge it on whether people start recognizing you, not on demos booked. Content-market-fit is a real, separate milestone, and it usually arrives before the sales does.
 
+## Quotes
+
+- "there is a very real content market fit that you need to find and it is not easy"
+- "one day closer to finding your voice"
+- "it didn't really work for like nine or 12 months and then something clicked"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=nGPpct0KWbc
@@ -45,3 +46,4 @@ The trap is measuring a top-of-funnel activity with a bottom-of-funnel ruler. A 
 - [[The Tulum House That Became Launch House on Organic Attention]] — michael-houck, matched: build-in-public
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: build-in-public
 - [[Zero Budget Launch Through Borrowed Communities]] — maja-voje, matched: build-in-public
+- [[A Made-By Badge That Landed a Podcast Shoutout]] — jakob-greenfeld, matched: build-in-public

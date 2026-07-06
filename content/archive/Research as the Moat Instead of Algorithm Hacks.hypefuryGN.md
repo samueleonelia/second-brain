@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: katelyn-bourgoin
 identity_anchor: beunignorable.com
 mechanism: "Skip the engagement-farming playbook (comment pods, trend-chasing, carousels) and instead pour the buyer-psychology research you do for your product back into understanding what makes content persuade, so the posts themselves are the differentiator."
-mechanism_tags: [research-backed-content, audience-research, anti-engagement-hacking, differentiation]
-quotes:
-  - text: "geeking out about human behavior and I've never really chased algorithm"
-  - text: "I probably published like five carousels"
-  - text: "I kind of ignore a lot of the more trendy stuff"
-tags: [buyer-psychology, content-strategy, linkedin]
+mechanism_tags: research-backed-content, audience-research, anti-engagement-hacking, differentiation
 created: 2026-07-05
 ---
 
@@ -28,6 +23,12 @@ The tradeoff is deliberate. She says plainly that "I kind of ignore a lot of the
 
 Engagement hacks decay — the comment trick or the trendy format that works this quarter is gone the next. Durable understanding of your audience does not. If you have to choose where to invest, choose the research: study what genuinely persuades the people you want to reach, and put that into the substance of every post. You can grow slower than the pod-and-carousel crowd and still build something that keeps working after their tactic dies.
 
+## Quotes
+
+- "geeking out about human behavior and I've never really chased algorithm"
+- "I probably published like five carousels"
+- "I kind of ignore a lot of the more trendy stuff"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=UvAfRMdjP1I
@@ -38,3 +39,4 @@ Engagement hacks decay — the comment trick or the trendy format that works thi
 ## Related (matched on mechanism)
 - [[Research Trending Topics With the Last 30 Days Skill]] — duncan-rogoff, matched: audience-research
 - [[Don't Build What Your Audience Says They Want]] — geoff-sharpe, matched: audience-research
+- [[Two Followers Named Elon Musk and Paul Graham]] — jakob-greenfeld, matched: anti-engagement-hacking

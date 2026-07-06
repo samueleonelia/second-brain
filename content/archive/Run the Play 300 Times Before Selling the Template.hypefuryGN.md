@@ -5,10 +5,7 @@ pipeline: hypefuryGN-v1
 creator: maja-voje
 identity_anchor: gtmstrategist.com
 mechanism: "Ran her GTM Power Hour exercise on a whiteboard 300 times before packaging it as a published template, so the product was earned reps, not theory."
-mechanism_tags: [reps-before-product, productize-the-process, earned-authority, template-from-practice]
-quotes:
-  - text: "I have done it 300 times on a whiteboard before I published this template"
-tags: [productized-service, authority, templates]
+mechanism_tags: reps-before-product, productize-the-process, earned-authority, template-from-practice
 created: 2026-06-19
 ---
 
@@ -26,6 +23,10 @@ That sequence, do the work live many times, then productize the pattern, is why 
 
 Earn the right to sell a template by running the exercise live until the pattern is obvious. Productize the process only after enough reps that the artifact carries real authority, not just theory.
 
+## Quotes
+
+- "I have done it 300 times on a whiteboard before I published this template"
+
 ## Sources
 
 - https://knowledge.gtmstrategist.com/p/2024-in-review-at-gtm-strategist
@@ -36,3 +37,4 @@ Earn the right to sell a template by running the exercise live until the pattern
 
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: productize-the-process
 - [[Megaphone Productizes Cross-Creator Amplification]] — michael-houck, matched: productize-the-process
+- [[Two Followers Named Elon Musk and Paul Graham]] — jakob-greenfeld, matched: earned-authority

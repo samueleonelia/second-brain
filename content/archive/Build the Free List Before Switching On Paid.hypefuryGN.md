@@ -5,9 +5,7 @@ pipeline: hypefuryGN-v1
 creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Sequenced the business as distribution first, then a large free email list (~60,000 subscribers), and only then turned on paid — using the free phase to learn newsletter craft before any money was on the line."
-mechanism_tags: [audience-before-product, free-list-first, distribution-before-monetization]
-quotes: []
-tags: [newsletter-growth, monetization, sequencing]
+mechanism_tags: audience-before-product, free-list-first, distribution-before-monetization
 created: 2026-06-29
 ---
 
@@ -37,3 +35,4 @@ Grow and learn on a free list before you charge, and treat the size of that list
 - [[Sub-2-Dollar Subscribers Once the Content Proved Its Legs]] — michael-houck, matched: free-list-first
 - [[Buy the First Year of Growth in Month Three]] — geoff-sharpe, matched: free-list-first (both grow the free list first and monetize later — Aakash builds the audience before the product, Geoff buys the free list with ads before it converts to paying members)
 - [[Content Market Fit Before Any Demo]] — adam-robinson, matched: audience-before-product
+- [[Master One Distribution Channel First]] — jakob-greenfeld, matched: distribution-before-monetization

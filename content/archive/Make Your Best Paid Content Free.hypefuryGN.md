@@ -4,10 +4,7 @@ pipeline: hypefuryGN-v1
 creator: olivia-wickstrom
 identity_anchor: petal and hearth
 mechanism: "Once a month, takes a post that would normally sit behind the paywall and makes it free, betting that thousands of new free subscribers who convert over time beat the twenty paid subscribers a paywalled version would have earned"
-mechanism_tags: [free-drives-paid, generosity-as-strategy, monthly-free-flagship, preview-the-goods]
-quotes:
-  - text: "Free content is what drives paid subscriptions"
-tags: [substack, monetization, conversion]
+mechanism_tags: free-drives-paid, generosity-as-strategy, monthly-free-flagship, preview-the-goods
 created: 2026-06-02
 ---
 
@@ -22,6 +19,10 @@ The math is the whole argument. Paywalled, one of those posts might have earned 
 ## Lesson for Creators
 
 Your best free post is your best sales asset. Give away one flagship a month, because the readers it converts over time outnumber the handful a paywall would have captured.
+
+## Quotes
+
+- "Free content is what drives paid subscriptions"
 
 ## Sources
 

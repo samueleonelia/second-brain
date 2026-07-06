@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: michael-houck
 identity_anchor: foundingjourney.com
 mechanism: "Seeds early growth by forming a peer group of creators in the same niche at a similar size, engaging with their posts early so they recognize you before any DM, then trading collaborations and cross-promos."
-mechanism_tags: [peer-group-cross-promo, borrow-big-audiences, outbound-commenting]
-quotes:
-  - text: "Form a peer group with creators in your niche and similar size"
-  - text: "comment early on their posts so they recognize you before you DM"
-tags: [audience-growth, collaboration, networking]
+mechanism_tags: peer-group-cross-promo, borrow-big-audiences, outbound-commenting
 created: 2026-06-30
 ---
 
@@ -29,6 +25,11 @@ He was candid that the startup niche is a hard room, with a discerning, time-str
 
 Do not chase creators ten times your size for a shoutout; build a cohort at your own level and rise together. Earn recognition before you ask by commenting early and often, so the eventual DM lands as a familiar name. Peer cross-promotion compounds because every member is growing the others' audiences at the same time.
 
+## Quotes
+
+- "Form a peer group with creators in your niche and similar size"
+- "comment early on their posts so they recognize you before you DM"
+
 ## Sources
 
 - https://blog.thunder.vc/cultivating-hype-and-attention-to-raise-capital-successfully
@@ -39,3 +40,4 @@ Do not chase creators ten times your size for a shoutout; build a cohort at your
 - [[Co-Author Deep Dives to Borrow Bigger Audiences]] — maja-voje, matched: borrow-big-audiences
 - [[Outbound Comments on Big Creators]] — tom-alder, matched: borrow-big-audiences, outbound-commenting
 - [[The Ten-Person Commenting Play]] — adam-robinson, matched: outbound-commenting
+- [[Befriend Five Creators to Clear the Initial Barrier]] — jakob-greenfeld, matched: peer-group-cross-promo

@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: katelyn-bourgoin
 identity_anchor: beunignorable.com
 mechanism: "Launch a newsletter purely as lead-gen for the real business, then when the newsletter (not the business) is what the audience wants, pivot the whole company into the newsletter's topic."
-mechanism_tags: [follow-the-signal, audience-before-product, gap-in-market, newsletter-as-byproduct]
-quotes:
-  - text: "they did care about my little newsletter that I started off as a pipeline builder for my research agency, which was all about behavioral science and marketing and buyer psychology"
-  - text: "I became known as like the buyer psychology person"
-tags: [newsletter-growth, buyer-psychology, positioning]
+mechanism_tags: follow-the-signal, audience-before-product, gap-in-market, newsletter-as-byproduct
 created: 2026-07-05
 ---
 
@@ -26,6 +22,11 @@ The agency thesis was wrong. B2B SaaS companies did not want to buy customer res
 ## Lesson for Creators
 
 Your top-of-funnel asset is a live experiment, not just a pipeline. Pick its topic by the job your ideal buyer is already trying to do, publish, and then watch which thing people actually pull toward. If the side-project newsletter is what earns attention while the offer you meant to sell stalls, that is the market telling you where the demand is. The move is to follow the signal and rebuild the business around what the audience rewards, instead of dragging them toward the offer you planned.
+
+## Quotes
+
+- "they did care about my little newsletter that I started off as a pipeline builder for my research agency, which was all about behavioral science and marketing and buyer psychology"
+- "I became known as like the buyer psychology person"
 
 ## Sources
 

@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-robinson
 identity_anchor: "@retentionadam"
 mechanism: "Pair a large organic-social audience with a genuinely free, self-serve product so the audience amplifies a free offer into word-of-mouth virality; let the distribution you already own dictate the go-to-market (give away what competitors charge for)."
-mechanism_tags: [free-drives-paid, product-led-virality, distribution-informs-gtm, freemium]
-quotes:
-  - text: "I can tell just by the metrics that the free offer is viral on its own"
-  - text: "no user is a free user"
-  - text: "the distribution was informing the go to market decisions"
-tags: [linkedin, founder-led-growth, product-led-growth, distribution]
+mechanism_tags: free-drives-paid, product-led-virality, distribution-informs-gtm, freemium
 created: 2026-07-04
 ---
 
@@ -28,6 +23,12 @@ The distribution mechanic is that free users are not a cost, they are a growth c
 
 A free offer and an audience multiply each other. If you have already built distribution, a genuinely generous free product spreads through it far faster than through paid channels, and the free users become your referral and word-of-mouth layer rather than a drain. Let what you can already distribute shape the go-to-market: sometimes the strongest move is to give away the thing everyone else sells.
 
+## Quotes
+
+- "I can tell just by the metrics that the free offer is viral on its own"
+- "no user is a free user"
+- "the distribution was informing the go to market decisions"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=AM4svHXG1iA
@@ -40,3 +41,4 @@ A free offer and an audience multiply each other. If you have already built dist
 - [[The Paid Newsletter That Gates Nothing]] — kyla-scanlon, matched: free-drives-paid
 - [[Free Post Hooks, Paid Post Pays Off]] — tomas-pueyo, matched: free-drives-paid
 - [[Seventeen Sponsors Keep the Newsletter Free]] — maja-voje, matched: free-drives-paid
+- [[A 90-Minute Tool That Hit Number 2 on Product Hunt]] — jakob-greenfeld, matched: product-led-virality

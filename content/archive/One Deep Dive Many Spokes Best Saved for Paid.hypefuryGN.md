@@ -5,9 +5,7 @@ pipeline: hypefuryGN-v1
 creator: aakash-gupta
 identity_anchor: aakashg.com
 mechanism: "Builds one 5,000-word paid newsletter deep dive as the hub, then atomizes it into three to four social posts and a free-tier version — while deliberately withholding the best material (e.g. three of five infographics) so the paid tier still has a reason to exist."
-mechanism_tags: [repurpose-one-to-many, content-atomization, paid-gating]
-quotes: []
-tags: [newsletter-growth, repurposing, monetization]
+mechanism_tags: repurpose-one-to-many, content-atomization, paid-gating
 created: 2026-06-29
 ---
 

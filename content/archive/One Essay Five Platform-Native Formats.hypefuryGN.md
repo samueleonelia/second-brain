@@ -4,9 +4,7 @@ pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Turns every newsletter essay into a staggered multi-day rollout: Instagram Reel on publish day, full YouTube video the next day, podcast audio the same day, LinkedIn posts days later"
-mechanism_tags: [repurpose-one-to-many, content-atomization, staggered-rollout, multi-platform-ecosystem]
-quotes: []
-tags: [content-repurposing, newsletter-growth, distribution, ecosystem]
+mechanism_tags: repurpose-one-to-many, content-atomization, staggered-rollout, multi-platform-ecosystem
 created: 2026-06-11
 ---
 

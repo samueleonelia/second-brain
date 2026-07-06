@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: geoff-sharpe
 identity_anchor: lookoutmediaco.com
 mechanism: "Take zero founder salary and plough every dollar of profit back into hiring another journalist, funding living expenses from a separate agency instead — and only expand when 9-12 months of a new role's costs are already covered, never operating into a deficit."
-mechanism_tags: [profit-reinvestment, founder-no-salary, bootstrapped-sustainability, disciplined-scaling]
-quotes:
-  - text: "I'm going to hire another journalist every single time"
-  - text: "I'm putting the profits back into the business"
-tags: [newsletters, bootstrapping, hiring]
+mechanism_tags: profit-reinvestment, founder-no-salary, bootstrapped-sustainability, disciplined-scaling
 created: 2026-07-01
 ---
 
@@ -26,6 +22,11 @@ The reinvestment is paired with hard risk discipline. He refuses to run the busi
 ## Lesson for Creators
 
 When a bootstrapped media product turns a profit, the most aggressive growth move can be to not pay yourself. If you can fund your life another way, reinvesting profit into the people who improve the product compounds faster than pocketing it — but only under a hard rule against deficits. Expand a role only when you have already banked the runway to cover it for the better part of a year. Sustainability is not the opposite of ambition here; it is what lets the ambition survive a bad quarter.
+
+## Quotes
+
+- "I'm going to hire another journalist every single time"
+- "I'm putting the profits back into the business"
 
 ## Sources
 

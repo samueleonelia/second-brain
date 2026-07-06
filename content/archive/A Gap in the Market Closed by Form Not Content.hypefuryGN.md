@@ -4,11 +4,7 @@ pipeline: hypefuryGN-v1
 creator: kyla-scanlon
 identity_anchor: kylascanlon.com
 mechanism: "Positioned her economics book against the genre's form rather than its substance: 60 illustrations, metaphors, and poetry where competing titles offer equations and condescension"
-mechanism_tags: [format-differentiation, gap-in-market, book-positioning, accessibility-as-moat]
-quotes:
-  - text: "I felt like there was a bit of a gap in the market"
-  - text: "the book has 60 illustrations"
-tags: [book-launch, positioning, finance-creators, differentiation]
+mechanism_tags: format-differentiation, gap-in-market, book-positioning, accessibility-as-moat
 created: 2026-06-11
 ---
 
@@ -25,6 +21,11 @@ The bet paid out in genre terms: a New York Times bestseller from a debut author
 ## Lesson for Creators
 
 When a topic is crowded, the unclaimed territory is often the format, not the angle. Scanlon studied what every economics book looked like and shipped one that looked like none of them while saying broadly compatible things. The replicable move is to audit your genre for its formal conventions (tone, density, visuals) and break the convention your audience most resents.
+
+## Quotes
+
+- "I felt like there was a bit of a gap in the market"
+- "the book has 60 illustrations"
 
 ## Sources
 

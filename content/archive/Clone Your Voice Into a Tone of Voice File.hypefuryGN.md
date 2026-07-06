@@ -4,12 +4,7 @@ pipeline: hypefuryGN-v1
 creator: duncan-rogoff
 identity_anchor: https://www.youtube.com/@duncanrogoff
 mechanism: "Generate a reusable tone-of-voice guideline file by asking the LLM that already holds memory of your past conversations to describe how you write, then feed that file into every content generation so AI output sounds like you, not generic."
-mechanism_tags: [tone-of-voice, voice-cloning, ai-content, clone-yourself]
-quotes:
-  - text: "Based on everything you know about me, create a 200-word tone of voice guidelines."
-  - text: "since Claude already keeps a memory of you, it's just going to go through your conversations. It's going to understand the way that you talk and the way that you like to communicate, and it's going to create that markdown file"
-  - text: "inside my community, one of the first things I have people do is build their own Brand Genius or their AI business partner, and in order to do that, you can clone yourself."
-tags: [tone-of-voice, ai-content, personal-brand, creator-systems]
+mechanism_tags: tone-of-voice, voice-cloning, ai-content, clone-yourself
 created: 2026-06-15
 ---
 
@@ -26,6 +21,12 @@ He has turned this into the first assignment he gives others. _"inside my commun
 ## Lesson for Creators
 
 Before you automate any content, capture your voice as a file. The cheapest way to produce it is to ask the model you already talk to daily to describe you from its own memory, then save that output as a reusable guideline that every future draft references. A voice file is what separates scaled content that still sounds like you from scaled content that sounds like everyone.
+
+## Quotes
+
+- "Based on everything you know about me, create a 200-word tone of voice guidelines."
+- "since Claude already keeps a memory of you, it's just going to go through your conversations. It's going to understand the way that you talk and the way that you like to communicate, and it's going to create that markdown file"
+- "inside my community, one of the first things I have people do is build their own Brand Genius or their AI business partner, and in order to do that, you can clone yourself."
 
 ## Sources
 

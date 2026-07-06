@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: adam-robinson
 identity_anchor: "@retentionadam"
 mechanism: "Get your co-founder and employees posting too, so multiple personal profiles (each carrying the company link) widen the company's organic reach; recruit and retain them by selling posting as a portable, career-boosting skill rather than mandating it."
-mechanism_tags: [team-amplification, employee-advocacy, linkedin-organic-growth, distribution-surface]
-quotes:
-  - text: "widens the attack surface"
-  - text: "it's a forever skill"
-tags: [linkedin, founder-led-growth, team, distribution]
+mechanism_tags: team-amplification, employee-advocacy, linkedin-organic-growth, distribution-surface
 created: 2026-07-04
 ---
 
@@ -26,6 +22,11 @@ He is careful about how it is imposed. Building a personal profile is roughly te
 ## Lesson for Creators
 
 One founder posting is a channel; a team posting is a network. Turn distribution into a company-wide surface by getting multiple people to post from personal profiles that all point back to you. Defuse the poaching fear by reframing: the skill you give employees is portable and career-making, which is exactly why the best people will want to join, and why leading by example beats mandating.
+
+## Quotes
+
+- "widens the attack surface"
+- "it's a forever skill"
 
 ## Sources
 

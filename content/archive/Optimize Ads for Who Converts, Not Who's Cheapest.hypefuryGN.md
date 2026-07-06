@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: geoff-sharpe
 identity_anchor: lookoutmediaco.com
 mechanism: "Buy paid subscribers against the metric that actually pays — member conversion and lifetime value — not the cheapest cost-per-lead, deliberately paying more for news-topic leads that convert to paying members over food-content leads that are cheaper but rarely convert."
-mechanism_tags: [paid-acquisition, lead-quality, ltv-optimization, member-conversion]
-quotes:
-  - text: "while I pay like more now for leads, the quality of the lead is much higher"
-  - text: "the end goal that I'm optimizing for is very different"
-  - text: "there is a difference between acquiring someone who like may open a newsletter for a little bit versus acquiring someone who's eventually going to give you"
-tags: [newsletters, paid-growth, lifetime-value]
+mechanism_tags: paid-acquisition, lead-quality, ltv-optimization, member-conversion
 created: 2026-07-01
 ---
 
@@ -28,6 +23,12 @@ The discipline behind this is lifetime value. Because Lookout decided from the s
 
 Cheap subscribers are only cheap if they do the thing you need them to do. Decide the downstream action you are really buying — a paid membership, a purchase, a renewal — and optimize spend against that conversion, even when it means paying more per lead. A higher cost-per-acquisition on a lead that converts beats a rock-bottom lead that opens twice and churns. Know your lifetime value first; it tells you which leads are worth overpaying for.
 
+## Quotes
+
+- "while I pay like more now for leads, the quality of the lead is much higher"
+- "the end goal that I'm optimizing for is very different"
+- "there is a difference between acquiring someone who like may open a newsletter for a little bit versus acquiring someone who's eventually going to give you"
+
 ## Sources
 
 - https://www.youtube.com/watch?v=SHepIYEgtxs
@@ -37,3 +38,4 @@ Cheap subscribers are only cheap if they do the thing you need them to do. Decid
 
 ## Related (matched on mechanism)
 - [[Buy the First Year of Growth in Month Three]] — geoff-sharpe, matched: paid-acquisition
+- [[Channel-Offer Fit Beats Product-Market Fit]] — jakob-greenfeld, matched: paid-acquisition

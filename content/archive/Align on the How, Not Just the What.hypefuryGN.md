@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: dave-kline
 identity_anchor: "@davidkline"
 mechanism: "Kline's highest-leverage management move is a two-minute conversation that co-authors the HOW (system, constraints, experiments, process metrics), not just the WHAT (the goal number), using the contrast between five-year-old 'beehive' soccer and Man City's zoned system to make the point."
-mechanism_tags: [expectations-alignment, how-not-what, clear-expectations, process-metrics]
-quotes:
-  - text: "the how is more important than the what"
-  - text: "co-author and align on clear expectations"
-tags: [expectations, management, delegation, communication]
+mechanism_tags: expectations-alignment, how-not-what, clear-expectations, process-metrics
 created: 2026-07-02
 ---
 
@@ -26,6 +22,11 @@ He makes it concrete with a sales team. Rather than stop at a territory number, 
 ## Lesson for Creators
 
 Handing someone a goal number is not delegation; it's the setup for a collision. Spend the two minutes to co-author the how (the system, constraints, and the experiments that will find the path) so both sides share the same picture before work starts. Clear expectations up front, with almost no emotion, prevent the messy back-end reckoning where the real friction lives.
+
+## Quotes
+
+- "the how is more important than the what"
+- "co-author and align on clear expectations"
 
 ## Sources
 

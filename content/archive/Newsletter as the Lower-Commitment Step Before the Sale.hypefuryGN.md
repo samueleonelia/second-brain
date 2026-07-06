@@ -5,11 +5,7 @@ pipeline: hypefuryGN-v1
 creator: michael-houck
 identity_anchor: foundingjourney.com
 mechanism: "Uses the email newsletter as an intermediate, lower-commitment opt-in between rented social audiences and any paid offer: capture the email, send something valuable each week, build trust, then sell."
-mechanism_tags: [owned-audience-funnel, social-to-email-funnel, trust-before-ask]
-quotes:
-  - text: "now there was an intermediate lower-commitment step you could offer them"
-  - text: "give them a reason to share their email with you"
-tags: [newsletter, audience-growth, email-marketing]
+mechanism_tags: owned-audience-funnel, social-to-email-funnel, trust-before-ask
 created: 2026-06-30
 ---
 
@@ -28,6 +24,11 @@ He noted that while email newsletters were hardly new in 2023, remarkably few fo
 ## Lesson for Creators
 
 Social reach is borrowed and can be revoked by an algorithm change you do not control. An email list is the one audience you keep. Do not ask a cold follower to buy. Ask for the smaller thing first, the email, then earn the right to sell by showing up weekly with something useful. The newsletter is the low-commitment step that converts rented attention into an owned relationship.
+
+## Quotes
+
+- "now there was an intermediate lower-commitment step you could offer them"
+- "give them a reason to share their email with you"
 
 ## Sources
 

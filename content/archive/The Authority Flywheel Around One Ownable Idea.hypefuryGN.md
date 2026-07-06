@@ -5,12 +5,7 @@ pipeline: hypefuryGN-v1
 creator: katelyn-bourgoin
 identity_anchor: beunignorable.com
 mechanism: "Once you have one idea you want to be known for, generate every post as one of four repeating angles (problem, point of view, promise, proof) all wrapped around that single idea, so repetition compounds authority instead of boring people."
-mechanism_tags: [one-message-repeated, content-pillars, ownable-idea, constraint-as-focus]
-quotes:
-  - text: "saying the same thing a thousand times"
-  - text: "there's this thing called the authority flywheel"
-  - text: "if you talk about the problem that you're solving you share your point of view on the problem you share the big promise that people are going to get from working with you from using your software and you share the proof and you do that consistently and it's all wrapped around your ownable idea"
-tags: [positioning, content-strategy, personal-brand]
+mechanism_tags: one-message-repeated, content-pillars, ownable-idea, constraint-as-focus
 created: 2026-07-05
 ---
 
@@ -27,6 +22,12 @@ She is blunt that this, not variety, is what has worked for her: the thing drivi
 ## Lesson for Creators
 
 Pick the one idea you want to own before you plan any content. Then stop generating topics and start generating angles: for the same idea, write the problem it solves, your contrarian point of view on it, the promise of the outcome, and the proof it works. Rotate those four forever. Repetition is not the risk; drift is. An audience does not remember you for the twenty things you mentioned once — they remember you for the one thing you said a thousand times.
+
+## Quotes
+
+- "saying the same thing a thousand times"
+- "there's this thing called the authority flywheel"
+- "if you talk about the problem that you're solving you share your point of view on the problem you share the big promise that people are going to get from working with you from using your software and you share the proof and you do that consistently and it's all wrapped around your ownable idea"
 
 ## Sources
 
