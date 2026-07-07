@@ -31,3 +31,4 @@ Budget for the hook as its own deliverable, because it controls whether the work
 
 ## Related (matched on mechanism)
 - [[Every Post Assumes Nobody Knows You]] — adam-robinson, matched: hook-engineering
+- [[Cram Two to Four Hook Levers Into the First Lines]] — tommy-clark, matched: hook-engineering

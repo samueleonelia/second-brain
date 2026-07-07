@@ -40,3 +40,5 @@ Engagement hacks decay — the comment trick or the trendy format that works thi
 - [[Research Trending Topics With the Last 30 Days Skill]] — duncan-rogoff, matched: audience-research
 - [[Don't Build What Your Audience Says They Want]] — geoff-sharpe, matched: audience-research
 - [[Two Followers Named Elon Musk and Paul Graham]] — jakob-greenfeld, matched: anti-engagement-hacking
+- [[Swap How-To Content for How-I Content]] — tommy-clark, matched: differentiation
+- [[Put the Hours Into Writing, Not Engagement Theater]] — tommy-clark, matched: anti-engagement-hacking

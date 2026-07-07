@@ -49,3 +49,4 @@ Equity is currency too, and at the early stage it is usually cheaper than cash. 
 
 - [[Skip the Link Keep the Reach]] — kyla-scanlon, matched: newsletter-growth
 - [[Buy the First Year of Growth in Month Three]] — geoff-sharpe, matched: acquisition-vs-paid-growth (same decision axis — acquire a list fast by paying: Geoff buys subscribers with Meta ad spend, Adam trades equity to merge a competitor's list, both skipping the slow organic build)
+- [[Rent a Media Company's Growth Engine to Scale a Newsletter]] — tommy-clark, matched: newsletter-growth

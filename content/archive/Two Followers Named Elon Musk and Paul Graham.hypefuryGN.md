@@ -43,3 +43,4 @@ Follower counts are not interchangeable units; an audience is worth what its mem
 ## Related (matched on mechanism)
 - [[Research as the Moat Instead of Algorithm Hacks]] — katelyn-bourgoin, matched: anti-engagement-hacking
 - [[Run the Play 300 Times Before Selling the Template]] — maja-voje, matched: earned-authority
+- [[Put the Hours Into Writing, Not Engagement Theater]] — tommy-clark, matched: anti-engagement-hacking

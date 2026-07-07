@@ -41,3 +41,4 @@ The tactic you do by hand is often a product someone will pay for. Houck spent y
 ## Related (matched on mechanism)
 - [[Run the Play 300 Times Before Selling the Template]] — maja-voje, matched: productize-the-process
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: productize-the-process
+- [[Rent a Media Company's Growth Engine to Scale a Newsletter]] — tommy-clark, matched: paid-amplification

@@ -42,3 +42,5 @@ Pick the platform where your buyer already is, not the one with the largest audi
 - [[Widening the Attack Surface]] — adam-robinson, matched: linkedin-organic-growth
 - [[Channel-Offer Fit Beats Product-Market Fit]] — jakob-greenfeld, matched: channel-bet
 - [[Master One Distribution Channel First]] — jakob-greenfeld, matched: channel-bet
+- [[Repost Your Winners Instead of Chasing New Hits]] — tommy-clark, matched: linkedin-organic-growth
+- [[Put the Hours Into Writing, Not Engagement Theater]] — tommy-clark, matched: linkedin-organic-growth

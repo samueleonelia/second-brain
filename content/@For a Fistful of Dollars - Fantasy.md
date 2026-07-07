@@ -1,0 +1,3 @@
+- [[A Fistful of Dollars - Outline]]
+- [[The Stranger With a Black Blade]]
+- 

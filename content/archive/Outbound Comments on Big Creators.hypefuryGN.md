@@ -36,3 +36,4 @@ Early on, other people's audiences are larger than yours, so go where they alrea
 - [[Co-Author Deep Dives to Borrow Bigger Audiences]] — maja-voje, matched: borrow-big-audiences
 - [[Grow With a Same-Size Creator Peer Group]] — michael-houck, matched: borrow-big-audiences, outbound-commenting
 - [[The Ten-Person Commenting Play]] — adam-robinson, matched: outbound-commenting
+- [[Rent a Media Company's Growth Engine to Scale a Newsletter]] — tommy-clark, matched: borrow-big-audiences

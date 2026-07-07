@@ -36,4 +36,4 @@ Outsourced creative earns its seat by the numbers. Set a short window, measure c
 
 ## Related (matched on mechanism)
 
-- (none yet)
+- [[The Content Interview Beats Ghostwriting]] — tommy-clark, matched: founder-owns-voice

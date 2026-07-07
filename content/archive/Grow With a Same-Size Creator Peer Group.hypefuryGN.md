@@ -41,3 +41,4 @@ Do not chase creators ten times your size for a shoutout; build a cohort at your
 - [[Outbound Comments on Big Creators]] — tom-alder, matched: borrow-big-audiences, outbound-commenting
 - [[The Ten-Person Commenting Play]] — adam-robinson, matched: outbound-commenting
 - [[Befriend Five Creators to Clear the Initial Barrier]] — jakob-greenfeld, matched: peer-group-cross-promo
+- [[Rent a Media Company's Growth Engine to Scale a Newsletter]] — tommy-clark, matched: borrow-big-audiences

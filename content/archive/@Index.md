@@ -53,6 +53,7 @@ title: Index
 - [[@Tom Alder]]
 - [[@Tom Orbach]]
 - [[@Tomas Pueyo]]
+- [[@Tommy Clark]]
 - [[@Trung Phan]]
 - [[@Yannick Veys]]
 - [[@Yong-Soo Chung]]
@@ -94,3 +95,6 @@ title: Index
 - [[@Decision making]]
 - [[@Productivity]]
 - [[@Why does a career matters]]
+
+## Stories
+- [[@For a Fistful of Dollars - Fantasy]]

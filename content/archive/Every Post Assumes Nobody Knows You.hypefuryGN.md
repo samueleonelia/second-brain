@@ -39,3 +39,4 @@ Assume every reader is a stranger, every time, and design the first line to prov
 
 ## Related (matched on mechanism)
 - [[Engineer the Hook Separately From the Post]] — aakash-gupta, matched: hook-engineering
+- [[Cram Two to Four Hook Levers Into the First Lines]] — tommy-clark, matched: hook-engineering, credibility-stacking

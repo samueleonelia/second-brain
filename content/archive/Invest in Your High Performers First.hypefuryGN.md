@@ -35,4 +35,4 @@ Your attention flows to whoever makes the most noise, which is usually your weak
 ---
 
 ## Related (matched on mechanism)
-- (none yet)
+- [[Put the Hours Into Writing, Not Engagement Theater]] — tommy-clark, matched: time-allocation
