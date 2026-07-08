@@ -26,6 +26,7 @@ The non-negotiable is that the ideas and stories originate from the founder. The
 If you are too busy to write but your personal brand is the growth channel, do not hire someone to imagine your voice. Hire someone to extract it. Sit for a recorded interview on a fixed cadence, come with 7-10 questions each mapped to one post, and let an editor turn the transcript into finished pieces. You keep the stories and opinions that make the content un-copyable; you outsource only the formatting. Time in: a couple hours every two weeks. Output: one to two weeks of posts that still sound like you.
 
 ## Quotes
+- "delegate but not abdicate"
 - "you can build systems around content creation, but the thing is if you're completely removing yourself, you're going to likely remove the aspects of that content that make it unique and engaging"
 - "the main way you stand out on the timeline is through your own personal stories and your own real opinions"
 - "you need to remain involved enough that your actual thoughts and opinions and stories are the ones making into the content"
