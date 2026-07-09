@@ -32,3 +32,4 @@ Measure each channel by its net effect on the asset you actually care about, and
 ## Related (matched on mechanism)
 - [[The Paid-Subscriber Northstar]] — aakash-gupta, matched: analytics-driven-content
 - [[Channel-Offer Fit Beats Product-Market Fit]] — jakob-greenfeld, matched: channel-net-roi
+- [[Run LinkedIn Like an Ad Account Track Find the Hit Double Down]] — andy-mewborn, matched: analytics-driven-content

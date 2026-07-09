@@ -36,3 +36,4 @@ Grow and learn on a free list before you charge, and treat the size of that list
 - [[Buy the First Year of Growth in Month Three]] — geoff-sharpe, matched: free-list-first (both grow the free list first and monetize later — Aakash builds the audience before the product, Geoff buys the free list with ads before it converts to paying members)
 - [[Content Market Fit Before Any Demo]] — adam-robinson, matched: audience-before-product
 - [[Master One Distribution Channel First]] — jakob-greenfeld, matched: distribution-before-monetization
+- [[Brand 30 Daily-Posting Challenge as a Distribution Engine]] — andy-mewborn, matched: audience-before-product

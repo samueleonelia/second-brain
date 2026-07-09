@@ -31,3 +31,4 @@ Consistency gets you to a plateau; experiments get you past it. Keep a stable ba
 ---
 
 ## Related (matched on mechanism)
+- [[Run LinkedIn Like an Ad Account Track Find the Hit Double Down]] — andy-mewborn, matched: relentless-experimentation
