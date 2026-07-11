@@ -42,3 +42,4 @@ Engagement hacks decay — the comment trick or the trendy format that works thi
 - [[Two Followers Named Elon Musk and Paul Graham]] — jakob-greenfeld, matched: anti-engagement-hacking
 - [[Swap How-To Content for How-I Content]] — tommy-clark, matched: differentiation
 - [[Put the Hours Into Writing, Not Engagement Theater]] — tommy-clark, matched: anti-engagement-hacking
+- [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: differentiation

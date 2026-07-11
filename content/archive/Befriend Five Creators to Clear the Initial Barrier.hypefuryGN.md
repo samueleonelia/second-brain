@@ -44,3 +44,4 @@ The distribution game on every user-generated-content platform is decided in the
 - [[The First Hour Decides the Post]] — tom-alder, matched: first-hour-engagement, viral-threshold
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: first-hour-engagement
 - [[The Ten-Person Commenting Play]] — adam-robinson, matched: relationship-building
+- [[Reply as the Only Cold-Start Channel]] — erica-schneider, matched: relationship-building

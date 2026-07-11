@@ -42,3 +42,4 @@ You do not always know which project is the real one. Build in public and the au
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: build-in-public
 - [[Content Market Fit Before Any Demo]] — adam-robinson, matched: build-in-public
 - [[A Made-By Badge That Landed a Podcast Shoutout]] — jakob-greenfeld, matched: build-in-public
+- [[Market the Problem More Than Anything Else]] — erica-schneider, matched: build-in-public

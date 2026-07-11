@@ -58,3 +58,4 @@ The first-hour engagement window is a hard physical constraint, not a content-st
 - [[Repost Your Winners Instead of Chasing New Hits]] — tommy-clark, matched: linkedin-organic-growth
 - [[Put the Hours Into Writing, Not Engagement Theater]] — tommy-clark, matched: linkedin-organic-growth
 - [[Brand 30 Daily-Posting Challenge as a Distribution Engine]] — andy-mewborn, matched: daily-posting-streak
+- [[Reply as the Only Cold-Start Channel]] — erica-schneider, matched: do-things-that-dont-scale

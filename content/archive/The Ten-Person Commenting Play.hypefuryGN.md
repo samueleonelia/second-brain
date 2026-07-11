@@ -41,3 +41,4 @@ Before you optimize your own posts, spend your engagement budget on ten people w
 - [[Grow With a Same-Size Creator Peer Group]] — michael-houck, matched: outbound-commenting
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: do-things-that-dont-scale
 - [[Befriend Five Creators to Clear the Initial Barrier]] — jakob-greenfeld, matched: relationship-building
+- [[Reply as the Only Cold-Start Channel]] — erica-schneider, matched: outbound-commenting

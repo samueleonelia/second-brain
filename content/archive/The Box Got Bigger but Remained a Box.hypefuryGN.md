@@ -42,3 +42,4 @@ Premature niching trades your creativity, the one input everything depends on, f
 - [[Make the Writer the Thing Readers Trust]] — geoff-sharpe, matched: personal-brand-moat
 - [[The Niche Was on the Car Lot]] — kyla-scanlon, matched: niche-selection
 - [[Swap How-To Content for How-I Content]] — tommy-clark, matched: personal-brand-moat
+- [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: niche-selection

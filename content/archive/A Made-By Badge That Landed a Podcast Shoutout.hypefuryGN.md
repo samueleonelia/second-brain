@@ -45,3 +45,4 @@ If you run multiple small projects, the projects themselves are a distribution n
 - [[The Tulum House That Became Launch House on Organic Attention]] — michael-houck, matched: build-in-public
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: build-in-public
 - [[Zero Budget Launch Through Borrowed Communities]] — maja-voje, matched: build-in-public
+- [[Market the Problem More Than Anything Else]] — erica-schneider, matched: build-in-public

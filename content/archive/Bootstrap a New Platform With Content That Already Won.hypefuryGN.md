@@ -46,3 +46,4 @@ Do not treat a second platform as a fresh start that resets your batting average
 - [[Run LinkedIn Like an Ad Account Track Find the Hit Double Down]] — andy-mewborn, matched: proven-content-first
 - [[Repost Your Winners Instead of Chasing New Hits]] — tommy-clark, matched: proven-content-first, linkedin-organic-growth
 - [[Put the Hours Into Writing, Not Engagement Theater]] — tommy-clark, matched: linkedin-organic-growth
+- [[Fifty Posts From One Long Piece]] — erica-schneider, matched: repurpose-one-to-many

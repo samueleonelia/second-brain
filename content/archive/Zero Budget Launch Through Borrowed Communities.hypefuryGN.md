@@ -41,3 +41,4 @@ You do not need a budget to find the first thousand users. Show up and add value
 - [[Content Market Fit Before Any Demo]] — adam-robinson, matched: build-in-public
 - [[A Made-By Badge That Landed a Podcast Shoutout]] — jakob-greenfeld, matched: build-in-public
 - [[A 90-Minute Tool That Hit Number 2 on Product Hunt]] — jakob-greenfeld, matched: zero-budget-launch
+- [[Market the Problem More Than Anything Else]] — erica-schneider, matched: build-in-public

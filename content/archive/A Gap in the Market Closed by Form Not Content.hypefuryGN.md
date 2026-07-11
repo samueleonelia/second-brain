@@ -38,3 +38,4 @@ When a topic is crowded, the unclaimed territory is often the format, not the an
 - [[Newsletter as Pipeline Bait, Then Follow the Signal]] — katelyn-bourgoin, matched: gap-in-market
 - [[Make Complexity Graspable With a Sticky Metaphor]] — tomas-pueyo, matched: accessibility-as-moat
 - [[A Visual on Every Unit You Publish]] — tomas-pueyo, matched: format-differentiation
+- [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: gap-in-market

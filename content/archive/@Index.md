@@ -35,6 +35,7 @@ title: Index
 - [[@Dan Shipper]]
 - [[@Dave Kline]]
 - [[@Duncan Rogoff]]
+- [[@Erica Schneider]]
 - [[@Geoff Sharpe]]
 - [[@Jakob Greenfeld]]
 - [[@Jesse J. Anderson]]

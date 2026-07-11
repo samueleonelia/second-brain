@@ -35,3 +35,4 @@ The strongest niche selection data comes from jobs that put you face to face wit
 
 ## Related (matched on mechanism)
 - [[The Box Got Bigger but Remained a Box]] — jakob-greenfeld, matched: niche-selection
+- [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: niche-selection

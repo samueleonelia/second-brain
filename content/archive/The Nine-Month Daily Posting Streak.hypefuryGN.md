@@ -38,3 +38,4 @@ The audience that makes a launch easy is built in the boring months nobody watch
 - [[Content Market Fit Before Any Demo]] — adam-robinson, matched: audience-before-product
 - [[A Tweet Every Day to Stay Findable]] — jakob-greenfeld, matched: daily-posting-streak
 - [[Brand 30 Daily-Posting Challenge as a Distribution Engine]] — andy-mewborn, matched: daily-posting-streak
+- [[Reply as the Only Cold-Start Channel]] — erica-schneider, matched: cold-start

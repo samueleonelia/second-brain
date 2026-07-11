@@ -48,3 +48,4 @@ The trap is measuring a top-of-funnel activity with a bottom-of-funnel ruler. A 
 - [[Zero Budget Launch Through Borrowed Communities]] — maja-voje, matched: build-in-public
 - [[A Made-By Badge That Landed a Podcast Shoutout]] — jakob-greenfeld, matched: build-in-public
 - [[Brand 30 Daily-Posting Challenge as a Distribution Engine]] — andy-mewborn, matched: audience-before-product
+- [[Market the Problem More Than Anything Else]] — erica-schneider, matched: build-in-public
