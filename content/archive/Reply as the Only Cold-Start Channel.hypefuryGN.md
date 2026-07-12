@@ -27,6 +27,7 @@ An account with no followers has no distribution of its own, so the fastest path
 
 ## Quotes
 
+- "like absolutely not"
 - "the only way that I started to build traction and my advice to beginners is go reply on people's posts"
 - "The best way to get attention is on someone else's content that is in one of three categories, your peer, so someone in your industry that is saying something that you can lend your point of view to, your ideal audience, so obviously whoever you want and your ideal audiences' audience."
 - "I either agree but here's my also unique angle or actually kind of disagree with this, be a little bit contrarian."

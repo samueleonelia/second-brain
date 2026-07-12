@@ -19,7 +19,7 @@ Instead of competing head-on in that saturated lane, she reflected on what she w
 
 That single wedge became her entire rise. In a separate interview she was explicit that this is how it happened: "the way that I rose up was talking about editing." Because she understood the problem of not wanting to edit, and the problem teams face trying to edit, better than the people flooding the writing lane, the topic was hers to own rather than to fight over. From that recognized position the rest compounded: speaking invitations, poaching attempts from big companies, and eventually her own courses and coaching business.
 
-Her differentiation went even to the level of individual takes. Where everyone repeated advice like "write the hook first," she would offer the opposite as a deliberate angle into the conversation, treating a contrarian process as another way to claim a distinct spot rather than echo the consensus.
+Her differentiation went even to the level of individual takes. Where everyone repeated the standard advice to write the hook first, she would offer the opposite as a deliberate angle into the conversation, treating a contrarian process as another way to claim a distinct spot rather than echo the consensus.
 
 ## Lesson for Creators
 
