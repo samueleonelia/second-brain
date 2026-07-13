@@ -36,4 +36,4 @@ The cheapest edge in a crowded niche is to read what your competitors will not. 
 ---
 
 ## Related (matched on mechanism)
-- (none yet)
+- [[Spend 50 Hours on One Deep Dive Nobody Else Would]] — chenell-basilio, matched: primary-source-research, depth-as-edge

@@ -37,3 +37,4 @@ Stop writing hooks by feel. Keep a checklist of hook levers, negativity bias, a 
 - [[Every Post Assumes Nobody Knows You]] — adam-robinson, matched: hook-engineering, credibility-stacking
 - [[Engineer the Hook Separately From the Post]] — aakash-gupta, matched: hook-engineering
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: hook-engineering
+- [[Tease Tomorrow's Issue the Day Before]] — chenell-basilio, matched: hook-engineering

@@ -48,3 +48,4 @@ Write to the one buyer you want, not to the feed. Lead with a specific, quantifi
 - [[Catch the Viral Spike in an Owned List]] — tomas-pueyo, matched: social-to-email-funnel
 - [[Sub-2-Dollar Subscribers Once the Content Proved Its Legs]] — michael-houck, matched: social-to-email-funnel
 - [[Newsletter as the Lower-Commitment Step Before the Sale]] — michael-houck, matched: social-to-email-funnel
+- [[Tease Tomorrow's Issue the Day Before]] — chenell-basilio, matched: hook-engineering, social-to-email-funnel

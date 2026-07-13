@@ -42,3 +42,5 @@ Before you optimize your own posts, spend your engagement budget on ten people w
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: do-things-that-dont-scale
 - [[Befriend Five Creators to Clear the Initial Barrier]] — jakob-greenfeld, matched: relationship-building
 - [[Reply as the Only Cold-Start Channel]] — erica-schneider, matched: outbound-commenting
+- [[Brand the Profile Before You Tell Anyone]] — chenell-basilio, matched: outbound-commenting, do-things-that-dont-scale, relationship-building
+- [[Thank Everyone Who Sent You Two Subscribers]] — chenell-basilio, matched: relationship-building, do-things-that-dont-scale, second-degree-reach

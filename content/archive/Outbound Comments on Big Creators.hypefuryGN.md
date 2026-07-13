@@ -38,3 +38,4 @@ Early on, other people's audiences are larger than yours, so go where they alrea
 - [[The Ten-Person Commenting Play]] — adam-robinson, matched: outbound-commenting
 - [[Rent a Media Company's Growth Engine to Scale a Newsletter]] — tommy-clark, matched: borrow-big-audiences
 - [[Reply as the Only Cold-Start Channel]] — erica-schneider, matched: outbound-commenting
+- [[Brand the Profile Before You Tell Anyone]] — chenell-basilio, matched: outbound-commenting

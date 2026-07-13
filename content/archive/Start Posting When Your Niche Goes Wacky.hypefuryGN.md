@@ -31,3 +31,4 @@ Cold starts are cheapest when the niche is in chaos, because chaos manufactures 
 ## Related (matched on mechanism)
 - [[Growth Playbooks Decay With Every Copying Cohort]] — jakob-greenfeld, matched: timing-entry
 - [[Reply as the Only Cold-Start Channel]] — erica-schneider, matched: cold-start
+- [[Brand the Profile Before You Tell Anyone]] — chenell-basilio, matched: cold-start

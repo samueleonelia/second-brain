@@ -45,3 +45,5 @@ The distribution game on every user-generated-content platform is decided in the
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: first-hour-engagement
 - [[The Ten-Person Commenting Play]] — adam-robinson, matched: relationship-building
 - [[Reply as the Only Cold-Start Channel]] — erica-schneider, matched: relationship-building
+- [[Brand the Profile Before You Tell Anyone]] — chenell-basilio, matched: relationship-building
+- [[Thank Everyone Who Sent You Two Subscribers]] — chenell-basilio, matched: relationship-building

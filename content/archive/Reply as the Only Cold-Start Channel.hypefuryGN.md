@@ -49,3 +49,5 @@ An account with no followers has no distribution of its own, so the fastest path
 - [[Post Where the Audience Already Is]] — aakash-gupta, matched: cold-start
 - [[Start Posting When Your Niche Goes Wacky]] — kyla-scanlon, matched: cold-start
 - [[The Nine-Month Daily Posting Streak]] — tom-alder, matched: cold-start
+- [[Brand the Profile Before You Tell Anyone]] — chenell-basilio, matched: outbound-commenting, cold-start, do-things-that-dont-scale, relationship-building
+- [[Thank Everyone Who Sent You Two Subscribers]] — chenell-basilio, matched: relationship-building, do-things-that-dont-scale, second-degree-reach

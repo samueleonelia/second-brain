@@ -37,3 +37,4 @@ Before publishing an instructional post, check whether it could have been writte
 - [[Make the Writer the Thing Readers Trust]] — geoff-sharpe, matched: personal-brand-moat
 - [[The Box Got Bigger but Remained a Box]] — jakob-greenfeld, matched: personal-brand-moat
 - [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: differentiation
+- [[Spend 50 Hours on One Deep Dive Nobody Else Would]] — chenell-basilio, matched: differentiation

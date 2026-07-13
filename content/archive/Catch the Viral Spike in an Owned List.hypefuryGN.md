@@ -36,3 +36,4 @@ Virality is a flood, not a faucet. Put an email capture inside the viral piece i
 - [[Newsletter as the Lower-Commitment Step Before the Sale]] — michael-houck, matched: social-to-email-funnel
 - [[Sub-2-Dollar Subscribers Once the Content Proved Its Legs]] — michael-houck, matched: social-to-email-funnel
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: social-to-email-funnel
+- [[Tease Tomorrow's Issue the Day Before]] — chenell-basilio, matched: social-to-email-funnel

@@ -42,3 +42,4 @@ Social reach is borrowed and can be revoked by an algorithm change you do not co
 - [[Sub-2-Dollar Subscribers Once the Content Proved Its Legs]] — michael-houck, matched: social-to-email-funnel
 - [[Turn Paid On at 300 to 500 Subscribers]] — matched: trust-before-ask
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: social-to-email-funnel
+- [[Tease Tomorrow's Issue the Day Before]] — chenell-basilio, matched: social-to-email-funnel

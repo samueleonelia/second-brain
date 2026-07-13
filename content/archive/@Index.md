@@ -31,6 +31,7 @@ title: Index
 - [[@Andy Mewborn]]
 - [[@Boris Cherny]]
 - [[@Charlie Hills]]
+- [[@Chenell Basilio]]
 - [[@CJ Gustafson]]
 - [[@Dan Shipper]]
 - [[@Dave Kline]]

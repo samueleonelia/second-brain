@@ -39,3 +39,4 @@ When a topic is crowded, the unclaimed territory is often the format, not the an
 - [[Make Complexity Graspable With a Sticky Metaphor]] — tomas-pueyo, matched: accessibility-as-moat
 - [[A Visual on Every Unit You Publish]] — tomas-pueyo, matched: format-differentiation
 - [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: gap-in-market
+- [[Spend 50 Hours on One Deep Dive Nobody Else Would]] — chenell-basilio, matched: format-differentiation

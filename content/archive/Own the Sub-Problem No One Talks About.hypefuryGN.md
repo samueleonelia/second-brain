@@ -46,3 +46,4 @@ If the topic you want is crowded, do not try to out-shout it. Look one step to t
 - [[Newsletter as Pipeline Bait, Then Follow the Signal]] — katelyn-bourgoin, matched: gap-in-market
 - [[Research as the Moat Instead of Algorithm Hacks]] — katelyn-bourgoin, matched: differentiation
 - [[Swap How-To Content for How-I Content]] — tommy-clark, matched: differentiation
+- [[Spend 50 Hours on One Deep Dive Nobody Else Would]] — chenell-basilio, matched: differentiation

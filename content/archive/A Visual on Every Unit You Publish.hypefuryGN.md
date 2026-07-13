@@ -29,3 +29,4 @@ In a feed, a wall of text loses. Pair every post, every tweet in a thread, and e
 
 ## Related (matched on mechanism)
 - [[A Gap in the Market Closed by Form Not Content]] — kyla-scanlon, matched: format-differentiation
+- [[Spend 50 Hours on One Deep Dive Nobody Else Would]] — chenell-basilio, matched: format-differentiation

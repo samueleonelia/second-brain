@@ -55,6 +55,8 @@ The first-hour engagement window is a hard physical constraint, not a content-st
 - [[Widening the Attack Surface]] — adam-robinson, matched: linkedin-organic-growth
 - [[Befriend Five Creators to Clear the Initial Barrier]] — jakob-greenfeld, matched: first-hour-engagement
 - [[A Tweet Every Day to Stay Findable]] — jakob-greenfeld, matched: daily-posting-streak
+- [[Brand the Profile Before You Tell Anyone]] — chenell-basilio, matched: do-things-that-dont-scale
+- [[Thank Everyone Who Sent You Two Subscribers]] — chenell-basilio, matched: do-things-that-dont-scale
 - [[Repost Your Winners Instead of Chasing New Hits]] — tommy-clark, matched: linkedin-organic-growth
 - [[Put the Hours Into Writing, Not Engagement Theater]] — tommy-clark, matched: linkedin-organic-growth
 - [[Brand 30 Daily-Posting Challenge as a Distribution Engine]] — andy-mewborn, matched: daily-posting-streak

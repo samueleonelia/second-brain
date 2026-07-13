@@ -35,3 +35,4 @@ Do your best work, then release it where an algorithm will hand it to strangers,
 - [[Start Posting When Your Niche Goes Wacky]] — kyla-scanlon, matched: cold-start
 - [[The Nine-Month Daily Posting Streak]] — tom-alder, matched: cold-start
 - [[Reply as the Only Cold-Start Channel]] — erica-schneider, matched: cold-start
+- [[Brand the Profile Before You Tell Anyone]] — chenell-basilio, matched: cold-start
