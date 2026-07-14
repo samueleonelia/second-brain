@@ -38,3 +38,5 @@ Your highest-effort asset is the long recording you already made. Atomizing it i
 - [[One Post Many Pins]] — olivia-wickstrom, matched: repurpose-one-to-many, content-atomization
 - [[One Deep Dive Many Spokes Best Saved for Paid]] — aakash-gupta, matched: repurpose-one-to-many, content-atomization
 - [[Fifty Posts From One Long Piece]] — erica-schneider, matched: repurpose-one-to-many
+- [[Micro-Lessons Sized to the LinkedIn Feed]] — eddie-shleyner, matched: content-atomization
+- [[The Newsletter-Powered LinkedIn Growth Loop]] — eddie-shleyner, matched: multi-platform-ecosystem/repurpose-one-to-many

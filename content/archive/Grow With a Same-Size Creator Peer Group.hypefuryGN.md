@@ -44,3 +44,4 @@ Do not chase creators ten times your size for a shoutout; build a cohort at your
 - [[Rent a Media Company's Growth Engine to Scale a Newsletter]] — tommy-clark, matched: borrow-big-audiences
 - [[Reply as the Only Cold-Start Channel]] — erica-schneider, matched: outbound-commenting
 - [[Brand the Profile Before You Tell Anyone]] — chenell-basilio, matched: outbound-commenting
+- [[Borrowing HubSpot's Audience to Seed His Own]] — eddie-shleyner, matched: borrow-big-audiences

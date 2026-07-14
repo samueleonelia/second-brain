@@ -41,3 +41,4 @@ Some content will never convert directly, yet still be worth producing because o
 - [[Inbound-Led Outbound Through the Profile]] — adam-robinson, matched: parasocial-relationship
 - [[The Box Got Bigger but Remained a Box]] — jakob-greenfeld, matched: personal-brand-moat
 - [[Swap How-To Content for How-I Content]] — tommy-clark, matched: personal-brand-moat
+- [[The Murph World Record as a Proof-of-Expertise Flag]] — alec-blenis, matched: personal-brand-moat

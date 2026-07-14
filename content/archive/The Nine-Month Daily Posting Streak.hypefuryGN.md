@@ -40,3 +40,5 @@ The audience that makes a launch easy is built in the boring months nobody watch
 - [[Brand 30 Daily-Posting Challenge as a Distribution Engine]] — andy-mewborn, matched: daily-posting-streak
 - [[Reply as the Only Cold-Start Channel]] — erica-schneider, matched: cold-start
 - [[Brand the Profile Before You Tell Anyone]] — chenell-basilio, matched: cold-start
+- [[Borrowing HubSpot's Audience to Seed His Own]] — eddie-shleyner, matched: cold-start
+- [[Documenting the Job He Didn't Know Yet]] — eddie-shleyner, matched: cold-start

@@ -38,3 +38,4 @@ Stop writing hooks by feel. Keep a checklist of hook levers, negativity bias, a 
 - [[Engineer the Hook Separately From the Post]] — aakash-gupta, matched: hook-engineering
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: hook-engineering
 - [[Tease Tomorrow's Issue the Day Before]] — chenell-basilio, matched: hook-engineering
+- [[Evidence-Based Memes as a Contrarian Content Engine]] — alec-blenis, matched: hook-engineering

@@ -41,3 +41,4 @@ If your writing is good but your distribution is zero, the fastest path may be t
 - [[Megaphone Productizes Cross-Creator Amplification]] — michael-houck, matched: paid-amplification
 - [[Grow With a Same-Size Creator Peer Group]] — michael-houck, matched: borrow-big-audiences
 - [[Outbound Comments on Big Creators]] — tom-alder, matched: borrow-big-audiences
+- [[Borrowing HubSpot's Audience to Seed His Own]] — eddie-shleyner, matched: borrow-big-audiences

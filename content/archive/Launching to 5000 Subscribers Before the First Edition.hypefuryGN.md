@@ -34,3 +34,4 @@ You do not need the product before you start the list. If you already have any a
 
 ## Related (matched on mechanism)
 - [[A 90-Minute Tool That Hit Number 2 on Product Hunt]] — jakob-greenfeld, matched: launch-before-ready
+- [[Borrowing HubSpot's Audience to Seed His Own]] — eddie-shleyner, matched: cta-on-existing-content

@@ -43,3 +43,5 @@ Premature niching trades your creativity, the one input everything depends on, f
 - [[The Niche Was on the Car Lot]] — kyla-scanlon, matched: niche-selection
 - [[Swap How-To Content for How-I Content]] — tommy-clark, matched: personal-brand-moat
 - [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: niche-selection
+- [[The Murph World Record as a Proof-of-Expertise Flag]] — alec-blenis, matched: personal-brand-moat
+- [[Owning the Runner-Lifter Overlap]] — alec-blenis, matched: niche-selection

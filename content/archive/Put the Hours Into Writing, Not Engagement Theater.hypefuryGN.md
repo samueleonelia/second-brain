@@ -43,3 +43,4 @@ If you only have an hour for LinkedIn, spend most of it writing, not commenting.
 - [[Repost Your Winners Instead of Chasing New Hits]] — tommy-clark, matched: linkedin-organic-growth
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: linkedin-organic-growth
 - [[Widening the Attack Surface]] — adam-robinson, matched: linkedin-organic-growth
+- [[Micro-Lessons Sized to the LinkedIn Feed]] — eddie-shleyner, matched: linkedin-organic-growth

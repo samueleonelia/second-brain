@@ -38,3 +38,5 @@ Before publishing an instructional post, check whether it could have been writte
 - [[The Box Got Bigger but Remained a Box]] — jakob-greenfeld, matched: personal-brand-moat
 - [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: differentiation
 - [[Spend 50 Hours on One Deep Dive Nobody Else Would]] — chenell-basilio, matched: differentiation
+- [[The Murph World Record as a Proof-of-Expertise Flag]] — alec-blenis, matched: differentiation
+- [[Evidence-Based Memes as a Contrarian Content Engine]] — alec-blenis, matched: differentiation

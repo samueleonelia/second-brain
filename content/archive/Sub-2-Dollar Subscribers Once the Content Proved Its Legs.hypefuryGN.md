@@ -43,3 +43,5 @@ Paid ads are how most large newsletters actually scale, and a sub-$2 subscriber 
 - [[Catch the Viral Spike in an Owned List]] — tomas-pueyo, matched: social-to-email-funnel
 - [[Buy the First Year of Growth in Month Three]] — geoff-sharpe, matched: free-list-first (both scale a free list with paid Meta ads but refuse to pour money in until cheap early engagement proves the funnel converts)
 - [[Tease Tomorrow's Issue the Day Before]] — chenell-basilio, matched: social-to-email-funnel
+- [[A Website Built to Do One Thing]] — eddie-shleyner, matched: social-to-email-funnel
+- [[The Newsletter-Powered LinkedIn Growth Loop]] — eddie-shleyner, matched: social-to-email-funnel

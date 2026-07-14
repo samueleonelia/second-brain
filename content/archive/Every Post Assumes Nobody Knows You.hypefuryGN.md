@@ -42,3 +42,4 @@ Assume every reader is a stranger, every time, and design the first line to prov
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: hook-engineering
 - [[Cram Two to Four Hook Levers Into the First Lines]] — tommy-clark, matched: hook-engineering, credibility-stacking
 - [[Tease Tomorrow's Issue the Day Before]] — chenell-basilio, matched: hook-engineering
+- [[Evidence-Based Memes as a Contrarian Content Engine]] — alec-blenis, matched: hook-engineering

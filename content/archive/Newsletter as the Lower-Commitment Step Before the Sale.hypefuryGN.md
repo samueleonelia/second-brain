@@ -43,3 +43,5 @@ Social reach is borrowed and can be revoked by an algorithm change you do not co
 - [[Turn Paid On at 300 to 500 Subscribers]] — matched: trust-before-ask
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: social-to-email-funnel
 - [[Tease Tomorrow's Issue the Day Before]] — chenell-basilio, matched: social-to-email-funnel
+- [[A Website Built to Do One Thing]] — eddie-shleyner, matched: owned-audience-funnel/social-to-email-funnel
+- [[The Newsletter-Powered LinkedIn Growth Loop]] — eddie-shleyner, matched: owned-audience-funnel/social-to-email-funnel

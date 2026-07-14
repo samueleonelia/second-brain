@@ -33,3 +33,4 @@ Pick the one metric closest to revenue and let it, not applause, decide what you
 - [[Kill the Clever Tagline, Keep the One That Converts]] — maja-voje, matched: conversion-as-judge
 - [[Audit Every Channel by Its Net Effect on the List]] — aakash-gupta, matched: analytics-driven-content
 - [[Run LinkedIn Like an Ad Account Track Find the Hit Double Down]] — andy-mewborn, matched: analytics-driven-content
+- [[A Website Built to Do One Thing]] — eddie-shleyner, matched: conversion-as-judge

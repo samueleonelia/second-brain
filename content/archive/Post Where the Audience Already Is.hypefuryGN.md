@@ -36,3 +36,5 @@ Do your best work, then release it where an algorithm will hand it to strangers,
 - [[The Nine-Month Daily Posting Streak]] — tom-alder, matched: cold-start
 - [[Reply as the Only Cold-Start Channel]] — erica-schneider, matched: cold-start
 - [[Brand the Profile Before You Tell Anyone]] — chenell-basilio, matched: cold-start
+- [[Borrowing HubSpot's Audience to Seed His Own]] — eddie-shleyner, matched: cold-start/owned-site-cold-start
+- [[Documenting the Job He Didn't Know Yet]] — eddie-shleyner, matched: cold-start

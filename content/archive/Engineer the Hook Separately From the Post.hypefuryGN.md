@@ -34,3 +34,4 @@ Budget for the hook as its own deliverable, because it controls whether the work
 - [[Cram Two to Four Hook Levers Into the First Lines]] — tommy-clark, matched: hook-engineering
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: hook-engineering
 - [[Tease Tomorrow's Issue the Day Before]] — chenell-basilio, matched: hook-engineering
+- [[Evidence-Based Memes as a Contrarian Content Engine]] — alec-blenis, matched: hook-engineering

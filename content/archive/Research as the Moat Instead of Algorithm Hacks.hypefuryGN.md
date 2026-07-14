@@ -44,3 +44,5 @@ Engagement hacks decay — the comment trick or the trendy format that works thi
 - [[Put the Hours Into Writing, Not Engagement Theater]] — tommy-clark, matched: anti-engagement-hacking
 - [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: differentiation
 - [[Spend 50 Hours on One Deep Dive Nobody Else Would]] — chenell-basilio, matched: research-backed-content, differentiation
+- [[The Murph World Record as a Proof-of-Expertise Flag]] — alec-blenis, matched: differentiation
+- [[Evidence-Based Memes as a Contrarian Content Engine]] — alec-blenis, matched: differentiation

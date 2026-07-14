@@ -40,3 +40,4 @@ Fear of repetition is the enemy. Because only a fraction of your followers see a
 ## Related (matched on mechanism)
 - [[The Authority Flywheel Around One Ownable Idea]] — katelyn-bourgoin, matched: content-pillars
 - [[Content Pillars Before You Post Anything]] — olivia-wickstrom, matched: content-pillars
+- [[Micro-Lessons Sized to the LinkedIn Feed]] — eddie-shleyner, matched: constraint-as-focus

@@ -47,3 +47,6 @@ If the topic you want is crowded, do not try to out-shout it. Look one step to t
 - [[Research as the Moat Instead of Algorithm Hacks]] — katelyn-bourgoin, matched: differentiation
 - [[Swap How-To Content for How-I Content]] — tommy-clark, matched: differentiation
 - [[Spend 50 Hours on One Deep Dive Nobody Else Would]] — chenell-basilio, matched: differentiation
+- [[The Murph World Record as a Proof-of-Expertise Flag]] — alec-blenis, matched: differentiation
+- [[Evidence-Based Memes as a Contrarian Content Engine]] — alec-blenis, matched: differentiation
+- [[Owning the Runner-Lifter Overlap]] — alec-blenis, matched: gap-in-market

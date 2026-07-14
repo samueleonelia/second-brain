@@ -35,3 +35,5 @@ One post is raw material for a dozen assets. Atomize each piece into several ang
 - [[One Recording Into a Week of Content]] — duncan-rogoff, matched: repurpose-one-to-many, content-atomization
 - [[One Deep Dive Many Spokes Best Saved for Paid]] — aakash-gupta, matched: repurpose-one-to-many, content-atomization
 - [[Fifty Posts From One Long Piece]] — erica-schneider, matched: content-atomization
+- [[Micro-Lessons Sized to the LinkedIn Feed]] — eddie-shleyner, matched: content-atomization
+- [[The Newsletter-Powered LinkedIn Growth Loop]] — eddie-shleyner, matched: repurpose-one-to-many

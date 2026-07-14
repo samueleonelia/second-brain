@@ -44,3 +44,4 @@ Pick the platform where your buyer already is, not the one with the largest audi
 - [[Master One Distribution Channel First]] — jakob-greenfeld, matched: channel-bet
 - [[Repost Your Winners Instead of Chasing New Hits]] — tommy-clark, matched: linkedin-organic-growth
 - [[Put the Hours Into Writing, Not Engagement Theater]] — tommy-clark, matched: linkedin-organic-growth
+- [[Micro-Lessons Sized to the LinkedIn Feed]] — eddie-shleyner, matched: linkedin-organic-growth

@@ -43,3 +43,5 @@ One good long-form piece is not one post, it is a quarry. Reverse-outline it so 
 - [[One Deep Dive Many Spokes Best Saved for Paid]] — aakash-gupta, matched: content-atomization
 - [[One Post, Many Pins]] — olivia-wickstrom, matched: content-atomization
 - [[Bootstrap a New Platform With Content That Already Won]] — katelyn-bourgoin, matched: repurpose-one-to-many
+- [[Micro-Lessons Sized to the LinkedIn Feed]] — eddie-shleyner, matched: content-atomization
+- [[The Newsletter-Powered LinkedIn Growth Loop]] — eddie-shleyner, matched: multi-platform-ecosystem/repurpose-one-to-many

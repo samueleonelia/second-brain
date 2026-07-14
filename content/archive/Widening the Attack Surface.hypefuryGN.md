@@ -41,3 +41,4 @@ One founder posting is a channel; a team posting is a network. Turn distribution
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: linkedin-organic-growth
 - [[Repost Your Winners Instead of Chasing New Hits]] — tommy-clark, matched: linkedin-organic-growth
 - [[Put the Hours Into Writing, Not Engagement Theater]] — tommy-clark, matched: linkedin-organic-growth
+- [[Micro-Lessons Sized to the LinkedIn Feed]] — eddie-shleyner, matched: linkedin-organic-growth

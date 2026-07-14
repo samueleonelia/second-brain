@@ -39,3 +39,4 @@ Keep a running list of your posts that overperformed, and mine it. When somethin
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: linkedin-organic-growth
 - [[Widening the Attack Surface]] — adam-robinson, matched: linkedin-organic-growth
 - [[Run LinkedIn Like an Ad Account Track Find the Hit Double Down]] — andy-mewborn, matched: repost-winners
+- [[Micro-Lessons Sized to the LinkedIn Feed]] — eddie-shleyner, matched: linkedin-organic-growth

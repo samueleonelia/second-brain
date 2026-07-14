@@ -38,3 +38,4 @@ Earn the right to sell a template by running the exercise live until the pattern
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: productize-the-process
 - [[Megaphone Productizes Cross-Creator Amplification]] — michael-houck, matched: productize-the-process
 - [[Two Followers Named Elon Musk and Paul Graham]] — jakob-greenfeld, matched: earned-authority
+- [[Documenting the Job He Didn't Know Yet]] — eddie-shleyner, matched: earned-authority/reps-before-product

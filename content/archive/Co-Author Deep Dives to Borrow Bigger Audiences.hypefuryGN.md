@@ -40,3 +40,4 @@ Borrow reach instead of grinding for it. Co-create genuinely useful work with cr
 - [[Outbound Comments on Big Creators]] — tom-alder, matched: borrow-big-audiences
 - [[Grow With a Same-Size Creator Peer Group]] — michael-houck, matched: borrow-big-audiences
 - [[Rent a Media Company's Growth Engine to Scale a Newsletter]] — tommy-clark, matched: borrow-big-audiences
+- [[Borrowing HubSpot's Audience to Seed His Own]] — eddie-shleyner, matched: borrow-big-audiences

@@ -42,3 +42,5 @@ You do not need a budget to find the first thousand users. Show up and add value
 - [[A Made-By Badge That Landed a Podcast Shoutout]] — jakob-greenfeld, matched: build-in-public
 - [[A 90-Minute Tool That Hit Number 2 on Product Hunt]] — jakob-greenfeld, matched: zero-budget-launch
 - [[Market the Problem More Than Anything Else]] — erica-schneider, matched: build-in-public
+- [[Owning the Runner-Lifter Overlap]] — alec-blenis, matched: build-in-public
+- [[Documenting the Job He Didn't Know Yet]] — eddie-shleyner, matched: build-in-public

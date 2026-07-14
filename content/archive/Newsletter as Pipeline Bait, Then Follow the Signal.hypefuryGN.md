@@ -44,3 +44,4 @@ Your top-of-funnel asset is a live experiment, not just a pipeline. Pick its top
 - [[A Gap in the Market Closed by Form Not Content]] — kyla-scanlon, matched: gap-in-market
 - [[Brand 30 Daily-Posting Challenge as a Distribution Engine]] — andy-mewborn, matched: audience-before-product
 - [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: gap-in-market
+- [[Owning the Runner-Lifter Overlap]] — alec-blenis, matched: gap-in-market

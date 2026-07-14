@@ -51,3 +51,6 @@ The moat here is effort other people won't spend. When a niche is saturated with
 - [[A Visual on Every Unit You Publish]] — tomas-pueyo, matched: format-differentiation
 - [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: differentiation
 - [[Swap How-To Content for How-I Content]] — tommy-clark, matched: differentiation
+- [[The Murph World Record as a Proof-of-Expertise Flag]] — alec-blenis, matched: differentiation
+- [[Evidence-Based Memes as a Contrarian Content Engine]] — alec-blenis, matched: differentiation
+- [[Micro-Lessons Sized to the LinkedIn Feed]] — eddie-shleyner, matched: format-differentiation

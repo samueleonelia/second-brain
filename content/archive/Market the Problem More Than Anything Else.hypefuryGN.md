@@ -43,3 +43,5 @@ Do not spread your content evenly across "value" and "sales." Rank it. Spend the
 - [[A Made-By Badge That Landed a Podcast Shoutout]] — jakob-greenfeld, matched: build-in-public
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: build-in-public
 - [[Zero Budget Launch Through Borrowed Communities]] — maja-voje, matched: build-in-public
+- [[Owning the Runner-Lifter Overlap]] — alec-blenis, matched: build-in-public
+- [[Documenting the Job He Didn't Know Yet]] — eddie-shleyner, matched: build-in-public

@@ -47,3 +47,5 @@ Do not treat a second platform as a fresh start that resets your batting average
 - [[Repost Your Winners Instead of Chasing New Hits]] — tommy-clark, matched: proven-content-first, linkedin-organic-growth
 - [[Put the Hours Into Writing, Not Engagement Theater]] — tommy-clark, matched: linkedin-organic-growth
 - [[Fifty Posts From One Long Piece]] — erica-schneider, matched: repurpose-one-to-many
+- [[Micro-Lessons Sized to the LinkedIn Feed]] — eddie-shleyner, matched: linkedin-organic-growth
+- [[The Newsletter-Powered LinkedIn Growth Loop]] — eddie-shleyner, matched: multi-platform-ecosystem/repurpose-one-to-many

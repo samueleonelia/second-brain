@@ -40,3 +40,5 @@ When a topic is crowded, the unclaimed territory is often the format, not the an
 - [[A Visual on Every Unit You Publish]] — tomas-pueyo, matched: format-differentiation
 - [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: gap-in-market
 - [[Spend 50 Hours on One Deep Dive Nobody Else Would]] — chenell-basilio, matched: format-differentiation
+- [[Owning the Runner-Lifter Overlap]] — alec-blenis, matched: gap-in-market
+- [[Micro-Lessons Sized to the LinkedIn Feed]] — eddie-shleyner, matched: format-differentiation

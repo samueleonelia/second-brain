@@ -36,3 +36,5 @@ Make one deep thing, then cut it into many platform-native pieces instead of cre
 - [[One Recording Into a Week of Content]] — duncan-rogoff, matched: repurpose-one-to-many, content-atomization
 - [[One Post, Many Pins]] — olivia-wickstrom, matched: repurpose-one-to-many, content-atomization
 - [[Fifty Posts From One Long Piece]] — erica-schneider, matched: content-atomization
+- [[Micro-Lessons Sized to the LinkedIn Feed]] — eddie-shleyner, matched: content-atomization
+- [[The Newsletter-Powered LinkedIn Growth Loop]] — eddie-shleyner, matched: repurpose-one-to-many
