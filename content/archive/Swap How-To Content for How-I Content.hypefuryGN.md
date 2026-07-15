@@ -33,6 +33,8 @@ Before publishing an instructional post, check whether it could have been writte
 ---
 
 ## Related (matched on mechanism)
+- [[The Therapist's Reframe Hook]] — abby-rawlinson, matched: differentiation
+- [[The Brand-Strategist's Unfair Start]] — abby-rawlinson, matched: personal-brand-moat
 - [[Research as the Moat Instead of Algorithm Hacks]] — katelyn-bourgoin, matched: differentiation
 - [[Make the Writer the Thing Readers Trust]] — geoff-sharpe, matched: personal-brand-moat
 - [[The Box Got Bigger but Remained a Box]] — jakob-greenfeld, matched: personal-brand-moat

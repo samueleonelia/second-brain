@@ -35,6 +35,8 @@ If your expertise is deep but hard for strangers to rank, find a benchmark your 
 
 ## Related (matched on mechanism)
 
+- [[The Therapist's Reframe Hook]] — abby-rawlinson, matched: differentiation
+- [[The Brand-Strategist's Unfair Start]] — abby-rawlinson, matched: personal-brand-moat
 - [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: differentiation
 - [[Research as the Moat Instead of Algorithm Hacks]] — katelyn-bourgoin, matched: differentiation
 - [[Spend 50 Hours on One Deep Dive Nobody Else Would]] — chenell-basilio, matched: differentiation

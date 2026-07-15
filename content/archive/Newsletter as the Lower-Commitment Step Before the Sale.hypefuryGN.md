@@ -37,6 +37,7 @@ Social reach is borrowed and can be revoked by an algorithm change you do not co
 ---
 
 ## Related (matched on mechanism)
+- [[The Comment-to-DM Funnel]] — abby-rawlinson, matched: owned-audience-funnel
 - [[Catch the Viral Spike in an Owned List]] — tomas-pueyo, matched: social-to-email-funnel
 - [[An Owned Newsletter Funnel That Cross-Sells the Whole Business]] — michael-houck, matched: owned-audience-funnel
 - [[Sub-2-Dollar Subscribers Once the Content Proved Its Legs]] — michael-houck, matched: social-to-email-funnel

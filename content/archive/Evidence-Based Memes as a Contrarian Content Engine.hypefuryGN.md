@@ -42,6 +42,7 @@ Contrarian plus credentialed plus funny is a reliable distribution formula in a 
 
 ## Related (matched on mechanism)
 
+- [[The Therapist's Reframe Hook]] — abby-rawlinson, matched: hook-engineering
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: hook-engineering
 - [[Every Post Assumes Nobody Knows You]] — adam-robinson, matched: hook-engineering
 - [[Tease Tomorrow's Issue the Day Before]] — chenell-basilio, matched: hook-engineering

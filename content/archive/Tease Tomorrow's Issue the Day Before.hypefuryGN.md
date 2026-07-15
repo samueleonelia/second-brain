@@ -37,6 +37,8 @@ Consistency plus a curiosity gap beats cleverness here. If you publish on a sche
 ---
 
 ## Related (matched on mechanism)
+- [[The Comment-to-DM Funnel]] — abby-rawlinson, matched: social-to-email-funnel
+- [[The Therapist's Reframe Hook]] — abby-rawlinson, matched: hook-engineering
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: hook-engineering, social-to-email-funnel
 - [[Engineer the Hook Separately From the Post]] — aakash-gupta, matched: hook-engineering
 - [[Free Post Hooks, Paid Post Pays Off]] — tomas-pueyo, matched: curiosity-gap

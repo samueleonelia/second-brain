@@ -39,6 +39,7 @@ If you have both an email list and a social account, do not treat them as two se
 ---
 
 ## Related (matched on mechanism)
+- [[The Comment-to-DM Funnel]] — abby-rawlinson, matched: owned-audience-funnel
 - [[A Website Built to Do One Thing]] — eddie-shleyner, matched: owned-audience-funnel/social-to-email-funnel
 - [[An Owned Newsletter Funnel That Cross-Sells the Whole Business]] — michael-houck, matched: owned-audience-funnel
 - [[Bootstrap a New Platform With Content That Already Won]] — katelyn-bourgoin, matched: multi-platform-ecosystem/repurpose-one-to-many

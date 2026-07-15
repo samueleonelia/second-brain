@@ -37,6 +37,7 @@ Paid ads are how most large newsletters actually scale, and a sub-$2 subscriber 
 ---
 
 ## Related (matched on mechanism)
+- [[The Comment-to-DM Funnel]] — abby-rawlinson, matched: social-to-email-funnel
 - [[Build the Free List Before Switching On Paid]] — matched: free-list-first
 - [[Newsletter as the Lower-Commitment Step Before the Sale]] — michael-houck, matched: social-to-email-funnel
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: social-to-email-funnel

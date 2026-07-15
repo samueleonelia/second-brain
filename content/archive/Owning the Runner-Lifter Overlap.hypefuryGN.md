@@ -39,6 +39,7 @@ When a niche is crowded, look for two big communities that dislike or distrust e
 
 ## Related (matched on mechanism)
 
+- [[The Bio That Works Like a Storefront]] — abby-rawlinson, matched: niche-selection
 - [[The Tulum House That Became Launch House on Organic Attention]] — michael-houck, matched: build-in-public
 - [[The Personal Monopoly Is the Niche]] — aakash-gupta, matched: gap-in-market
 - [[Content Market Fit Before Any Demo]] — adam-robinson, matched: build-in-public

@@ -32,6 +32,7 @@ Virality is a flood, not a faucet. Put an email capture inside the viral piece i
 ---
 
 ## Related (matched on mechanism)
+- [[The Comment-to-DM Funnel]] — abby-rawlinson, matched: social-to-email-funnel
 - [[The Lead Magnet as the LinkedIn Follower Engine]] — duncan-rogoff, matched: email-capture
 - [[Newsletter as the Lower-Commitment Step Before the Sale]] — michael-houck, matched: social-to-email-funnel
 - [[Sub-2-Dollar Subscribers Once the Content Proved Its Legs]] — michael-houck, matched: social-to-email-funnel

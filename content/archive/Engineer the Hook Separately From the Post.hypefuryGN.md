@@ -30,6 +30,7 @@ Budget for the hook as its own deliverable, because it controls whether the work
 ---
 
 ## Related (matched on mechanism)
+- [[The Therapist's Reframe Hook]] — abby-rawlinson, matched: hook-engineering
 - [[Every Post Assumes Nobody Knows You]] — adam-robinson, matched: hook-engineering
 - [[Cram Two to Four Hook Levers Into the First Lines]] — tommy-clark, matched: hook-engineering
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: hook-engineering

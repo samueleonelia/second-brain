@@ -39,6 +39,7 @@ Decide the one action every visitor should take, then audit your site for anythi
 ---
 
 ## Related (matched on mechanism)
+- [[The Comment-to-DM Funnel]] — abby-rawlinson, matched: owned-audience-funnel
 - [[An Owned Newsletter Funnel That Cross-Sells the Whole Business]] — michael-houck, matched: owned-audience-funnel
 - [[Catch the Viral Spike in an Owned List]] — tomas-pueyo, matched: social-to-email-funnel
 - [[Editing the Link in After the First Hour]] — tom-alder, matched: cta-placement

@@ -45,6 +45,7 @@ The moat here is effort other people won't spend. When a niche is saturated with
 ---
 
 ## Related (matched on mechanism)
+- [[The Therapist's Reframe Hook]] — abby-rawlinson, matched: differentiation
 - [[Research as the Moat Instead of Algorithm Hacks]] — katelyn-bourgoin, matched: research-backed-content, differentiation
 - [[The Edge of Reading the Papers Nobody Reads]] — tomas-pueyo, matched: primary-source-research, depth-as-edge
 - [[A Gap in the Market Closed by Form Not Content]] — kyla-scanlon, matched: format-differentiation

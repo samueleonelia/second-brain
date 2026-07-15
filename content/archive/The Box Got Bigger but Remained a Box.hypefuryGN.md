@@ -39,6 +39,8 @@ Premature niching trades your creativity, the one input everything depends on, f
 ---
 
 ## Related (matched on mechanism)
+- [[The Bio That Works Like a Storefront]] — abby-rawlinson, matched: niche-selection
+- [[The Brand-Strategist's Unfair Start]] — abby-rawlinson, matched: personal-brand-moat
 - [[Make the Writer the Thing Readers Trust]] — geoff-sharpe, matched: personal-brand-moat
 - [[The Niche Was on the Car Lot]] — kyla-scanlon, matched: niche-selection
 - [[Swap How-To Content for How-I Content]] — tommy-clark, matched: personal-brand-moat

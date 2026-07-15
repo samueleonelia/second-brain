@@ -37,6 +37,7 @@ Engagement hacks decay — the comment trick or the trendy format that works thi
 ---
 
 ## Related (matched on mechanism)
+- [[The Therapist's Reframe Hook]] — abby-rawlinson, matched: differentiation
 - [[Research Trending Topics With the Last 30 Days Skill]] — duncan-rogoff, matched: audience-research
 - [[Don't Build What Your Audience Says They Want]] — geoff-sharpe, matched: audience-research
 - [[Two Followers Named Elon Musk and Paul Graham]] — jakob-greenfeld, matched: anti-engagement-hacking

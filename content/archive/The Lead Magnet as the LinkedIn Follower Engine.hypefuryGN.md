@@ -39,6 +39,7 @@ A lead magnet converts a like-only audience into an engaged, reachable list. Gat
 ---
 
 ## Related (matched on mechanism)
+- [[The Comment-to-DM Funnel]] — abby-rawlinson, matched: lead-magnet
 - [[Catch the Viral Spike in an Owned List]] — tomas-pueyo, matched: email-capture
 - [[The Comment to Get It Posts and the 26 Hour Ban]] — maja-voje, matched: comment-gating
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: lead-magnet

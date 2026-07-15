@@ -37,6 +37,7 @@ A newsletter is worth more as a distribution channel for your whole business tha
 ---
 
 ## Related (matched on mechanism)
+- [[The Comment-to-DM Funnel]] — abby-rawlinson, matched: owned-audience-funnel
 - [[Newsletter as the Lower-Commitment Step Before the Sale]] — michael-houck, matched: owned-audience-funnel
 - [[Coaching Equals Half the Revenue]] — matched: revenue-beyond-subscriptions
 - [[A Website Built to Do One Thing]] — eddie-shleyner, matched: owned-audience-funnel

@@ -37,6 +37,7 @@ Your top-of-funnel asset is a live experiment, not just a pipeline. Pick its top
 ---
 
 ## Related (matched on mechanism)
+- [[The Brand-Strategist's Unfair Start]] — abby-rawlinson, matched: audience-before-product
 - [[Build the Free List Before Switching On Paid]] — aakash-gupta, matched: audience-before-product
 - [[Content Market Fit Before Any Demo]] — adam-robinson, matched: audience-before-product
 - [[The Nine-Month Daily Posting Streak]] — tom-alder, matched: audience-before-product

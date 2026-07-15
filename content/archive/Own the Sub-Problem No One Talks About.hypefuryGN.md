@@ -39,6 +39,8 @@ If the topic you want is crowded, do not try to out-shout it. Look one step to t
 ---
 
 ## Related (matched on mechanism)
+- [[The Therapist's Reframe Hook]] — abby-rawlinson, matched: differentiation
+- [[The Bio That Works Like a Storefront]] — abby-rawlinson, matched: niche-selection
 - [[The Personal Monopoly Is the Niche]] — aakash-gupta, matched: personal-monopoly
 - [[The Niche Was on the Car Lot]] — kyla-scanlon, matched: niche-selection
 - [[The Box Got Bigger but Remained a Box]] — jakob-greenfeld, matched: niche-selection

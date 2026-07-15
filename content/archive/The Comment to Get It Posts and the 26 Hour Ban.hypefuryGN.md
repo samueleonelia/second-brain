@@ -36,5 +36,6 @@ Comment-gated lead magnets buy reach, but only if the gated asset is excellent a
 
 ## Related (matched on mechanism)
 
+- [[The Comment-to-DM Funnel]] — abby-rawlinson, matched: lead-magnet
 - [[The Lead Magnet as the LinkedIn Follower Engine]] — duncan-rogoff, matched: comment-gating
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: lead-magnet

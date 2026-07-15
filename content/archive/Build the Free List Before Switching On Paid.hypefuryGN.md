@@ -30,6 +30,7 @@ Grow and learn on a free list before you charge, and treat the size of that list
 ---
 
 ## Related (matched on mechanism)
+- [[The Brand-Strategist's Unfair Start]] — abby-rawlinson, matched: audience-before-product
 - [[Newsletter as Pipeline Bait, Then Follow the Signal]] — katelyn-bourgoin, matched: audience-before-product
 - [[The Nine-Month Daily Posting Streak]] — tom-alder, matched: audience-before-product
 - [[Sub-2-Dollar Subscribers Once the Content Proved Its Legs]] — michael-houck, matched: free-list-first

@@ -40,6 +40,7 @@ The trap is measuring a top-of-funnel activity with a bottom-of-funnel ruler. A 
 ---
 
 ## Related (matched on mechanism)
+- [[The Brand-Strategist's Unfair Start]] — abby-rawlinson, matched: audience-before-product
 - [[Newsletter as Pipeline Bait, Then Follow the Signal]] — katelyn-bourgoin, matched: audience-before-product
 - [[The Nine-Month Daily Posting Streak]] — tom-alder, matched: audience-before-product
 - [[Build the Free List Before Switching On Paid]] — aakash-gupta, matched: audience-before-product
