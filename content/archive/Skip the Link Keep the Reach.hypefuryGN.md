@@ -29,6 +29,6 @@ Platforms tax outbound links with reduced reach, and most creators pay that tax 
 ---
 
 ## Related (matched on mechanism)
-
 - [[The 30 Percent Equity List Acquisition]] — adam-biddlecombe, matched: newsletter-growth
 - [[Rent a Media Company's Growth Engine to Scale a Newsletter]] — tommy-clark, matched: newsletter-growth
+- [[Rebuild for the Algorithm That Exists Now]] — abby-rawlinson, matched: algorithm-mechanics

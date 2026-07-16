@@ -35,3 +35,4 @@ Educational creators routinely lose to entertainment because they treat retentio
 
 ## Related (matched on mechanism)
 - [[Spend on Retention Because Growth Is the Easy Part]] — geoff-sharpe, matched: retention-engineering (both treat retention as something to deliberately engineer — Kyla builds attention hooks into the content, Geoff engineers onboarding and churn reduction over top-of-funnel growth)
+- [[Rebuild for the Algorithm That Exists Now]] — abby-rawlinson, matched: algorithm-mechanics

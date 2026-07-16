@@ -33,4 +33,4 @@ Consistency is not willpower; it is inventory. Keep far more drafts alive than y
 ---
 
 ## Related (matched on mechanism)
-- (none yet)
+- [[Three Post Types That Bring Enquiries]] — abby-rawlinson, matched: series-format

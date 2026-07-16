@@ -11,3 +11,6 @@ Abby Rawlinson (@therapywithabby) is a British integrative therapist who built a
 - [[The Bio That Works Like a Storefront]] -- niche with clinical specificity so the profile converts a visitor before they read a single post
 - [[The Therapist's Reframe Hook]] -- name the reader's assumed problem, then reframe it through her therapist lens into a deeper cause only she can explain
 - [[The Comment-to-DM Funnel]] -- end posts with "Comment [KEYWORD] and I'll send you X" to convert reach into DMs and an owned-audience contact
+- [[Three Post Types That Bring Enquiries]] -- rotate a fixed menu of three named post archetypes (Magic Mirror, Real Talk, North Star) so every post has a job
+- [[Grow Without Posting Every Day]] -- reached 200k+ by choosing a cadence she could sustain for years and pre-empting the "Visibility Response" that ends most streaks
+- [[Rebuild for the Algorithm That Exists Now]] -- when 2024 reach collapsed, rebuilt the method around current tactics plus durable fundamentals and hit ~5,000 new followers/month in 2025
