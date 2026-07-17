@@ -38,7 +38,6 @@ When a niche is crowded, look for two big communities that dislike or distrust e
 ---
 
 ## Related (matched on mechanism)
-
 - [[The Bio That Works Like a Storefront]] — abby-rawlinson, matched: niche-selection
 - [[The Tulum House That Became Launch House on Organic Attention]] — michael-houck, matched: build-in-public
 - [[The Personal Monopoly Is the Niche]] — aakash-gupta, matched: gap-in-market
@@ -53,3 +52,4 @@ When a niche is crowded, look for two big communities that dislike or distrust e
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: build-in-public
 - [[The Niche Was on the Car Lot]] — kyla-scanlon, matched: niche-selection
 - [[Documenting the Job He Didn't Know Yet]] — eddie-shleyner, matched: build-in-public
+- [[Rebrand Until the Pain Point Is Your Name]] — anna-ferguson, matched: niche-selection

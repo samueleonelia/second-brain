@@ -50,3 +50,4 @@ Consistency plus a curiosity gap beats cleverness here. If you publish on a sche
 - [[Evidence-Based Memes as a Contrarian Content Engine]] — alec-blenis, matched: hook-engineering
 - [[A Website Built to Do One Thing]] — eddie-shleyner, matched: social-to-email-funnel
 - [[The Newsletter-Powered LinkedIn Growth Loop]] — eddie-shleyner, matched: social-to-email-funnel
+- [[The Contrarian Reel That Broke Her Out]] — anna-ferguson, matched: hook-engineering

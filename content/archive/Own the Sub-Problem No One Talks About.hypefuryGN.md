@@ -52,3 +52,5 @@ If the topic you want is crowded, do not try to out-shout it. Look one step to t
 - [[The Murph World Record as a Proof-of-Expertise Flag]] — alec-blenis, matched: differentiation
 - [[Evidence-Based Memes as a Contrarian Content Engine]] — alec-blenis, matched: differentiation
 - [[Owning the Runner-Lifter Overlap]] — alec-blenis, matched: gap-in-market
+- [[Rebrand Until the Pain Point Is Your Name]] — anna-ferguson, matched: niche-selection
+- [[The Contrarian Reel That Broke Her Out]] — anna-ferguson, matched: differentiation

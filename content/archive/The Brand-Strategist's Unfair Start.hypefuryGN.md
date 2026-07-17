@@ -47,3 +47,4 @@ The biggest lever on a new account is applied before you post: who exactly it is
 - [[The Box Got Bigger but Remained a Box]] — jakob-greenfeld, matched: personal-brand-moat
 - [[The Murph World Record as a Proof-of-Expertise Flag]] — alec-blenis, matched: personal-brand-moat
 - [[The Nine-Month Daily Posting Streak]] — tom-alder, matched: audience-before-product
+- [[Rebrand Until the Pain Point Is Your Name]] — anna-ferguson, matched: positioning

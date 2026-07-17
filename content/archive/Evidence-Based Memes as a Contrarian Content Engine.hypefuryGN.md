@@ -41,7 +41,6 @@ Contrarian plus credentialed plus funny is a reliable distribution formula in a 
 ---
 
 ## Related (matched on mechanism)
-
 - [[The Therapist's Reframe Hook]] — abby-rawlinson, matched: hook-engineering
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: hook-engineering
 - [[Every Post Assumes Nobody Knows You]] — adam-robinson, matched: hook-engineering
@@ -53,3 +52,5 @@ Contrarian plus credentialed plus funny is a reliable distribution formula in a 
 - [[Swap How-To Content for How-I Content]] — tommy-clark, matched: differentiation
 - [[Cram Two to Four Hook Levers Into the First Lines]] — tommy-clark, matched: hook-engineering
 - [[The Murph World Record as a Proof-of-Expertise Flag]] — alec-blenis, matched: differentiation
+- [[The Contrarian Reel That Broke Her Out]] — anna-ferguson, matched: differentiation
+- [[Rebrand Until the Pain Point Is Your Name]] — anna-ferguson, matched: differentiation

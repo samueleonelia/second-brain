@@ -36,3 +36,4 @@ Reach is decided before lunch. Block the hour after you publish for live replies
 - [[The LinkedIn Lunch Break Engagement Loop]] — adam-biddlecombe, matched: first-hour-engagement
 - [[Befriend Five Creators to Clear the Initial Barrier]] — jakob-greenfeld, matched: first-hour-engagement, viral-threshold
 - [[Rebuild for the Algorithm That Exists Now]] — abby-rawlinson, matched: algorithm-window
+- [[The Contrarian Reel That Broke Her Out]] — anna-ferguson, matched: viral-threshold

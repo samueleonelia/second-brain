@@ -47,3 +47,5 @@ Engagement hacks decay — the comment trick or the trendy format that works thi
 - [[Spend 50 Hours on One Deep Dive Nobody Else Would]] — chenell-basilio, matched: research-backed-content, differentiation
 - [[The Murph World Record as a Proof-of-Expertise Flag]] — alec-blenis, matched: differentiation
 - [[Evidence-Based Memes as a Contrarian Content Engine]] — alec-blenis, matched: differentiation
+- [[The Contrarian Reel That Broke Her Out]] — anna-ferguson, matched: differentiation
+- [[Rebrand Until the Pain Point Is Your Name]] — anna-ferguson, matched: differentiation

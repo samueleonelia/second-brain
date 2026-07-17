@@ -46,3 +46,4 @@ You don't have to be the only one posting to grow. Turn your method into a time-
 - [[Content Market Fit Before Any Demo]] — adam-robinson, matched: audience-before-product
 - [[Newsletter as Pipeline Bait, Then Follow the Signal]] — katelyn-bourgoin, matched: audience-before-product
 - [[Grow Without Posting Every Day]] — abby-rawlinson, matched: daily-posting-streak
+- [[Five Reels a Day for Six Months]] — anna-ferguson, matched: daily-posting-streak

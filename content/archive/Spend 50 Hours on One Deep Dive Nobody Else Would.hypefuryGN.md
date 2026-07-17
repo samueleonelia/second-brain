@@ -55,3 +55,5 @@ The moat here is effort other people won't spend. When a niche is saturated with
 - [[The Murph World Record as a Proof-of-Expertise Flag]] — alec-blenis, matched: differentiation
 - [[Evidence-Based Memes as a Contrarian Content Engine]] — alec-blenis, matched: differentiation
 - [[Micro-Lessons Sized to the LinkedIn Feed]] — eddie-shleyner, matched: format-differentiation
+- [[The Contrarian Reel That Broke Her Out]] — anna-ferguson, matched: differentiation
+- [[Rebrand Until the Pain Point Is Your Name]] — anna-ferguson, matched: differentiation

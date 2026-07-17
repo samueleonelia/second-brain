@@ -47,3 +47,4 @@ Premature niching trades your creativity, the one input everything depends on, f
 - [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: niche-selection
 - [[The Murph World Record as a Proof-of-Expertise Flag]] — alec-blenis, matched: personal-brand-moat
 - [[Owning the Runner-Lifter Overlap]] — alec-blenis, matched: niche-selection
+- [[Rebrand Until the Pain Point Is Your Name]] — anna-ferguson, matched: niche-selection

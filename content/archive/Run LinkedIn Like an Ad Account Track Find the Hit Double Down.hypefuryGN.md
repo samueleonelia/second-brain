@@ -43,3 +43,4 @@ Stop guessing which posts work. Keep a running spreadsheet of every post and its
 - [[Bootstrap a New Platform With Content That Already Won]] — katelyn-bourgoin, matched: proven-content-first
 - [[The Paid-Subscriber Northstar]] — aakash-gupta, matched: analytics-driven-content
 - [[Audit Every Channel by Its Net Effect on the List]] — aakash-gupta, matched: analytics-driven-content
+- [[Five Reels a Day for Six Months]] — anna-ferguson, matched: relentless-experimentation

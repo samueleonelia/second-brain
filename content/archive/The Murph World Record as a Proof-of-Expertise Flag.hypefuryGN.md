@@ -34,7 +34,6 @@ If your expertise is deep but hard for strangers to rank, find a benchmark your 
 ---
 
 ## Related (matched on mechanism)
-
 - [[The Therapist's Reframe Hook]] — abby-rawlinson, matched: differentiation
 - [[The Brand-Strategist's Unfair Start]] — abby-rawlinson, matched: personal-brand-moat
 - [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: differentiation
@@ -44,3 +43,5 @@ If your expertise is deep but hard for strangers to rank, find a benchmark your 
 - [[Swap How-To Content for How-I Content]] — tommy-clark, matched: differentiation
 - [[Make the Writer the Thing Readers Trust]] — geoff-sharpe, matched: personal-brand-moat
 - [[Evidence-Based Memes as a Contrarian Content Engine]] — alec-blenis, matched: differentiation
+- [[The Contrarian Reel That Broke Her Out]] — anna-ferguson, matched: differentiation
+- [[Rebrand Until the Pain Point Is Your Name]] — anna-ferguson, matched: differentiation

@@ -38,3 +38,4 @@ The strongest niche selection data comes from jobs that put you face to face wit
 - [[The Box Got Bigger but Remained a Box]] — jakob-greenfeld, matched: niche-selection
 - [[Own the Sub-Problem No One Talks About]] — erica-schneider, matched: niche-selection
 - [[Owning the Runner-Lifter Overlap]] — alec-blenis, matched: niche-selection
+- [[Rebrand Until the Pain Point Is Your Name]] — anna-ferguson, matched: niche-selection

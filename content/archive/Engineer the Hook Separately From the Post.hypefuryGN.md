@@ -36,3 +36,4 @@ Budget for the hook as its own deliverable, because it controls whether the work
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: hook-engineering
 - [[Tease Tomorrow's Issue the Day Before]] — chenell-basilio, matched: hook-engineering
 - [[Evidence-Based Memes as a Contrarian Content Engine]] — alec-blenis, matched: hook-engineering
+- [[The Contrarian Reel That Broke Her Out]] — anna-ferguson, matched: hook-engineering

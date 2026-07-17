@@ -50,3 +50,5 @@ Don't open with the answer; open with the wrong assumption your reader already h
 - [[The Murph World Record as a Proof-of-Expertise Flag]] — alec-blenis, matched: differentiation
 - [[Write for the Buyer Not the Feed Conversation-Starter Hooks]] — andy-mewborn, matched: hook-engineering
 - [[Three Post Types That Bring Enquiries]] — abby-rawlinson, matched: content-format
+- [[The Contrarian Reel That Broke Her Out]] — anna-ferguson, matched: hook-engineering
+- [[Rebrand Until the Pain Point Is Your Name]] — anna-ferguson, matched: differentiation

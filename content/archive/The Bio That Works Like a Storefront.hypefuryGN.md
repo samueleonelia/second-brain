@@ -46,3 +46,4 @@ Optimize the profile before the posts. A visitor lands on your bio before they s
 - [[The Box Got Bigger but Remained a Box]] — jakob-greenfeld, matched: niche-selection
 - [[The Brand-Strategist's Unfair Start]] — abby-rawlinson, matched: positioning
 - [[The Niche Was on the Car Lot]] — kyla-scanlon, matched: niche-selection
+- [[Rebrand Until the Pain Point Is Your Name]] — anna-ferguson, matched: positioning

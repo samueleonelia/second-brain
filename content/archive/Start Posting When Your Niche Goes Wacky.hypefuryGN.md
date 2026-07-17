@@ -34,3 +34,4 @@ Cold starts are cheapest when the niche is in chaos, because chaos manufactures 
 - [[Brand the Profile Before You Tell Anyone]] — chenell-basilio, matched: cold-start
 - [[Borrowing HubSpot's Audience to Seed His Own]] — eddie-shleyner, matched: cold-start
 - [[Documenting the Job He Didn't Know Yet]] — eddie-shleyner, matched: cold-start
+- [[Five Reels a Day for Six Months]] — anna-ferguson, matched: cold-start

@@ -55,3 +55,4 @@ If you're early and you don't yet have expertise to broadcast, don't wait until 
 - [[Two Followers Named Elon Musk and Paul Graham]] — jakob-greenfeld, matched: earned-authority
 - [[Your First Build Becomes Both Content and Product]] — duncan-rogoff, matched: build-in-public
 - [[Zero Budget Launch Through Borrowed Communities]] — maja-voje, matched: build-in-public
+- [[Five Reels a Day for Six Months]] — anna-ferguson, matched: cold-start

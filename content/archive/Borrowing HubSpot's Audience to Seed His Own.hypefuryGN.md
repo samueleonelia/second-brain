@@ -47,3 +47,4 @@ The order matters: earn the placement first, prove the work, then insert the pat
 - [[Reply as the Only Cold-Start Channel]] — erica-schneider, matched: cold-start
 - [[Start Posting When Your Niche Goes Wacky]] — kyla-scanlon, matched: cold-start
 - [[The Nine-Month Daily Posting Streak]] — tom-alder, matched: cold-start
+- [[Five Reels a Day for Six Months]] — anna-ferguson, matched: cold-start
